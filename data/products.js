@@ -1,5 +1,5 @@
 window.PRODUCTS_DATA = {
-  "lastUpdated": "2026-10-16T17:13:12",
+  "lastUpdated": "2026-10-16T17:07:42",
   "category": "Płyty indukcyjne do zabudowy",
   "categoryUrl": "https://mediamarkt.pl/pl/category/plyty-indukcyjne-do-zabudowy-25591.html",
   "totalProducts": 288,
@@ -4851,6 +4851,45 @@ window.PRODUCTS_DATA = {
       ]
     },
     {
+      "id": "teka-125",
+      "name": "Płyta indukcyjna do zabudowy TEKA IBF 64 FXT BV Van Gogh Museum Ciemnoszare i czarne",
+      "model": "",
+      "brand": "TEKA",
+      "type": "induction",
+      "size": {
+        "widthCm": 60,
+        "rawWidth": 60,
+        "label": "60 cm (standard)",
+        "category": "60cm"
+      },
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_175982301",
+      "mediamarktPrice": 2249,
+      "ceneoPrice": null,
+      "priceChange": {
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 2249,
+        "previousDate": "2026-10-16"
+      },
+      "rating": null,
+      "reviewCount": 0,
+      "valueScore": 0.0,
+      "links": {
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-do-zabudowy-teka-ibf-64-fxt-bv-van-gogh-museum-ciemnoszare-i-czarne-1504667.html",
+        "ceneo": "",
+        "euro": "",
+        "komputronik": ""
+      },
+      "priceHistory": [
+        {
+          "date": "2026-10-16",
+          "mediamarkt": 2249,
+          "ceneo": null
+        }
+      ]
+    },
+    {
       "id": "electrolux-6342xok",
       "name": "Płyta grzejna ELECTROLUX Płyta ceramiczna ELECTROLUX EHF 6342XOK Czarny",
       "model": "6342XOK",
@@ -4890,7 +4929,7 @@ window.PRODUCTS_DATA = {
       ]
     },
     {
-      "id": "inna-126",
+      "id": "inna-127",
       "name": "Płyty kuchenne CANDY IdeaCID 30/1 Czarny",
       "model": "",
       "brand": "INNA",
@@ -5046,7 +5085,7 @@ window.PRODUCTS_DATA = {
       ]
     },
     {
-      "id": "amica-130",
+      "id": "amica-131",
       "name": "Płyta indukcyjna AMICA DI 6410 PPB Czarny",
       "model": "",
       "brand": "AMICA",
@@ -5670,7 +5709,7 @@ window.PRODUCTS_DATA = {
       ]
     },
     {
-      "id": "inna-146",
+      "id": "inna-147",
       "name": "Płyta indukcyjna CATA IB 073 Funkcja Timera 9 Trybów + Funkcja BOOSTER Czarny",
       "model": "",
       "brand": "INNA",
@@ -6762,7 +6801,7 @@ window.PRODUCTS_DATA = {
       ]
     },
     {
-      "id": "inna-174",
+      "id": "inna-175",
       "name": "Płyty kuchenne CLATRONIC EKI 3569 Czarny",
       "model": "",
       "brand": "INNA",
@@ -6840,7 +6879,7 @@ window.PRODUCTS_DATA = {
       ]
     },
     {
-      "id": "inna-176",
+      "id": "inna-177",
       "name": "Płyty kuchenne BOMANN PC-DKP 1211 Czarny, Stal nierdzewna",
       "model": "",
       "brand": "INNA",
@@ -6879,7 +6918,7 @@ window.PRODUCTS_DATA = {
       ]
     },
     {
-      "id": "inna-177",
+      "id": "inna-178",
       "name": "Płyty kuchenne CATA GIGA 600 BK Czarny",
       "model": "",
       "brand": "INNA",
@@ -7776,7 +7815,7 @@ window.PRODUCTS_DATA = {
       ]
     },
     {
-      "id": "teka-200",
+      "id": "teka-201",
       "name": "Płyty kuchenne TEKA IZC 93320 MST Czarny",
       "model": "",
       "brand": "TEKA",
@@ -8127,7 +8166,7 @@ window.PRODUCTS_DATA = {
       ]
     },
     {
-      "id": "teka-209",
+      "id": "teka-210",
       "name": "Płyta indukcyjna TEKA IZS 97630 MST BK",
       "model": "",
       "brand": "TEKA",
@@ -8166,7 +8205,7 @@ window.PRODUCTS_DATA = {
       ]
     },
     {
-      "id": "teka-210",
+      "id": "teka-211",
       "name": "Płyta indukcyjno-gazowa TEKA JZC 96324 ABC BK (E4)",
       "model": "",
       "brand": "TEKA",
@@ -8205,7 +8244,7 @@ window.PRODUCTS_DATA = {
       ]
     },
     {
-      "id": "teka-211",
+      "id": "teka-212",
       "name": "Płyta indukcyjno-gazowa TEKA JZC 64322 ABC BK (E4)",
       "model": "",
       "brand": "TEKA",
@@ -8322,7 +8361,7 @@ window.PRODUCTS_DATA = {
       ]
     },
     {
-      "id": "inna-214",
+      "id": "inna-215",
       "name": "Płyty kuchenne DELONGHI PIN 62 Czarny",
       "model": "",
       "brand": "INNA",
@@ -8400,7 +8439,7 @@ window.PRODUCTS_DATA = {
       ]
     },
     {
-      "id": "whirlpool-216",
+      "id": "whirlpool-217",
       "name": "Płyta indukcyjna z wyciągiem WHIRLPOOL WVH 92 K/1",
       "model": "",
       "brand": "WHIRLPOOL",
@@ -8634,7 +8673,7 @@ window.PRODUCTS_DATA = {
       ]
     },
     {
-      "id": "inna-222",
+      "id": "inna-223",
       "name": "Płyta indukcyjna do zabudowy ELICA Primis 302 BL Czarny",
       "model": "",
       "brand": "INNA",
@@ -8673,7 +8712,7 @@ window.PRODUCTS_DATA = {
       ]
     },
     {
-      "id": "inna-223",
+      "id": "inna-224",
       "name": "Indukcyjna do zabudowy ELICA ELICA Primis 603 BL Czarny",
       "model": "",
       "brand": "INNA",
@@ -8712,7 +8751,7 @@ window.PRODUCTS_DATA = {
       ]
     },
     {
-      "id": "inna-224",
+      "id": "inna-225",
       "name": "Płyta indukcyjna do zabudowy ELICA Primis 604 BL Czarny",
       "model": "",
       "brand": "INNA",
@@ -8751,7 +8790,7 @@ window.PRODUCTS_DATA = {
       ]
     },
     {
-      "id": "inna-225",
+      "id": "inna-226",
       "name": "Płyta indukcyjna do zabudowy ELICA ELICA Primis 604 Plus BL Czarny",
       "model": "",
       "brand": "INNA",
@@ -8790,7 +8829,7 @@ window.PRODUCTS_DATA = {
       ]
     },
     {
-      "id": "inna-226",
+      "id": "inna-227",
       "name": "Płyta indukcyjna do zabudowy ELICA Primis 804 Plus BL 78 cm Czarny",
       "model": "",
       "brand": "INNA",
@@ -8829,7 +8868,7 @@ window.PRODUCTS_DATA = {
       ]
     },
     {
-      "id": "inna-227",
+      "id": "inna-228",
       "name": "Płyta indukcyjna do zabudowy KOENIC KBH 3811 Czarny ze stalową ramką",
       "model": "",
       "brand": "INNA",
@@ -8868,7 +8907,7 @@ window.PRODUCTS_DATA = {
       ]
     },
     {
-      "id": "inna-228",
+      "id": "inna-229",
       "name": "Płyta indukcyjna do zabudowy KOENIC KBH 3611 Czarny ze stalową ramką",
       "model": "",
       "brand": "INNA",
@@ -9019,45 +9058,6 @@ window.PRODUCTS_DATA = {
         {
           "date": "2026-10-16",
           "mediamarkt": 1899,
-          "ceneo": null
-        }
-      ]
-    },
-    {
-      "id": "teka-232",
-      "name": "Płyta indukcyjna do zabudowy TEKA IBF 64 FXT BV Van Gogh Museum Ciemnoszare i czarne",
-      "model": "",
-      "brand": "TEKA",
-      "type": "induction",
-      "size": {
-        "widthCm": 60,
-        "rawWidth": 60,
-        "label": "60 cm (standard)",
-        "category": "60cm"
-      },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_175982301",
-      "mediamarktPrice": 2249,
-      "ceneoPrice": null,
-      "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
-        "previousPrice": 2249,
-        "previousDate": "2026-10-16"
-      },
-      "rating": null,
-      "reviewCount": 0,
-      "valueScore": 0.0,
-      "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-do-zabudowy-teka-ibf-64-fxt-bv-van-gogh-museum-ciemnoszare-i-czarne-1504667.html",
-        "ceneo": "",
-        "euro": "",
-        "komputronik": ""
-      },
-      "priceHistory": [
-        {
-          "date": "2026-10-16",
-          "mediamarkt": 2249,
           "ceneo": null
         }
       ]
