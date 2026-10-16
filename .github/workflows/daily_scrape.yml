@@ -1,0 +1,40 @@
+name: Codzienny Monitoring Cen Płyt Indukcyjnych
+
+on:
+  schedule:
+    # Codziennie o 05:00 UTC (07:00 rano czasu polskiego)
+    - cron: '0 5 * * *'
+  workflow_dispatch: # Przycisk "Run workflow" w przeglądarce do ręcznego odpalenia w dowolnym momencie
+
+permissions:
+  contents: write
+
+jobs:
+  scrape-and-update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Pobranie kodu repozytorium
+        uses: actions/checkout@v4
+
+      - name: Konfiguracja Pythona 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Instalacja wymaganych bibliotek
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Uruchomienie scrapera cen
+        run: |
+          python scraper.py
+
+      - name: Zapisanie i publikacja zaktualizowanej bazy cen
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/products.json data/products.js index.html
+          git diff --staged --quiet || (git commit -m "Aktualizacja cen i historii dzień po dniu" && git push)
