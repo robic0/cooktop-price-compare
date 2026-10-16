@@ -529,12 +529,11 @@ def run_scraper(max_pages: int = 25, max_ceneo_lookups: int = 35, full_ceneo: bo
         f.write('window.PRODUCTS_DATA = ' + json.dumps(output_data, ensure_ascii=False, indent=2) + ';\n')
 
     # Automatically keep index.html embedded data in sync
-    index_html_path = os.path.join(BASE_DIR, 'index.html')
+    index_html_path = os.path.join(SCRIPT_DIR, 'index.html')
     if os.path.exists(index_html_path):
         try:
             with open(index_html_path, 'r', encoding='utf-8') as hf:
                 html_txt = hf.read()
-            import re
             json_blob = json.dumps(output_data, ensure_ascii=False, indent=2)
             pattern = r'(<script id="embeddedData" type="application/json">)(.*?)(</script>)'
             if re.search(pattern, html_txt, re.DOTALL):
