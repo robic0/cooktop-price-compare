@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-10-16T17:07:42",
+  "lastUpdated": "2026-10-16T18:04:40",
   "category": "Płyty indukcyjne do zabudowy",
   "categoryUrl": "https://mediamarkt.pl/pl/category/plyty-indukcyjne-do-zabudowy-25591.html",
-  "totalProducts": 288,
+  "totalProducts": 293,
   "products": [
     {
       "id": "bosch-pie631hb1e",
@@ -1302,7 +1302,7 @@
       ]
     },
     {
-      "id": "inna-34",
+      "id": "inna-kbh36124",
       "name": "Płyta indukcyjna KOENIC KBH 3612-4 Czarna",
       "model": "KBH 3612-4",
       "brand": "INNA",
@@ -1614,7 +1614,7 @@
       ]
     },
     {
-      "id": "inna-42",
+      "id": "inna-cr6515",
       "name": "Płyta kuchenna CAMRY CR 6515 Czarny",
       "model": "CR 6515",
       "brand": "INNA",
@@ -1848,7 +1848,7 @@
       ]
     },
     {
-      "id": "electrolux-eis67483",
+      "id": "electrolux-fit60",
       "name": "Płyta indukcyjna ELECTROLUX EIS67483 800 Sense Boil+Fry SLIM-FIT 60 cm Czarna",
       "model": "FIT 60",
       "brand": "ELECTROLUX",
@@ -1861,7 +1861,7 @@
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_165091357",
       "mediamarktPrice": 3449,
-      "ceneoPrice": 3298.77,
+      "ceneoPrice": null,
       "priceChange": {
         "trend": "stable",
         "delta": 0,
@@ -1882,7 +1882,7 @@
         {
           "date": "2026-10-16",
           "mediamarkt": 3449,
-          "ceneo": 3298.77
+          "ceneo": null
         }
       ]
     },
@@ -2706,7 +2706,7 @@
       ]
     },
     {
-      "id": "whirlpool-70",
+      "id": "whirlpool-akt801",
       "name": "Płyty kuchenne WHIRLPOOL AKT 801/NE Czarny",
       "model": "AKT 801",
       "brand": "WHIRLPOOL",
@@ -3291,7 +3291,7 @@
       ]
     },
     {
-      "id": "inna-85",
+      "id": "inna-as750",
       "name": "Płyty kuchenne CATA AS 750 Czarny",
       "model": "AS 750",
       "brand": "INNA",
@@ -3759,7 +3759,7 @@
       ]
     },
     {
-      "id": "inna-97",
+      "id": "inna-pin72",
       "name": "Płyty kuchenne DELONGHI PIN 72 Czarny",
       "model": "PIN 72",
       "brand": "INNA",
@@ -3771,13 +3771,13 @@
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_150557214",
-      "mediamarktPrice": 1739,
+      "mediamarktPrice": 1747,
       "ceneoPrice": null,
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
-        "previousPrice": 1739,
+        "previousPrice": 1747,
         "previousDate": "2026-10-16"
       },
       "rating": 5.0,
@@ -3792,7 +3792,7 @@
       "priceHistory": [
         {
           "date": "2026-10-16",
-          "mediamarkt": 1739,
+          "mediamarkt": 1747,
           "ceneo": null
         }
       ]
@@ -3837,7 +3837,7 @@
       ]
     },
     {
-      "id": "teka-99",
+      "id": "teka-izc64630",
       "name": "PRODUKT PO EKSPOZYCJI - Płyta indukcyjna TEKA IZC 64630 SM MST",
       "model": "IZC 64630",
       "brand": "TEKA",
@@ -3876,7 +3876,7 @@
       ]
     },
     {
-      "id": "teka-100",
+      "id": "teka-ibc32000",
       "name": "PRODUKT PO EKSPOZYCJI - Płyta indukcyjna TEKA IBC 32000 TTC BK",
       "model": "IBC 32000",
       "brand": "TEKA",
@@ -3915,7 +3915,7 @@
       ]
     },
     {
-      "id": "teka-101",
+      "id": "teka-jzc95314",
       "name": "PRODUKT PO EKSPOZYCJI - Płyta indukcyjno-gazowa TEKA JZC 95314 AB BK",
       "model": "JZC 95314",
       "brand": "TEKA",
@@ -4260,7 +4260,7 @@
       "priceHistory": [
         {
           "date": "2026-10-16",
-          "mediamarkt": 739,
+          "mediamarkt": 714,
           "ceneo": null
         }
       ]
@@ -4851,9 +4851,9 @@
       ]
     },
     {
-      "id": "teka-125",
+      "id": "teka-ibf64",
       "name": "Płyta indukcyjna do zabudowy TEKA IBF 64 FXT BV Van Gogh Museum Ciemnoszare i czarne",
-      "model": "",
+      "model": "IBF 64",
       "brand": "TEKA",
       "type": "induction",
       "size": {
@@ -4877,9 +4877,9 @@
       "valueScore": 0.0,
       "links": {
         "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-do-zabudowy-teka-ibf-64-fxt-bv-van-gogh-museum-ciemnoszare-i-czarne-1504667.html",
-        "ceneo": "",
-        "euro": "",
-        "komputronik": ""
+        "ceneo": "https://www.ceneo.pl/;szukaj-IBF 64",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=IBF 64",
+        "komputronik": "https://www.komputronik.pl/search?query=IBF 64"
       },
       "priceHistory": [
         {
@@ -4890,7 +4890,7 @@
       ]
     },
     {
-      "id": "electrolux-6342xok",
+      "id": "electrolux-ehf6342xok",
       "name": "Płyta grzejna ELECTROLUX Płyta ceramiczna ELECTROLUX EHF 6342XOK Czarny",
       "model": "EHF 6342XOK",
       "brand": "ELECTROLUX",
@@ -5085,7 +5085,7 @@
       ]
     },
     {
-      "id": "amica-131",
+      "id": "amica-di6410",
       "name": "Płyta indukcyjna AMICA DI 6410 PPB Czarny",
       "model": "DI 6410",
       "brand": "AMICA",
@@ -5370,13 +5370,13 @@
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_168360051",
-      "mediamarktPrice": 3094,
+      "mediamarktPrice": 3099,
       "ceneoPrice": null,
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
-        "previousPrice": 3094,
+        "previousPrice": 3099,
         "previousDate": "2026-10-16"
       },
       "rating": null,
@@ -5391,7 +5391,7 @@
       "priceHistory": [
         {
           "date": "2026-10-16",
-          "mediamarkt": 3094,
+          "mediamarkt": 3099,
           "ceneo": null
         }
       ]
@@ -5553,7 +5553,7 @@
       ]
     },
     {
-      "id": "amica-pc6411pt",
+      "id": "amica-ds6423",
       "name": "Płyta kuchenna AMICA PC6411PT/DS 6423 B Czarne szkło",
       "model": "DS 6423",
       "brand": "AMICA",
@@ -5670,7 +5670,7 @@
       ]
     },
     {
-      "id": "inna-45im14",
+      "id": "inna-mpm45im14",
       "name": "Płyta grzejna MPM 45-IM-14 czarny",
       "model": "MPM 45-IM-14",
       "brand": "INNA",
@@ -5709,7 +5709,7 @@
       ]
     },
     {
-      "id": "inna-147",
+      "id": "inna-ib073",
       "name": "Płyta indukcyjna CATA IB 073 Funkcja Timera 9 Trybów + Funkcja BOOSTER Czarny",
       "model": "IB 073",
       "brand": "INNA",
@@ -5748,7 +5748,7 @@
       ]
     },
     {
-      "id": "inna-45im16",
+      "id": "inna-mpm45im16",
       "name": "Płyta indukcyjna MPM 45-IM-16/W Biały",
       "model": "MPM 45-IM-16",
       "brand": "INNA",
@@ -5826,7 +5826,7 @@
       ]
     },
     {
-      "id": "inna-60im13",
+      "id": "inna-mpm60im13",
       "name": "Płyta indukcyjna MPM 60-IM-13/N Czarny",
       "model": "MPM 60-IM-13",
       "brand": "INNA",
@@ -6099,7 +6099,7 @@
       ]
     },
     {
-      "id": "inna-14b",
+      "id": "inna-kih6444",
       "name": "Płyta indukcyjna KERNAU KIH 6444.1-4B Czarny",
       "model": "KIH 6444",
       "brand": "INNA",
@@ -6132,13 +6132,13 @@
       "priceHistory": [
         {
           "date": "2026-10-16",
-          "mediamarkt": 2299,
+          "mediamarkt": 1799,
           "ceneo": null
         }
       ]
     },
     {
-      "id": "inna-14b",
+      "id": "inna-kih6443",
       "name": "Płyta indukcyjna KERNAU KIH 6443.1-4B Czarny",
       "model": "KIH 6443",
       "brand": "INNA",
@@ -6171,13 +6171,13 @@
       "priceHistory": [
         {
           "date": "2026-10-16",
-          "mediamarkt": 2299,
+          "mediamarkt": 1649,
           "ceneo": null
         }
       ]
     },
     {
-      "id": "inna-64454b",
+      "id": "inna-kih64454b",
       "name": "Płyta indukcyjna KERNAU KIH 6445-4B Pure Black 4 Pola grzewcze Auto Stop Czarny",
       "model": "KIH 6445-4B",
       "brand": "INNA",
@@ -6216,7 +6216,7 @@
       ]
     },
     {
-      "id": "inna-86456b",
+      "id": "inna-kih86456b",
       "name": "Płyta indukcyjna KERNAU KIH 8645-6B Pure Black 6 Pól grzewczych Czarny",
       "model": "KIH 8645-6B",
       "brand": "INNA",
@@ -6255,7 +6255,7 @@
       ]
     },
     {
-      "id": "inna-84454b",
+      "id": "inna-kih84454b",
       "name": "Płyta indukcyjna KERNAU KIH 8445-4B Pure Black 4 Pola grzewcze Czarny",
       "model": "KIH 8445-4B",
       "brand": "INNA",
@@ -6294,7 +6294,7 @@
       ]
     },
     {
-      "id": "inna-15b",
+      "id": "inna-kih7534",
       "name": "Płyta indukcyjna KERNAU KIH 7534.1-5B BL Kitchen Connect Czarny",
       "model": "KIH 7534",
       "brand": "INNA",
@@ -6333,7 +6333,7 @@
       ]
     },
     {
-      "id": "inna-4343b",
+      "id": "inna-kih4343b",
       "name": "Płyta indukcyjna KERNAU KIH 434-3B Timer Booster Funkcja Bridge 45cm Czarny",
       "model": "KIH 434-3B",
       "brand": "INNA",
@@ -6372,7 +6372,7 @@
       ]
     },
     {
-      "id": "inna-32142b",
+      "id": "inna-kih32142b",
       "name": "Płyta indukcyjna KERNAU KIH 3214-2B Timer Booster Funkcja Bridge 29cm Czarny",
       "model": "KIH 3214-2B",
       "brand": "INNA",
@@ -6411,7 +6411,7 @@
       ]
     },
     {
-      "id": "inna-64314b",
+      "id": "inna-kih64314b",
       "name": "Płyta indukcyjna KERNAU KIH 6431-4B Flex Booster Timer Funkcja Bridge 59cm Czarny",
       "model": "KIH 6431-4B",
       "brand": "INNA",
@@ -6450,7 +6450,7 @@
       ]
     },
     {
-      "id": "inna-64284b",
+      "id": "inna-kih64284b",
       "name": "Płyta indukcyjna KERNAU KIH 6428-4B Timer Booster Funkcja Bridge Czarny",
       "model": "KIH 6428-4B",
       "brand": "INNA",
@@ -6489,7 +6489,7 @@
       ]
     },
     {
-      "id": "inna-64174b",
+      "id": "inna-kih64174b",
       "name": "Płyta indukcyjna KERNAU KIH 6417-4B Booster Timer Szkło ceramiczne 59cm Czarny",
       "model": "KIH 6417-4B",
       "brand": "INNA",
@@ -6528,7 +6528,7 @@
       ]
     },
     {
-      "id": "inna-64274b",
+      "id": "inna-kih64274b",
       "name": "Płyta indukcyjna KERNAU KIH 6427-4B Booster Timer Funkcja Bridge 59cm Czarny",
       "model": "KIH 6427-4B",
       "brand": "INNA",
@@ -6567,7 +6567,7 @@
       ]
     },
     {
-      "id": "inna-85465b",
+      "id": "inna-kih85465b",
       "name": "Płyta indukcyjna KERNAU KIH 8546-5B Timer Booster Funkcja Bridge 77cm Czarny",
       "model": "KIH 8546-5B",
       "brand": "INNA",
@@ -6606,7 +6606,7 @@
       ]
     },
     {
-      "id": "inna-64134b",
+      "id": "inna-kih64134b",
       "name": "Płyta indukcyjna KERNAU KIH 6413-4B BL Kitchen Connect Czarny",
       "model": "KIH 6413-4B",
       "brand": "INNA",
@@ -6645,7 +6645,7 @@
       ]
     },
     {
-      "id": "inna-14b",
+      "id": "inna-kih6413",
       "name": "Płyta indukcyjna KERNAU KIH 6413.1-4B BL Kitchen Connect Smart Connectivity Łączenie pól Booster Czarny",
       "model": "KIH 6413",
       "brand": "INNA",
@@ -6801,7 +6801,7 @@
       ]
     },
     {
-      "id": "inna-175",
+      "id": "inna-eki3569",
       "name": "Płyty kuchenne CLATRONIC EKI 3569 Czarny",
       "model": "EKI 3569",
       "brand": "INNA",
@@ -6879,7 +6879,7 @@
       ]
     },
     {
-      "id": "inna-177",
+      "id": "inna-dkp1211",
       "name": "Płyty kuchenne BOMANN PC-DKP 1211 Czarny, Stal nierdzewna",
       "model": "DKP 1211",
       "brand": "INNA",
@@ -6918,7 +6918,7 @@
       ]
     },
     {
-      "id": "inna-178",
+      "id": "inna-giga600",
       "name": "Płyty kuchenne CATA GIGA 600 BK Czarny",
       "model": "GIGA 600",
       "brand": "INNA",
@@ -7230,6 +7230,45 @@
       ]
     },
     {
+      "id": "inna-ccvg3bl574",
+      "name": "Płyta indukcyjna CORBERO CCVG3BL574 Czarny",
+      "model": "CCVG3BL574",
+      "brand": "INNA",
+      "type": "induction",
+      "size": {
+        "widthCm": 60,
+        "rawWidth": 60,
+        "label": "60 cm (standard)",
+        "category": "60cm"
+      },
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_185605429",
+      "mediamarktPrice": 647,
+      "ceneoPrice": null,
+      "priceChange": {
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 647,
+        "previousDate": "2026-10-16"
+      },
+      "rating": null,
+      "reviewCount": 0,
+      "valueScore": 0.0,
+      "links": {
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-corbero-ccvg3bl574-czarny-185604942.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-CCVG3BL574",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=CCVG3BL574",
+        "komputronik": "https://www.komputronik.pl/search?query=CCVG3BL574"
+      },
+      "priceHistory": [
+        {
+          "date": "2026-10-16",
+          "mediamarkt": 647,
+          "ceneo": null
+        }
+      ]
+    },
+    {
       "id": "electrolux-eiv63443ct",
       "name": "Płyta kuchenna ELECTROLUX EIV63443CT Czarny mat",
       "model": "EIV63443CT",
@@ -7503,7 +7542,7 @@
       ]
     },
     {
-      "id": "inna-65b60",
+      "id": "inna-ib65b60",
       "name": "Płyty kuchenne INDESIT IB 65B60 NE Czarny",
       "model": "IB 65B60",
       "brand": "INNA",
@@ -7659,7 +7698,46 @@
       ]
     },
     {
-      "id": "electrolux-6343fok",
+      "id": "bosch-pvw831hc1e",
+      "name": "Płyta indukcyjna BOSCH Serie 6 PVW831HC1E Czarny",
+      "model": "PVW831HC1E",
+      "brand": "BOSCH",
+      "type": "induction",
+      "size": {
+        "widthCm": 60,
+        "rawWidth": 60,
+        "label": "60 cm (standard)",
+        "category": "60cm"
+      },
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_139504404",
+      "mediamarktPrice": 3226,
+      "ceneoPrice": null,
+      "priceChange": {
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 3226,
+        "previousDate": "2026-10-16"
+      },
+      "rating": 4.84,
+      "reviewCount": 38,
+      "valueScore": 9.2,
+      "links": {
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyty-kuchenne-bosch-serie-6-pvw831hc1e-czarny-136008998.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-PVW831HC1E",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=PVW831HC1E",
+        "komputronik": "https://www.komputronik.pl/search?query=PVW831HC1E"
+      },
+      "priceHistory": [
+        {
+          "date": "2026-10-16",
+          "mediamarkt": 3226,
+          "ceneo": null
+        }
+      ]
+    },
+    {
+      "id": "electrolux-ehf6343fok",
       "name": "Płyta grzejna ELECTROLUX Płyta ceramiczna ELECTROLUX EHF 6343FOK Czarny",
       "model": "EHF 6343FOK",
       "brand": "ELECTROLUX",
@@ -7693,6 +7771,45 @@
         {
           "date": "2026-10-16",
           "mediamarkt": 1034,
+          "ceneo": null
+        }
+      ]
+    },
+    {
+      "id": "inna-hb2760b",
+      "name": "Płyty kuchenne HOTPOINT HB 2760B NE Czarny",
+      "model": "HB 2760B",
+      "brand": "INNA",
+      "type": "induction",
+      "size": {
+        "widthCm": 60,
+        "rawWidth": 60,
+        "label": "60 cm (standard)",
+        "category": "60cm"
+      },
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_137191903",
+      "mediamarktPrice": 1808,
+      "ceneoPrice": null,
+      "priceChange": {
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 1808,
+        "previousDate": "2026-10-16"
+      },
+      "rating": null,
+      "reviewCount": 0,
+      "valueScore": 0.0,
+      "links": {
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyty-kuchenne-hotpoint-hb-2760b-ne-czarny-137191899.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-HB 2760B",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=HB 2760B",
+        "komputronik": "https://www.komputronik.pl/search?query=HB 2760B"
+      },
+      "priceHistory": [
+        {
+          "date": "2026-10-16",
+          "mediamarkt": 1808,
           "ceneo": null
         }
       ]
@@ -7815,7 +7932,46 @@
       ]
     },
     {
-      "id": "teka-201",
+      "id": "bosch-pvs645hb1e",
+      "name": "Płyty kuchenne BOSCH Serie 6 PVS645HB1E Czarny",
+      "model": "PVS645HB1E",
+      "brand": "BOSCH",
+      "type": "induction",
+      "size": {
+        "widthCm": 60,
+        "rawWidth": 60,
+        "label": "60 cm (standard)",
+        "category": "60cm"
+      },
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_144446622",
+      "mediamarktPrice": 2178,
+      "ceneoPrice": null,
+      "priceChange": {
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 2178,
+        "previousDate": "2026-10-16"
+      },
+      "rating": 5.0,
+      "reviewCount": 1,
+      "valueScore": 2.3,
+      "links": {
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyty-kuchenne-bosch-serie-6-pvs645hb1e-czarny-139944804.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-PVS645HB1E",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=PVS645HB1E",
+        "komputronik": "https://www.komputronik.pl/search?query=PVS645HB1E"
+      },
+      "priceHistory": [
+        {
+          "date": "2026-10-16",
+          "mediamarkt": 2178,
+          "ceneo": null
+        }
+      ]
+    },
+    {
+      "id": "teka-izc93320",
       "name": "Płyty kuchenne TEKA IZC 93320 MST Czarny",
       "model": "IZC 93320",
       "brand": "TEKA",
@@ -7854,45 +8010,6 @@
       ]
     },
     {
-      "id": "whirlpool-b2977",
-      "name": "Płyty kuchenne WHIRLPOOL WL B2977 NE Czarny",
-      "model": "B2977",
-      "brand": "WHIRLPOOL",
-      "type": "induction",
-      "size": {
-        "widthCm": 60,
-        "rawWidth": 60,
-        "label": "60 cm (standard)",
-        "category": "60cm"
-      },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_179187596",
-      "mediamarktPrice": 2013,
-      "ceneoPrice": null,
-      "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
-        "previousPrice": 2013,
-        "previousDate": "2026-10-16"
-      },
-      "rating": 4.13,
-      "reviewCount": 15,
-      "valueScore": 7.9,
-      "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyty-kuchenne-whirlpool-wl-b2977-ne-czarny-144357503.html",
-        "ceneo": "https://www.ceneo.pl/;szukaj-B2977",
-        "euro": "https://www.euro.com.pl/search.bhtml?keyword=B2977",
-        "komputronik": "https://www.komputronik.pl/search?query=B2977"
-      },
-      "priceHistory": [
-        {
-          "date": "2026-10-16",
-          "mediamarkt": 2013,
-          "ceneo": null
-        }
-      ]
-    },
-    {
       "id": "electrolux-cil63443",
       "name": "Płyty kuchenne ELECTROLUX CIL63443 Czarny",
       "model": "CIL63443",
@@ -7905,13 +8022,13 @@
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_150557236",
-      "mediamarktPrice": 1794,
+      "mediamarktPrice": 1792,
       "ceneoPrice": null,
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
-        "previousPrice": 1794,
+        "previousPrice": 1792,
         "previousDate": "2026-10-16"
       },
       "rating": 4.77,
@@ -7926,7 +8043,7 @@
       "priceHistory": [
         {
           "date": "2026-10-16",
-          "mediamarkt": 1794,
+          "mediamarkt": 1792,
           "ceneo": null
         }
       ]
@@ -8166,7 +8283,7 @@
       ]
     },
     {
-      "id": "teka-210",
+      "id": "teka-izs97630",
       "name": "Płyta indukcyjna TEKA IZS 97630 MST BK",
       "model": "IZS 97630",
       "brand": "TEKA",
@@ -8205,7 +8322,7 @@
       ]
     },
     {
-      "id": "teka-211",
+      "id": "teka-jzc96324",
       "name": "Płyta indukcyjno-gazowa TEKA JZC 96324 ABC BK (E4)",
       "model": "JZC 96324",
       "brand": "TEKA",
@@ -8244,7 +8361,7 @@
       ]
     },
     {
-      "id": "teka-212",
+      "id": "teka-jzc64322",
       "name": "Płyta indukcyjno-gazowa TEKA JZC 64322 ABC BK (E4)",
       "model": "JZC 64322",
       "brand": "TEKA",
@@ -8361,7 +8478,7 @@
       ]
     },
     {
-      "id": "inna-215",
+      "id": "inna-pin62",
       "name": "Płyty kuchenne DELONGHI PIN 62 Czarny",
       "model": "PIN 62",
       "brand": "INNA",
@@ -8439,7 +8556,7 @@
       ]
     },
     {
-      "id": "whirlpool-217",
+      "id": "whirlpool-wvh92",
       "name": "Płyta indukcyjna z wyciągiem WHIRLPOOL WVH 92 K/1",
       "model": "WVH 92",
       "brand": "WHIRLPOOL",
@@ -8634,7 +8751,7 @@
       ]
     },
     {
-      "id": "inna-htps64mctt",
+      "id": "inna-hob500",
       "name": "Płyta indukcyjna HOOVER H-HOB 500 INDUCTION HTPS64MCTT/1 Czarny",
       "model": "HOB 500",
       "brand": "INNA",
@@ -8673,7 +8790,7 @@
       ]
     },
     {
-      "id": "inna-223",
+      "id": "inna-226",
       "name": "Płyta indukcyjna do zabudowy ELICA Primis 302 BL Czarny",
       "model": "",
       "brand": "INNA",
@@ -8712,7 +8829,7 @@
       ]
     },
     {
-      "id": "inna-224",
+      "id": "inna-227",
       "name": "Indukcyjna do zabudowy ELICA ELICA Primis 603 BL Czarny",
       "model": "",
       "brand": "INNA",
@@ -8751,7 +8868,7 @@
       ]
     },
     {
-      "id": "inna-225",
+      "id": "inna-228",
       "name": "Płyta indukcyjna do zabudowy ELICA Primis 604 BL Czarny",
       "model": "",
       "brand": "INNA",
@@ -8790,7 +8907,7 @@
       ]
     },
     {
-      "id": "inna-226",
+      "id": "inna-229",
       "name": "Płyta indukcyjna do zabudowy ELICA ELICA Primis 604 Plus BL Czarny",
       "model": "",
       "brand": "INNA",
@@ -8829,7 +8946,7 @@
       ]
     },
     {
-      "id": "inna-227",
+      "id": "inna-bl78",
       "name": "Płyta indukcyjna do zabudowy ELICA Primis 804 Plus BL 78 cm Czarny",
       "model": "BL 78",
       "brand": "INNA",
@@ -8868,7 +8985,7 @@
       ]
     },
     {
-      "id": "inna-228",
+      "id": "inna-kbh3811",
       "name": "Płyta indukcyjna do zabudowy KOENIC KBH 3811 Czarny ze stalową ramką",
       "model": "KBH 3811",
       "brand": "INNA",
@@ -8907,7 +9024,7 @@
       ]
     },
     {
-      "id": "inna-229",
+      "id": "inna-kbh3611",
       "name": "Płyta indukcyjna do zabudowy KOENIC KBH 3611 Czarny ze stalową ramką",
       "model": "KBH 3611",
       "brand": "INNA",
@@ -9063,46 +9180,7 @@
       ]
     },
     {
-      "id": "teka-232",
-      "name": "Płyta indukcyjna do zabudowy TEKA IBF 64 FXT BV Van Gogh Museum Ciemnoszare i czarne",
-      "model": "IBF 64",
-      "brand": "TEKA",
-      "type": "induction",
-      "size": {
-        "widthCm": 60,
-        "rawWidth": 60,
-        "label": "60 cm (standard)",
-        "category": "60cm"
-      },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_175982301",
-      "mediamarktPrice": 2249,
-      "ceneoPrice": null,
-      "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
-        "previousPrice": 2249,
-        "previousDate": "2026-10-16"
-      },
-      "rating": null,
-      "reviewCount": 0,
-      "valueScore": 0.0,
-      "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-do-zabudowy-teka-ibf-64-fxt-bv-van-gogh-museum-ciemnoszare-i-czarne-1504667.html",
-        "ceneo": "https://www.ceneo.pl/;szukaj-IBF 64",
-        "euro": "https://www.euro.com.pl/search.bhtml?keyword=IBF 64",
-        "komputronik": "https://www.komputronik.pl/search?query=IBF 64"
-      },
-      "priceHistory": [
-        {
-          "date": "2026-10-16",
-          "mediamarkt": 2249,
-          "ceneo": null
-        }
-      ]
-    },
-    {
-      "id": "teka-64g1",
+      "id": "teka-ibf64g1",
       "name": "Płyta indukcyjna do zabudowy TEKA IBF 64-G1 MSP BM Infinity G1 Czarny",
       "model": "IBF 64-G1",
       "brand": "TEKA",
@@ -9141,7 +9219,7 @@
       ]
     },
     {
-      "id": "inna-234",
+      "id": "inna-pin32",
       "name": "Płyty kuchenne DELONGHI PIN 32 Czarny",
       "model": "PIN 32",
       "brand": "INNA",
@@ -9336,7 +9414,7 @@
       ]
     },
     {
-      "id": "inna-239",
+      "id": "inna-km8484",
       "name": "Płyta indukcyjna do zabudowy MIELE KM 8484 FL Czarny",
       "model": "KM 8484",
       "brand": "INNA",
@@ -9375,7 +9453,7 @@
       ]
     },
     {
-      "id": "inna-240",
+      "id": "inna-km8565",
       "name": "Płyta indukcyjna do zabudowy MIELE KM 8565 FL MATTFINISH Czarny",
       "model": "KM 8565",
       "brand": "INNA",
@@ -9414,7 +9492,7 @@
       ]
     },
     {
-      "id": "inna-241",
+      "id": "inna-km8462",
       "name": "Płyta indukcyjna do zabudowy MIELE KM 8462 FL Czarny",
       "model": "KM 8462",
       "brand": "INNA",
@@ -9453,7 +9531,7 @@
       ]
     },
     {
-      "id": "inna-242",
+      "id": "inna-km8463",
       "name": "Płyta indukcyjna do zabudowy MIELE KM 8463 FX Czarny",
       "model": "KM 8463",
       "brand": "INNA",
@@ -9492,7 +9570,7 @@
       ]
     },
     {
-      "id": "teka-95g1",
+      "id": "teka-ibf95g1",
       "name": "Płyta indukcyjna TEKA IBF 95-G1 MST BM 90cm Czarny",
       "model": "IBF 95-G1",
       "brand": "TEKA",
@@ -9531,7 +9609,7 @@
       ]
     },
     {
-      "id": "teka-244",
+      "id": "teka-ibf95",
       "name": "Płyta indukcyjna TEKA Van Gogh IBF 95 FST VG 90cm Czarno-szary",
       "model": "IBF 95",
       "brand": "TEKA",
@@ -9570,7 +9648,7 @@
       ]
     },
     {
-      "id": "teka-245",
+      "id": "teka-ibf64210",
       "name": "Płyta indukcyjna TEKA IBF 64210 SSM BK 60cm Czarny",
       "model": "IBF 64210",
       "brand": "TEKA",
@@ -9609,7 +9687,7 @@
       ]
     },
     {
-      "id": "teka-246",
+      "id": "teka-ibc64110",
       "name": "Płyta indukcyjna TEKA IBC 64110 SSM BK 60cm Czarny",
       "model": "IBC 64110",
       "brand": "TEKA",
@@ -9648,7 +9726,7 @@
       ]
     },
     {
-      "id": "teka-247",
+      "id": "teka-ibf66215",
       "name": "Płyta indukcyjna do zabudowy TEKA IBF 66215 SSM BK Czarny",
       "model": "IBF 66215",
       "brand": "TEKA",
@@ -9777,18 +9855,18 @@
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_179187006",
-      "mediamarktPrice": 1121,
+      "mediamarktPrice": 1179,
       "ceneoPrice": null,
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
-        "previousPrice": 1121,
+        "previousPrice": 1179,
         "previousDate": "2026-10-16"
       },
       "rating": 5.0,
       "reviewCount": 1,
-      "valueScore": 4.5,
+      "valueScore": 4.2,
       "links": {
         "mediamarkt": "https://mediamarkt.pl/pl/product/_plyty-kuchenne-candy-ci64248ctt-czarny-150961809.html",
         "ceneo": "https://www.ceneo.pl/;szukaj-CI64248CTT",
@@ -9798,13 +9876,13 @@
       "priceHistory": [
         {
           "date": "2026-10-16",
-          "mediamarkt": 1121,
+          "mediamarkt": 1179,
           "ceneo": null
         }
       ]
     },
     {
-      "id": "inna-251",
+      "id": "inna-sli906",
       "name": "Płyty kuchenne DELONGHI SLI 906 Czarny",
       "model": "SLI 906",
       "brand": "INNA",
@@ -9921,7 +9999,7 @@
       ]
     },
     {
-      "id": "inna-htps64mcttwifi",
+      "id": "inna-hob500",
       "name": "Płyty kuchenne HOOVER H-HOB 500 INDUCTION HTPS64MCTTWIFI Czarny",
       "model": "HOB 500",
       "brand": "INNA",
@@ -9960,7 +10038,7 @@
       ]
     },
     {
-      "id": "inna-255",
+      "id": "inna-nsi741",
       "name": "Płyty kuchenne DELONGHI NSI 741 Czarny",
       "model": "NSI 741",
       "brand": "INNA",
@@ -10194,7 +10272,7 @@
       ]
     },
     {
-      "id": "inna-261",
+      "id": "inna-264",
       "name": "Płyta indukcyjna ELICA NikolaTesla Velvet BL/A/60 Czarny",
       "model": "",
       "brand": "INNA",
@@ -10389,6 +10467,45 @@
       ]
     },
     {
+      "id": "inna-rifs744sca",
+      "name": "Płyta indukcyjna ROSIERES RIFS744SCA Czarny",
+      "model": "RIFS744SCA",
+      "brand": "INNA",
+      "type": "induction",
+      "size": {
+        "widthCm": 60,
+        "rawWidth": 60,
+        "label": "60 cm (standard)",
+        "category": "60cm"
+      },
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_156662668",
+      "mediamarktPrice": 2349,
+      "ceneoPrice": null,
+      "priceChange": {
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 2349,
+        "previousDate": "2026-10-16"
+      },
+      "rating": null,
+      "reviewCount": 0,
+      "valueScore": 0.0,
+      "links": {
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyty-kuchenne-rosieres-rifs744sca-czarny-156662663.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-RIFS744SCA",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=RIFS744SCA",
+        "komputronik": "https://www.komputronik.pl/search?query=RIFS744SCA"
+      },
+      "priceHistory": [
+        {
+          "date": "2026-10-16",
+          "mediamarkt": 2349,
+          "ceneo": null
+        }
+      ]
+    },
+    {
       "id": "inna-cis64mcttwifi1",
       "name": "Płyta indukcyjna CANDY CIS64MCTTWIFI1 Czarny",
       "model": "CIS64MCTTWIFI1",
@@ -10545,7 +10662,7 @@
       ]
     },
     {
-      "id": "inna-270",
+      "id": "inna-274",
       "name": "Płyta indukcyjna MELCHIONI FAMILY 118360034 Czarny",
       "model": "",
       "brand": "INNA",
@@ -10584,7 +10701,7 @@
       ]
     },
     {
-      "id": "inna-271",
+      "id": "inna-sli754",
       "name": "Płyta kuchenna DELONGHI SLI 754 Czarny",
       "model": "SLI 754",
       "brand": "INNA",
@@ -10623,7 +10740,7 @@
       ]
     },
     {
-      "id": "inna-272",
+      "id": "inna-pib62",
       "name": "Płyta kuchenna DELONGHI PIB 62 Biały",
       "model": "PIB 62",
       "brand": "INNA",
@@ -10974,7 +11091,46 @@
       ]
     },
     {
-      "id": "teka-281",
+      "id": "whirlpool-q1160",
+      "name": "Płyty kuchenne WHIRLPOOL WS Q1160 NE Czarny",
+      "model": "Q1160",
+      "brand": "WHIRLPOOL",
+      "type": "induction",
+      "size": {
+        "widthCm": 60,
+        "rawWidth": 60,
+        "label": "60 cm (standard)",
+        "category": "60cm"
+      },
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_146304843",
+      "mediamarktPrice": 1615,
+      "ceneoPrice": null,
+      "priceChange": {
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 1615,
+        "previousDate": "2026-10-16"
+      },
+      "rating": null,
+      "reviewCount": 0,
+      "valueScore": 0.0,
+      "links": {
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyty-kuchenne-whirlpool-ws-q1160-ne-czarny-94570474.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-Q1160",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=Q1160",
+        "komputronik": "https://www.komputronik.pl/search?query=Q1160"
+      },
+      "priceHistory": [
+        {
+          "date": "2026-10-16",
+          "mediamarkt": 1615,
+          "ceneo": null
+        }
+      ]
+    },
+    {
+      "id": "teka-izf88700",
       "name": "Płyta indukcyjna TEKA IZF 88700 MST Czarny",
       "model": "IZF 88700",
       "brand": "TEKA",
