@@ -42,7 +42,15 @@ def extract_brand(name: str) -> str:
 def extract_model(name: str, brand: str) -> str:
     """Extract model number from product name using regex patterns."""
     name_clean = " ".join(name.split())
-    # 1. Try word directly following brand name
+
+    # 1. Check two-token models like 'AKT 801', 'CR 6515', 'IZC 64630', 'KBH 3612-4'
+    m_two = re.search(r'\b([A-Z]{2,5}\s+\d{2,5}(?:[A-Za-z0-9/-]+)?)\b', name_clean)
+    if m_two:
+        cand = m_two.group(1).split('/')[0].strip().upper()
+        if not re.search(r'\b(CM|MM|W|V|HZ)\b', cand) and cand not in {'PRODUKT PO', 'DUAL HEAT', 'SPRZEDAZ OUTLET'}:
+            return cand
+
+    # 2. Try word directly following brand name (e.g. SAMSUNG NZ64B5045FK/U2 -> NZ64B5045FK)
     if brand and brand != "INNA":
         m = re.search(r'\b' + re.escape(brand) + r'\b\s+([A-Za-z0-9/-]+)', name_clean, re.IGNORECASE)
         if m:
@@ -54,7 +62,7 @@ def extract_model(name: str, brand: str) -> str:
                     not re.match(r'^\d+(V|W|HZ|CM)$', candidate)):
                 return candidate
 
-    # 2. General search for model token containing letters and digits
+    # 3. General search for model token containing letters and digits
     excluded = {'HOB2HOOD', 'POWERBOOST', 'SLIMFIT', 'SLIM-FIT', 'FLEXICOOK', 'HOME-CONNECT'}
     tokens = re.findall(r'\b[A-Za-z0-9-]{4,18}\b', name_clean)
     for t in tokens:
