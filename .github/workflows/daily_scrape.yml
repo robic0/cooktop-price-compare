@@ -1,40 +1,79 @@
-name: Codzienny Monitoring Cen Płyt Indukcyjnych
+name: Codzienny Monitoring Cen Plyt Indukcyjnych
 
 on:
   schedule:
-    # Codziennie o 05:00 UTC (07:00 rano czasu polskiego)
-    - cron: '0 5 * * *'
-  workflow_dispatch: # Przycisk "Run workflow" w przeglądarce do ręcznego odpalenia w dowolnym momencie
+    # GitHub drops/delays scheduled runs at busy times (especially the top of the hour),
+    # so use off-peak minutes and a few redundant triggers. The "skip if already done
+    # today" step below makes the extra runs cheap no-ops.
+    - cron: '17 4 * * *'   # ~06:17 CEST / 05:17 CET
+    - cron: '43 6 * * *'   # fallback
+    - cron: '23 9 * * *'   # fallback
+  workflow_dispatch:
+    inputs:
+      force:
+        description: 'Run even if prices were already collected today'
+        type: boolean
+        default: true
 
 permissions:
   contents: write
 
+# Never run two scrapes at once (avoids push conflicts)
+concurrency:
+  group: daily-scrape
+  cancel-in-progress: false
+
 jobs:
   scrape-and-update:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
 
     steps:
-      - name: Pobranie kodu repozytorium
-        uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v5
 
-      - name: Konfiguracja Pythona 3.12
-        uses: actions/setup-python@v5
+      - name: Skip if already scraped today
+        id: guard
+        env:
+          EVENT: ${{ github.event_name }}
+          FORCE: ${{ inputs.force }}
+        run: |
+          today=$(date -u +%F)
+          last=$(python3 -c "import json;print(json.load(open('data/products.json',encoding='utf-8')).get('lastUpdated','')[:10])" 2>/dev/null || echo "")
+          echo "today=$today last=$last event=$EVENT force=$FORCE"
+          if [ "$EVENT" = "schedule" ] && [ "$last" = "$today" ]; then
+            echo "run=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Set up Python 3.12
+        if: steps.guard.outputs.run == 'true'
+        uses: actions/setup-python@v6
         with:
           python-version: '3.12'
           cache: 'pip'
 
-      - name: Instalacja wymaganych bibliotek
+      - name: Install dependencies
+        if: steps.guard.outputs.run == 'true'
         run: |
-          pip install --upgrade pip
+          python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Uruchomienie scrapera cen
-        run: |
-          python scraper.py
+      - name: Run price scraper
+        if: steps.guard.outputs.run == 'true'
+        run: python scraper.py
 
-      - name: Zapisanie i publikacja zaktualizowanej bazy cen
+      - name: Commit and push updated data
+        if: steps.guard.outputs.run == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/products.json data/products.js index.html
-          git diff --staged --quiet || (git commit -m "Aktualizacja cen i historii dzień po dniu" && git push)
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Aktualizacja cen i historii dzień po dniu"
+            git pull --rebase -X theirs origin "${GITHUB_REF_NAME}" || true
+            git push
+          fi

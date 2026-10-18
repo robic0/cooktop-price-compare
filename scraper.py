@@ -315,7 +315,9 @@ def fetch_ceneo_price(model: str, session: requests.Session) -> float | int | No
 
             if price and price > 100:
                 all_prices.append(price)
-                if model.lower() in prod_name.lower():
+                name_l = prod_name.lower()
+                is_bundle = name_l.strip().startswith('zestaw') or ' + ' in name_l
+                if model.lower() in name_l and not is_bundle:
                     matching_prices.append(price)
 
         # 2. Check offer cards (in case Ceneo redirected directly to product page)
@@ -354,7 +356,7 @@ def fetch_ceneo_price(model: str, session: requests.Session) -> float | int | No
 
         # 4. Regex fallback on page text
         if not all_prices:
-            for match in re.findall(r'(\d[\d\s]*)(?:,\d{2})?\s*(?:zł|PLN)', response.text, re.IGNORECASE):
+            for match in re.findall(r'(\d[\d\s]*)(?:,\d{2})?\s*(?:zĹ‚|PLN)', response.text, re.IGNORECASE):
                 clean = re.sub(r'[^\d]', '', match)
                 if clean:
                     p = float(clean)
@@ -383,7 +385,7 @@ def load_existing_data(file_path: str) -> dict:
     return {"lastUpdated": "", "products": []}
 
 
-def run_scraper(max_pages: int = 25, max_ceneo_lookups: int = 35, full_ceneo: bool = False):
+def run_scraper(max_pages: int = 25, max_ceneo_lookups: int = 300, full_ceneo: bool = False):
     """Main execution function for scraping and saving comparison data."""
     session = requests.Session()
     today_date = datetime.now().strftime("%Y-%m-%d")
@@ -398,7 +400,15 @@ def run_scraper(max_pages: int = 25, max_ceneo_lookups: int = 35, full_ceneo: bo
     existing_data = load_existing_data(OUTPUT_FILE)
     existing_products_map = {p.get('id'): p for p in existing_data.get('products', []) if p.get('id')}
 
+    # Safety guard: a blocked/changed page must not wipe out the existing dataset
+    prev_count = len(existing_products_map)
+    if not raw_products or (prev_count and len(raw_products) < prev_count * 0.5):
+        print(f"ERROR: scraped only {len(raw_products)} products (previously {prev_count}). "
+              "Aborting without overwriting data.")
+        sys.exit(1)
+
     processed_products = []
+    seen_ids = set()
     ceneo_queries_count = 0
 
     for idx, prod_raw in enumerate(raw_products):
@@ -412,6 +422,12 @@ def run_scraper(max_pages: int = 25, max_ceneo_lookups: int = 35, full_ceneo: bo
         clean_model = re.sub(r'[^a-zA-Z0-9]', '', model).lower() if model else ""
         clean_brand = re.sub(r'[^a-zA-Z0-9]', '', brand).lower()
         prod_id = f"{clean_brand}-{clean_model}" if clean_model else f"{clean_brand}-{idx+1}"
+        if prod_id in seen_ids:
+            n = 2
+            while f"{prod_id}-{n}" in seen_ids:
+                n += 1
+            prod_id = f"{prod_id}-{n}"
+        seen_ids.add(prod_id)
 
         prod_url = prod_raw.get('url', '')
         if prod_url and not prod_url.startswith('http'):
@@ -446,20 +462,24 @@ def run_scraper(max_pages: int = 25, max_ceneo_lookups: int = 35, full_ceneo: bo
                 except (ValueError, TypeError):
                     review_count = 0
 
-        # Ceneo Price Lookup with caching
+        # Ceneo Price Lookup: refreshed at most once per day (previous value kept if lookup fails)
         existing = existing_products_map.get(prod_id)
         ceneo_price = None
+        ceneo_checked = None
 
-        if existing and existing.get('ceneoPrice'):
-            ceneo_price = existing['ceneoPrice']
+        if existing:
+            ceneo_price = existing.get('ceneoPrice') or None
+            ceneo_checked = existing.get('ceneoCheckedAt')
 
-        should_query = (ceneo_price is None or full_ceneo) and (ceneo_queries_count < max_ceneo_lookups)
+        needs_check = full_ceneo or ceneo_price is None or ceneo_checked != today_date
+        should_query = needs_check and (ceneo_queries_count < max_ceneo_lookups)
         if should_query and model:
             ceneo_queries_count += 1
             print(f"[{idx + 1}/{len(raw_products)}] Querying Ceneo ({ceneo_queries_count}/{max_ceneo_lookups}): {brand} {model}...")
             fetched = fetch_ceneo_price(model, session)
             if fetched is not None:
                 ceneo_price = fetched
+            ceneo_checked = today_date
             time.sleep(1.2)
 
         links = {
@@ -512,6 +532,7 @@ def run_scraper(max_pages: int = 25, max_ceneo_lookups: int = 35, full_ceneo: bo
             "image": image_url,
             "mediamarktPrice": mediamarkt_price,
             "ceneoPrice": ceneo_price,
+            "ceneoCheckedAt": ceneo_checked,
             "priceChange": price_change,
             "rating": rating,
             "reviewCount": review_count,
@@ -524,7 +545,7 @@ def run_scraper(max_pages: int = 25, max_ceneo_lookups: int = 35, full_ceneo: bo
     os.makedirs(DATA_DIR, exist_ok=True)
     output_data = {
         "lastUpdated": current_timestamp,
-        "category": "Płyty indukcyjne do zabudowy",
+        "category": "PĹ‚yty indukcyjne do zabudowy",
         "categoryUrl": MEDIAMARKT_INDUCTION_URL,
         "totalProducts": len(processed_products),
         "products": processed_products
@@ -594,7 +615,7 @@ def run_scraper(max_pages: int = 25, max_ceneo_lookups: int = 35, full_ceneo: bo
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description="Scrape MediaMarkt induction cooktops")
     parser.add_argument("--max-pages", type=int, default=25, help="Max pages to crawl")
-    parser.add_argument("--max-ceneo", type=int, default=35, help="Max Ceneo lookups")
+    parser.add_argument("--max-ceneo", type=int, default=300, help="Max Ceneo lookups")
     parser.add_argument("--full-ceneo", action="store_true", help="Look up Ceneo for all items")
     args = parser.parse_args()
 
