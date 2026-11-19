@@ -1,5 +1,5 @@
 window.PRODUCTS_DATA = {
-  "lastUpdated": "2026-11-18T13:02:01",
+  "lastUpdated": "2026-11-19T13:05:53",
   "category": "PĹ‚yty indukcyjne do zabudowy",
   "categoryUrl": "https://mediamarkt.pl/pl/category/plyty-indukcyjne-do-zabudowy-25591.html",
   "totalProducts": 300,
@@ -19,17 +19,17 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_133331573",
       "mediamarktPrice": 1199,
       "ceneoPrice": 952.56,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "up",
-        "delta": 300,
-        "percent": 33.4,
-        "previousPrice": 899,
-        "previousDate": "2026-11-17"
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 1199,
+        "previousDate": "2026-11-18"
       },
-      "rating": 4.75,
-      "reviewCount": 44,
-      "valueScore": 26.3,
+      "rating": 4.76,
+      "reviewCount": 46,
+      "valueScore": 26.9,
       "links": {
         "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-bosch-pue611bb5e-serie-4-1464997.html",
         "ceneo": "https://www.ceneo.pl/;szukaj-PUE611BB5E",
@@ -206,6 +206,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1199,
           "ceneo": 952.56
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1199,
+          "ceneo": 952.56
         }
       ]
     },
@@ -222,19 +227,19 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_133329400",
-      "mediamarktPrice": 1689,
+      "mediamarktPrice": 1549,
       "ceneoPrice": 1389,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
+        "trend": "down",
+        "delta": -140,
+        "percent": -8.3,
         "previousPrice": 1689,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": 4.92,
       "reviewCount": 499,
-      "valueScore": 65.1,
+      "valueScore": 71.0,
       "links": {
         "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-electrolux-eiv634-slim-fit-1378419.html",
         "ceneo": "https://www.ceneo.pl/;szukaj-EIV634",
@@ -416,6 +421,111 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1689,
           "ceneo": 1389
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1549,
+          "ceneo": 1389
+        }
+      ]
+    },
+    {
+      "id": "beko-b300",
+      "name": "Płyta indukcyjna BEKO b300 HII64400SMT Booster Timer 59cm",
+      "model": "B300",
+      "brand": "BEKO",
+      "type": "induction",
+      "size": {
+        "widthCm": 60,
+        "rawWidth": 59,
+        "label": "60 cm (standard)",
+        "category": "60cm"
+      },
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_188395215",
+      "mediamarktPrice": 899,
+      "ceneoPrice": null,
+      "ceneoCheckedAt": "2026-11-19",
+      "priceChange": {
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 899,
+        "previousDate": "2026-11-18"
+      },
+      "rating": null,
+      "reviewCount": 0,
+      "valueScore": 0.0,
+      "links": {
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-beko-hii64400smt-1470948.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-B300",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=B300",
+        "komputronik": "https://www.komputronik.pl/search?query=B300"
+      },
+      "priceHistory": [
+        {
+          "date": "2026-11-07",
+          "mediamarkt": 899,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-08",
+          "mediamarkt": 899,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-09",
+          "mediamarkt": 899,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-10",
+          "mediamarkt": 899,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-11",
+          "mediamarkt": 899,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-12",
+          "mediamarkt": 899,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-13",
+          "mediamarkt": 899,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-14",
+          "mediamarkt": 899,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-15",
+          "mediamarkt": 899,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-16",
+          "mediamarkt": 899,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-17",
+          "mediamarkt": 899,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-18",
+          "mediamarkt": 899,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 899,
+          "ceneo": null
         }
       ]
     },
@@ -434,17 +544,17 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_159615406",
       "mediamarktPrice": 1799,
       "ceneoPrice": 1912.5,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 1799,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": 4.88,
-      "reviewCount": 135,
-      "valueScore": 31.5,
+      "reviewCount": 136,
+      "valueScore": 31.6,
       "links": {
         "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-whirlpool-wl-s2760-bfs-1425574.html",
         "ceneo": "https://www.ceneo.pl/;szukaj-WLS2760BFS",
@@ -621,14 +731,19 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1799,
           "ceneo": 1912.5
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1799,
+          "ceneo": 1912.5
         }
       ]
     },
     {
-      "id": "beko-b300",
-      "name": "Płyta indukcyjna BEKO b300 HII64400SMT Booster Timer 59cm",
-      "model": "B300",
-      "brand": "BEKO",
+      "id": "whirlpool-wfs4160bf",
+      "name": "Płyta indukcyjna WHIRLPOOL W Collection WFS4160BF FlexiSide ChefControl 59cm",
+      "model": "WFS4160BF",
+      "brand": "WHIRLPOOL",
       "type": "induction",
       "size": {
         "widthCm": 60,
@@ -636,86 +751,201 @@ window.PRODUCTS_DATA = {
         "label": "60 cm (standard)",
         "category": "60cm"
       },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_188395215",
-      "mediamarktPrice": 899,
-      "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_147374491",
+      "mediamarktPrice": 999,
+      "ceneoPrice": 1599,
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
-        "previousPrice": 899,
-        "previousDate": "2026-11-17"
+        "previousPrice": 999,
+        "previousDate": "2026-11-18"
       },
-      "rating": null,
-      "reviewCount": 0,
-      "valueScore": 0.0,
+      "rating": 4.96,
+      "reviewCount": 314,
+      "valueScore": 88.0,
       "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-beko-hii64400smt-1470948.html",
-        "ceneo": "https://www.ceneo.pl/;szukaj-B300",
-        "euro": "https://www.euro.com.pl/search.bhtml?keyword=B300",
-        "komputronik": "https://www.komputronik.pl/search?query=B300"
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-whirlpool-wf-s4160-bf-1425573.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-WFS4160BF",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=WFS4160BF",
+        "komputronik": "https://www.komputronik.pl/search?query=WFS4160BF"
       },
       "priceHistory": [
         {
+          "date": "2026-10-16",
+          "mediamarkt": 1599,
+          "ceneo": 1599
+        },
+        {
+          "date": "2026-10-17",
+          "mediamarkt": 1599,
+          "ceneo": 1599
+        },
+        {
+          "date": "2026-10-18",
+          "mediamarkt": 1599,
+          "ceneo": 1599
+        },
+        {
+          "date": "2026-10-19",
+          "mediamarkt": 1599,
+          "ceneo": 1599
+        },
+        {
+          "date": "2026-10-20",
+          "mediamarkt": 1599,
+          "ceneo": 1599
+        },
+        {
+          "date": "2026-10-21",
+          "mediamarkt": 1599,
+          "ceneo": 1599
+        },
+        {
+          "date": "2026-10-22",
+          "mediamarkt": 1599,
+          "ceneo": 1599
+        },
+        {
+          "date": "2026-10-23",
+          "mediamarkt": 1599,
+          "ceneo": 1599
+        },
+        {
+          "date": "2026-10-24",
+          "mediamarkt": 1599,
+          "ceneo": 1599
+        },
+        {
+          "date": "2026-10-25",
+          "mediamarkt": 1599,
+          "ceneo": 1599
+        },
+        {
+          "date": "2026-10-26",
+          "mediamarkt": 1599,
+          "ceneo": 1599
+        },
+        {
+          "date": "2026-10-27",
+          "mediamarkt": 1599,
+          "ceneo": 1599
+        },
+        {
+          "date": "2026-10-28",
+          "mediamarkt": 1599,
+          "ceneo": 1599
+        },
+        {
+          "date": "2026-10-29",
+          "mediamarkt": 1599,
+          "ceneo": 1599
+        },
+        {
+          "date": "2026-10-30",
+          "mediamarkt": 1599,
+          "ceneo": 1599
+        },
+        {
+          "date": "2026-10-31",
+          "mediamarkt": 1599,
+          "ceneo": 1599
+        },
+        {
+          "date": "2026-11-01",
+          "mediamarkt": 1599,
+          "ceneo": 1599
+        },
+        {
+          "date": "2026-11-02",
+          "mediamarkt": 1599,
+          "ceneo": 1599
+        },
+        {
+          "date": "2026-11-03",
+          "mediamarkt": 1599,
+          "ceneo": 1599
+        },
+        {
+          "date": "2026-11-04",
+          "mediamarkt": 1599,
+          "ceneo": 1599
+        },
+        {
+          "date": "2026-11-05",
+          "mediamarkt": 1599,
+          "ceneo": 1599
+        },
+        {
+          "date": "2026-11-06",
+          "mediamarkt": 1599,
+          "ceneo": 1599
+        },
+        {
           "date": "2026-11-07",
-          "mediamarkt": 899,
-          "ceneo": null
+          "mediamarkt": 1599,
+          "ceneo": 1599
         },
         {
           "date": "2026-11-08",
-          "mediamarkt": 899,
-          "ceneo": null
+          "mediamarkt": 1599,
+          "ceneo": 1599
         },
         {
           "date": "2026-11-09",
-          "mediamarkt": 899,
-          "ceneo": null
+          "mediamarkt": 1599,
+          "ceneo": 1599
         },
         {
           "date": "2026-11-10",
-          "mediamarkt": 899,
-          "ceneo": null
+          "mediamarkt": 1599,
+          "ceneo": 1599
         },
         {
           "date": "2026-11-11",
-          "mediamarkt": 899,
-          "ceneo": null
+          "mediamarkt": 1599,
+          "ceneo": 1599
         },
         {
           "date": "2026-11-12",
-          "mediamarkt": 899,
-          "ceneo": null
+          "mediamarkt": 1599,
+          "ceneo": 1599
         },
         {
           "date": "2026-11-13",
-          "mediamarkt": 899,
-          "ceneo": null
+          "mediamarkt": 1599,
+          "ceneo": 1599
         },
         {
           "date": "2026-11-14",
-          "mediamarkt": 899,
-          "ceneo": null
+          "mediamarkt": 1599,
+          "ceneo": 1599
         },
         {
           "date": "2026-11-15",
-          "mediamarkt": 899,
-          "ceneo": null
+          "mediamarkt": 1599,
+          "ceneo": 1599
         },
         {
           "date": "2026-11-16",
-          "mediamarkt": 899,
-          "ceneo": null
+          "mediamarkt": 1599,
+          "ceneo": 1599
         },
         {
           "date": "2026-11-17",
-          "mediamarkt": 899,
-          "ceneo": null
+          "mediamarkt": 1599,
+          "ceneo": 1599
         },
         {
           "date": "2026-11-18",
-          "mediamarkt": 899,
-          "ceneo": null
+          "mediamarkt": 999,
+          "ceneo": 1599
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 999,
+          "ceneo": 1599
         }
       ]
     },
@@ -734,13 +964,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_180683654",
       "mediamarktPrice": 2499,
       "ceneoPrice": 2299,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 2499,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": 5.0,
       "reviewCount": 7,
@@ -921,13 +1151,18 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 2499,
           "ceneo": 2299
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 2499,
+          "ceneo": 2299
         }
       ]
     },
     {
-      "id": "electrolux-lir60433",
-      "name": "Płyta Indukcyjna ELECTROLUX LIR60433 Hob2Hood PowerBoost Stop&Go Czarny",
-      "model": "LIR60433",
+      "id": "electrolux-eit60433ct",
+      "name": "Płyta indukcyjna do zabudowy ELECTROLUX EIT60433CT 500 SaphirMatt® SE Czarny mat",
+      "model": "EIT60433CT",
       "brand": "ELECTROLUX",
       "type": "induction",
       "size": {
@@ -936,196 +1171,56 @@ window.PRODUCTS_DATA = {
         "label": "60 cm (standard)",
         "category": "60cm"
       },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_133329734",
-      "mediamarktPrice": 1259,
-      "ceneoPrice": 1184,
-      "ceneoCheckedAt": "2026-11-18",
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_180717273",
+      "mediamarktPrice": 1869,
+      "ceneoPrice": null,
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "up",
-        "delta": 60,
-        "percent": 5.0,
-        "previousPrice": 1199,
-        "previousDate": "2026-11-17"
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 1869,
+        "previousDate": "2026-11-18"
       },
-      "rating": 4.91,
-      "reviewCount": 33,
-      "valueScore": 22.4,
+      "rating": 4.89,
+      "reviewCount": 9,
+      "valueScore": 7.8,
       "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-electrolux-lir60433-1393481.html",
-        "ceneo": "https://www.ceneo.pl/;szukaj-LIR60433",
-        "euro": "https://www.euro.com.pl/search.bhtml?keyword=LIR60433",
-        "komputronik": "https://www.komputronik.pl/search?query=LIR60433"
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-do-zabudowy-electrolux-eit60433ct-500-saphirmattr-se-czarny-mat-1506534.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-EIT60433CT",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=EIT60433CT",
+        "komputronik": "https://www.komputronik.pl/search?query=EIT60433CT"
       },
       "priceHistory": [
         {
-          "date": "2026-10-16",
-          "mediamarkt": 1184,
-          "ceneo": 1184
-        },
-        {
-          "date": "2026-10-17",
-          "mediamarkt": 1184,
-          "ceneo": 1184
-        },
-        {
-          "date": "2026-10-18",
-          "mediamarkt": 1184,
-          "ceneo": 1184
-        },
-        {
-          "date": "2026-10-19",
-          "mediamarkt": 1184,
-          "ceneo": 1184
-        },
-        {
-          "date": "2026-10-20",
-          "mediamarkt": 1184,
-          "ceneo": 1184
-        },
-        {
-          "date": "2026-10-21",
-          "mediamarkt": 1189,
-          "ceneo": 1184
-        },
-        {
-          "date": "2026-10-22",
-          "mediamarkt": 1189,
-          "ceneo": 1184
-        },
-        {
-          "date": "2026-10-23",
-          "mediamarkt": 1184,
-          "ceneo": 1184
-        },
-        {
-          "date": "2026-10-24",
-          "mediamarkt": 1189,
-          "ceneo": 1184
-        },
-        {
-          "date": "2026-10-25",
-          "mediamarkt": 1184,
-          "ceneo": 1184
-        },
-        {
-          "date": "2026-10-26",
-          "mediamarkt": 1189,
-          "ceneo": 1184
-        },
-        {
-          "date": "2026-10-27",
-          "mediamarkt": 1189,
-          "ceneo": 1184
-        },
-        {
-          "date": "2026-10-28",
-          "mediamarkt": 1189,
-          "ceneo": 1184
-        },
-        {
-          "date": "2026-10-29",
-          "mediamarkt": 1184,
-          "ceneo": 1184
-        },
-        {
-          "date": "2026-10-30",
-          "mediamarkt": 1184,
-          "ceneo": 1184
-        },
-        {
-          "date": "2026-10-31",
-          "mediamarkt": 1189,
-          "ceneo": 1184
-        },
-        {
-          "date": "2026-11-01",
-          "mediamarkt": 1259,
-          "ceneo": 1184
-        },
-        {
-          "date": "2026-11-02",
-          "mediamarkt": 1199,
-          "ceneo": 1184
-        },
-        {
-          "date": "2026-11-03",
-          "mediamarkt": 1199,
-          "ceneo": 1184
-        },
-        {
-          "date": "2026-11-04",
-          "mediamarkt": 1199,
-          "ceneo": 1184
-        },
-        {
-          "date": "2026-11-05",
-          "mediamarkt": 1199,
-          "ceneo": 1184
-        },
-        {
-          "date": "2026-11-06",
-          "mediamarkt": 1199,
-          "ceneo": 1184
-        },
-        {
-          "date": "2026-11-07",
-          "mediamarkt": 1199,
-          "ceneo": 1184
-        },
-        {
-          "date": "2026-11-08",
-          "mediamarkt": 1199,
-          "ceneo": 1184
-        },
-        {
-          "date": "2026-11-09",
-          "mediamarkt": 1199,
-          "ceneo": 1184
-        },
-        {
-          "date": "2026-11-10",
-          "mediamarkt": 1199,
-          "ceneo": 1184
-        },
-        {
-          "date": "2026-11-11",
-          "mediamarkt": 1199,
-          "ceneo": 1184
-        },
-        {
-          "date": "2026-11-12",
-          "mediamarkt": 1199,
-          "ceneo": 1184
-        },
-        {
-          "date": "2026-11-13",
-          "mediamarkt": 1199,
-          "ceneo": 1184
-        },
-        {
           "date": "2026-11-14",
-          "mediamarkt": 1199,
-          "ceneo": 1184
+          "mediamarkt": 1869,
+          "ceneo": null
         },
         {
           "date": "2026-11-15",
-          "mediamarkt": 1249,
-          "ceneo": 1184
+          "mediamarkt": 1869,
+          "ceneo": null
         },
         {
           "date": "2026-11-16",
-          "mediamarkt": 1199,
-          "ceneo": 1184
+          "mediamarkt": 1869,
+          "ceneo": null
         },
         {
           "date": "2026-11-17",
-          "mediamarkt": 1199,
-          "ceneo": 1184
+          "mediamarkt": 1869,
+          "ceneo": null
         },
         {
           "date": "2026-11-18",
-          "mediamarkt": 1259,
-          "ceneo": 1184
+          "mediamarkt": 1869,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1869,
+          "ceneo": null
         }
       ]
     },
@@ -1144,13 +1239,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_170966692",
       "mediamarktPrice": 1799,
       "ceneoPrice": 1499,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 1799,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -1331,66 +1426,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1799,
           "ceneo": 1499
-        }
-      ]
-    },
-    {
-      "id": "electrolux-eit60433ct",
-      "name": "Płyta indukcyjna do zabudowy ELECTROLUX EIT60433CT 500 SaphirMatt® SE Czarny mat",
-      "model": "EIT60433CT",
-      "brand": "ELECTROLUX",
-      "type": "induction",
-      "size": {
-        "widthCm": 60,
-        "rawWidth": 60,
-        "label": "60 cm (standard)",
-        "category": "60cm"
-      },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_180717273",
-      "mediamarktPrice": 1869,
-      "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
-      "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
-        "previousPrice": 1869,
-        "previousDate": "2026-11-17"
-      },
-      "rating": 4.89,
-      "reviewCount": 9,
-      "valueScore": 7.8,
-      "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-do-zabudowy-electrolux-eit60433ct-500-saphirmattr-se-czarny-mat-1506534.html",
-        "ceneo": "https://www.ceneo.pl/;szukaj-EIT60433CT",
-        "euro": "https://www.euro.com.pl/search.bhtml?keyword=EIT60433CT",
-        "komputronik": "https://www.komputronik.pl/search?query=EIT60433CT"
-      },
-      "priceHistory": [
-        {
-          "date": "2026-11-14",
-          "mediamarkt": 1869,
-          "ceneo": null
         },
         {
-          "date": "2026-11-15",
-          "mediamarkt": 1869,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-16",
-          "mediamarkt": 1869,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-17",
-          "mediamarkt": 1869,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-18",
-          "mediamarkt": 1869,
-          "ceneo": null
+          "date": "2026-11-19",
+          "mediamarkt": 1799,
+          "ceneo": 1499
         }
       ]
     },
@@ -1409,17 +1449,17 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_146652727",
       "mediamarktPrice": 1899,
       "ceneoPrice": 1794,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 1899,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": 5.0,
-      "reviewCount": 43,
-      "valueScore": 17.3,
+      "reviewCount": 44,
+      "valueScore": 17.5,
       "links": {
         "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-bosch-pvs61rhb1e-serie-6-czarny-60cm-1486831.html",
         "ceneo": "https://www.ceneo.pl/;szukaj-PVS61RHB1E",
@@ -1596,13 +1636,18 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1899,
           "ceneo": 1794
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1899,
+          "ceneo": 1794
         }
       ]
     },
     {
-      "id": "electrolux-eiv63440bw",
-      "name": "Płyta indukcyjna ELECTROLUX EIV63440BW Biała",
-      "model": "EIV63440BW",
+      "id": "electrolux-lir60433",
+      "name": "Płyta Indukcyjna ELECTROLUX LIR60433 Hob2Hood PowerBoost Stop&Go Czarny",
+      "model": "LIR60433",
       "brand": "ELECTROLUX",
       "type": "induction",
       "size": {
@@ -1611,196 +1656,201 @@ window.PRODUCTS_DATA = {
         "label": "60 cm (standard)",
         "category": "60cm"
       },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_168716990",
-      "mediamarktPrice": 1919,
-      "ceneoPrice": 1775,
-      "ceneoCheckedAt": "2026-11-18",
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_133329734",
+      "mediamarktPrice": 1199,
+      "ceneoPrice": 1184,
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "up",
-        "delta": 20,
-        "percent": 1.1,
-        "previousPrice": 1899,
-        "previousDate": "2026-11-17"
+        "trend": "down",
+        "delta": -60,
+        "percent": -4.8,
+        "previousPrice": 1259,
+        "previousDate": "2026-11-18"
       },
-      "rating": 4.97,
-      "reviewCount": 32,
-      "valueScore": 14.7,
+      "rating": 4.91,
+      "reviewCount": 33,
+      "valueScore": 23.5,
       "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-electrolux-eiv63440bw-1377161.html",
-        "ceneo": "https://www.ceneo.pl/;szukaj-EIV63440BW",
-        "euro": "https://www.euro.com.pl/search.bhtml?keyword=EIV63440BW",
-        "komputronik": "https://www.komputronik.pl/search?query=EIV63440BW"
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-electrolux-lir60433-1393481.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-LIR60433",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=LIR60433",
+        "komputronik": "https://www.komputronik.pl/search?query=LIR60433"
       },
       "priceHistory": [
         {
           "date": "2026-10-16",
-          "mediamarkt": 1919,
-          "ceneo": 1775
+          "mediamarkt": 1184,
+          "ceneo": 1184
         },
         {
           "date": "2026-10-17",
-          "mediamarkt": 1919,
-          "ceneo": 1775
+          "mediamarkt": 1184,
+          "ceneo": 1184
         },
         {
           "date": "2026-10-18",
-          "mediamarkt": 1999,
-          "ceneo": 1775
+          "mediamarkt": 1184,
+          "ceneo": 1184
         },
         {
           "date": "2026-10-19",
-          "mediamarkt": 1919,
-          "ceneo": 1775
+          "mediamarkt": 1184,
+          "ceneo": 1184
         },
         {
           "date": "2026-10-20",
-          "mediamarkt": 1919,
-          "ceneo": 1775
+          "mediamarkt": 1184,
+          "ceneo": 1184
         },
         {
           "date": "2026-10-21",
-          "mediamarkt": 1919,
-          "ceneo": 1775
+          "mediamarkt": 1189,
+          "ceneo": 1184
         },
         {
           "date": "2026-10-22",
-          "mediamarkt": 1919,
-          "ceneo": 1775
+          "mediamarkt": 1189,
+          "ceneo": 1184
         },
         {
           "date": "2026-10-23",
-          "mediamarkt": 1919,
-          "ceneo": 1775
+          "mediamarkt": 1184,
+          "ceneo": 1184
         },
         {
           "date": "2026-10-24",
-          "mediamarkt": 1919,
-          "ceneo": 1775
+          "mediamarkt": 1189,
+          "ceneo": 1184
         },
         {
           "date": "2026-10-25",
-          "mediamarkt": 1919,
-          "ceneo": 1775
+          "mediamarkt": 1184,
+          "ceneo": 1184
         },
         {
           "date": "2026-10-26",
-          "mediamarkt": 1919,
-          "ceneo": 1775
+          "mediamarkt": 1189,
+          "ceneo": 1184
         },
         {
           "date": "2026-10-27",
-          "mediamarkt": 1919,
-          "ceneo": 1775
+          "mediamarkt": 1189,
+          "ceneo": 1184
         },
         {
           "date": "2026-10-28",
-          "mediamarkt": 1919,
-          "ceneo": 1775
+          "mediamarkt": 1189,
+          "ceneo": 1184
         },
         {
           "date": "2026-10-29",
-          "mediamarkt": 1919,
-          "ceneo": 1775
+          "mediamarkt": 1184,
+          "ceneo": 1184
         },
         {
           "date": "2026-10-30",
-          "mediamarkt": 1919,
-          "ceneo": 1775
+          "mediamarkt": 1184,
+          "ceneo": 1184
         },
         {
           "date": "2026-10-31",
-          "mediamarkt": 1919,
-          "ceneo": 1775
+          "mediamarkt": 1189,
+          "ceneo": 1184
         },
         {
           "date": "2026-11-01",
-          "mediamarkt": 1919,
-          "ceneo": 1775
+          "mediamarkt": 1259,
+          "ceneo": 1184
         },
         {
           "date": "2026-11-02",
-          "mediamarkt": 1919,
-          "ceneo": 1775
+          "mediamarkt": 1199,
+          "ceneo": 1184
         },
         {
           "date": "2026-11-03",
-          "mediamarkt": 1919,
-          "ceneo": 1775
+          "mediamarkt": 1199,
+          "ceneo": 1184
         },
         {
           "date": "2026-11-04",
-          "mediamarkt": 1919,
-          "ceneo": 1775
+          "mediamarkt": 1199,
+          "ceneo": 1184
         },
         {
           "date": "2026-11-05",
-          "mediamarkt": 1919,
-          "ceneo": 1775
+          "mediamarkt": 1199,
+          "ceneo": 1184
         },
         {
           "date": "2026-11-06",
-          "mediamarkt": 1919,
-          "ceneo": 1775
+          "mediamarkt": 1199,
+          "ceneo": 1184
         },
         {
           "date": "2026-11-07",
-          "mediamarkt": 1919,
-          "ceneo": 1775
+          "mediamarkt": 1199,
+          "ceneo": 1184
         },
         {
           "date": "2026-11-08",
-          "mediamarkt": 1919,
-          "ceneo": 1775
+          "mediamarkt": 1199,
+          "ceneo": 1184
         },
         {
           "date": "2026-11-09",
-          "mediamarkt": 1919,
-          "ceneo": 1775
+          "mediamarkt": 1199,
+          "ceneo": 1184
         },
         {
           "date": "2026-11-10",
-          "mediamarkt": 1919,
-          "ceneo": 1775
+          "mediamarkt": 1199,
+          "ceneo": 1184
         },
         {
           "date": "2026-11-11",
-          "mediamarkt": 1899,
-          "ceneo": 1775
+          "mediamarkt": 1199,
+          "ceneo": 1184
         },
         {
           "date": "2026-11-12",
-          "mediamarkt": 1899,
-          "ceneo": 1775
+          "mediamarkt": 1199,
+          "ceneo": 1184
         },
         {
           "date": "2026-11-13",
-          "mediamarkt": 1899,
-          "ceneo": 1775
+          "mediamarkt": 1199,
+          "ceneo": 1184
         },
         {
           "date": "2026-11-14",
-          "mediamarkt": 1899,
-          "ceneo": 1775
+          "mediamarkt": 1199,
+          "ceneo": 1184
         },
         {
           "date": "2026-11-15",
-          "mediamarkt": 1899,
-          "ceneo": 1775
+          "mediamarkt": 1249,
+          "ceneo": 1184
         },
         {
           "date": "2026-11-16",
-          "mediamarkt": 1899,
-          "ceneo": 1775
+          "mediamarkt": 1199,
+          "ceneo": 1184
         },
         {
           "date": "2026-11-17",
-          "mediamarkt": 1899,
-          "ceneo": 1775
+          "mediamarkt": 1199,
+          "ceneo": 1184
         },
         {
           "date": "2026-11-18",
-          "mediamarkt": 1919,
-          "ceneo": 1775
+          "mediamarkt": 1259,
+          "ceneo": 1184
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1199,
+          "ceneo": 1184
         }
       ]
     },
@@ -1819,13 +1869,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_166340253",
       "mediamarktPrice": 949,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "down",
-        "delta": -250,
-        "percent": -20.9,
-        "previousPrice": 1199,
-        "previousDate": "2026-11-17"
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 949,
+        "previousDate": "2026-11-18"
       },
       "rating": 5.0,
       "reviewCount": 15,
@@ -2006,181 +2056,221 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 949,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 949,
+          "ceneo": null
         }
       ]
     },
     {
-      "id": "electrolux-eiv83443ct",
-      "name": "Płyta indukcyjna do zabudowy ELECTROLUX EIV83443CT Czarny",
-      "model": "EIV83443CT",
+      "id": "electrolux-eiv63440bw",
+      "name": "Płyta indukcyjna ELECTROLUX EIV63440BW Biała",
+      "model": "EIV63440BW",
       "brand": "ELECTROLUX",
       "type": "induction",
       "size": {
-        "widthCm": 80,
-        "rawWidth": 80,
-        "label": "80 cm",
-        "category": "80cm"
-      },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_158036418",
-      "mediamarktPrice": 3149,
-      "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
-      "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
-        "previousPrice": 3149,
-        "previousDate": "2026-11-17"
-      },
-      "rating": 4.33,
-      "reviewCount": 12,
-      "valueScore": 4.8,
-      "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-do-zabudowy-electrolux-eiv83443ct-czarny-1494262.html",
-        "ceneo": "https://www.ceneo.pl/;szukaj-EIV83443CT",
-        "euro": "https://www.euro.com.pl/search.bhtml?keyword=EIV83443CT",
-        "komputronik": "https://www.komputronik.pl/search?query=EIV83443CT"
-      },
-      "priceHistory": [
-        {
-          "date": "2026-11-10",
-          "mediamarkt": 3149,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-11",
-          "mediamarkt": 3149,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-12",
-          "mediamarkt": 3149,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-13",
-          "mediamarkt": 3149,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-14",
-          "mediamarkt": 3149,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-15",
-          "mediamarkt": 3149,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-16",
-          "mediamarkt": 3149,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-17",
-          "mediamarkt": 3149,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-18",
-          "mediamarkt": 3149,
-          "ceneo": null
-        }
-      ]
-    },
-    {
-      "id": "beko-b300-2",
-      "name": "Płyta Indukcyjna BEKO b300 HII64200FMT IndyFlex Booster Timer PowerManagement 59cm",
-      "model": "B300",
-      "brand": "BEKO",
-      "type": "induction",
-      "size": {
         "widthCm": 60,
-        "rawWidth": 59,
+        "rawWidth": 60,
         "label": "60 cm (standard)",
         "category": "60cm"
       },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_188395364",
-      "mediamarktPrice": 1149,
-      "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_168716990",
+      "mediamarktPrice": 1919,
+      "ceneoPrice": 1775,
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
-        "previousPrice": 1149,
-        "previousDate": "2026-11-17"
+        "previousPrice": 1919,
+        "previousDate": "2026-11-18"
       },
-      "rating": 4.25,
-      "reviewCount": 63,
-      "valueScore": 29.4,
+      "rating": 4.97,
+      "reviewCount": 32,
+      "valueScore": 14.7,
       "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-beko-hii64200fmt-1422219.html",
-        "ceneo": "https://www.ceneo.pl/;szukaj-B300",
-        "euro": "https://www.euro.com.pl/search.bhtml?keyword=B300",
-        "komputronik": "https://www.komputronik.pl/search?query=B300"
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-electrolux-eiv63440bw-1377161.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-EIV63440BW",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=EIV63440BW",
+        "komputronik": "https://www.komputronik.pl/search?query=EIV63440BW"
       },
       "priceHistory": [
         {
+          "date": "2026-10-16",
+          "mediamarkt": 1919,
+          "ceneo": 1775
+        },
+        {
+          "date": "2026-10-17",
+          "mediamarkt": 1919,
+          "ceneo": 1775
+        },
+        {
+          "date": "2026-10-18",
+          "mediamarkt": 1999,
+          "ceneo": 1775
+        },
+        {
+          "date": "2026-10-19",
+          "mediamarkt": 1919,
+          "ceneo": 1775
+        },
+        {
+          "date": "2026-10-20",
+          "mediamarkt": 1919,
+          "ceneo": 1775
+        },
+        {
+          "date": "2026-10-21",
+          "mediamarkt": 1919,
+          "ceneo": 1775
+        },
+        {
+          "date": "2026-10-22",
+          "mediamarkt": 1919,
+          "ceneo": 1775
+        },
+        {
+          "date": "2026-10-23",
+          "mediamarkt": 1919,
+          "ceneo": 1775
+        },
+        {
+          "date": "2026-10-24",
+          "mediamarkt": 1919,
+          "ceneo": 1775
+        },
+        {
+          "date": "2026-10-25",
+          "mediamarkt": 1919,
+          "ceneo": 1775
+        },
+        {
+          "date": "2026-10-26",
+          "mediamarkt": 1919,
+          "ceneo": 1775
+        },
+        {
+          "date": "2026-10-27",
+          "mediamarkt": 1919,
+          "ceneo": 1775
+        },
+        {
+          "date": "2026-10-28",
+          "mediamarkt": 1919,
+          "ceneo": 1775
+        },
+        {
+          "date": "2026-10-29",
+          "mediamarkt": 1919,
+          "ceneo": 1775
+        },
+        {
+          "date": "2026-10-30",
+          "mediamarkt": 1919,
+          "ceneo": 1775
+        },
+        {
+          "date": "2026-10-31",
+          "mediamarkt": 1919,
+          "ceneo": 1775
+        },
+        {
+          "date": "2026-11-01",
+          "mediamarkt": 1919,
+          "ceneo": 1775
+        },
+        {
+          "date": "2026-11-02",
+          "mediamarkt": 1919,
+          "ceneo": 1775
+        },
+        {
+          "date": "2026-11-03",
+          "mediamarkt": 1919,
+          "ceneo": 1775
+        },
+        {
+          "date": "2026-11-04",
+          "mediamarkt": 1919,
+          "ceneo": 1775
+        },
+        {
+          "date": "2026-11-05",
+          "mediamarkt": 1919,
+          "ceneo": 1775
+        },
+        {
+          "date": "2026-11-06",
+          "mediamarkt": 1919,
+          "ceneo": 1775
+        },
+        {
           "date": "2026-11-07",
-          "mediamarkt": 1149,
-          "ceneo": null
+          "mediamarkt": 1919,
+          "ceneo": 1775
         },
         {
           "date": "2026-11-08",
-          "mediamarkt": 1149,
-          "ceneo": null
+          "mediamarkt": 1919,
+          "ceneo": 1775
         },
         {
           "date": "2026-11-09",
-          "mediamarkt": 1149,
-          "ceneo": null
+          "mediamarkt": 1919,
+          "ceneo": 1775
         },
         {
           "date": "2026-11-10",
-          "mediamarkt": 1149,
-          "ceneo": null
+          "mediamarkt": 1919,
+          "ceneo": 1775
         },
         {
           "date": "2026-11-11",
-          "mediamarkt": 1149,
-          "ceneo": null
+          "mediamarkt": 1899,
+          "ceneo": 1775
         },
         {
           "date": "2026-11-12",
-          "mediamarkt": 1149,
-          "ceneo": null
+          "mediamarkt": 1899,
+          "ceneo": 1775
         },
         {
           "date": "2026-11-13",
-          "mediamarkt": 1149,
-          "ceneo": null
+          "mediamarkt": 1899,
+          "ceneo": 1775
         },
         {
           "date": "2026-11-14",
-          "mediamarkt": 1149,
-          "ceneo": null
+          "mediamarkt": 1899,
+          "ceneo": 1775
         },
         {
           "date": "2026-11-15",
-          "mediamarkt": 1149,
-          "ceneo": null
+          "mediamarkt": 1899,
+          "ceneo": 1775
         },
         {
           "date": "2026-11-16",
-          "mediamarkt": 1149,
-          "ceneo": null
+          "mediamarkt": 1899,
+          "ceneo": 1775
         },
         {
           "date": "2026-11-17",
-          "mediamarkt": 1149,
-          "ceneo": null
+          "mediamarkt": 1899,
+          "ceneo": 1775
         },
         {
           "date": "2026-11-18",
-          "mediamarkt": 1149,
-          "ceneo": null
+          "mediamarkt": 1919,
+          "ceneo": 1775
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1919,
+          "ceneo": 1775
         }
       ]
     },
@@ -2199,13 +2289,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_166340447",
       "mediamarktPrice": 1199,
       "ceneoPrice": 1195,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 1199,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": 5.0,
       "reviewCount": 15,
@@ -2386,6 +2476,96 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1199,
           "ceneo": 1195
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1199,
+          "ceneo": 1195
+        }
+      ]
+    },
+    {
+      "id": "electrolux-eiv83443ct",
+      "name": "Płyta indukcyjna do zabudowy ELECTROLUX EIV83443CT Czarny",
+      "model": "EIV83443CT",
+      "brand": "ELECTROLUX",
+      "type": "induction",
+      "size": {
+        "widthCm": 80,
+        "rawWidth": 80,
+        "label": "80 cm",
+        "category": "80cm"
+      },
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_158036418",
+      "mediamarktPrice": 3149,
+      "ceneoPrice": null,
+      "ceneoCheckedAt": "2026-11-19",
+      "priceChange": {
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 3149,
+        "previousDate": "2026-11-18"
+      },
+      "rating": 4.33,
+      "reviewCount": 12,
+      "valueScore": 4.8,
+      "links": {
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-do-zabudowy-electrolux-eiv83443ct-czarny-1494262.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-EIV83443CT",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=EIV83443CT",
+        "komputronik": "https://www.komputronik.pl/search?query=EIV83443CT"
+      },
+      "priceHistory": [
+        {
+          "date": "2026-11-10",
+          "mediamarkt": 3149,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-11",
+          "mediamarkt": 3149,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-12",
+          "mediamarkt": 3149,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-13",
+          "mediamarkt": 3149,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-14",
+          "mediamarkt": 3149,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-15",
+          "mediamarkt": 3149,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-16",
+          "mediamarkt": 3149,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-17",
+          "mediamarkt": 3149,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-18",
+          "mediamarkt": 3149,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 3149,
+          "ceneo": null
         }
       ]
     },
@@ -2404,13 +2584,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_187799125",
       "mediamarktPrice": 2763,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 2763,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": 5.0,
       "reviewCount": 2,
@@ -2491,14 +2671,19 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 2763,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 2763,
+          "ceneo": null
         }
       ]
     },
     {
-      "id": "whirlpool-wfs4160bf",
-      "name": "Płyta indukcyjna WHIRLPOOL W Collection WFS4160BF FlexiSide ChefControl 59cm",
-      "model": "WFS4160BF",
-      "brand": "WHIRLPOOL",
+      "id": "beko-b300-2",
+      "name": "Płyta Indukcyjna BEKO b300 HII64200FMT IndyFlex Booster Timer PowerManagement 59cm",
+      "model": "B300",
+      "brand": "BEKO",
       "type": "induction",
       "size": {
         "widthCm": 60,
@@ -2506,196 +2691,91 @@ window.PRODUCTS_DATA = {
         "label": "60 cm (standard)",
         "category": "60cm"
       },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_147374491",
-      "mediamarktPrice": 999,
-      "ceneoPrice": 1599,
-      "ceneoCheckedAt": "2026-11-18",
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_188395364",
+      "mediamarktPrice": 1149,
+      "ceneoPrice": null,
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "down",
-        "delta": -600,
-        "percent": -37.5,
-        "previousPrice": 1599,
-        "previousDate": "2026-11-17"
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 1149,
+        "previousDate": "2026-11-18"
       },
-      "rating": 4.96,
-      "reviewCount": 311,
-      "valueScore": 87.6,
+      "rating": 4.25,
+      "reviewCount": 63,
+      "valueScore": 29.4,
       "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-whirlpool-wf-s4160-bf-1425573.html",
-        "ceneo": "https://www.ceneo.pl/;szukaj-WFS4160BF",
-        "euro": "https://www.euro.com.pl/search.bhtml?keyword=WFS4160BF",
-        "komputronik": "https://www.komputronik.pl/search?query=WFS4160BF"
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-beko-hii64200fmt-1422219.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-B300",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=B300",
+        "komputronik": "https://www.komputronik.pl/search?query=B300"
       },
       "priceHistory": [
         {
-          "date": "2026-10-16",
-          "mediamarkt": 1599,
-          "ceneo": 1599
-        },
-        {
-          "date": "2026-10-17",
-          "mediamarkt": 1599,
-          "ceneo": 1599
-        },
-        {
-          "date": "2026-10-18",
-          "mediamarkt": 1599,
-          "ceneo": 1599
-        },
-        {
-          "date": "2026-10-19",
-          "mediamarkt": 1599,
-          "ceneo": 1599
-        },
-        {
-          "date": "2026-10-20",
-          "mediamarkt": 1599,
-          "ceneo": 1599
-        },
-        {
-          "date": "2026-10-21",
-          "mediamarkt": 1599,
-          "ceneo": 1599
-        },
-        {
-          "date": "2026-10-22",
-          "mediamarkt": 1599,
-          "ceneo": 1599
-        },
-        {
-          "date": "2026-10-23",
-          "mediamarkt": 1599,
-          "ceneo": 1599
-        },
-        {
-          "date": "2026-10-24",
-          "mediamarkt": 1599,
-          "ceneo": 1599
-        },
-        {
-          "date": "2026-10-25",
-          "mediamarkt": 1599,
-          "ceneo": 1599
-        },
-        {
-          "date": "2026-10-26",
-          "mediamarkt": 1599,
-          "ceneo": 1599
-        },
-        {
-          "date": "2026-10-27",
-          "mediamarkt": 1599,
-          "ceneo": 1599
-        },
-        {
-          "date": "2026-10-28",
-          "mediamarkt": 1599,
-          "ceneo": 1599
-        },
-        {
-          "date": "2026-10-29",
-          "mediamarkt": 1599,
-          "ceneo": 1599
-        },
-        {
-          "date": "2026-10-30",
-          "mediamarkt": 1599,
-          "ceneo": 1599
-        },
-        {
-          "date": "2026-10-31",
-          "mediamarkt": 1599,
-          "ceneo": 1599
-        },
-        {
-          "date": "2026-11-01",
-          "mediamarkt": 1599,
-          "ceneo": 1599
-        },
-        {
-          "date": "2026-11-02",
-          "mediamarkt": 1599,
-          "ceneo": 1599
-        },
-        {
-          "date": "2026-11-03",
-          "mediamarkt": 1599,
-          "ceneo": 1599
-        },
-        {
-          "date": "2026-11-04",
-          "mediamarkt": 1599,
-          "ceneo": 1599
-        },
-        {
-          "date": "2026-11-05",
-          "mediamarkt": 1599,
-          "ceneo": 1599
-        },
-        {
-          "date": "2026-11-06",
-          "mediamarkt": 1599,
-          "ceneo": 1599
-        },
-        {
           "date": "2026-11-07",
-          "mediamarkt": 1599,
-          "ceneo": 1599
+          "mediamarkt": 1149,
+          "ceneo": null
         },
         {
           "date": "2026-11-08",
-          "mediamarkt": 1599,
-          "ceneo": 1599
+          "mediamarkt": 1149,
+          "ceneo": null
         },
         {
           "date": "2026-11-09",
-          "mediamarkt": 1599,
-          "ceneo": 1599
+          "mediamarkt": 1149,
+          "ceneo": null
         },
         {
           "date": "2026-11-10",
-          "mediamarkt": 1599,
-          "ceneo": 1599
+          "mediamarkt": 1149,
+          "ceneo": null
         },
         {
           "date": "2026-11-11",
-          "mediamarkt": 1599,
-          "ceneo": 1599
+          "mediamarkt": 1149,
+          "ceneo": null
         },
         {
           "date": "2026-11-12",
-          "mediamarkt": 1599,
-          "ceneo": 1599
+          "mediamarkt": 1149,
+          "ceneo": null
         },
         {
           "date": "2026-11-13",
-          "mediamarkt": 1599,
-          "ceneo": 1599
+          "mediamarkt": 1149,
+          "ceneo": null
         },
         {
           "date": "2026-11-14",
-          "mediamarkt": 1599,
-          "ceneo": 1599
+          "mediamarkt": 1149,
+          "ceneo": null
         },
         {
           "date": "2026-11-15",
-          "mediamarkt": 1599,
-          "ceneo": 1599
+          "mediamarkt": 1149,
+          "ceneo": null
         },
         {
           "date": "2026-11-16",
-          "mediamarkt": 1599,
-          "ceneo": 1599
+          "mediamarkt": 1149,
+          "ceneo": null
         },
         {
           "date": "2026-11-17",
-          "mediamarkt": 1599,
-          "ceneo": 1599
+          "mediamarkt": 1149,
+          "ceneo": null
         },
         {
           "date": "2026-11-18",
-          "mediamarkt": 999,
-          "ceneo": 1599
+          "mediamarkt": 1149,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1149,
+          "ceneo": null
         }
       ]
     },
@@ -2714,17 +2794,17 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_187431557",
       "mediamarktPrice": 2199,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 2199,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": 5.0,
-      "reviewCount": 3,
-      "valueScore": 3.9,
+      "reviewCount": 4,
+      "valueScore": 4.5,
       "links": {
         "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-whirlpool-wfs4160bfbm-6-zmysl-mattprotect-czarny-1506101.html",
         "ceneo": "https://www.ceneo.pl/;szukaj-WFS4160BFBM",
@@ -2796,6 +2876,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 2199,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 2199,
+          "ceneo": null
         }
       ]
     },
@@ -2812,19 +2897,19 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_188873296",
-      "mediamarktPrice": 2503,
+      "mediamarktPrice": 2285,
       "ceneoPrice": 2499,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
+        "trend": "down",
+        "delta": -218,
+        "percent": -8.7,
         "previousPrice": 2503,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": 4.93,
-      "reviewCount": 27,
-      "valueScore": 10.2,
+      "reviewCount": 28,
+      "valueScore": 11.4,
       "links": {
         "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-electrolux-serie-700-eis62453iz-czarny-160225293.html",
         "ceneo": "https://www.ceneo.pl/;szukaj-700EIS62453IZ",
@@ -3001,6 +3086,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 2503,
           "ceneo": 2499
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 2285,
+          "ceneo": 2499
         }
       ]
     },
@@ -3019,13 +3109,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_133329521",
       "mediamarktPrice": 1959,
       "ceneoPrice": 1789,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "up",
-        "delta": 60,
-        "percent": 3.2,
-        "previousPrice": 1899,
-        "previousDate": "2026-11-17"
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 1959,
+        "previousDate": "2026-11-18"
       },
       "rating": 5.0,
       "reviewCount": 17,
@@ -3206,6 +3296,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1959,
           "ceneo": 1789
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1959,
+          "ceneo": 1789
         }
       ]
     },
@@ -3224,13 +3319,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_172723309",
       "mediamarktPrice": 2799,
       "ceneoPrice": 2180,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 2799,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": 4.95,
       "reviewCount": 104,
@@ -3411,6 +3506,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 2799,
           "ceneo": 2180
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 2799,
+          "ceneo": 2180
         }
       ]
     },
@@ -3429,13 +3529,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_165091357",
       "mediamarktPrice": 3499,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "up",
-        "delta": 200,
-        "percent": 6.1,
-        "previousPrice": 3299,
-        "previousDate": "2026-11-17"
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 3499,
+        "previousDate": "2026-11-18"
       },
       "rating": 5.0,
       "reviewCount": 13,
@@ -3616,6 +3716,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 3499,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 3499,
+          "ceneo": null
         }
       ]
     },
@@ -3634,13 +3739,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_173147870",
       "mediamarktPrice": 999,
       "ceneoPrice": 1099,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "down",
-        "delta": -100,
-        "percent": -9.1,
-        "previousPrice": 1099,
-        "previousDate": "2026-11-17"
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 999,
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -3821,6 +3926,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 999,
           "ceneo": 1099
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 999,
+          "ceneo": 1099
         }
       ]
     },
@@ -3839,13 +3949,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_175598089",
       "mediamarktPrice": 1999,
       "ceneoPrice": 2099,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 1999,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": 5.0,
       "reviewCount": 3,
@@ -4026,6 +4136,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1999,
           "ceneo": 2099
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1999,
+          "ceneo": 2099
         }
       ]
     },
@@ -4044,13 +4159,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_165091331",
       "mediamarktPrice": 1269,
       "ceneoPrice": 1248.99,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "up",
-        "delta": 170,
-        "percent": 15.5,
-        "previousPrice": 1099,
-        "previousDate": "2026-11-17"
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 1269,
+        "previousDate": "2026-11-18"
       },
       "rating": 5.0,
       "reviewCount": 1,
@@ -4231,6 +4346,131 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1269,
           "ceneo": 1248.99
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1269,
+          "ceneo": 1248.99
+        }
+      ]
+    },
+    {
+      "id": "siemens-ed851hwb1e",
+      "name": "Płyta indukcyjna do zabudowy SIEMENS ED851HWB1E Czarny",
+      "model": "ED851HWB1E",
+      "brand": "SIEMENS",
+      "type": "induction",
+      "size": {
+        "widthCm": 60,
+        "rawWidth": 60,
+        "label": "60 cm (standard)",
+        "category": "60cm"
+      },
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_180841096",
+      "mediamarktPrice": 2249,
+      "ceneoPrice": null,
+      "ceneoCheckedAt": "2026-11-19",
+      "priceChange": {
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 2249,
+        "previousDate": "2026-11-18"
+      },
+      "rating": 4.93,
+      "reviewCount": 42,
+      "valueScore": 14.2,
+      "links": {
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-do-zabudowy-siemens-ed851hwb1e-czarny-1496315.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-ED851HWB1E",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=ED851HWB1E",
+        "komputronik": "https://www.komputronik.pl/search?query=ED851HWB1E"
+      },
+      "priceHistory": [
+        {
+          "date": "2026-11-03",
+          "mediamarkt": 2299,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-04",
+          "mediamarkt": 2299,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-05",
+          "mediamarkt": 2299,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-06",
+          "mediamarkt": 2299,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-07",
+          "mediamarkt": 2299,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-08",
+          "mediamarkt": 2299,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-09",
+          "mediamarkt": 2299,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-10",
+          "mediamarkt": 2299,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-11",
+          "mediamarkt": 2299,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-12",
+          "mediamarkt": 2299,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-13",
+          "mediamarkt": 2299,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-14",
+          "mediamarkt": 2299,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-15",
+          "mediamarkt": 2299,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-16",
+          "mediamarkt": 2249,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-17",
+          "mediamarkt": 2249,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-18",
+          "mediamarkt": 2249,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 2249,
+          "ceneo": null
         }
       ]
     },
@@ -4249,13 +4489,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_146459764",
       "mediamarktPrice": 2499,
       "ceneoPrice": 1969.06,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 2499,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": 5.0,
       "reviewCount": 18,
@@ -4436,121 +4676,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 2499,
           "ceneo": 1969.06
-        }
-      ]
-    },
-    {
-      "id": "siemens-ed851hwb1e",
-      "name": "Płyta indukcyjna do zabudowy SIEMENS ED851HWB1E Czarny",
-      "model": "ED851HWB1E",
-      "brand": "SIEMENS",
-      "type": "induction",
-      "size": {
-        "widthCm": 60,
-        "rawWidth": 60,
-        "label": "60 cm (standard)",
-        "category": "60cm"
-      },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_180841096",
-      "mediamarktPrice": 2249,
-      "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
-      "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
-        "previousPrice": 2249,
-        "previousDate": "2026-11-17"
-      },
-      "rating": 4.93,
-      "reviewCount": 42,
-      "valueScore": 14.2,
-      "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-do-zabudowy-siemens-ed851hwb1e-czarny-1496315.html",
-        "ceneo": "https://www.ceneo.pl/;szukaj-ED851HWB1E",
-        "euro": "https://www.euro.com.pl/search.bhtml?keyword=ED851HWB1E",
-        "komputronik": "https://www.komputronik.pl/search?query=ED851HWB1E"
-      },
-      "priceHistory": [
-        {
-          "date": "2026-11-03",
-          "mediamarkt": 2299,
-          "ceneo": null
         },
         {
-          "date": "2026-11-04",
-          "mediamarkt": 2299,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-05",
-          "mediamarkt": 2299,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-06",
-          "mediamarkt": 2299,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-07",
-          "mediamarkt": 2299,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-08",
-          "mediamarkt": 2299,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-09",
-          "mediamarkt": 2299,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-10",
-          "mediamarkt": 2299,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-11",
-          "mediamarkt": 2299,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-12",
-          "mediamarkt": 2299,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-13",
-          "mediamarkt": 2299,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-14",
-          "mediamarkt": 2299,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-15",
-          "mediamarkt": 2299,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-16",
-          "mediamarkt": 2249,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-17",
-          "mediamarkt": 2249,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-18",
-          "mediamarkt": 2249,
-          "ceneo": null
+          "date": "2026-11-19",
+          "mediamarkt": 2499,
+          "ceneo": 1969.06
         }
       ]
     },
@@ -4569,17 +4699,17 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_133331666",
       "mediamarktPrice": 2489,
       "ceneoPrice": 2439,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 2489,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": 4.92,
-      "reviewCount": 450,
-      "valueScore": 41.9,
+      "reviewCount": 451,
+      "valueScore": 42.0,
       "links": {
         "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-samsung-nz64b5066gku2-1468288.html",
         "ceneo": "https://www.ceneo.pl/;szukaj-NZ64B5066GK",
@@ -4756,6 +4886,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 2489,
           "ceneo": 2439
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 2489,
+          "ceneo": 2439
         }
       ]
     },
@@ -4774,13 +4909,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_143031568",
       "mediamarktPrice": 1479,
       "ceneoPrice": 1479,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "up",
-        "delta": 20,
-        "percent": 1.4,
-        "previousPrice": 1459,
-        "previousDate": "2026-11-17"
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 1479,
+        "previousDate": "2026-11-18"
       },
       "rating": 4.75,
       "reviewCount": 4,
@@ -4961,6 +5096,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1479,
           "ceneo": 1479
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1479,
+          "ceneo": 1479
         }
       ]
     },
@@ -4979,13 +5119,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_187262431",
       "mediamarktPrice": 489,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 489,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -5076,6 +5216,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 489,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 489,
+          "ceneo": null
         }
       ]
     },
@@ -5094,13 +5239,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_133331583",
       "mediamarktPrice": 1899,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 1899,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": 5.0,
       "reviewCount": 18,
@@ -5151,6 +5296,96 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1899,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1899,
+          "ceneo": null
+        }
+      ]
+    },
+    {
+      "id": "samsung-nz64f3nm1ab",
+      "name": "Płyta SAMSUNG NZ64F3NM1AB",
+      "model": "NZ64F3NM1AB",
+      "brand": "SAMSUNG",
+      "type": "induction",
+      "size": {
+        "widthCm": 60,
+        "rawWidth": 60,
+        "label": "60 cm (standard)",
+        "category": "60cm"
+      },
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_106623414",
+      "mediamarktPrice": 1449,
+      "ceneoPrice": null,
+      "ceneoCheckedAt": "2026-11-19",
+      "priceChange": {
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 1449,
+        "previousDate": "2026-11-18"
+      },
+      "rating": 4.63,
+      "reviewCount": 27,
+      "valueScore": 16.6,
+      "links": {
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-samsung-nz64f3nm1ab-1200083.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-NZ64F3NM1AB",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=NZ64F3NM1AB",
+        "komputronik": "https://www.komputronik.pl/search?query=NZ64F3NM1AB"
+      },
+      "priceHistory": [
+        {
+          "date": "2026-11-10",
+          "mediamarkt": 1099,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-11",
+          "mediamarkt": 1449,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-12",
+          "mediamarkt": 1449,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-13",
+          "mediamarkt": 1449,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-14",
+          "mediamarkt": 1449,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-15",
+          "mediamarkt": 1449,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-16",
+          "mediamarkt": 1449,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-17",
+          "mediamarkt": 1449,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-18",
+          "mediamarkt": 1449,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1449,
+          "ceneo": null
         }
       ]
     },
@@ -5169,17 +5404,17 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_133327064",
       "mediamarktPrice": 1299,
       "ceneoPrice": 1319,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 1299,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": 4.81,
-      "reviewCount": 284,
-      "valueScore": 62.4,
+      "reviewCount": 285,
+      "valueScore": 62.5,
       "links": {
         "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-samsung-nz64h37070k-1246277.html",
         "ceneo": "https://www.ceneo.pl/;szukaj-NZ64H37070K",
@@ -5356,6 +5591,221 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1299,
           "ceneo": 1319
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1299,
+          "ceneo": 1319
+        }
+      ]
+    },
+    {
+      "id": "inna-lia23511",
+      "name": "Płyta indukcyjna LIN LIN LI-A23511 Czarny",
+      "model": "LI-A23511",
+      "brand": "INNA",
+      "type": "induction",
+      "size": {
+        "widthCm": 60,
+        "rawWidth": 60,
+        "label": "60 cm (standard)",
+        "category": "60cm"
+      },
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_174034720",
+      "mediamarktPrice": 379,
+      "ceneoPrice": null,
+      "ceneoCheckedAt": "2026-11-19",
+      "priceChange": {
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 379,
+        "previousDate": "2026-11-18"
+      },
+      "rating": null,
+      "reviewCount": 0,
+      "valueScore": 0.0,
+      "links": {
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-grzejna-lin-li-a23511-czarny-173880044.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-LI-A23511",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=LI-A23511",
+        "komputronik": "https://www.komputronik.pl/search?query=LI-A23511"
+      },
+      "priceHistory": [
+        {
+          "date": "2026-10-16",
+          "mediamarkt": 379,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-17",
+          "mediamarkt": 379,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-18",
+          "mediamarkt": 379,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-19",
+          "mediamarkt": 379,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-20",
+          "mediamarkt": 379,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-21",
+          "mediamarkt": 379,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-22",
+          "mediamarkt": 379,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-23",
+          "mediamarkt": 379,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-24",
+          "mediamarkt": 379,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-25",
+          "mediamarkt": 379,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-26",
+          "mediamarkt": 379,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-27",
+          "mediamarkt": 379,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-28",
+          "mediamarkt": 379,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-29",
+          "mediamarkt": 379,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-30",
+          "mediamarkt": 379,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-31",
+          "mediamarkt": 379,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-01",
+          "mediamarkt": 379,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-02",
+          "mediamarkt": 379,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-03",
+          "mediamarkt": 379,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-04",
+          "mediamarkt": 379,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-05",
+          "mediamarkt": 379,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-06",
+          "mediamarkt": 379,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-07",
+          "mediamarkt": 379,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-08",
+          "mediamarkt": 379,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-09",
+          "mediamarkt": 379,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-10",
+          "mediamarkt": 379,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-11",
+          "mediamarkt": 379,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-12",
+          "mediamarkt": 379,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-13",
+          "mediamarkt": 379,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-14",
+          "mediamarkt": 379,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-15",
+          "mediamarkt": 379,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-16",
+          "mediamarkt": 379,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-17",
+          "mediamarkt": 379,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-18",
+          "mediamarkt": 379,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 379,
+          "ceneo": null
         }
       ]
     },
@@ -5374,17 +5824,17 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_183349312",
       "mediamarktPrice": 1269,
       "ceneoPrice": 1224.55,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 1269,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": 4.93,
-      "reviewCount": 192,
-      "valueScore": 53.8,
+      "reviewCount": 193,
+      "valueScore": 54.0,
       "links": {
         "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-do-zabudowy-bosch-pie631hb1e-series-6-czarny-1482932.html",
         "ceneo": "https://www.ceneo.pl/;szukaj-PIE631HB1E",
@@ -5566,6 +6016,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1269,
           "ceneo": 1224.55
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1269,
+          "ceneo": 1224.55
         }
       ]
     },
@@ -5584,13 +6039,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_188986057",
       "mediamarktPrice": 1649,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 1649,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -5616,6 +6071,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1649,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1649,
+          "ceneo": null
         }
       ]
     },
@@ -5634,13 +6094,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_188986114",
       "mediamarktPrice": 2399,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 2399,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -5666,7465 +6126,10 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 2399,
           "ceneo": null
-        }
-      ]
-    },
-    {
-      "id": "inna-mpm60im17",
-      "name": "Płyta indukcyjna MPM 60-IM-17/M Czarny",
-      "model": "MPM 60-IM-17",
-      "brand": "INNA",
-      "type": "induction",
-      "size": {
-        "widthCm": 60,
-        "rawWidth": 60,
-        "label": "60 cm (standard)",
-        "category": "60cm"
-      },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_188882061",
-      "mediamarktPrice": 925,
-      "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
-      "priceChange": {
-        "trend": "up",
-        "delta": 31,
-        "percent": 3.5,
-        "previousPrice": 894,
-        "previousDate": "2026-11-17"
-      },
-      "rating": null,
-      "reviewCount": 0,
-      "valueScore": 0.0,
-      "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-mpm-60-im-17m-czarny-188881647.html",
-        "ceneo": "https://www.ceneo.pl/;szukaj-MPM 60-IM-17",
-        "euro": "https://www.euro.com.pl/search.bhtml?keyword=MPM 60-IM-17",
-        "komputronik": "https://www.komputronik.pl/search?query=MPM 60-IM-17"
-      },
-      "priceHistory": [
-        {
-          "date": "2026-10-16",
-          "mediamarkt": 999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-17",
-          "mediamarkt": 999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-18",
-          "mediamarkt": 999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-19",
-          "mediamarkt": 999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-20",
-          "mediamarkt": 999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-21",
-          "mediamarkt": 999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-22",
-          "mediamarkt": 999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-23",
-          "mediamarkt": 999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-24",
-          "mediamarkt": 999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-25",
-          "mediamarkt": 999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-26",
-          "mediamarkt": 999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-27",
-          "mediamarkt": 999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-28",
-          "mediamarkt": 999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-29",
-          "mediamarkt": 999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-30",
-          "mediamarkt": 999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-31",
-          "mediamarkt": 999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-01",
-          "mediamarkt": 999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-02",
-          "mediamarkt": 999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-03",
-          "mediamarkt": 999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-04",
-          "mediamarkt": 999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-05",
-          "mediamarkt": 999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-06",
-          "mediamarkt": 999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-07",
-          "mediamarkt": 999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-08",
-          "mediamarkt": 999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-09",
-          "mediamarkt": 999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-10",
-          "mediamarkt": 999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-11",
-          "mediamarkt": 999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-12",
-          "mediamarkt": 999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-13",
-          "mediamarkt": 999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-14",
-          "mediamarkt": 884,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-15",
-          "mediamarkt": 884,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-16",
-          "mediamarkt": 884,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-17",
-          "mediamarkt": 894,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-18",
-          "mediamarkt": 925,
-          "ceneo": null
-        }
-      ]
-    },
-    {
-      "id": "beko-b300-3",
-      "name": "Płyta Indukcyjna BEKO b300 HII64200FMTW IndyFlex Booster Timer PowerManagement 59cm",
-      "model": "B300",
-      "brand": "BEKO",
-      "type": "induction",
-      "size": {
-        "widthCm": 60,
-        "rawWidth": 59,
-        "label": "60 cm (standard)",
-        "category": "60cm"
-      },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_188395466",
-      "mediamarktPrice": 1329,
-      "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
-      "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
-        "previousPrice": 1329,
-        "previousDate": "2026-11-17"
-      },
-      "rating": 4.25,
-      "reviewCount": 63,
-      "valueScore": 25.4,
-      "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-beko-hii64200fmtw-1432418.html",
-        "ceneo": "https://www.ceneo.pl/;szukaj-B300",
-        "euro": "https://www.euro.com.pl/search.bhtml?keyword=B300",
-        "komputronik": "https://www.komputronik.pl/search?query=B300"
-      },
-      "priceHistory": [
-        {
-          "date": "2026-11-07",
-          "mediamarkt": 1299,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-08",
-          "mediamarkt": 1329,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-09",
-          "mediamarkt": 1299,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-10",
-          "mediamarkt": 1299,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-11",
-          "mediamarkt": 1329,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-12",
-          "mediamarkt": 1329,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-13",
-          "mediamarkt": 1329,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-14",
-          "mediamarkt": 1329,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-15",
-          "mediamarkt": 1329,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-16",
-          "mediamarkt": 1329,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-17",
-          "mediamarkt": 1329,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-18",
-          "mediamarkt": 1329,
-          "ceneo": null
-        }
-      ]
-    },
-    {
-      "id": "inna-kbh36124",
-      "name": "Płyta indukcyjna KOENIC KBH 3612-4 Czarna",
-      "model": "KBH 3612-4",
-      "brand": "INNA",
-      "type": "induction",
-      "size": {
-        "widthCm": 60,
-        "rawWidth": 60,
-        "label": "60 cm (standard)",
-        "category": "60cm"
-      },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_179411473",
-      "mediamarktPrice": 699,
-      "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
-      "priceChange": {
-        "trend": "down",
-        "delta": -100,
-        "percent": -12.5,
-        "previousPrice": 799,
-        "previousDate": "2026-11-17"
-      },
-      "rating": null,
-      "reviewCount": 0,
-      "valueScore": 0.0,
-      "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-koenic-kbh-3612-4-czarna-1502157.html",
-        "ceneo": "https://www.ceneo.pl/;szukaj-KBH 3612-4",
-        "euro": "https://www.euro.com.pl/search.bhtml?keyword=KBH 3612-4",
-        "komputronik": "https://www.komputronik.pl/search?query=KBH 3612-4"
-      },
-      "priceHistory": [
-        {
-          "date": "2026-10-16",
-          "mediamarkt": 799,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-17",
-          "mediamarkt": 799,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-18",
-          "mediamarkt": 799,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-19",
-          "mediamarkt": 799,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-20",
-          "mediamarkt": 799,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-21",
-          "mediamarkt": 799,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-22",
-          "mediamarkt": 799,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-23",
-          "mediamarkt": 799,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-24",
-          "mediamarkt": 799,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-25",
-          "mediamarkt": 799,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-26",
-          "mediamarkt": 799,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-27",
-          "mediamarkt": 799,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-28",
-          "mediamarkt": 799,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-29",
-          "mediamarkt": 799,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-30",
-          "mediamarkt": 799,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-31",
-          "mediamarkt": 799,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-01",
-          "mediamarkt": 799,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-02",
-          "mediamarkt": 799,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-03",
-          "mediamarkt": 799,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-04",
-          "mediamarkt": 799,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-05",
-          "mediamarkt": 799,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-06",
-          "mediamarkt": 799,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-07",
-          "mediamarkt": 799,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-08",
-          "mediamarkt": 799,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-09",
-          "mediamarkt": 799,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-10",
-          "mediamarkt": 799,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-11",
-          "mediamarkt": 799,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-12",
-          "mediamarkt": 799,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-13",
-          "mediamarkt": 799,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-14",
-          "mediamarkt": 799,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-15",
-          "mediamarkt": 799,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-16",
-          "mediamarkt": 799,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-17",
-          "mediamarkt": 799,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-18",
-          "mediamarkt": 699,
-          "ceneo": null
-        }
-      ]
-    },
-    {
-      "id": "amica-pid6540phtuln",
-      "name": "Płyta indukcyjna AMICA PID6540PHTULN 3.0",
-      "model": "PID6540PHTULN",
-      "brand": "AMICA",
-      "type": "induction",
-      "size": {
-        "widthCm": 60,
-        "rawWidth": 60,
-        "label": "60 cm (standard)",
-        "category": "60cm"
-      },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_108725534",
-      "mediamarktPrice": 1279,
-      "ceneoPrice": 1279,
-      "ceneoCheckedAt": "2026-11-18",
-      "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
-        "previousPrice": 1279,
-        "previousDate": "2026-11-17"
-      },
-      "rating": 5.0,
-      "reviewCount": 2,
-      "valueScore": 5.5,
-      "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-amica-pid6540phtuln-30-1475604.html",
-        "ceneo": "https://www.ceneo.pl/;szukaj-PID6540PHTULN",
-        "euro": "https://www.euro.com.pl/search.bhtml?keyword=PID6540PHTULN",
-        "komputronik": "https://www.komputronik.pl/search?query=PID6540PHTULN"
-      },
-      "priceHistory": [
-        {
-          "date": "2026-10-16",
-          "mediamarkt": 1279,
-          "ceneo": 1279
-        },
-        {
-          "date": "2026-10-17",
-          "mediamarkt": 1279,
-          "ceneo": 1279
-        },
-        {
-          "date": "2026-10-18",
-          "mediamarkt": 1279,
-          "ceneo": 1279
-        },
-        {
-          "date": "2026-10-19",
-          "mediamarkt": 1279,
-          "ceneo": 1279
-        },
-        {
-          "date": "2026-10-20",
-          "mediamarkt": 1279,
-          "ceneo": 1279
-        },
-        {
-          "date": "2026-10-21",
-          "mediamarkt": 1279,
-          "ceneo": 1279
-        },
-        {
-          "date": "2026-10-22",
-          "mediamarkt": 1279,
-          "ceneo": 1279
-        },
-        {
-          "date": "2026-10-23",
-          "mediamarkt": 1279,
-          "ceneo": 1279
-        },
-        {
-          "date": "2026-10-24",
-          "mediamarkt": 1279,
-          "ceneo": 1279
-        },
-        {
-          "date": "2026-10-25",
-          "mediamarkt": 1279,
-          "ceneo": 1279
-        },
-        {
-          "date": "2026-10-26",
-          "mediamarkt": 1279,
-          "ceneo": 1279
-        },
-        {
-          "date": "2026-10-27",
-          "mediamarkt": 1279,
-          "ceneo": 1279
-        },
-        {
-          "date": "2026-10-28",
-          "mediamarkt": 1279,
-          "ceneo": 1279
-        },
-        {
-          "date": "2026-10-29",
-          "mediamarkt": 1279,
-          "ceneo": 1279
-        },
-        {
-          "date": "2026-10-30",
-          "mediamarkt": 1279,
-          "ceneo": 1279
-        },
-        {
-          "date": "2026-10-31",
-          "mediamarkt": 1279,
-          "ceneo": 1279
-        },
-        {
-          "date": "2026-11-01",
-          "mediamarkt": 1279,
-          "ceneo": 1279
-        },
-        {
-          "date": "2026-11-02",
-          "mediamarkt": 1279,
-          "ceneo": 1279
-        },
-        {
-          "date": "2026-11-03",
-          "mediamarkt": 1279,
-          "ceneo": 1279
-        },
-        {
-          "date": "2026-11-04",
-          "mediamarkt": 1279,
-          "ceneo": 1279
-        },
-        {
-          "date": "2026-11-05",
-          "mediamarkt": 1279,
-          "ceneo": 1279
-        },
-        {
-          "date": "2026-11-06",
-          "mediamarkt": 1279,
-          "ceneo": 1279
-        },
-        {
-          "date": "2026-11-07",
-          "mediamarkt": 1279,
-          "ceneo": 1279
-        },
-        {
-          "date": "2026-11-08",
-          "mediamarkt": 1279,
-          "ceneo": 1279
-        },
-        {
-          "date": "2026-11-09",
-          "mediamarkt": 1279,
-          "ceneo": 1279
-        },
-        {
-          "date": "2026-11-10",
-          "mediamarkt": 1399,
-          "ceneo": 1279
-        },
-        {
-          "date": "2026-11-11",
-          "mediamarkt": 1279,
-          "ceneo": 1279
-        },
-        {
-          "date": "2026-11-12",
-          "mediamarkt": 1279,
-          "ceneo": 1279
-        },
-        {
-          "date": "2026-11-13",
-          "mediamarkt": 1279,
-          "ceneo": 1279
-        },
-        {
-          "date": "2026-11-14",
-          "mediamarkt": 1279,
-          "ceneo": 1279
-        },
-        {
-          "date": "2026-11-15",
-          "mediamarkt": 1279,
-          "ceneo": 1279
-        },
-        {
-          "date": "2026-11-16",
-          "mediamarkt": 1279,
-          "ceneo": 1279
-        },
-        {
-          "date": "2026-11-17",
-          "mediamarkt": 1279,
-          "ceneo": 1279
-        },
-        {
-          "date": "2026-11-18",
-          "mediamarkt": 1279,
-          "ceneo": 1279
-        }
-      ]
-    },
-    {
-      "id": "whirlpool-wtx6014dcf",
-      "name": "Płyta indukcyjna WHIRLPOOL W Collection WTX6014DCF HeatControl 18 poziomów mocy 59cm",
-      "model": "WTX6014DCF",
-      "brand": "WHIRLPOOL",
-      "type": "induction",
-      "size": {
-        "widthCm": 60,
-        "rawWidth": 59,
-        "label": "60 cm (standard)",
-        "category": "60cm"
-      },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_163060935",
-      "mediamarktPrice": 2499,
-      "ceneoPrice": 2499,
-      "ceneoCheckedAt": "2026-11-18",
-      "priceChange": {
-        "trend": "up",
-        "delta": 50,
-        "percent": 2.0,
-        "previousPrice": 2449,
-        "previousDate": "2026-11-17"
-      },
-      "rating": 5.0,
-      "reviewCount": 26,
-      "valueScore": 10.2,
-      "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-do-zabudowy-whirlpool-wtx6014dcf-czarny-1495648.html",
-        "ceneo": "https://www.ceneo.pl/;szukaj-WTX6014DCF",
-        "euro": "https://www.euro.com.pl/search.bhtml?keyword=WTX6014DCF",
-        "komputronik": "https://www.komputronik.pl/search?query=WTX6014DCF"
-      },
-      "priceHistory": [
-        {
-          "date": "2026-10-16",
-          "mediamarkt": 2499,
-          "ceneo": 2499
-        },
-        {
-          "date": "2026-10-17",
-          "mediamarkt": 2499,
-          "ceneo": 2499
-        },
-        {
-          "date": "2026-10-18",
-          "mediamarkt": 2499,
-          "ceneo": 2499
-        },
-        {
-          "date": "2026-10-19",
-          "mediamarkt": 2499,
-          "ceneo": 2499
-        },
-        {
-          "date": "2026-10-20",
-          "mediamarkt": 2499,
-          "ceneo": 2499
-        },
-        {
-          "date": "2026-10-21",
-          "mediamarkt": 2499,
-          "ceneo": 2499
-        },
-        {
-          "date": "2026-10-22",
-          "mediamarkt": 2499,
-          "ceneo": 2499
-        },
-        {
-          "date": "2026-10-23",
-          "mediamarkt": 2499,
-          "ceneo": 2499
-        },
-        {
-          "date": "2026-10-24",
-          "mediamarkt": 2499,
-          "ceneo": 2499
-        },
-        {
-          "date": "2026-10-25",
-          "mediamarkt": 2499,
-          "ceneo": 2499
-        },
-        {
-          "date": "2026-10-26",
-          "mediamarkt": 2499,
-          "ceneo": 2499
-        },
-        {
-          "date": "2026-10-27",
-          "mediamarkt": 2499,
-          "ceneo": 2499
-        },
-        {
-          "date": "2026-10-28",
-          "mediamarkt": 2499,
-          "ceneo": 2499
-        },
-        {
-          "date": "2026-10-29",
-          "mediamarkt": 2499,
-          "ceneo": 2499
-        },
-        {
-          "date": "2026-10-30",
-          "mediamarkt": 2499,
-          "ceneo": 2499
-        },
-        {
-          "date": "2026-10-31",
-          "mediamarkt": 2499,
-          "ceneo": 2499
-        },
-        {
-          "date": "2026-11-01",
-          "mediamarkt": 2499,
-          "ceneo": 2499
-        },
-        {
-          "date": "2026-11-02",
-          "mediamarkt": 2499,
-          "ceneo": 2499
-        },
-        {
-          "date": "2026-11-03",
-          "mediamarkt": 2499,
-          "ceneo": 2499
-        },
-        {
-          "date": "2026-11-04",
-          "mediamarkt": 2499,
-          "ceneo": 2499
-        },
-        {
-          "date": "2026-11-05",
-          "mediamarkt": 2499,
-          "ceneo": 2499
-        },
-        {
-          "date": "2026-11-06",
-          "mediamarkt": 2499,
-          "ceneo": 2499
-        },
-        {
-          "date": "2026-11-07",
-          "mediamarkt": 2499,
-          "ceneo": 2499
-        },
-        {
-          "date": "2026-11-08",
-          "mediamarkt": 2499,
-          "ceneo": 2499
-        },
-        {
-          "date": "2026-11-09",
-          "mediamarkt": 2499,
-          "ceneo": 2499
-        },
-        {
-          "date": "2026-11-10",
-          "mediamarkt": 2449,
-          "ceneo": 2499
-        },
-        {
-          "date": "2026-11-11",
-          "mediamarkt": 2449,
-          "ceneo": 2499
-        },
-        {
-          "date": "2026-11-12",
-          "mediamarkt": 2449,
-          "ceneo": 2499
-        },
-        {
-          "date": "2026-11-13",
-          "mediamarkt": 2449,
-          "ceneo": 2499
-        },
-        {
-          "date": "2026-11-14",
-          "mediamarkt": 2449,
-          "ceneo": 2499
-        },
-        {
-          "date": "2026-11-15",
-          "mediamarkt": 2449,
-          "ceneo": 2499
-        },
-        {
-          "date": "2026-11-16",
-          "mediamarkt": 2449,
-          "ceneo": 2499
-        },
-        {
-          "date": "2026-11-17",
-          "mediamarkt": 2449,
-          "ceneo": 2499
-        },
-        {
-          "date": "2026-11-18",
-          "mediamarkt": 2499,
-          "ceneo": 2499
-        }
-      ]
-    },
-    {
-      "id": "beko-b300-4",
-      "name": "Płyta indukcyjna BEKO b300 HDI32400TO Booster Timer 28,8cm",
-      "model": "B300",
-      "brand": "BEKO",
-      "type": "induction",
-      "size": {
-        "widthCm": 60,
-        "rawWidth": 60,
-        "label": "60 cm (standard)",
-        "category": "60cm"
-      },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_188394926",
-      "mediamarktPrice": 599,
-      "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
-      "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
-        "previousPrice": 599,
-        "previousDate": "2026-11-17"
-      },
-      "rating": null,
-      "reviewCount": 0,
-      "valueScore": 0.0,
-      "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-beko-hdi32400to-czarny-1491892.html",
-        "ceneo": "https://www.ceneo.pl/;szukaj-B300",
-        "euro": "https://www.euro.com.pl/search.bhtml?keyword=B300",
-        "komputronik": "https://www.komputronik.pl/search?query=B300"
-      },
-      "priceHistory": [
-        {
-          "date": "2026-11-07",
-          "mediamarkt": 629,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-08",
-          "mediamarkt": 629,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-09",
-          "mediamarkt": 629,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-10",
-          "mediamarkt": 629,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-11",
-          "mediamarkt": 629,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-12",
-          "mediamarkt": 629,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-13",
-          "mediamarkt": 629,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-14",
-          "mediamarkt": 629,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-15",
-          "mediamarkt": 629,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-16",
-          "mediamarkt": 629,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-17",
-          "mediamarkt": 599,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-18",
-          "mediamarkt": 599,
-          "ceneo": null
-        }
-      ]
-    },
-    {
-      "id": "bosch-pvs611bb6e",
-      "name": "Płyta indukcyjna do zabudowy BOSCH PVS611BB6E Serie 4 Czarny",
-      "model": "PVS611BB6E",
-      "brand": "BOSCH",
-      "type": "induction",
-      "size": {
-        "widthCm": 60,
-        "rawWidth": 60,
-        "label": "60 cm (standard)",
-        "category": "60cm"
-      },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_175558073",
-      "mediamarktPrice": 1449,
-      "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
-      "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
-        "previousPrice": 1449,
-        "previousDate": "2026-11-17"
-      },
-      "rating": 4.5,
-      "reviewCount": 10,
-      "valueScore": 9.8,
-      "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-do-zabudowy-bosch-pvs611bb6e-serie-4-czarny-1504662.html",
-        "ceneo": "https://www.ceneo.pl/;szukaj-PVS611BB6E",
-        "euro": "https://www.euro.com.pl/search.bhtml?keyword=PVS611BB6E",
-        "komputronik": "https://www.komputronik.pl/search?query=PVS611BB6E"
-      },
-      "priceHistory": [
-        {
-          "date": "2026-11-13",
-          "mediamarkt": 1569,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-14",
-          "mediamarkt": 1569,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-15",
-          "mediamarkt": 1569,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-16",
-          "mediamarkt": 1449,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-17",
-          "mediamarkt": 1449,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-18",
-          "mediamarkt": 1449,
-          "ceneo": null
-        }
-      ]
-    },
-    {
-      "id": "whirlpool-wfs0377neixl",
-      "name": "Płyta indukcyjna WHIRLPOOL W Collection WFS0377NEIXL FlexiSide Chef Control 77cm iXelium",
-      "model": "WFS0377NEIXL",
-      "brand": "WHIRLPOOL",
-      "type": "induction",
-      "size": {
-        "widthCm": 80,
-        "rawWidth": 77,
-        "label": "80 cm",
-        "category": "80cm"
-      },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_108813587",
-      "mediamarktPrice": 2099,
-      "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
-      "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
-        "previousPrice": 2099,
-        "previousDate": "2026-11-17"
-      },
-      "rating": 4.52,
-      "reviewCount": 21,
-      "valueScore": 9.9,
-      "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-whirlpool-wfs0377neixl-1433757.html",
-        "ceneo": "https://www.ceneo.pl/;szukaj-WFS0377NEIXL",
-        "euro": "https://www.euro.com.pl/search.bhtml?keyword=WFS0377NEIXL",
-        "komputronik": "https://www.komputronik.pl/search?query=WFS0377NEIXL"
-      },
-      "priceHistory": [
-        {
-          "date": "2026-10-16",
-          "mediamarkt": 2299,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-17",
-          "mediamarkt": 2299,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-18",
-          "mediamarkt": 2299,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-19",
-          "mediamarkt": 2299,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-20",
-          "mediamarkt": 2299,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-21",
-          "mediamarkt": 2299,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-22",
-          "mediamarkt": 2299,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-23",
-          "mediamarkt": 2299,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-24",
-          "mediamarkt": 2299,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-25",
-          "mediamarkt": 2299,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-26",
-          "mediamarkt": 2099,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-27",
-          "mediamarkt": 2099,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-28",
-          "mediamarkt": 2099,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-29",
-          "mediamarkt": 2099,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-30",
-          "mediamarkt": 2099,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-31",
-          "mediamarkt": 2099,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-01",
-          "mediamarkt": 2099,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-02",
-          "mediamarkt": 2099,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-03",
-          "mediamarkt": 2099,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-04",
-          "mediamarkt": 2099,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-05",
-          "mediamarkt": 2099,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-06",
-          "mediamarkt": 2099,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-07",
-          "mediamarkt": 2099,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-08",
-          "mediamarkt": 2099,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-09",
-          "mediamarkt": 2099,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-10",
-          "mediamarkt": 2099,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-11",
-          "mediamarkt": 2099,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-12",
-          "mediamarkt": 2099,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-13",
-          "mediamarkt": 2099,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-14",
-          "mediamarkt": 2099,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-15",
-          "mediamarkt": 2099,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-16",
-          "mediamarkt": 2099,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-17",
-          "mediamarkt": 2099,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-18",
-          "mediamarkt": 2099,
-          "ceneo": null
-        }
-      ]
-    },
-    {
-      "id": "samsung-nz84c5047gk",
-      "name": "Płyta indukcyjna SAMSUNG NZ84C5047GK/U2 Slim Fit",
-      "model": "NZ84C5047GK",
-      "brand": "SAMSUNG",
-      "type": "induction",
-      "size": {
-        "widthCm": 80,
-        "rawWidth": 80,
-        "label": "80 cm",
-        "category": "80cm"
-      },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_110628871",
-      "mediamarktPrice": 2899,
-      "ceneoPrice": 2899,
-      "ceneoCheckedAt": "2026-11-18",
-      "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
-        "previousPrice": 2899,
-        "previousDate": "2026-11-17"
-      },
-      "rating": 5.0,
-      "reviewCount": 21,
-      "valueScore": 7.9,
-      "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-samsung-nz84c5047gku2-slim-fit-1476621.html",
-        "ceneo": "https://www.ceneo.pl/;szukaj-NZ84C5047GK",
-        "euro": "https://www.euro.com.pl/search.bhtml?keyword=NZ84C5047GK",
-        "komputronik": "https://www.komputronik.pl/search?query=NZ84C5047GK"
-      },
-      "priceHistory": [
-        {
-          "date": "2026-10-16",
-          "mediamarkt": 2899,
-          "ceneo": 2899
-        },
-        {
-          "date": "2026-10-17",
-          "mediamarkt": 2899,
-          "ceneo": 2899
-        },
-        {
-          "date": "2026-10-18",
-          "mediamarkt": 2899,
-          "ceneo": 2899
-        },
-        {
-          "date": "2026-10-19",
-          "mediamarkt": 2899,
-          "ceneo": 2899
-        },
-        {
-          "date": "2026-10-20",
-          "mediamarkt": 2899,
-          "ceneo": 2899
-        },
-        {
-          "date": "2026-10-21",
-          "mediamarkt": 2899,
-          "ceneo": 2899
-        },
-        {
-          "date": "2026-10-22",
-          "mediamarkt": 2899,
-          "ceneo": 2899
-        },
-        {
-          "date": "2026-10-23",
-          "mediamarkt": 2899,
-          "ceneo": 2899
-        },
-        {
-          "date": "2026-10-24",
-          "mediamarkt": 2899,
-          "ceneo": 2899
-        },
-        {
-          "date": "2026-10-25",
-          "mediamarkt": 2899,
-          "ceneo": 2899
-        },
-        {
-          "date": "2026-10-26",
-          "mediamarkt": 2899,
-          "ceneo": 2899
-        },
-        {
-          "date": "2026-10-27",
-          "mediamarkt": 2899,
-          "ceneo": 2899
-        },
-        {
-          "date": "2026-10-28",
-          "mediamarkt": 2899,
-          "ceneo": 2899
-        },
-        {
-          "date": "2026-10-29",
-          "mediamarkt": 2899,
-          "ceneo": 2899
-        },
-        {
-          "date": "2026-10-30",
-          "mediamarkt": 2899,
-          "ceneo": 2899
-        },
-        {
-          "date": "2026-10-31",
-          "mediamarkt": 2899,
-          "ceneo": 2899
-        },
-        {
-          "date": "2026-11-01",
-          "mediamarkt": 2899,
-          "ceneo": 2899
-        },
-        {
-          "date": "2026-11-02",
-          "mediamarkt": 2899,
-          "ceneo": 2899
-        },
-        {
-          "date": "2026-11-03",
-          "mediamarkt": 2899,
-          "ceneo": 2899
-        },
-        {
-          "date": "2026-11-04",
-          "mediamarkt": 2899,
-          "ceneo": 2899
-        },
-        {
-          "date": "2026-11-05",
-          "mediamarkt": 2899,
-          "ceneo": 2899
-        },
-        {
-          "date": "2026-11-06",
-          "mediamarkt": 2899,
-          "ceneo": 2899
-        },
-        {
-          "date": "2026-11-07",
-          "mediamarkt": 2899,
-          "ceneo": 2899
-        },
-        {
-          "date": "2026-11-08",
-          "mediamarkt": 2899,
-          "ceneo": 2899
-        },
-        {
-          "date": "2026-11-09",
-          "mediamarkt": 2899,
-          "ceneo": 2899
-        },
-        {
-          "date": "2026-11-10",
-          "mediamarkt": 2899,
-          "ceneo": 2899
-        },
-        {
-          "date": "2026-11-11",
-          "mediamarkt": 2899,
-          "ceneo": 2899
-        },
-        {
-          "date": "2026-11-12",
-          "mediamarkt": 2899,
-          "ceneo": 2899
-        },
-        {
-          "date": "2026-11-13",
-          "mediamarkt": 2899,
-          "ceneo": 2899
-        },
-        {
-          "date": "2026-11-14",
-          "mediamarkt": 2899,
-          "ceneo": 2899
-        },
-        {
-          "date": "2026-11-15",
-          "mediamarkt": 2899,
-          "ceneo": 2899
-        },
-        {
-          "date": "2026-11-16",
-          "mediamarkt": 2899,
-          "ceneo": 2899
-        },
-        {
-          "date": "2026-11-17",
-          "mediamarkt": 2899,
-          "ceneo": 2899
-        },
-        {
-          "date": "2026-11-18",
-          "mediamarkt": 2899,
-          "ceneo": 2899
-        }
-      ]
-    },
-    {
-      "id": "amica-pidh6140phtuln",
-      "name": "Płyta indukcyjna AMICA PIDH6140PHTULN 3.0",
-      "model": "PIDH6140PHTULN",
-      "brand": "AMICA",
-      "type": "induction",
-      "size": {
-        "widthCm": 60,
-        "rawWidth": 60,
-        "label": "60 cm (standard)",
-        "category": "60cm"
-      },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_143571791",
-      "mediamarktPrice": 1599,
-      "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
-      "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
-        "previousPrice": 1599,
-        "previousDate": "2026-11-17"
-      },
-      "rating": 5.0,
-      "reviewCount": 3,
-      "valueScore": 5.4,
-      "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-amica-pidh6140phtuln-30-1483827.html",
-        "ceneo": "https://www.ceneo.pl/;szukaj-PIDH6140PHTULN",
-        "euro": "https://www.euro.com.pl/search.bhtml?keyword=PIDH6140PHTULN",
-        "komputronik": "https://www.komputronik.pl/search?query=PIDH6140PHTULN"
-      },
-      "priceHistory": [
-        {
-          "date": "2026-10-16",
-          "mediamarkt": 1669,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-17",
-          "mediamarkt": 1669,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-18",
-          "mediamarkt": 1799,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-19",
-          "mediamarkt": 1669,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-20",
-          "mediamarkt": 1669,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-21",
-          "mediamarkt": 1669,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-22",
-          "mediamarkt": 1669,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-23",
-          "mediamarkt": 1599,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-24",
-          "mediamarkt": 1599,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-25",
-          "mediamarkt": 1599,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-26",
-          "mediamarkt": 1599,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-27",
-          "mediamarkt": 1599,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-28",
-          "mediamarkt": 1599,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-29",
-          "mediamarkt": 1599,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-30",
-          "mediamarkt": 1599,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-31",
-          "mediamarkt": 1599,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-01",
-          "mediamarkt": 1599,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-02",
-          "mediamarkt": 1599,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-03",
-          "mediamarkt": 1599,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-04",
-          "mediamarkt": 1599,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-05",
-          "mediamarkt": 1599,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-06",
-          "mediamarkt": 1599,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-07",
-          "mediamarkt": 1599,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-08",
-          "mediamarkt": 1599,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-09",
-          "mediamarkt": 1599,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-10",
-          "mediamarkt": 1599,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-11",
-          "mediamarkt": 1599,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-12",
-          "mediamarkt": 1599,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-13",
-          "mediamarkt": 1599,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-14",
-          "mediamarkt": 1599,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-15",
-          "mediamarkt": 1599,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-16",
-          "mediamarkt": 1599,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-17",
-          "mediamarkt": 1599,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-18",
-          "mediamarkt": 1599,
-          "ceneo": null
-        }
-      ]
-    },
-    {
-      "id": "beko-hii64730uft",
-      "name": "Płyta indukcyjna BEKO HII64730UFT",
-      "model": "HII64730UFT",
-      "brand": "BEKO",
-      "type": "induction",
-      "size": {
-        "widthCm": 60,
-        "rawWidth": 60,
-        "label": "60 cm (standard)",
-        "category": "60cm"
-      },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_133331457",
-      "mediamarktPrice": 1269,
-      "ceneoPrice": 1268.99,
-      "ceneoCheckedAt": "2026-11-18",
-      "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
-        "previousPrice": 1269,
-        "previousDate": "2026-11-17"
-      },
-      "rating": 4.86,
-      "reviewCount": 7,
-      "valueScore": 10.1,
-      "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-beko-hii64730uft-1462251.html",
-        "ceneo": "https://www.ceneo.pl/;szukaj-HII64730UFT",
-        "euro": "https://www.euro.com.pl/search.bhtml?keyword=HII64730UFT",
-        "komputronik": "https://www.komputronik.pl/search?query=HII64730UFT"
-      },
-      "priceHistory": [
-        {
-          "date": "2026-10-16",
-          "mediamarkt": 1269,
-          "ceneo": 1268.99
-        },
-        {
-          "date": "2026-10-17",
-          "mediamarkt": 1269,
-          "ceneo": 1268.99
-        },
-        {
-          "date": "2026-10-18",
-          "mediamarkt": 1299,
-          "ceneo": 1268.99
-        },
-        {
-          "date": "2026-10-19",
-          "mediamarkt": 1269,
-          "ceneo": 1268.99
-        },
-        {
-          "date": "2026-10-20",
-          "mediamarkt": 1269,
-          "ceneo": 1268.99
-        },
-        {
-          "date": "2026-10-21",
-          "mediamarkt": 1269,
-          "ceneo": 1268.99
-        },
-        {
-          "date": "2026-10-22",
-          "mediamarkt": 1269,
-          "ceneo": 1268.99
-        },
-        {
-          "date": "2026-10-23",
-          "mediamarkt": 1269,
-          "ceneo": 1268.99
-        },
-        {
-          "date": "2026-10-24",
-          "mediamarkt": 1269,
-          "ceneo": 1268.99
-        },
-        {
-          "date": "2026-10-25",
-          "mediamarkt": 1269,
-          "ceneo": 1268.99
-        },
-        {
-          "date": "2026-10-26",
-          "mediamarkt": 1269,
-          "ceneo": 1268.99
-        },
-        {
-          "date": "2026-10-27",
-          "mediamarkt": 1269,
-          "ceneo": 1268.99
-        },
-        {
-          "date": "2026-10-28",
-          "mediamarkt": 1269,
-          "ceneo": 1268.99
-        },
-        {
-          "date": "2026-10-29",
-          "mediamarkt": 1269,
-          "ceneo": 1268.99
-        },
-        {
-          "date": "2026-10-30",
-          "mediamarkt": 1269,
-          "ceneo": 1268.99
-        },
-        {
-          "date": "2026-10-31",
-          "mediamarkt": 1269,
-          "ceneo": 1268.99
-        },
-        {
-          "date": "2026-11-01",
-          "mediamarkt": 1269,
-          "ceneo": 1268.99
-        },
-        {
-          "date": "2026-11-02",
-          "mediamarkt": 1269,
-          "ceneo": 1268.99
-        },
-        {
-          "date": "2026-11-03",
-          "mediamarkt": 1269,
-          "ceneo": 1268.99
-        },
-        {
-          "date": "2026-11-04",
-          "mediamarkt": 1269,
-          "ceneo": 1268.99
-        },
-        {
-          "date": "2026-11-05",
-          "mediamarkt": 1269,
-          "ceneo": 1268.99
-        },
-        {
-          "date": "2026-11-06",
-          "mediamarkt": 1269,
-          "ceneo": 1268.99
-        },
-        {
-          "date": "2026-11-07",
-          "mediamarkt": 1269,
-          "ceneo": 1268.99
-        },
-        {
-          "date": "2026-11-08",
-          "mediamarkt": 1269,
-          "ceneo": 1268.99
-        },
-        {
-          "date": "2026-11-09",
-          "mediamarkt": 1269,
-          "ceneo": 1268.99
-        },
-        {
-          "date": "2026-11-10",
-          "mediamarkt": 1269,
-          "ceneo": 1268.99
-        },
-        {
-          "date": "2026-11-11",
-          "mediamarkt": 1269,
-          "ceneo": 1268.99
-        },
-        {
-          "date": "2026-11-12",
-          "mediamarkt": 1269,
-          "ceneo": 1268.99
-        },
-        {
-          "date": "2026-11-13",
-          "mediamarkt": 1269,
-          "ceneo": 1268.99
-        },
-        {
-          "date": "2026-11-14",
-          "mediamarkt": 1269,
-          "ceneo": 1268.99
-        },
-        {
-          "date": "2026-11-15",
-          "mediamarkt": 1269,
-          "ceneo": 1268.99
-        },
-        {
-          "date": "2026-11-16",
-          "mediamarkt": 1269,
-          "ceneo": 1268.99
-        },
-        {
-          "date": "2026-11-17",
-          "mediamarkt": 1269,
-          "ceneo": 1268.99
-        },
-        {
-          "date": "2026-11-18",
-          "mediamarkt": 1269,
-          "ceneo": 1268.99
-        }
-      ]
-    },
-    {
-      "id": "siemens-ex801lvc1e",
-      "name": "Płyta indukcyjna SIEMENS EX801LVC1E",
-      "model": "EX801LVC1E",
-      "brand": "SIEMENS",
-      "type": "induction",
-      "size": {
-        "widthCm": 60,
-        "rawWidth": 60,
-        "label": "60 cm (standard)",
-        "category": "60cm"
-      },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_133328766",
-      "mediamarktPrice": 3649,
-      "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
-      "priceChange": {
-        "trend": "up",
-        "delta": 50,
-        "percent": 1.4,
-        "previousPrice": 3599,
-        "previousDate": "2026-11-17"
-      },
-      "rating": 4.91,
-      "reviewCount": 64,
-      "valueScore": 10.8,
-      "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-siemens-ex801lvc1e-1349142.html",
-        "ceneo": "https://www.ceneo.pl/;szukaj-EX801LVC1E",
-        "euro": "https://www.euro.com.pl/search.bhtml?keyword=EX801LVC1E",
-        "komputronik": "https://www.komputronik.pl/search?query=EX801LVC1E"
-      },
-      "priceHistory": [
-        {
-          "date": "2026-10-16",
-          "mediamarkt": 3649,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-17",
-          "mediamarkt": 3649,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-18",
-          "mediamarkt": 3649,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-19",
-          "mediamarkt": 3649,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-20",
-          "mediamarkt": 3649,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-21",
-          "mediamarkt": 3649,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-22",
-          "mediamarkt": 3649,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-23",
-          "mediamarkt": 3649,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-24",
-          "mediamarkt": 3649,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-25",
-          "mediamarkt": 3649,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-26",
-          "mediamarkt": 3649,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-27",
-          "mediamarkt": 3649,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-28",
-          "mediamarkt": 3649,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-29",
-          "mediamarkt": 3649,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-30",
-          "mediamarkt": 3649,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-31",
-          "mediamarkt": 3649,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-01",
-          "mediamarkt": 4099,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-02",
-          "mediamarkt": 3649,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-03",
-          "mediamarkt": 3649,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-04",
-          "mediamarkt": 3649,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-05",
-          "mediamarkt": 3649,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-06",
-          "mediamarkt": 3649,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-07",
-          "mediamarkt": 3649,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-08",
-          "mediamarkt": 3649,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-09",
-          "mediamarkt": 3649,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-10",
-          "mediamarkt": 3599,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-11",
-          "mediamarkt": 3599,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-12",
-          "mediamarkt": 3599,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-13",
-          "mediamarkt": 3599,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-14",
-          "mediamarkt": 3599,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-15",
-          "mediamarkt": 3599,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-16",
-          "mediamarkt": 3599,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-17",
-          "mediamarkt": 3599,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-18",
-          "mediamarkt": 3649,
-          "ceneo": null
-        }
-      ]
-    },
-    {
-      "id": "samsung-nz64t3707c1",
-      "name": "Płyta indukcyjna SAMSUNG NZ64T3707C1/UR",
-      "model": "NZ64T3707C1",
-      "brand": "SAMSUNG",
-      "type": "induction",
-      "size": {
-        "widthCm": 60,
-        "rawWidth": 60,
-        "label": "60 cm (standard)",
-        "category": "60cm"
-      },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_106623547",
-      "mediamarktPrice": 1399,
-      "ceneoPrice": 1499,
-      "ceneoCheckedAt": "2026-11-18",
-      "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
-        "previousPrice": 1399,
-        "previousDate": "2026-11-17"
-      },
-      "rating": 5.0,
-      "reviewCount": 10,
-      "valueScore": 11.3,
-      "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-samsung-nz64t3707c1ur-1458073.html",
-        "ceneo": "https://www.ceneo.pl/;szukaj-NZ64T3707C1",
-        "euro": "https://www.euro.com.pl/search.bhtml?keyword=NZ64T3707C1",
-        "komputronik": "https://www.komputronik.pl/search?query=NZ64T3707C1"
-      },
-      "priceHistory": [
-        {
-          "date": "2026-10-16",
-          "mediamarkt": 1499,
-          "ceneo": 1499
-        },
-        {
-          "date": "2026-10-17",
-          "mediamarkt": 1499,
-          "ceneo": 1499
-        },
-        {
-          "date": "2026-10-18",
-          "mediamarkt": 1499,
-          "ceneo": 1499
-        },
-        {
-          "date": "2026-10-19",
-          "mediamarkt": 1499,
-          "ceneo": 1499
-        },
-        {
-          "date": "2026-10-20",
-          "mediamarkt": 1499,
-          "ceneo": 1499
-        },
-        {
-          "date": "2026-10-21",
-          "mediamarkt": 1499,
-          "ceneo": 1499
-        },
-        {
-          "date": "2026-10-22",
-          "mediamarkt": 1499,
-          "ceneo": 1499
-        },
-        {
-          "date": "2026-10-23",
-          "mediamarkt": 1499,
-          "ceneo": 1499
-        },
-        {
-          "date": "2026-10-24",
-          "mediamarkt": 1499,
-          "ceneo": 1499
-        },
-        {
-          "date": "2026-10-25",
-          "mediamarkt": 1499,
-          "ceneo": 1499
-        },
-        {
-          "date": "2026-10-26",
-          "mediamarkt": 1399,
-          "ceneo": 1499
-        },
-        {
-          "date": "2026-10-27",
-          "mediamarkt": 1399,
-          "ceneo": 1499
-        },
-        {
-          "date": "2026-10-28",
-          "mediamarkt": 1399,
-          "ceneo": 1499
-        },
-        {
-          "date": "2026-10-29",
-          "mediamarkt": 1399,
-          "ceneo": 1499
-        },
-        {
-          "date": "2026-10-30",
-          "mediamarkt": 1399,
-          "ceneo": 1499
-        },
-        {
-          "date": "2026-10-31",
-          "mediamarkt": 1399,
-          "ceneo": 1499
-        },
-        {
-          "date": "2026-11-01",
-          "mediamarkt": 1399,
-          "ceneo": 1499
-        },
-        {
-          "date": "2026-11-02",
-          "mediamarkt": 1399,
-          "ceneo": 1499
-        },
-        {
-          "date": "2026-11-03",
-          "mediamarkt": 1399,
-          "ceneo": 1499
-        },
-        {
-          "date": "2026-11-04",
-          "mediamarkt": 1399,
-          "ceneo": 1499
-        },
-        {
-          "date": "2026-11-05",
-          "mediamarkt": 1399,
-          "ceneo": 1499
-        },
-        {
-          "date": "2026-11-06",
-          "mediamarkt": 1399,
-          "ceneo": 1499
-        },
-        {
-          "date": "2026-11-07",
-          "mediamarkt": 1399,
-          "ceneo": 1499
-        },
-        {
-          "date": "2026-11-08",
-          "mediamarkt": 1399,
-          "ceneo": 1499
-        },
-        {
-          "date": "2026-11-09",
-          "mediamarkt": 1399,
-          "ceneo": 1499
-        },
-        {
-          "date": "2026-11-10",
-          "mediamarkt": 1399,
-          "ceneo": 1499
-        },
-        {
-          "date": "2026-11-11",
-          "mediamarkt": 1399,
-          "ceneo": 1499
-        },
-        {
-          "date": "2026-11-12",
-          "mediamarkt": 1399,
-          "ceneo": 1499
-        },
-        {
-          "date": "2026-11-13",
-          "mediamarkt": 1399,
-          "ceneo": 1499
-        },
-        {
-          "date": "2026-11-14",
-          "mediamarkt": 1399,
-          "ceneo": 1499
-        },
-        {
-          "date": "2026-11-15",
-          "mediamarkt": 1399,
-          "ceneo": 1499
-        },
-        {
-          "date": "2026-11-16",
-          "mediamarkt": 1399,
-          "ceneo": 1499
-        },
-        {
-          "date": "2026-11-17",
-          "mediamarkt": 1399,
-          "ceneo": 1499
-        },
-        {
-          "date": "2026-11-18",
-          "mediamarkt": 1399,
-          "ceneo": 1499
-        }
-      ]
-    },
-    {
-      "id": "whirlpool-wls5360bfw",
-      "name": "Płyta indukcyjna WHIRLPOOL WLS5360BFW FlexiCook 18 poziomów mocy 59cm Biały",
-      "model": "WLS5360BFW",
-      "brand": "WHIRLPOOL",
-      "type": "induction",
-      "size": {
-        "widthCm": 60,
-        "rawWidth": 59,
-        "label": "60 cm (standard)",
-        "category": "60cm"
-      },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_159616030",
-      "mediamarktPrice": 1699,
-      "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
-      "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
-        "previousPrice": 1699,
-        "previousDate": "2026-11-17"
-      },
-      "rating": 4.88,
-      "reviewCount": 135,
-      "valueScore": 33.4,
-      "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-whirlpool-wls5360bfw-1433760.html",
-        "ceneo": "https://www.ceneo.pl/;szukaj-WLS5360BFW",
-        "euro": "https://www.euro.com.pl/search.bhtml?keyword=WLS5360BFW",
-        "komputronik": "https://www.komputronik.pl/search?query=WLS5360BFW"
-      },
-      "priceHistory": [
-        {
-          "date": "2026-10-16",
-          "mediamarkt": 1699,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-17",
-          "mediamarkt": 1699,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-18",
-          "mediamarkt": 1849,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-19",
-          "mediamarkt": 1699,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-20",
-          "mediamarkt": 1699,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-21",
-          "mediamarkt": 1699,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-22",
-          "mediamarkt": 1699,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-23",
-          "mediamarkt": 1699,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-24",
-          "mediamarkt": 1699,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-25",
-          "mediamarkt": 1699,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-26",
-          "mediamarkt": 1699,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-27",
-          "mediamarkt": 1699,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-28",
-          "mediamarkt": 1699,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-29",
-          "mediamarkt": 1699,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-30",
-          "mediamarkt": 1699,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-31",
-          "mediamarkt": 1699,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-01",
-          "mediamarkt": 1699,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-02",
-          "mediamarkt": 1699,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-03",
-          "mediamarkt": 1699,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-04",
-          "mediamarkt": 1699,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-05",
-          "mediamarkt": 1699,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-06",
-          "mediamarkt": 1699,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-07",
-          "mediamarkt": 1699,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-08",
-          "mediamarkt": 1699,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-09",
-          "mediamarkt": 1699,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-10",
-          "mediamarkt": 1699,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-11",
-          "mediamarkt": 1699,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-12",
-          "mediamarkt": 1699,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-13",
-          "mediamarkt": 1699,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-14",
-          "mediamarkt": 1699,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-15",
-          "mediamarkt": 1699,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-16",
-          "mediamarkt": 1699,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-17",
-          "mediamarkt": 1699,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-18",
-          "mediamarkt": 1699,
-          "ceneo": null
-        }
-      ]
-    },
-    {
-      "id": "siemens-eh631beb6e",
-      "name": "Płyta indukcyjna do zabudowy SIEMENS EH631BEB6E Czarny",
-      "model": "EH631BEB6E",
-      "brand": "SIEMENS",
-      "type": "induction",
-      "size": {
-        "widthCm": 60,
-        "rawWidth": 60,
-        "label": "60 cm (standard)",
-        "category": "60cm"
-      },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_159011205",
-      "mediamarktPrice": 1519,
-      "ceneoPrice": 1567,
-      "ceneoCheckedAt": "2026-11-18",
-      "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
-        "previousPrice": 1519,
-        "previousDate": "2026-11-17"
-      },
-      "rating": 5.0,
-      "reviewCount": 6,
-      "valueScore": 8.1,
-      "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-do-zabudowy-siemens-eh631beb6e-czarny-1496448.html",
-        "ceneo": "https://www.ceneo.pl/;szukaj-EH631BEB6E",
-        "euro": "https://www.euro.com.pl/search.bhtml?keyword=EH631BEB6E",
-        "komputronik": "https://www.komputronik.pl/search?query=EH631BEB6E"
-      },
-      "priceHistory": [
-        {
-          "date": "2026-10-16",
-          "mediamarkt": 1569,
-          "ceneo": 1567
-        },
-        {
-          "date": "2026-10-17",
-          "mediamarkt": 1569,
-          "ceneo": 1567
-        },
-        {
-          "date": "2026-10-18",
-          "mediamarkt": 1569,
-          "ceneo": 1567
-        },
-        {
-          "date": "2026-10-19",
-          "mediamarkt": 1569,
-          "ceneo": 1567
-        },
-        {
-          "date": "2026-10-20",
-          "mediamarkt": 1569,
-          "ceneo": 1567
-        },
-        {
-          "date": "2026-10-21",
-          "mediamarkt": 1569,
-          "ceneo": 1567
-        },
-        {
-          "date": "2026-10-22",
-          "mediamarkt": 1569,
-          "ceneo": 1567
-        },
-        {
-          "date": "2026-10-23",
-          "mediamarkt": 1569,
-          "ceneo": 1567
-        },
-        {
-          "date": "2026-10-24",
-          "mediamarkt": 1569,
-          "ceneo": 1567
-        },
-        {
-          "date": "2026-10-25",
-          "mediamarkt": 1569,
-          "ceneo": 1567
-        },
-        {
-          "date": "2026-10-26",
-          "mediamarkt": 1569,
-          "ceneo": 1567
-        },
-        {
-          "date": "2026-10-27",
-          "mediamarkt": 1569,
-          "ceneo": 1567
-        },
-        {
-          "date": "2026-10-28",
-          "mediamarkt": 1569,
-          "ceneo": 1567
-        },
-        {
-          "date": "2026-10-29",
-          "mediamarkt": 1569,
-          "ceneo": 1567
-        },
-        {
-          "date": "2026-10-30",
-          "mediamarkt": 1569,
-          "ceneo": 1567
-        },
-        {
-          "date": "2026-10-31",
-          "mediamarkt": 1569,
-          "ceneo": 1567
-        },
-        {
-          "date": "2026-11-01",
-          "mediamarkt": 1569,
-          "ceneo": 1567
-        },
-        {
-          "date": "2026-11-02",
-          "mediamarkt": 1529,
-          "ceneo": 1567
-        },
-        {
-          "date": "2026-11-03",
-          "mediamarkt": 1529,
-          "ceneo": 1567
-        },
-        {
-          "date": "2026-11-04",
-          "mediamarkt": 1529,
-          "ceneo": 1567
-        },
-        {
-          "date": "2026-11-05",
-          "mediamarkt": 1529,
-          "ceneo": 1567
-        },
-        {
-          "date": "2026-11-06",
-          "mediamarkt": 1529,
-          "ceneo": 1567
-        },
-        {
-          "date": "2026-11-07",
-          "mediamarkt": 1529,
-          "ceneo": 1567
-        },
-        {
-          "date": "2026-11-08",
-          "mediamarkt": 1529,
-          "ceneo": 1567
-        },
-        {
-          "date": "2026-11-09",
-          "mediamarkt": 1529,
-          "ceneo": 1567
-        },
-        {
-          "date": "2026-11-10",
-          "mediamarkt": 1529,
-          "ceneo": 1567
-        },
-        {
-          "date": "2026-11-11",
-          "mediamarkt": 1549,
-          "ceneo": 1567
-        },
-        {
-          "date": "2026-11-12",
-          "mediamarkt": 1549,
-          "ceneo": 1567
-        },
-        {
-          "date": "2026-11-13",
-          "mediamarkt": 1549,
-          "ceneo": 1567
-        },
-        {
-          "date": "2026-11-14",
-          "mediamarkt": 1549,
-          "ceneo": 1567
-        },
-        {
-          "date": "2026-11-15",
-          "mediamarkt": 1549,
-          "ceneo": 1567
-        },
-        {
-          "date": "2026-11-16",
-          "mediamarkt": 1519,
-          "ceneo": 1567
-        },
-        {
-          "date": "2026-11-17",
-          "mediamarkt": 1519,
-          "ceneo": 1567
-        },
-        {
-          "date": "2026-11-18",
-          "mediamarkt": 1519,
-          "ceneo": 1567
-        }
-      ]
-    },
-    {
-      "id": "beko-hii68811nt",
-      "name": "Płyta indukcyjna BEKO HII68811NT",
-      "model": "HII68811NT",
-      "brand": "BEKO",
-      "type": "induction",
-      "size": {
-        "widthCm": 60,
-        "rawWidth": 60,
-        "label": "60 cm (standard)",
-        "category": "60cm"
-      },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_152660705",
-      "mediamarktPrice": 2399,
-      "ceneoPrice": 2297,
-      "ceneoCheckedAt": "2026-11-18",
-      "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
-        "previousPrice": 2399,
-        "previousDate": "2026-11-17"
-      },
-      "rating": 4.3,
-      "reviewCount": 20,
-      "valueScore": 8.0,
-      "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-beko-hii68811nt-1434473.html",
-        "ceneo": "https://www.ceneo.pl/;szukaj-HII68811NT",
-        "euro": "https://www.euro.com.pl/search.bhtml?keyword=HII68811NT",
-        "komputronik": "https://www.komputronik.pl/search?query=HII68811NT"
-      },
-      "priceHistory": [
-        {
-          "date": "2026-10-16",
-          "mediamarkt": 2299,
-          "ceneo": 2297
-        },
-        {
-          "date": "2026-10-17",
-          "mediamarkt": 2299,
-          "ceneo": 2297
-        },
-        {
-          "date": "2026-10-18",
-          "mediamarkt": 2299,
-          "ceneo": 2297
-        },
-        {
-          "date": "2026-10-19",
-          "mediamarkt": 2299,
-          "ceneo": 2297
-        },
-        {
-          "date": "2026-10-20",
-          "mediamarkt": 2299,
-          "ceneo": 2297
-        },
-        {
-          "date": "2026-10-21",
-          "mediamarkt": 2299,
-          "ceneo": 2297
-        },
-        {
-          "date": "2026-10-22",
-          "mediamarkt": 2299,
-          "ceneo": 2297
-        },
-        {
-          "date": "2026-10-23",
-          "mediamarkt": 2299,
-          "ceneo": 2297
-        },
-        {
-          "date": "2026-10-24",
-          "mediamarkt": 2299,
-          "ceneo": 2297
-        },
-        {
-          "date": "2026-10-25",
-          "mediamarkt": 2299,
-          "ceneo": 2297
-        },
-        {
-          "date": "2026-10-26",
-          "mediamarkt": 2299,
-          "ceneo": 2297
-        },
-        {
-          "date": "2026-10-27",
-          "mediamarkt": 2299,
-          "ceneo": 2297
-        },
-        {
-          "date": "2026-10-28",
-          "mediamarkt": 2299,
-          "ceneo": 2297
-        },
-        {
-          "date": "2026-10-29",
-          "mediamarkt": 2299,
-          "ceneo": 2297
-        },
-        {
-          "date": "2026-10-30",
-          "mediamarkt": 2299,
-          "ceneo": 2297
-        },
-        {
-          "date": "2026-10-31",
-          "mediamarkt": 2299,
-          "ceneo": 2297
         },
         {
-          "date": "2026-11-01",
+          "date": "2026-11-19",
           "mediamarkt": 2399,
-          "ceneo": 2297
-        },
-        {
-          "date": "2026-11-02",
-          "mediamarkt": 2399,
-          "ceneo": 2297
-        },
-        {
-          "date": "2026-11-03",
-          "mediamarkt": 2399,
-          "ceneo": 2297
-        },
-        {
-          "date": "2026-11-04",
-          "mediamarkt": 2399,
-          "ceneo": 2297
-        },
-        {
-          "date": "2026-11-05",
-          "mediamarkt": 2399,
-          "ceneo": 2297
-        },
-        {
-          "date": "2026-11-06",
-          "mediamarkt": 2399,
-          "ceneo": 2297
-        },
-        {
-          "date": "2026-11-07",
-          "mediamarkt": 2399,
-          "ceneo": 2297
-        },
-        {
-          "date": "2026-11-08",
-          "mediamarkt": 2399,
-          "ceneo": 2297
-        },
-        {
-          "date": "2026-11-09",
-          "mediamarkt": 2399,
-          "ceneo": 2297
-        },
-        {
-          "date": "2026-11-10",
-          "mediamarkt": 2399,
-          "ceneo": 2297
-        },
-        {
-          "date": "2026-11-11",
-          "mediamarkt": 2399,
-          "ceneo": 2297
-        },
-        {
-          "date": "2026-11-12",
-          "mediamarkt": 2399,
-          "ceneo": 2297
-        },
-        {
-          "date": "2026-11-13",
-          "mediamarkt": 2399,
-          "ceneo": 2297
-        },
-        {
-          "date": "2026-11-14",
-          "mediamarkt": 2399,
-          "ceneo": 2297
-        },
-        {
-          "date": "2026-11-15",
-          "mediamarkt": 2399,
-          "ceneo": 2297
-        },
-        {
-          "date": "2026-11-16",
-          "mediamarkt": 2399,
-          "ceneo": 2297
-        },
-        {
-          "date": "2026-11-17",
-          "mediamarkt": 2399,
-          "ceneo": 2297
-        },
-        {
-          "date": "2026-11-18",
-          "mediamarkt": 2399,
-          "ceneo": 2297
-        }
-      ]
-    },
-    {
-      "id": "amica-pim6540phtun",
-      "name": "Płyta indukcyjna AMICA PIM6540PHTUN 3.0",
-      "model": "PIM6540PHTUN",
-      "brand": "AMICA",
-      "type": "induction",
-      "size": {
-        "widthCm": 60,
-        "rawWidth": 60,
-        "label": "60 cm (standard)",
-        "category": "60cm"
-      },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_143948140",
-      "mediamarktPrice": 1299,
-      "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
-      "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
-        "previousPrice": 1299,
-        "previousDate": "2026-11-17"
-      },
-      "rating": 4.5,
-      "reviewCount": 2,
-      "valueScore": 4.9,
-      "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-amica-pim6540phtun-30-studio-1483825.html",
-        "ceneo": "https://www.ceneo.pl/;szukaj-PIM6540PHTUN",
-        "euro": "https://www.euro.com.pl/search.bhtml?keyword=PIM6540PHTUN",
-        "komputronik": "https://www.komputronik.pl/search?query=PIM6540PHTUN"
-      },
-      "priceHistory": [
-        {
-          "date": "2026-10-16",
-          "mediamarkt": 1299,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-17",
-          "mediamarkt": 1299,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-18",
-          "mediamarkt": 1299,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-19",
-          "mediamarkt": 1299,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-20",
-          "mediamarkt": 1299,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-21",
-          "mediamarkt": 1299,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-22",
-          "mediamarkt": 1299,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-23",
-          "mediamarkt": 1299,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-24",
-          "mediamarkt": 1299,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-25",
-          "mediamarkt": 1299,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-26",
-          "mediamarkt": 1299,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-27",
-          "mediamarkt": 1299,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-28",
-          "mediamarkt": 1299,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-29",
-          "mediamarkt": 1299,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-30",
-          "mediamarkt": 1299,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-31",
-          "mediamarkt": 1299,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-01",
-          "mediamarkt": 1299,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-02",
-          "mediamarkt": 1299,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-03",
-          "mediamarkt": 1299,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-04",
-          "mediamarkt": 1299,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-05",
-          "mediamarkt": 1299,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-06",
-          "mediamarkt": 1299,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-07",
-          "mediamarkt": 1299,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-08",
-          "mediamarkt": 1299,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-09",
-          "mediamarkt": 1299,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-10",
-          "mediamarkt": 1299,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-11",
-          "mediamarkt": 1299,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-12",
-          "mediamarkt": 1299,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-13",
-          "mediamarkt": 1299,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-14",
-          "mediamarkt": 1299,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-15",
-          "mediamarkt": 1299,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-16",
-          "mediamarkt": 1299,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-17",
-          "mediamarkt": 1299,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-18",
-          "mediamarkt": 1299,
-          "ceneo": null
-        }
-      ]
-    },
-    {
-      "id": "inna-km8484",
-      "name": "Płyta indukcyjna do zabudowy MIELE KM 8484 FL Czarny",
-      "model": "KM 8484",
-      "brand": "INNA",
-      "type": "induction",
-      "size": {
-        "widthCm": 60,
-        "rawWidth": 60,
-        "label": "60 cm (standard)",
-        "category": "60cm"
-      },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_180466243",
-      "mediamarktPrice": 7499,
-      "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
-      "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
-        "previousPrice": 7499,
-        "previousDate": "2026-11-17"
-      },
-      "rating": null,
-      "reviewCount": 0,
-      "valueScore": 0.0,
-      "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-do-zabudowy-miele-km-8484-f-czarny-1506511.html",
-        "ceneo": "https://www.ceneo.pl/;szukaj-KM 8484",
-        "euro": "https://www.euro.com.pl/search.bhtml?keyword=KM 8484",
-        "komputronik": "https://www.komputronik.pl/search?query=KM 8484"
-      },
-      "priceHistory": [
-        {
-          "date": "2026-11-16",
-          "mediamarkt": 7499,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-17",
-          "mediamarkt": 7499,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-18",
-          "mediamarkt": 7499,
-          "ceneo": null
-        }
-      ]
-    },
-    {
-      "id": "teka-ibf95g1",
-      "name": "Płyta indukcyjna TEKA IBF 95-G1 MST BM 90cm Czarny",
-      "model": "IBF 95-G1",
-      "brand": "TEKA",
-      "type": "induction",
-      "size": {
-        "widthCm": 90,
-        "rawWidth": 90,
-        "label": "90 cm",
-        "category": "90cm"
-      },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_181891278",
-      "mediamarktPrice": 3899,
-      "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
-      "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
-        "previousPrice": 3899,
-        "previousDate": "2026-11-18"
-      },
-      "rating": null,
-      "reviewCount": 0,
-      "valueScore": 0.0,
-      "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-teka-ibf-95-g1-mst-bm-90cm-czarny-1506790.html",
-        "ceneo": "https://www.ceneo.pl/;szukaj-IBF 95-G1",
-        "euro": "https://www.euro.com.pl/search.bhtml?keyword=IBF 95-G1",
-        "komputronik": "https://www.komputronik.pl/search?query=IBF 95-G1"
-      },
-      "priceHistory": [
-        {
-          "date": "2026-11-18",
-          "mediamarkt": 3899,
-          "ceneo": null
-        }
-      ]
-    },
-    {
-      "id": "teka-ibf66215",
-      "name": "Płyta indukcyjna do zabudowy TEKA IBF 66215 SSM BK Czarny",
-      "model": "IBF 66215",
-      "brand": "TEKA",
-      "type": "induction",
-      "size": {
-        "widthCm": 60,
-        "rawWidth": 60,
-        "label": "60 cm (standard)",
-        "category": "60cm"
-      },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_181889674",
-      "mediamarktPrice": 1299,
-      "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
-      "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
-        "previousPrice": 1299,
-        "previousDate": "2026-11-17"
-      },
-      "rating": null,
-      "reviewCount": 0,
-      "valueScore": 0.0,
-      "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-do-zabudowy-teka-ibf-66215-ssm-bk-czarny-1506815.html",
-        "ceneo": "https://www.ceneo.pl/;szukaj-IBF 66215",
-        "euro": "https://www.euro.com.pl/search.bhtml?keyword=IBF 66215",
-        "komputronik": "https://www.komputronik.pl/search?query=IBF 66215"
-      },
-      "priceHistory": [
-        {
-          "date": "2026-11-17",
-          "mediamarkt": 1299,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-18",
-          "mediamarkt": 1299,
-          "ceneo": null
-        }
-      ]
-    },
-    {
-      "id": "bosch-pib375fb1e",
-      "name": "Płyta indukcyjna BOSCH PIB375FB1E Czarny",
-      "model": "PIB375FB1E",
-      "brand": "BOSCH",
-      "type": "induction",
-      "size": {
-        "widthCm": 60,
-        "rawWidth": 60,
-        "label": "60 cm (standard)",
-        "category": "60cm"
-      },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_137552395",
-      "mediamarktPrice": 1758,
-      "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
-      "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
-        "previousPrice": 1758,
-        "previousDate": "2026-11-17"
-      },
-      "rating": 4.94,
-      "reviewCount": 16,
-      "valueScore": 11.2,
-      "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_pyta-indukcyjna-bosch-pib375fb1e-czarny-86659698.html",
-        "ceneo": "https://www.ceneo.pl/;szukaj-PIB375FB1E",
-        "euro": "https://www.euro.com.pl/search.bhtml?keyword=PIB375FB1E",
-        "komputronik": "https://www.komputronik.pl/search?query=PIB375FB1E"
-      },
-      "priceHistory": [
-        {
-          "date": "2026-11-11",
-          "mediamarkt": 1740,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-12",
-          "mediamarkt": 1740,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-13",
-          "mediamarkt": 1740,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-14",
-          "mediamarkt": 1740,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-15",
-          "mediamarkt": 1740,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-16",
-          "mediamarkt": 1740,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-17",
-          "mediamarkt": 1758,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-18",
-          "mediamarkt": 1758,
-          "ceneo": null
-        }
-      ]
-    },
-    {
-      "id": "samsung-nz64f3nm1ab",
-      "name": "Płyta SAMSUNG NZ64F3NM1AB",
-      "model": "NZ64F3NM1AB",
-      "brand": "SAMSUNG",
-      "type": "induction",
-      "size": {
-        "widthCm": 60,
-        "rawWidth": 60,
-        "label": "60 cm (standard)",
-        "category": "60cm"
-      },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_106623414",
-      "mediamarktPrice": 1449,
-      "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
-      "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
-        "previousPrice": 1449,
-        "previousDate": "2026-11-17"
-      },
-      "rating": 4.63,
-      "reviewCount": 27,
-      "valueScore": 16.6,
-      "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-samsung-nz64f3nm1ab-1200083.html",
-        "ceneo": "https://www.ceneo.pl/;szukaj-NZ64F3NM1AB",
-        "euro": "https://www.euro.com.pl/search.bhtml?keyword=NZ64F3NM1AB",
-        "komputronik": "https://www.komputronik.pl/search?query=NZ64F3NM1AB"
-      },
-      "priceHistory": [
-        {
-          "date": "2026-11-10",
-          "mediamarkt": 1099,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-11",
-          "mediamarkt": 1449,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-12",
-          "mediamarkt": 1449,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-13",
-          "mediamarkt": 1449,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-14",
-          "mediamarkt": 1449,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-15",
-          "mediamarkt": 1449,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-16",
-          "mediamarkt": 1449,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-17",
-          "mediamarkt": 1449,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-18",
-          "mediamarkt": 1449,
-          "ceneo": null
-        }
-      ]
-    },
-    {
-      "id": "amica-pim6541phtsun-2",
-      "name": "Płyta indukcyjna AMICA PIM6541PHTSUN 3.0",
-      "model": "PIM6541PHTSUN",
-      "brand": "AMICA",
-      "type": "induction",
-      "size": {
-        "widthCm": 60,
-        "rawWidth": 60,
-        "label": "60 cm (standard)",
-        "category": "60cm"
-      },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_112643689",
-      "mediamarktPrice": 1249,
-      "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
-      "priceChange": {
-        "trend": "down",
-        "delta": -150,
-        "percent": -10.7,
-        "previousPrice": 1399,
-        "previousDate": "2026-11-17"
-      },
-      "rating": 4.62,
-      "reviewCount": 24,
-      "valueScore": 18.1,
-      "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-amica-pim6541phtsun-30-1475605.html",
-        "ceneo": "https://www.ceneo.pl/;szukaj-PIM6541PHTSUN",
-        "euro": "https://www.euro.com.pl/search.bhtml?keyword=PIM6541PHTSUN",
-        "komputronik": "https://www.komputronik.pl/search?query=PIM6541PHTSUN"
-      },
-      "priceHistory": [
-        {
-          "date": "2026-10-18",
-          "mediamarkt": 1499,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-19",
-          "mediamarkt": 1499,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-20",
-          "mediamarkt": 1499,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-21",
-          "mediamarkt": 1499,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-22",
-          "mediamarkt": 1499,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-23",
-          "mediamarkt": 1499,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-24",
-          "mediamarkt": 1499,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-25",
-          "mediamarkt": 1499,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-26",
-          "mediamarkt": 1399,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-27",
-          "mediamarkt": 1399,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-28",
-          "mediamarkt": 1399,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-29",
-          "mediamarkt": 1399,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-30",
-          "mediamarkt": 1399,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-31",
-          "mediamarkt": 1399,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-01",
-          "mediamarkt": 1399,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-02",
-          "mediamarkt": 1399,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-03",
-          "mediamarkt": 1399,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-04",
-          "mediamarkt": 1399,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-05",
-          "mediamarkt": 1399,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-06",
-          "mediamarkt": 1399,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-07",
-          "mediamarkt": 1399,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-08",
-          "mediamarkt": 1399,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-09",
-          "mediamarkt": 1399,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-10",
-          "mediamarkt": 1399,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-11",
-          "mediamarkt": 1399,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-12",
-          "mediamarkt": 1399,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-13",
-          "mediamarkt": 1399,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-14",
-          "mediamarkt": 1399,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-15",
-          "mediamarkt": 1399,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-16",
-          "mediamarkt": 1399,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-17",
-          "mediamarkt": 1399,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-18",
-          "mediamarkt": 1249,
-          "ceneo": null
-        }
-      ]
-    },
-    {
-      "id": "samsung-nz64b7799gk",
-      "name": "Płyta indukcyjna SAMSUNG NZ64B7799GK/U2",
-      "model": "NZ64B7799GK",
-      "brand": "SAMSUNG",
-      "type": "induction",
-      "size": {
-        "widthCm": 60,
-        "rawWidth": 60,
-        "label": "60 cm (standard)",
-        "category": "60cm"
-      },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_133331674",
-      "mediamarktPrice": 3899,
-      "ceneoPrice": 3367,
-      "ceneoCheckedAt": "2026-11-18",
-      "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
-        "previousPrice": 3899,
-        "previousDate": "2026-11-17"
-      },
-      "rating": 4.86,
-      "reviewCount": 207,
-      "valueScore": 17.9,
-      "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-samsung-nz64b7799gku2-1468289.html",
-        "ceneo": "https://www.ceneo.pl/;szukaj-NZ64B7799GK",
-        "euro": "https://www.euro.com.pl/search.bhtml?keyword=NZ64B7799GK",
-        "komputronik": "https://www.komputronik.pl/search?query=NZ64B7799GK"
-      },
-      "priceHistory": [
-        {
-          "date": "2026-10-16",
-          "mediamarkt": 3579,
-          "ceneo": 3367
-        },
-        {
-          "date": "2026-10-17",
-          "mediamarkt": 3579,
-          "ceneo": 3367
-        },
-        {
-          "date": "2026-10-18",
-          "mediamarkt": 3579,
-          "ceneo": 3367
-        },
-        {
-          "date": "2026-10-19",
-          "mediamarkt": 3579,
-          "ceneo": 3367
-        },
-        {
-          "date": "2026-10-20",
-          "mediamarkt": 3579,
-          "ceneo": 3367
-        },
-        {
-          "date": "2026-10-21",
-          "mediamarkt": 3579,
-          "ceneo": 3367
-        },
-        {
-          "date": "2026-10-22",
-          "mediamarkt": 3579,
-          "ceneo": 3367
-        },
-        {
-          "date": "2026-10-23",
-          "mediamarkt": 3579,
-          "ceneo": 3367
-        },
-        {
-          "date": "2026-10-24",
-          "mediamarkt": 3579,
-          "ceneo": 3367
-        },
-        {
-          "date": "2026-10-25",
-          "mediamarkt": 3579,
-          "ceneo": 3367
-        },
-        {
-          "date": "2026-10-26",
-          "mediamarkt": 3579,
-          "ceneo": 3367
-        },
-        {
-          "date": "2026-10-27",
-          "mediamarkt": 3579,
-          "ceneo": 3367
-        },
-        {
-          "date": "2026-10-28",
-          "mediamarkt": 3579,
-          "ceneo": 3367
-        },
-        {
-          "date": "2026-10-29",
-          "mediamarkt": 3579,
-          "ceneo": 3367
-        },
-        {
-          "date": "2026-10-30",
-          "mediamarkt": 3579,
-          "ceneo": 3367
-        },
-        {
-          "date": "2026-10-31",
-          "mediamarkt": 3579,
-          "ceneo": 3367
-        },
-        {
-          "date": "2026-11-01",
-          "mediamarkt": 3899,
-          "ceneo": 3367
-        },
-        {
-          "date": "2026-11-02",
-          "mediamarkt": 3899,
-          "ceneo": 3367
-        },
-        {
-          "date": "2026-11-03",
-          "mediamarkt": 3899,
-          "ceneo": 3367
-        },
-        {
-          "date": "2026-11-04",
-          "mediamarkt": 3899,
-          "ceneo": 3367
-        },
-        {
-          "date": "2026-11-05",
-          "mediamarkt": 3899,
-          "ceneo": 3367
-        },
-        {
-          "date": "2026-11-06",
-          "mediamarkt": 3899,
-          "ceneo": 3367
-        },
-        {
-          "date": "2026-11-07",
-          "mediamarkt": 3899,
-          "ceneo": 3367
-        },
-        {
-          "date": "2026-11-08",
-          "mediamarkt": 3899,
-          "ceneo": 3367
-        },
-        {
-          "date": "2026-11-09",
-          "mediamarkt": 3899,
-          "ceneo": 3367
-        },
-        {
-          "date": "2026-11-10",
-          "mediamarkt": 3899,
-          "ceneo": 3367
-        },
-        {
-          "date": "2026-11-11",
-          "mediamarkt": 3899,
-          "ceneo": 3367
-        },
-        {
-          "date": "2026-11-12",
-          "mediamarkt": 3899,
-          "ceneo": 3367
-        },
-        {
-          "date": "2026-11-13",
-          "mediamarkt": 3899,
-          "ceneo": 3367
-        },
-        {
-          "date": "2026-11-14",
-          "mediamarkt": 3899,
-          "ceneo": 3367
-        },
-        {
-          "date": "2026-11-15",
-          "mediamarkt": 3899,
-          "ceneo": 3367
-        },
-        {
-          "date": "2026-11-16",
-          "mediamarkt": 3899,
-          "ceneo": 3367
-        },
-        {
-          "date": "2026-11-17",
-          "mediamarkt": 3899,
-          "ceneo": 3367
-        },
-        {
-          "date": "2026-11-18",
-          "mediamarkt": 3899,
-          "ceneo": 3367
-        }
-      ]
-    },
-    {
-      "id": "whirlpool-wfs9365bfixl",
-      "name": "Płyta indukcyjna WHIRLPOOL W Collection WFS9365BFIXL FlexiSide ChefControl 65cm iXelium",
-      "model": "WFS9365BFIXL",
-      "brand": "WHIRLPOOL",
-      "type": "induction",
-      "size": {
-        "widthCm": 60,
-        "rawWidth": 65,
-        "label": "60 cm (standard)",
-        "category": "60cm"
-      },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_108813569",
-      "mediamarktPrice": 1899,
-      "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
-      "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
-        "previousPrice": 1899,
-        "previousDate": "2026-11-17"
-      },
-      "rating": 5.0,
-      "reviewCount": 27,
-      "valueScore": 13.7,
-      "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-whirlpool-wf-s9365-bfixl-1425575.html",
-        "ceneo": "https://www.ceneo.pl/;szukaj-WFS9365BFIXL",
-        "euro": "https://www.euro.com.pl/search.bhtml?keyword=WFS9365BFIXL",
-        "komputronik": "https://www.komputronik.pl/search?query=WFS9365BFIXL"
-      },
-      "priceHistory": [
-        {
-          "date": "2026-10-16",
-          "mediamarkt": 1899,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-17",
-          "mediamarkt": 1899,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-18",
-          "mediamarkt": 1899,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-19",
-          "mediamarkt": 1899,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-20",
-          "mediamarkt": 1899,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-21",
-          "mediamarkt": 1899,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-22",
-          "mediamarkt": 1899,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-23",
-          "mediamarkt": 1899,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-24",
-          "mediamarkt": 1899,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-25",
-          "mediamarkt": 1899,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-26",
-          "mediamarkt": 1899,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-27",
-          "mediamarkt": 1899,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-28",
-          "mediamarkt": 1899,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-29",
-          "mediamarkt": 1899,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-30",
-          "mediamarkt": 1899,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-31",
-          "mediamarkt": 1899,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-01",
-          "mediamarkt": 1899,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-02",
-          "mediamarkt": 1899,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-03",
-          "mediamarkt": 1899,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-04",
-          "mediamarkt": 1899,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-05",
-          "mediamarkt": 1899,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-06",
-          "mediamarkt": 1899,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-07",
-          "mediamarkt": 1899,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-08",
-          "mediamarkt": 1899,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-09",
-          "mediamarkt": 1899,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-10",
-          "mediamarkt": 1899,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-11",
-          "mediamarkt": 1899,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-12",
-          "mediamarkt": 1899,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-13",
-          "mediamarkt": 1899,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-14",
-          "mediamarkt": 1899,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-15",
-          "mediamarkt": 1899,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-16",
-          "mediamarkt": 1899,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-17",
-          "mediamarkt": 1899,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-18",
-          "mediamarkt": 1899,
-          "ceneo": null
-        }
-      ]
-    },
-    {
-      "id": "samsung-nz85c6058gk",
-      "name": "Płyta indukcyjna SAMSUNG NZ85C6058GK/U2",
-      "model": "NZ85C6058GK",
-      "brand": "SAMSUNG",
-      "type": "induction",
-      "size": {
-        "widthCm": 80,
-        "rawWidth": 80,
-        "label": "80 cm",
-        "category": "80cm"
-      },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_141455069",
-      "mediamarktPrice": 3349,
-      "ceneoPrice": 3389,
-      "ceneoCheckedAt": "2026-11-18",
-      "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
-        "previousPrice": 3349,
-        "previousDate": "2026-11-17"
-      },
-      "rating": 4.93,
-      "reviewCount": 85,
-      "valueScore": 13.6,
-      "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-samsung-nz85c6058gku2-1481971.html",
-        "ceneo": "https://www.ceneo.pl/;szukaj-NZ85C6058GK",
-        "euro": "https://www.euro.com.pl/search.bhtml?keyword=NZ85C6058GK",
-        "komputronik": "https://www.komputronik.pl/search?query=NZ85C6058GK"
-      },
-      "priceHistory": [
-        {
-          "date": "2026-10-16",
-          "mediamarkt": 3899,
-          "ceneo": 3389
-        },
-        {
-          "date": "2026-10-17",
-          "mediamarkt": 3899,
-          "ceneo": 3389
-        },
-        {
-          "date": "2026-10-18",
-          "mediamarkt": 3899,
-          "ceneo": 3389
-        },
-        {
-          "date": "2026-10-19",
-          "mediamarkt": 3399,
-          "ceneo": 3389
-        },
-        {
-          "date": "2026-10-20",
-          "mediamarkt": 3899,
-          "ceneo": 3389
-        },
-        {
-          "date": "2026-10-21",
-          "mediamarkt": 3399,
-          "ceneo": 3389
-        },
-        {
-          "date": "2026-10-22",
-          "mediamarkt": 3899,
-          "ceneo": 3389
-        },
-        {
-          "date": "2026-10-23",
-          "mediamarkt": 3399,
-          "ceneo": 3389
-        },
-        {
-          "date": "2026-10-24",
-          "mediamarkt": 3899,
-          "ceneo": 3389
-        },
-        {
-          "date": "2026-10-25",
-          "mediamarkt": 3899,
-          "ceneo": 3389
-        },
-        {
-          "date": "2026-10-26",
-          "mediamarkt": 3399,
-          "ceneo": 3389
-        },
-        {
-          "date": "2026-10-27",
-          "mediamarkt": 3899,
-          "ceneo": 3389
-        },
-        {
-          "date": "2026-10-28",
-          "mediamarkt": 3399,
-          "ceneo": 3389
-        },
-        {
-          "date": "2026-10-29",
-          "mediamarkt": 3399,
-          "ceneo": 3389
-        },
-        {
-          "date": "2026-10-30",
-          "mediamarkt": 3399,
-          "ceneo": 3389
-        },
-        {
-          "date": "2026-10-31",
-          "mediamarkt": 3399,
-          "ceneo": 3389
-        },
-        {
-          "date": "2026-11-01",
-          "mediamarkt": 3899,
-          "ceneo": 3389
-        },
-        {
-          "date": "2026-11-02",
-          "mediamarkt": 3899,
-          "ceneo": 3389
-        },
-        {
-          "date": "2026-11-03",
-          "mediamarkt": 3399,
-          "ceneo": 3389
-        },
-        {
-          "date": "2026-11-04",
-          "mediamarkt": 3899,
-          "ceneo": 3389
-        },
-        {
-          "date": "2026-11-05",
-          "mediamarkt": 3399,
-          "ceneo": 3389
-        },
-        {
-          "date": "2026-11-06",
-          "mediamarkt": 3899,
-          "ceneo": 3389
-        },
-        {
-          "date": "2026-11-07",
-          "mediamarkt": 3899,
-          "ceneo": 3389
-        },
-        {
-          "date": "2026-11-08",
-          "mediamarkt": 3899,
-          "ceneo": 3389
-        },
-        {
-          "date": "2026-11-09",
-          "mediamarkt": 3399,
-          "ceneo": 3389
-        },
-        {
-          "date": "2026-11-10",
-          "mediamarkt": 3899,
-          "ceneo": 3389
-        },
-        {
-          "date": "2026-11-11",
-          "mediamarkt": 3899,
-          "ceneo": 3389
-        },
-        {
-          "date": "2026-11-12",
-          "mediamarkt": 3899,
-          "ceneo": 3389
-        },
-        {
-          "date": "2026-11-13",
-          "mediamarkt": 3349,
-          "ceneo": 3389
-        },
-        {
-          "date": "2026-11-14",
-          "mediamarkt": 3349,
-          "ceneo": 3389
-        },
-        {
-          "date": "2026-11-15",
-          "mediamarkt": 3349,
-          "ceneo": 3389
-        },
-        {
-          "date": "2026-11-16",
-          "mediamarkt": 3349,
-          "ceneo": 3389
-        },
-        {
-          "date": "2026-11-17",
-          "mediamarkt": 3349,
-          "ceneo": 3389
-        },
-        {
-          "date": "2026-11-18",
-          "mediamarkt": 3349,
-          "ceneo": 3389
-        }
-      ]
-    },
-    {
-      "id": "bosch-pvw81chb1e",
-      "name": "Płyta indukcyjna BOSCH Serie 6 PVW81CHB1E Czarny",
-      "model": "PVW81CHB1E",
-      "brand": "BOSCH",
-      "type": "induction",
-      "size": {
-        "widthCm": 60,
-        "rawWidth": 60,
-        "label": "60 cm (standard)",
-        "category": "60cm"
-      },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_173634575",
-      "mediamarktPrice": 3999,
-      "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
-      "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
-        "previousPrice": 3999,
-        "previousDate": "2026-11-17"
-      },
-      "rating": 5.0,
-      "reviewCount": 48,
-      "valueScore": 8.7,
-      "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyty-kuchenne-bosch-serie-6-pvw81chb1e-czarny-166088685.html",
-        "ceneo": "https://www.ceneo.pl/;szukaj-PVW81CHB1E",
-        "euro": "https://www.euro.com.pl/search.bhtml?keyword=PVW81CHB1E",
-        "komputronik": "https://www.komputronik.pl/search?query=PVW81CHB1E"
-      },
-      "priceHistory": [
-        {
-          "date": "2026-10-16",
-          "mediamarkt": 3999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-17",
-          "mediamarkt": 3999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-18",
-          "mediamarkt": 3999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-19",
-          "mediamarkt": 3999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-20",
-          "mediamarkt": 3999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-21",
-          "mediamarkt": 3999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-22",
-          "mediamarkt": 3999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-23",
-          "mediamarkt": 3999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-24",
-          "mediamarkt": 3999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-25",
-          "mediamarkt": 3999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-26",
-          "mediamarkt": 3999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-27",
-          "mediamarkt": 3999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-28",
-          "mediamarkt": 3999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-29",
-          "mediamarkt": 3999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-30",
-          "mediamarkt": 3999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-31",
-          "mediamarkt": 3999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-01",
-          "mediamarkt": 3999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-02",
-          "mediamarkt": 3999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-03",
-          "mediamarkt": 3958,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-04",
-          "mediamarkt": 3958,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-05",
-          "mediamarkt": 3958,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-06",
-          "mediamarkt": 3958,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-07",
-          "mediamarkt": 3958,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-08",
-          "mediamarkt": 3958,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-09",
-          "mediamarkt": 3958,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-10",
-          "mediamarkt": 3958,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-11",
-          "mediamarkt": 3958,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-12",
-          "mediamarkt": 3958,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-13",
-          "mediamarkt": 3958,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-14",
-          "mediamarkt": 3958,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-15",
-          "mediamarkt": 3958,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-16",
-          "mediamarkt": 3958,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-17",
-          "mediamarkt": 3999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-18",
-          "mediamarkt": 3999,
-          "ceneo": null
-        }
-      ]
-    },
-    {
-      "id": "whirlpool-wlb3360nebm",
-      "name": "Płyta indukcyjna WHIRLPOOL WLB3360NEBM MattProtect FlexiCook 59cm",
-      "model": "WLB3360NEBM",
-      "brand": "WHIRLPOOL",
-      "type": "induction",
-      "size": {
-        "widthCm": 60,
-        "rawWidth": 59,
-        "label": "60 cm (standard)",
-        "category": "60cm"
-      },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_185558127",
-      "mediamarktPrice": 1899,
-      "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
-      "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
-        "previousPrice": 1899,
-        "previousDate": "2026-11-18"
-      },
-      "rating": 5.0,
-      "reviewCount": 1,
-      "valueScore": 2.6,
-      "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-whirlpool-wl-b3360-nebm-flexicook-czarny-1506100.html",
-        "ceneo": "https://www.ceneo.pl/;szukaj-WLB3360NEBM",
-        "euro": "https://www.euro.com.pl/search.bhtml?keyword=WLB3360NEBM",
-        "komputronik": "https://www.komputronik.pl/search?query=WLB3360NEBM"
-      },
-      "priceHistory": [
-        {
-          "date": "2026-11-18",
-          "mediamarkt": 1899,
-          "ceneo": null
-        }
-      ]
-    },
-    {
-      "id": "whirlpool-wlb6860ne",
-      "name": "Płyta indukcyjna WHIRLPOOL WLB6860NE/S Srebrny",
-      "model": "WLB6860NE",
-      "brand": "WHIRLPOOL",
-      "type": "induction",
-      "size": {
-        "widthCm": 60,
-        "rawWidth": 60,
-        "label": "60 cm (standard)",
-        "category": "60cm"
-      },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_134272122",
-      "mediamarktPrice": 2399,
-      "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
-      "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
-        "previousPrice": 2399,
-        "previousDate": "2026-11-17"
-      },
-      "rating": null,
-      "reviewCount": 0,
-      "valueScore": 0.0,
-      "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyty-kuchenne-whirlpool-wlb6860nes-srebrny-134272112.html",
-        "ceneo": "https://www.ceneo.pl/;szukaj-WLB6860NE",
-        "euro": "https://www.euro.com.pl/search.bhtml?keyword=WLB6860NE",
-        "komputronik": "https://www.komputronik.pl/search?query=WLB6860NE"
-      },
-      "priceHistory": [
-        {
-          "date": "2026-10-16",
-          "mediamarkt": 2399,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-17",
-          "mediamarkt": 2399,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-18",
-          "mediamarkt": 2399,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-19",
-          "mediamarkt": 2399,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-20",
-          "mediamarkt": 2399,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-21",
-          "mediamarkt": 2399,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-22",
-          "mediamarkt": 1818,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-23",
-          "mediamarkt": 1708,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-24",
-          "mediamarkt": 1690,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-25",
-          "mediamarkt": 1690,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-26",
-          "mediamarkt": 1690,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-27",
-          "mediamarkt": 1690,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-28",
-          "mediamarkt": 1690,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-29",
-          "mediamarkt": 1690,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-30",
-          "mediamarkt": 1690,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-31",
-          "mediamarkt": 1690,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-01",
-          "mediamarkt": 1690,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-02",
-          "mediamarkt": 1690,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-03",
-          "mediamarkt": 1690,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-04",
-          "mediamarkt": 1690,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-05",
-          "mediamarkt": 2399,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-06",
-          "mediamarkt": 2399,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-07",
-          "mediamarkt": 2399,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-08",
-          "mediamarkt": 2399,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-09",
-          "mediamarkt": 2399,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-10",
-          "mediamarkt": 2399,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-11",
-          "mediamarkt": 2399,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-12",
-          "mediamarkt": 2399,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-13",
-          "mediamarkt": 2399,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-14",
-          "mediamarkt": 2399,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-15",
-          "mediamarkt": 2399,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-16",
-          "mediamarkt": 2399,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-17",
-          "mediamarkt": 2399,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-18",
-          "mediamarkt": 2399,
-          "ceneo": null
-        }
-      ]
-    },
-    {
-      "id": "beko-hii64720suf2t",
-      "name": "Płyta indukcyjna BEKO HII64720SUF2T",
-      "model": "HII64720SUF2T",
-      "brand": "BEKO",
-      "type": "induction",
-      "size": {
-        "widthCm": 60,
-        "rawWidth": 60,
-        "label": "60 cm (standard)",
-        "category": "60cm"
-      },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_133331842",
-      "mediamarktPrice": 1599,
-      "ceneoPrice": 1598.95,
-      "ceneoCheckedAt": "2026-11-18",
-      "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
-        "previousPrice": 1599,
-        "previousDate": "2026-11-17"
-      },
-      "rating": 4.66,
-      "reviewCount": 38,
-      "valueScore": 18.0,
-      "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-beko-hii64720suf2t-1470949.html",
-        "ceneo": "https://www.ceneo.pl/;szukaj-HII64720SUF2T",
-        "euro": "https://www.euro.com.pl/search.bhtml?keyword=HII64720SUF2T",
-        "komputronik": "https://www.komputronik.pl/search?query=HII64720SUF2T"
-      },
-      "priceHistory": [
-        {
-          "date": "2026-10-16",
-          "mediamarkt": 1599,
-          "ceneo": 1598.95
-        },
-        {
-          "date": "2026-10-17",
-          "mediamarkt": 1599,
-          "ceneo": 1598.95
-        },
-        {
-          "date": "2026-10-18",
-          "mediamarkt": 1599,
-          "ceneo": 1598.95
-        },
-        {
-          "date": "2026-10-19",
-          "mediamarkt": 1599,
-          "ceneo": 1598.95
-        },
-        {
-          "date": "2026-10-20",
-          "mediamarkt": 1599,
-          "ceneo": 1598.95
-        },
-        {
-          "date": "2026-10-21",
-          "mediamarkt": 1599,
-          "ceneo": 1598.95
-        },
-        {
-          "date": "2026-10-22",
-          "mediamarkt": 1599,
-          "ceneo": 1598.95
-        },
-        {
-          "date": "2026-10-23",
-          "mediamarkt": 1599,
-          "ceneo": 1598.95
-        },
-        {
-          "date": "2026-10-24",
-          "mediamarkt": 1599,
-          "ceneo": 1598.95
-        },
-        {
-          "date": "2026-10-25",
-          "mediamarkt": 1599,
-          "ceneo": 1598.95
-        },
-        {
-          "date": "2026-10-26",
-          "mediamarkt": 1599,
-          "ceneo": 1598.95
-        },
-        {
-          "date": "2026-10-27",
-          "mediamarkt": 1599,
-          "ceneo": 1598.95
-        },
-        {
-          "date": "2026-10-28",
-          "mediamarkt": 1599,
-          "ceneo": 1598.95
-        },
-        {
-          "date": "2026-10-29",
-          "mediamarkt": 1599,
-          "ceneo": 1598.95
-        },
-        {
-          "date": "2026-10-30",
-          "mediamarkt": 1599,
-          "ceneo": 1598.95
-        },
-        {
-          "date": "2026-10-31",
-          "mediamarkt": 1599,
-          "ceneo": 1598.95
-        },
-        {
-          "date": "2026-11-01",
-          "mediamarkt": 1599,
-          "ceneo": 1598.95
-        },
-        {
-          "date": "2026-11-02",
-          "mediamarkt": 1599,
-          "ceneo": 1598.95
-        },
-        {
-          "date": "2026-11-03",
-          "mediamarkt": 1599,
-          "ceneo": 1598.95
-        },
-        {
-          "date": "2026-11-04",
-          "mediamarkt": 1599,
-          "ceneo": 1598.95
-        },
-        {
-          "date": "2026-11-05",
-          "mediamarkt": 1599,
-          "ceneo": 1598.95
-        },
-        {
-          "date": "2026-11-06",
-          "mediamarkt": 1599,
-          "ceneo": 1598.95
-        },
-        {
-          "date": "2026-11-07",
-          "mediamarkt": 1599,
-          "ceneo": 1598.95
-        },
-        {
-          "date": "2026-11-08",
-          "mediamarkt": 1599,
-          "ceneo": 1598.95
-        },
-        {
-          "date": "2026-11-09",
-          "mediamarkt": 1599,
-          "ceneo": 1598.95
-        },
-        {
-          "date": "2026-11-10",
-          "mediamarkt": 1599,
-          "ceneo": 1598.95
-        },
-        {
-          "date": "2026-11-11",
-          "mediamarkt": 1599,
-          "ceneo": 1598.95
-        },
-        {
-          "date": "2026-11-12",
-          "mediamarkt": 1599,
-          "ceneo": 1598.95
-        },
-        {
-          "date": "2026-11-13",
-          "mediamarkt": 1599,
-          "ceneo": 1598.95
-        },
-        {
-          "date": "2026-11-14",
-          "mediamarkt": 1599,
-          "ceneo": 1598.95
-        },
-        {
-          "date": "2026-11-15",
-          "mediamarkt": 1599,
-          "ceneo": 1598.95
-        },
-        {
-          "date": "2026-11-16",
-          "mediamarkt": 1599,
-          "ceneo": 1598.95
-        },
-        {
-          "date": "2026-11-17",
-          "mediamarkt": 1599,
-          "ceneo": 1598.95
-        },
-        {
-          "date": "2026-11-18",
-          "mediamarkt": 1599,
-          "ceneo": 1598.95
-        }
-      ]
-    },
-    {
-      "id": "bosch-6pie61rhb1e",
-      "name": "Płyta indukcyjna BOSCH Serie 6PIE61RHB1E Czarny",
-      "model": "6PIE61RHB1E",
-      "brand": "BOSCH",
-      "type": "induction",
-      "size": {
-        "widthCm": 60,
-        "rawWidth": 60,
-        "label": "60 cm (standard)",
-        "category": "60cm"
-      },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_185605119",
-      "mediamarktPrice": 1999,
-      "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
-      "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
-        "previousPrice": 1999,
-        "previousDate": "2026-11-17"
-      },
-      "rating": 5.0,
-      "reviewCount": 28,
-      "valueScore": 13.2,
-      "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-bosch-serie-6pie61rhb1e-czarny-185604544.html",
-        "ceneo": "https://www.ceneo.pl/;szukaj-6PIE61RHB1E",
-        "euro": "https://www.euro.com.pl/search.bhtml?keyword=6PIE61RHB1E",
-        "komputronik": "https://www.komputronik.pl/search?query=6PIE61RHB1E"
-      },
-      "priceHistory": [
-        {
-          "date": "2026-11-11",
-          "mediamarkt": 1999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-12",
-          "mediamarkt": 1999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-13",
-          "mediamarkt": 1999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-14",
-          "mediamarkt": 1999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-15",
-          "mediamarkt": 1999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-16",
-          "mediamarkt": 1999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-17",
-          "mediamarkt": 1999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-18",
-          "mediamarkt": 1999,
-          "ceneo": null
-        }
-      ]
-    },
-    {
-      "id": "inna-lia23511",
-      "name": "Płyta indukcyjna LIN LIN LI-A23511 Czarny",
-      "model": "LI-A23511",
-      "brand": "INNA",
-      "type": "induction",
-      "size": {
-        "widthCm": 60,
-        "rawWidth": 60,
-        "label": "60 cm (standard)",
-        "category": "60cm"
-      },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_174034720",
-      "mediamarktPrice": 379,
-      "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
-      "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
-        "previousPrice": 379,
-        "previousDate": "2026-11-17"
-      },
-      "rating": null,
-      "reviewCount": 0,
-      "valueScore": 0.0,
-      "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-grzejna-lin-li-a23511-czarny-173880044.html",
-        "ceneo": "https://www.ceneo.pl/;szukaj-LI-A23511",
-        "euro": "https://www.euro.com.pl/search.bhtml?keyword=LI-A23511",
-        "komputronik": "https://www.komputronik.pl/search?query=LI-A23511"
-      },
-      "priceHistory": [
-        {
-          "date": "2026-10-16",
-          "mediamarkt": 379,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-17",
-          "mediamarkt": 379,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-18",
-          "mediamarkt": 379,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-19",
-          "mediamarkt": 379,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-20",
-          "mediamarkt": 379,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-21",
-          "mediamarkt": 379,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-22",
-          "mediamarkt": 379,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-23",
-          "mediamarkt": 379,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-24",
-          "mediamarkt": 379,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-25",
-          "mediamarkt": 379,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-26",
-          "mediamarkt": 379,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-27",
-          "mediamarkt": 379,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-28",
-          "mediamarkt": 379,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-29",
-          "mediamarkt": 379,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-30",
-          "mediamarkt": 379,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-31",
-          "mediamarkt": 379,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-01",
-          "mediamarkt": 379,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-02",
-          "mediamarkt": 379,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-03",
-          "mediamarkt": 379,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-04",
-          "mediamarkt": 379,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-05",
-          "mediamarkt": 379,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-06",
-          "mediamarkt": 379,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-07",
-          "mediamarkt": 379,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-08",
-          "mediamarkt": 379,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-09",
-          "mediamarkt": 379,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-10",
-          "mediamarkt": 379,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-11",
-          "mediamarkt": 379,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-12",
-          "mediamarkt": 379,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-13",
-          "mediamarkt": 379,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-14",
-          "mediamarkt": 379,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-15",
-          "mediamarkt": 379,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-16",
-          "mediamarkt": 379,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-17",
-          "mediamarkt": 379,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-18",
-          "mediamarkt": 379,
-          "ceneo": null
-        }
-      ]
-    },
-    {
-      "id": "inna-67",
-      "name": "Podwójna płyta indukcyjna MELISSA 3500 W 2 strefy 10 poziomów 16350030 Czarny",
-      "model": "",
-      "brand": "INNA",
-      "type": "induction",
-      "size": {
-        "widthCm": 60,
-        "rawWidth": 60,
-        "label": "60 cm (standard)",
-        "category": "60cm"
-      },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_183432414",
-      "mediamarktPrice": 499,
-      "ceneoPrice": null,
-      "ceneoCheckedAt": null,
-      "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
-        "previousPrice": 499,
-        "previousDate": "2026-11-18"
-      },
-      "rating": null,
-      "reviewCount": 0,
-      "valueScore": 0.0,
-      "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_podwojna-plyta-indukcyjna-melissa-3500-w-2-strefy-10-poziomow-16350030-czarny-183432328.html",
-        "ceneo": "",
-        "euro": "",
-        "komputronik": ""
-      },
-      "priceHistory": [
-        {
-          "date": "2026-11-18",
-          "mediamarkt": 499,
-          "ceneo": null
-        }
-      ]
-    },
-    {
-      "id": "whirlpool-s7560ne",
-      "name": "Płyta indukcyjna WHIRLPOOL WF S7560NE BM Czarny",
-      "model": "S7560NE",
-      "brand": "WHIRLPOOL",
-      "type": "induction",
-      "size": {
-        "widthCm": 75,
-        "rawWidth": 75,
-        "label": "70-75 cm",
-        "category": "75cm"
-      },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_185603265",
-      "mediamarktPrice": 2099,
-      "ceneoPrice": 1739,
-      "ceneoCheckedAt": "2026-11-18",
-      "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
-        "previousPrice": 2099,
-        "previousDate": "2026-11-17"
-      },
-      "rating": 5.0,
-      "reviewCount": 2,
-      "valueScore": 3.4,
-      "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-whirlpool-wf-s7560ne-bm-czarny-185603040.html",
-        "ceneo": "https://www.ceneo.pl/;szukaj-S7560NE",
-        "euro": "https://www.euro.com.pl/search.bhtml?keyword=S7560NE",
-        "komputronik": "https://www.komputronik.pl/search?query=S7560NE"
-      },
-      "priceHistory": [
-        {
-          "date": "2026-10-16",
-          "mediamarkt": 2098,
-          "ceneo": 1739
-        },
-        {
-          "date": "2026-10-17",
-          "mediamarkt": 2098,
-          "ceneo": 1739
-        },
-        {
-          "date": "2026-10-18",
-          "mediamarkt": 2098,
-          "ceneo": 1739
-        },
-        {
-          "date": "2026-10-19",
-          "mediamarkt": 2098,
-          "ceneo": 1739
-        },
-        {
-          "date": "2026-10-20",
-          "mediamarkt": 2098,
-          "ceneo": 1739
-        },
-        {
-          "date": "2026-10-21",
-          "mediamarkt": 2098,
-          "ceneo": 1739
-        },
-        {
-          "date": "2026-10-22",
-          "mediamarkt": 2098,
-          "ceneo": 1739
-        },
-        {
-          "date": "2026-10-23",
-          "mediamarkt": 2098,
-          "ceneo": 1739
-        },
-        {
-          "date": "2026-10-24",
-          "mediamarkt": 1888,
-          "ceneo": 1739
-        },
-        {
-          "date": "2026-10-25",
-          "mediamarkt": 1888,
-          "ceneo": 1739
-        },
-        {
-          "date": "2026-10-26",
-          "mediamarkt": 1888,
-          "ceneo": 1739
-        },
-        {
-          "date": "2026-10-27",
-          "mediamarkt": 1888,
-          "ceneo": 1739
-        },
-        {
-          "date": "2026-10-28",
-          "mediamarkt": 1888,
-          "ceneo": 1739
-        },
-        {
-          "date": "2026-10-29",
-          "mediamarkt": 1888,
-          "ceneo": 1739
-        },
-        {
-          "date": "2026-10-30",
-          "mediamarkt": 1888,
-          "ceneo": 1739
-        },
-        {
-          "date": "2026-10-31",
-          "mediamarkt": 1888,
-          "ceneo": 1739
-        },
-        {
-          "date": "2026-11-01",
-          "mediamarkt": 1888,
-          "ceneo": 1739
-        },
-        {
-          "date": "2026-11-02",
-          "mediamarkt": 1888,
-          "ceneo": 1739
-        },
-        {
-          "date": "2026-11-03",
-          "mediamarkt": 1888,
-          "ceneo": 1739
-        },
-        {
-          "date": "2026-11-04",
-          "mediamarkt": 1888,
-          "ceneo": 1739
-        },
-        {
-          "date": "2026-11-05",
-          "mediamarkt": 1888,
-          "ceneo": 1739
-        },
-        {
-          "date": "2026-11-06",
-          "mediamarkt": 1908,
-          "ceneo": 1739
-        },
-        {
-          "date": "2026-11-07",
-          "mediamarkt": 2099,
-          "ceneo": 1739
-        },
-        {
-          "date": "2026-11-08",
-          "mediamarkt": 2099,
-          "ceneo": 1739
-        },
-        {
-          "date": "2026-11-09",
-          "mediamarkt": 2099,
-          "ceneo": 1739
-        },
-        {
-          "date": "2026-11-10",
-          "mediamarkt": 2099,
-          "ceneo": 1739
-        },
-        {
-          "date": "2026-11-11",
-          "mediamarkt": 2099,
-          "ceneo": 1739
-        },
-        {
-          "date": "2026-11-12",
-          "mediamarkt": 2099,
-          "ceneo": 1739
-        },
-        {
-          "date": "2026-11-13",
-          "mediamarkt": 2099,
-          "ceneo": 1739
-        },
-        {
-          "date": "2026-11-14",
-          "mediamarkt": 2099,
-          "ceneo": 1739
-        },
-        {
-          "date": "2026-11-15",
-          "mediamarkt": 2099,
-          "ceneo": 1739
-        },
-        {
-          "date": "2026-11-16",
-          "mediamarkt": 2099,
-          "ceneo": 1739
-        },
-        {
-          "date": "2026-11-17",
-          "mediamarkt": 2099,
-          "ceneo": 1739
-        },
-        {
-          "date": "2026-11-18",
-          "mediamarkt": 2099,
-          "ceneo": 1739
-        }
-      ]
-    },
-    {
-      "id": "gorenje-gi6432bscwf",
-      "name": "Płyta indukcyjna do zabudowy GORENJE GI6432BSCWF Power Boost BridgeArea Czarny",
-      "model": "GI6432BSCWF",
-      "brand": "GORENJE",
-      "type": "induction",
-      "size": {
-        "widthCm": 60,
-        "rawWidth": 60,
-        "label": "60 cm (standard)",
-        "category": "60cm"
-      },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_158835654",
-      "mediamarktPrice": 1899,
-      "ceneoPrice": 1479,
-      "ceneoCheckedAt": "2026-11-18",
-      "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
-        "previousPrice": 1899,
-        "previousDate": "2026-11-17"
-      },
-      "rating": null,
-      "reviewCount": 0,
-      "valueScore": 0.0,
-      "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-do-zabudowy-gorenje-gi6432bscwf-czarny-1495609.html",
-        "ceneo": "https://www.ceneo.pl/;szukaj-GI6432BSCWF",
-        "euro": "https://www.euro.com.pl/search.bhtml?keyword=GI6432BSCWF",
-        "komputronik": "https://www.komputronik.pl/search?query=GI6432BSCWF"
-      },
-      "priceHistory": [
-        {
-          "date": "2026-10-16",
-          "mediamarkt": 1899,
-          "ceneo": 1479
-        },
-        {
-          "date": "2026-10-17",
-          "mediamarkt": 1899,
-          "ceneo": 1479
-        },
-        {
-          "date": "2026-10-18",
-          "mediamarkt": 1899,
-          "ceneo": 1479
-        },
-        {
-          "date": "2026-10-19",
-          "mediamarkt": 1899,
-          "ceneo": 1479
-        },
-        {
-          "date": "2026-10-20",
-          "mediamarkt": 1899,
-          "ceneo": 1479
-        },
-        {
-          "date": "2026-10-21",
-          "mediamarkt": 1899,
-          "ceneo": 1479
-        },
-        {
-          "date": "2026-10-22",
-          "mediamarkt": 1899,
-          "ceneo": 1479
-        },
-        {
-          "date": "2026-10-23",
-          "mediamarkt": 1899,
-          "ceneo": 1479
-        },
-        {
-          "date": "2026-10-24",
-          "mediamarkt": 1899,
-          "ceneo": 1479
-        },
-        {
-          "date": "2026-10-25",
-          "mediamarkt": 1899,
-          "ceneo": 1479
-        },
-        {
-          "date": "2026-10-26",
-          "mediamarkt": 1899,
-          "ceneo": 1479
-        },
-        {
-          "date": "2026-10-27",
-          "mediamarkt": 1899,
-          "ceneo": 1479
-        },
-        {
-          "date": "2026-10-28",
-          "mediamarkt": 1899,
-          "ceneo": 1479
-        },
-        {
-          "date": "2026-10-29",
-          "mediamarkt": 1899,
-          "ceneo": 1479
-        },
-        {
-          "date": "2026-10-30",
-          "mediamarkt": 1899,
-          "ceneo": 1479
-        },
-        {
-          "date": "2026-10-31",
-          "mediamarkt": 1899,
-          "ceneo": 1479
-        },
-        {
-          "date": "2026-11-01",
-          "mediamarkt": 1899,
-          "ceneo": 1479
-        },
-        {
-          "date": "2026-11-02",
-          "mediamarkt": 1899,
-          "ceneo": 1479
-        },
-        {
-          "date": "2026-11-03",
-          "mediamarkt": 1899,
-          "ceneo": 1479
-        },
-        {
-          "date": "2026-11-04",
-          "mediamarkt": 1899,
-          "ceneo": 1479
-        },
-        {
-          "date": "2026-11-05",
-          "mediamarkt": 1899,
-          "ceneo": 1479
-        },
-        {
-          "date": "2026-11-06",
-          "mediamarkt": 1899,
-          "ceneo": 1479
-        },
-        {
-          "date": "2026-11-07",
-          "mediamarkt": 1899,
-          "ceneo": 1479
-        },
-        {
-          "date": "2026-11-08",
-          "mediamarkt": 1899,
-          "ceneo": 1479
-        },
-        {
-          "date": "2026-11-09",
-          "mediamarkt": 1899,
-          "ceneo": 1479
-        },
-        {
-          "date": "2026-11-10",
-          "mediamarkt": 1899,
-          "ceneo": 1479
-        },
-        {
-          "date": "2026-11-11",
-          "mediamarkt": 1899,
-          "ceneo": 1479
-        },
-        {
-          "date": "2026-11-12",
-          "mediamarkt": 1899,
-          "ceneo": 1479
-        },
-        {
-          "date": "2026-11-13",
-          "mediamarkt": 1899,
-          "ceneo": 1479
-        },
-        {
-          "date": "2026-11-14",
-          "mediamarkt": 1899,
-          "ceneo": 1479
-        },
-        {
-          "date": "2026-11-15",
-          "mediamarkt": 1899,
-          "ceneo": 1479
-        },
-        {
-          "date": "2026-11-16",
-          "mediamarkt": 1899,
-          "ceneo": 1479
-        },
-        {
-          "date": "2026-11-17",
-          "mediamarkt": 1899,
-          "ceneo": 1479
-        },
-        {
-          "date": "2026-11-18",
-          "mediamarkt": 1899,
-          "ceneo": 1479
-        }
-      ]
-    },
-    {
-      "id": "samsung-nz85c6057fk",
-      "name": "Płyta indukcyjna SAMSUNG NZ85C6057FK/U2 Czarny",
-      "model": "NZ85C6057FK",
-      "brand": "SAMSUNG",
-      "type": "induction",
-      "size": {
-        "widthCm": 80,
-        "rawWidth": 80,
-        "label": "80 cm",
-        "category": "80cm"
-      },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_185605339",
-      "mediamarktPrice": 3649,
-      "ceneoPrice": 3119,
-      "ceneoCheckedAt": "2026-11-18",
-      "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
-        "previousPrice": 3649,
-        "previousDate": "2026-11-17"
-      },
-      "rating": 4.95,
-      "reviewCount": 274,
-      "valueScore": 22.5,
-      "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-samsung-nz85c6057fku2-czarny-185604427.html",
-        "ceneo": "https://www.ceneo.pl/;szukaj-NZ85C6057FK",
-        "euro": "https://www.euro.com.pl/search.bhtml?keyword=NZ85C6057FK",
-        "komputronik": "https://www.komputronik.pl/search?query=NZ85C6057FK"
-      },
-      "priceHistory": [
-        {
-          "date": "2026-10-16",
-          "mediamarkt": 3649,
-          "ceneo": 3119
-        },
-        {
-          "date": "2026-10-17",
-          "mediamarkt": 3649,
-          "ceneo": 3119
-        },
-        {
-          "date": "2026-10-18",
-          "mediamarkt": 3649,
-          "ceneo": 3119
-        },
-        {
-          "date": "2026-10-19",
-          "mediamarkt": 3649,
-          "ceneo": 3119
-        },
-        {
-          "date": "2026-10-20",
-          "mediamarkt": 3649,
-          "ceneo": 3119
-        },
-        {
-          "date": "2026-10-21",
-          "mediamarkt": 3649,
-          "ceneo": 3119
-        },
-        {
-          "date": "2026-10-22",
-          "mediamarkt": 3649,
-          "ceneo": 3119
-        },
-        {
-          "date": "2026-10-23",
-          "mediamarkt": 3649,
-          "ceneo": 3119
-        },
-        {
-          "date": "2026-10-24",
-          "mediamarkt": 3649,
-          "ceneo": 3119
-        },
-        {
-          "date": "2026-10-25",
-          "mediamarkt": 3649,
-          "ceneo": 3119
-        },
-        {
-          "date": "2026-10-26",
-          "mediamarkt": 3649,
-          "ceneo": 3119
-        },
-        {
-          "date": "2026-10-27",
-          "mediamarkt": 3649,
-          "ceneo": 3119
-        },
-        {
-          "date": "2026-10-28",
-          "mediamarkt": 3649,
-          "ceneo": 3119
-        },
-        {
-          "date": "2026-10-29",
-          "mediamarkt": 3649,
-          "ceneo": 3119
-        },
-        {
-          "date": "2026-10-30",
-          "mediamarkt": 3649,
-          "ceneo": 3119
-        },
-        {
-          "date": "2026-10-31",
-          "mediamarkt": 3649,
-          "ceneo": 3119
-        },
-        {
-          "date": "2026-11-01",
-          "mediamarkt": 3649,
-          "ceneo": 3119
-        },
-        {
-          "date": "2026-11-02",
-          "mediamarkt": 3649,
-          "ceneo": 3119
-        },
-        {
-          "date": "2026-11-03",
-          "mediamarkt": 3649,
-          "ceneo": 3119
-        },
-        {
-          "date": "2026-11-04",
-          "mediamarkt": 3649,
-          "ceneo": 3119
-        },
-        {
-          "date": "2026-11-05",
-          "mediamarkt": 3649,
-          "ceneo": 3119
-        },
-        {
-          "date": "2026-11-06",
-          "mediamarkt": 3649,
-          "ceneo": 3119
-        },
-        {
-          "date": "2026-11-07",
-          "mediamarkt": 3649,
-          "ceneo": 3119
-        },
-        {
-          "date": "2026-11-08",
-          "mediamarkt": 3649,
-          "ceneo": 3119
-        },
-        {
-          "date": "2026-11-09",
-          "mediamarkt": 3649,
-          "ceneo": 3119
-        },
-        {
-          "date": "2026-11-10",
-          "mediamarkt": 3649,
-          "ceneo": 3119
-        },
-        {
-          "date": "2026-11-11",
-          "mediamarkt": 3649,
-          "ceneo": 3119
-        },
-        {
-          "date": "2026-11-12",
-          "mediamarkt": 3649,
-          "ceneo": 3119
-        },
-        {
-          "date": "2026-11-13",
-          "mediamarkt": 3649,
-          "ceneo": 3119
-        },
-        {
-          "date": "2026-11-14",
-          "mediamarkt": 3649,
-          "ceneo": 3119
-        },
-        {
-          "date": "2026-11-15",
-          "mediamarkt": 3649,
-          "ceneo": 3119
-        },
-        {
-          "date": "2026-11-16",
-          "mediamarkt": 3649,
-          "ceneo": 3119
-        },
-        {
-          "date": "2026-11-17",
-          "mediamarkt": 3649,
-          "ceneo": 3119
-        },
-        {
-          "date": "2026-11-18",
-          "mediamarkt": 3649,
-          "ceneo": 3119
-        }
-      ]
-    },
-    {
-      "id": "bosch-6pvs631hc1e",
-      "name": "Płyty kuchenne BOSCH Serie 6PVS631HC1E Czarny",
-      "model": "6PVS631HC1E",
-      "brand": "BOSCH",
-      "type": "induction",
-      "size": {
-        "widthCm": 60,
-        "rawWidth": 60,
-        "label": "60 cm (standard)",
-        "category": "60cm"
-      },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_144358877",
-      "mediamarktPrice": 2349,
-      "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
-      "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
-        "previousPrice": 2349,
-        "previousDate": "2026-11-17"
-      },
-      "rating": 4.98,
-      "reviewCount": 89,
-      "valueScore": 20.0,
-      "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyty-kuchenne-bosch-serie-6-pvs631hc1e-czarny-144358870.html",
-        "ceneo": "https://www.ceneo.pl/;szukaj-6PVS631HC1E",
-        "euro": "https://www.euro.com.pl/search.bhtml?keyword=6PVS631HC1E",
-        "komputronik": "https://www.komputronik.pl/search?query=6PVS631HC1E"
-      },
-      "priceHistory": [
-        {
-          "date": "2026-10-16",
-          "mediamarkt": 1808,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-17",
-          "mediamarkt": 1808,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-18",
-          "mediamarkt": 1808,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-19",
-          "mediamarkt": 1808,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-20",
-          "mediamarkt": 2349,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-21",
-          "mediamarkt": 2349,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-22",
-          "mediamarkt": 2349,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-23",
-          "mediamarkt": 2349,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-24",
-          "mediamarkt": 2349,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-25",
-          "mediamarkt": 2349,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-26",
-          "mediamarkt": 2349,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-27",
-          "mediamarkt": 2349,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-28",
-          "mediamarkt": 2349,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-29",
-          "mediamarkt": 2349,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-30",
-          "mediamarkt": 2349,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-31",
-          "mediamarkt": 2349,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-01",
-          "mediamarkt": 2349,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-02",
-          "mediamarkt": 2349,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-03",
-          "mediamarkt": 2349,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-04",
-          "mediamarkt": 2349,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-05",
-          "mediamarkt": 2349,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-06",
-          "mediamarkt": 2349,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-07",
-          "mediamarkt": 2349,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-08",
-          "mediamarkt": 2349,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-09",
-          "mediamarkt": 2349,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-10",
-          "mediamarkt": 2349,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-11",
-          "mediamarkt": 1808,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-12",
-          "mediamarkt": 1808,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-13",
-          "mediamarkt": 2349,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-14",
-          "mediamarkt": 2349,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-15",
-          "mediamarkt": 2349,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-16",
-          "mediamarkt": 2349,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-17",
-          "mediamarkt": 2349,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-18",
-          "mediamarkt": 2349,
-          "ceneo": null
-        }
-      ]
-    },
-    {
-      "id": "electrolux-300lib60420ck",
-      "name": "Płyta indukcyjna ELECTROLUX Serie 300LIB60420CK Czarny",
-      "model": "300LIB60420CK",
-      "brand": "ELECTROLUX",
-      "type": "induction",
-      "size": {
-        "widthCm": 60,
-        "rawWidth": 60,
-        "label": "60 cm (standard)",
-        "category": "60cm"
-      },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_171516842",
-      "mediamarktPrice": 1095,
-      "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
-      "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
-        "previousPrice": 1095,
-        "previousDate": "2026-11-17"
-      },
-      "rating": 5.0,
-      "reviewCount": 15,
-      "valueScore": 17.7,
-      "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyty-kuchenne-electrolux-serie-300-lib60420ck-czarny-134152814.html",
-        "ceneo": "https://www.ceneo.pl/;szukaj-300LIB60420CK",
-        "euro": "https://www.euro.com.pl/search.bhtml?keyword=300LIB60420CK",
-        "komputronik": "https://www.komputronik.pl/search?query=300LIB60420CK"
-      },
-      "priceHistory": [
-        {
-          "date": "2026-10-16",
-          "mediamarkt": 1094,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-17",
-          "mediamarkt": 1094,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-18",
-          "mediamarkt": 1094,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-19",
-          "mediamarkt": 1094,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-20",
-          "mediamarkt": 1082,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-21",
-          "mediamarkt": 1082,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-22",
-          "mediamarkt": 1082,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-23",
-          "mediamarkt": 1082,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-24",
-          "mediamarkt": 1082,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-25",
-          "mediamarkt": 1082,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-26",
-          "mediamarkt": 1082,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-27",
-          "mediamarkt": 1082,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-28",
-          "mediamarkt": 1082,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-29",
-          "mediamarkt": 1082,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-30",
-          "mediamarkt": 1083,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-31",
-          "mediamarkt": 1083,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-01",
-          "mediamarkt": 1083,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-02",
-          "mediamarkt": 1083,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-03",
-          "mediamarkt": 1083,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-04",
-          "mediamarkt": 1083,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-05",
-          "mediamarkt": 1083,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-06",
-          "mediamarkt": 1095,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-07",
-          "mediamarkt": 1095,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-08",
-          "mediamarkt": 1095,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-09",
-          "mediamarkt": 1095,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-10",
-          "mediamarkt": 1083,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-11",
-          "mediamarkt": 1083,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-12",
-          "mediamarkt": 1083,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-13",
-          "mediamarkt": 1083,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-14",
-          "mediamarkt": 1083,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-15",
-          "mediamarkt": 1083,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-16",
-          "mediamarkt": 1083,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-17",
-          "mediamarkt": 1095,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-18",
-          "mediamarkt": 1095,
-          "ceneo": null
-        }
-      ]
-    },
-    {
-      "id": "electrolux-eiv644",
-      "name": "Płyta Indukcyjna ELECTROLUX EIV644 Czarny",
-      "model": "EIV644",
-      "brand": "ELECTROLUX",
-      "type": "induction",
-      "size": {
-        "widthCm": 60,
-        "rawWidth": 60,
-        "label": "60 cm (standard)",
-        "category": "60cm"
-      },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_134361011",
-      "mediamarktPrice": 2460,
-      "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
-      "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
-        "previousPrice": 2460,
-        "previousDate": "2026-11-17"
-      },
-      "rating": 4.91,
-      "reviewCount": 161,
-      "valueScore": 25.3,
-      "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_pyta-indukcyjna-electrolux-eiv644-czarny-134361007.html",
-        "ceneo": "https://www.ceneo.pl/;szukaj-EIV644",
-        "euro": "https://www.euro.com.pl/search.bhtml?keyword=EIV644",
-        "komputronik": "https://www.komputronik.pl/search?query=EIV644"
-      },
-      "priceHistory": [
-        {
-          "date": "2026-10-16",
-          "mediamarkt": 2460,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-17",
-          "mediamarkt": 2460,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-18",
-          "mediamarkt": 2460,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-19",
-          "mediamarkt": 2460,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-20",
-          "mediamarkt": 2460,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-21",
-          "mediamarkt": 2460,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-22",
-          "mediamarkt": 2460,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-23",
-          "mediamarkt": 2460,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-24",
-          "mediamarkt": 2460,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-25",
-          "mediamarkt": 2460,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-26",
-          "mediamarkt": 2460,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-27",
-          "mediamarkt": 2460,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-28",
-          "mediamarkt": 2460,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-29",
-          "mediamarkt": 2460,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-30",
-          "mediamarkt": 2460,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-31",
-          "mediamarkt": 2460,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-01",
-          "mediamarkt": 2460,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-02",
-          "mediamarkt": 2460,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-03",
-          "mediamarkt": 2460,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-04",
-          "mediamarkt": 2460,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-05",
-          "mediamarkt": 2460,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-06",
-          "mediamarkt": 2460,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-07",
-          "mediamarkt": 2460,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-08",
-          "mediamarkt": 2460,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-09",
-          "mediamarkt": 2460,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-10",
-          "mediamarkt": 2460,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-11",
-          "mediamarkt": 2460,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-12",
-          "mediamarkt": 2460,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-13",
-          "mediamarkt": 2460,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-14",
-          "mediamarkt": 2460,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-15",
-          "mediamarkt": 2460,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-16",
-          "mediamarkt": 2460,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-17",
-          "mediamarkt": 2460,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-18",
-          "mediamarkt": 2460,
-          "ceneo": null
-        }
-      ]
-    },
-    {
-      "id": "bosch-pxe601dc1e",
-      "name": "Płyta kuchenna BOSCH Serie 8 PXE601DC1E Czarny",
-      "model": "PXE601DC1E",
-      "brand": "BOSCH",
-      "type": "induction",
-      "size": {
-        "widthCm": 60,
-        "rawWidth": 60,
-        "label": "60 cm (standard)",
-        "category": "60cm"
-      },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_187988509",
-      "mediamarktPrice": 3316,
-      "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
-      "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
-        "previousPrice": 3316,
-        "previousDate": "2026-11-17"
-      },
-      "rating": 4.92,
-      "reviewCount": 88,
-      "valueScore": 13.9,
-      "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyty-kuchenne-bosch-serie-8-pxe601dc1e-czarny-134151997.html",
-        "ceneo": "https://www.ceneo.pl/;szukaj-PXE601DC1E",
-        "euro": "https://www.euro.com.pl/search.bhtml?keyword=PXE601DC1E",
-        "komputronik": "https://www.komputronik.pl/search?query=PXE601DC1E"
-      },
-      "priceHistory": [
-        {
-          "date": "2026-10-16",
-          "mediamarkt": 3316,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-17",
-          "mediamarkt": 3316,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-18",
-          "mediamarkt": 3316,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-19",
-          "mediamarkt": 3316,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-20",
-          "mediamarkt": 3281,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-21",
-          "mediamarkt": 3281,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-22",
-          "mediamarkt": 3281,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-23",
-          "mediamarkt": 3281,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-24",
-          "mediamarkt": 3281,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-25",
-          "mediamarkt": 3281,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-26",
-          "mediamarkt": 3281,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-27",
-          "mediamarkt": 3281,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-28",
-          "mediamarkt": 3281,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-29",
-          "mediamarkt": 3281,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-30",
-          "mediamarkt": 3281,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-31",
-          "mediamarkt": 3281,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-01",
-          "mediamarkt": 3281,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-02",
-          "mediamarkt": 3281,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-03",
-          "mediamarkt": 3281,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-04",
-          "mediamarkt": 3281,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-05",
-          "mediamarkt": 3281,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-06",
-          "mediamarkt": 3316,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-07",
-          "mediamarkt": 3316,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-08",
-          "mediamarkt": 3316,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-09",
-          "mediamarkt": 3316,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-10",
-          "mediamarkt": 3281,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-11",
-          "mediamarkt": 3281,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-12",
-          "mediamarkt": 3281,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-13",
-          "mediamarkt": 3281,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-14",
-          "mediamarkt": 3281,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-15",
-          "mediamarkt": 3281,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-16",
-          "mediamarkt": 3281,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-17",
-          "mediamarkt": 3316,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-18",
-          "mediamarkt": 3316,
-          "ceneo": null
-        }
-      ]
-    },
-    {
-      "id": "gorenje-gi6401bce",
-      "name": "Płyta indukcyjna GORENJE GI6401BCE Czarny",
-      "model": "GI6401BCE",
-      "brand": "GORENJE",
-      "type": "induction",
-      "size": {
-        "widthCm": 60,
-        "rawWidth": 60,
-        "label": "60 cm (standard)",
-        "category": "60cm"
-      },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_187981087",
-      "mediamarktPrice": 1004,
-      "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
-      "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
-        "previousPrice": 1004,
-        "previousDate": "2026-11-17"
-      },
-      "rating": 5.0,
-      "reviewCount": 3,
-      "valueScore": 8.6,
-      "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyty-kuchenne-gorenje-gi6401bce-czarny-156746484.html",
-        "ceneo": "https://www.ceneo.pl/;szukaj-GI6401BCE",
-        "euro": "https://www.euro.com.pl/search.bhtml?keyword=GI6401BCE",
-        "komputronik": "https://www.komputronik.pl/search?query=GI6401BCE"
-      },
-      "priceHistory": [
-        {
-          "date": "2026-10-16",
-          "mediamarkt": 1004,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-17",
-          "mediamarkt": 1004,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-18",
-          "mediamarkt": 1004,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-19",
-          "mediamarkt": 1004,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-20",
-          "mediamarkt": 941,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-21",
-          "mediamarkt": 904,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-22",
-          "mediamarkt": 874,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-23",
-          "mediamarkt": 874,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-24",
-          "mediamarkt": 874,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-25",
-          "mediamarkt": 874,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-26",
-          "mediamarkt": 874,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-27",
-          "mediamarkt": 835,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-28",
-          "mediamarkt": 835,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-29",
-          "mediamarkt": 835,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-30",
-          "mediamarkt": 994,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-31",
-          "mediamarkt": 994,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-01",
-          "mediamarkt": 994,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-02",
-          "mediamarkt": 994,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-03",
-          "mediamarkt": 994,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-04",
-          "mediamarkt": 994,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-05",
-          "mediamarkt": 994,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-06",
-          "mediamarkt": 1004,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-07",
-          "mediamarkt": 1004,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-08",
-          "mediamarkt": 1004,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-09",
-          "mediamarkt": 1004,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-10",
-          "mediamarkt": 994,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-11",
-          "mediamarkt": 994,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-12",
-          "mediamarkt": 994,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-13",
-          "mediamarkt": 994,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-14",
-          "mediamarkt": 994,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-15",
-          "mediamarkt": 994,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-16",
-          "mediamarkt": 994,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-17",
-          "mediamarkt": 1004,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-18",
-          "mediamarkt": 1004,
-          "ceneo": null
-        }
-      ]
-    },
-    {
-      "id": "amica-pi6501",
-      "name": "Płyta indukcyjna AMICA PI6501 Czarny",
-      "model": "PI6501",
-      "brand": "AMICA",
-      "type": "induction",
-      "size": {
-        "widthCm": 60,
-        "rawWidth": 60,
-        "label": "60 cm (standard)",
-        "category": "60cm"
-      },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_168618907",
-      "mediamarktPrice": 803,
-      "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
-      "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
-        "previousPrice": 803,
-        "previousDate": "2026-11-17"
-      },
-      "rating": null,
-      "reviewCount": 0,
-      "valueScore": 0.0,
-      "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-amica-pi6501-czarny-167782256.html",
-        "ceneo": "https://www.ceneo.pl/;szukaj-PI6501",
-        "euro": "https://www.euro.com.pl/search.bhtml?keyword=PI6501",
-        "komputronik": "https://www.komputronik.pl/search?query=PI6501"
-      },
-      "priceHistory": [
-        {
-          "date": "2026-10-16",
-          "mediamarkt": 999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-17",
-          "mediamarkt": 999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-18",
-          "mediamarkt": 999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-19",
-          "mediamarkt": 999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-20",
-          "mediamarkt": 999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-21",
-          "mediamarkt": 999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-22",
-          "mediamarkt": 999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-23",
-          "mediamarkt": 999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-24",
-          "mediamarkt": 999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-25",
-          "mediamarkt": 999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-26",
-          "mediamarkt": 999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-27",
-          "mediamarkt": 999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-28",
-          "mediamarkt": 999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-29",
-          "mediamarkt": 999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-30",
-          "mediamarkt": 930,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-31",
-          "mediamarkt": 930,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-01",
-          "mediamarkt": 930,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-02",
-          "mediamarkt": 930,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-03",
-          "mediamarkt": 894,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-04",
-          "mediamarkt": 865,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-05",
-          "mediamarkt": 874,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-06",
-          "mediamarkt": 884,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-07",
-          "mediamarkt": 884,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-08",
-          "mediamarkt": 884,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-09",
-          "mediamarkt": 884,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-10",
-          "mediamarkt": 874,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-11",
-          "mediamarkt": 874,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-12",
-          "mediamarkt": 795,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-13",
-          "mediamarkt": 795,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-14",
-          "mediamarkt": 795,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-15",
-          "mediamarkt": 795,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-16",
-          "mediamarkt": 795,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-17",
-          "mediamarkt": 803,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-18",
-          "mediamarkt": 803,
-          "ceneo": null
-        }
-      ]
-    },
-    {
-      "id": "inna-phd450",
-      "name": "Płyta indukcyjna PHILCO PHD 450 E Czarny",
-      "model": "PHD 450",
-      "brand": "INNA",
-      "type": "induction",
-      "size": {
-        "widthCm": 60,
-        "rawWidth": 60,
-        "label": "60 cm (standard)",
-        "category": "60cm"
-      },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_185979188",
-      "mediamarktPrice": 699,
-      "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
-      "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
-        "previousPrice": 699,
-        "previousDate": "2026-11-17"
-      },
-      "rating": null,
-      "reviewCount": 0,
-      "valueScore": 0.0,
-      "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-philco-phd-450-e-czarny-185979059.html",
-        "ceneo": "https://www.ceneo.pl/;szukaj-PHD 450",
-        "euro": "https://www.euro.com.pl/search.bhtml?keyword=PHD 450",
-        "komputronik": "https://www.komputronik.pl/search?query=PHD 450"
-      },
-      "priceHistory": [
-        {
-          "date": "2026-10-23",
-          "mediamarkt": 699,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-24",
-          "mediamarkt": 699,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-25",
-          "mediamarkt": 699,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-26",
-          "mediamarkt": 699,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-27",
-          "mediamarkt": 699,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-28",
-          "mediamarkt": 699,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-29",
-          "mediamarkt": 699,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-30",
-          "mediamarkt": 699,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-31",
-          "mediamarkt": 699,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-01",
-          "mediamarkt": 699,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-02",
-          "mediamarkt": 699,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-03",
-          "mediamarkt": 699,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-04",
-          "mediamarkt": 699,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-05",
-          "mediamarkt": 699,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-06",
-          "mediamarkt": 699,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-07",
-          "mediamarkt": 699,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-08",
-          "mediamarkt": 699,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-09",
-          "mediamarkt": 699,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-10",
-          "mediamarkt": 699,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-11",
-          "mediamarkt": 699,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-12",
-          "mediamarkt": 699,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-13",
-          "mediamarkt": 699,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-14",
-          "mediamarkt": 699,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-15",
-          "mediamarkt": 699,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-16",
-          "mediamarkt": 699,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-17",
-          "mediamarkt": 699,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-18",
-          "mediamarkt": 699,
-          "ceneo": null
-        }
-      ]
-    },
-    {
-      "id": "beko-bpro500",
-      "name": "Płyta indukcyjna BEKO bPRO500 HII64601AFT Pole XXL Hob to Hood IndyFlex 59cm",
-      "model": "BPRO500",
-      "brand": "BEKO",
-      "type": "induction",
-      "size": {
-        "widthCm": 60,
-        "rawWidth": 59,
-        "label": "60 cm (standard)",
-        "category": "60cm"
-      },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_174742826",
-      "mediamarktPrice": 1379,
-      "ceneoPrice": 4118.99,
-      "ceneoCheckedAt": "2026-11-18",
-      "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
-        "previousPrice": 1379,
-        "previousDate": "2026-11-17"
-      },
-      "rating": null,
-      "reviewCount": 0,
-      "valueScore": 0.0,
-      "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-beko-hii64601aft-czarny-1501678.html",
-        "ceneo": "https://www.ceneo.pl/;szukaj-BPRO500",
-        "euro": "https://www.euro.com.pl/search.bhtml?keyword=BPRO500",
-        "komputronik": "https://www.komputronik.pl/search?query=BPRO500"
-      },
-      "priceHistory": [
-        {
-          "date": "2026-10-16",
-          "mediamarkt": 1449,
-          "ceneo": 4118.99
-        },
-        {
-          "date": "2026-10-17",
-          "mediamarkt": 1449,
-          "ceneo": 4118.99
-        },
-        {
-          "date": "2026-10-18",
-          "mediamarkt": 1449,
-          "ceneo": 4118.99
-        },
-        {
-          "date": "2026-10-19",
-          "mediamarkt": 1449,
-          "ceneo": 4118.99
-        },
-        {
-          "date": "2026-10-20",
-          "mediamarkt": 1449,
-          "ceneo": 4118.99
-        },
-        {
-          "date": "2026-10-21",
-          "mediamarkt": 1449,
-          "ceneo": 4118.99
-        },
-        {
-          "date": "2026-10-22",
-          "mediamarkt": 1449,
-          "ceneo": 4118.99
-        },
-        {
-          "date": "2026-10-23",
-          "mediamarkt": 1449,
-          "ceneo": 4118.99
-        },
-        {
-          "date": "2026-10-24",
-          "mediamarkt": 1449,
-          "ceneo": 4118.99
-        },
-        {
-          "date": "2026-10-25",
-          "mediamarkt": 1449,
-          "ceneo": 4118.99
-        },
-        {
-          "date": "2026-10-26",
-          "mediamarkt": 1449,
-          "ceneo": 4118.99
-        },
-        {
-          "date": "2026-10-27",
-          "mediamarkt": 1449,
-          "ceneo": 4118.99
-        },
-        {
-          "date": "2026-10-28",
-          "mediamarkt": 1449,
-          "ceneo": 4118.99
-        },
-        {
-          "date": "2026-10-29",
-          "mediamarkt": 1449,
-          "ceneo": 4118.99
-        },
-        {
-          "date": "2026-10-30",
-          "mediamarkt": 1449,
-          "ceneo": 4118.99
-        },
-        {
-          "date": "2026-10-31",
-          "mediamarkt": 1449,
-          "ceneo": 4118.99
-        },
-        {
-          "date": "2026-11-01",
-          "mediamarkt": 1499,
-          "ceneo": 4118.99
-        },
-        {
-          "date": "2026-11-02",
-          "mediamarkt": 1499,
-          "ceneo": 4118.99
-        },
-        {
-          "date": "2026-11-03",
-          "mediamarkt": 1499,
-          "ceneo": 4118.99
-        },
-        {
-          "date": "2026-11-04",
-          "mediamarkt": 1499,
-          "ceneo": 4118.99
-        },
-        {
-          "date": "2026-11-05",
-          "mediamarkt": 1499,
-          "ceneo": 4118.99
-        },
-        {
-          "date": "2026-11-06",
-          "mediamarkt": 1499,
-          "ceneo": 4118.99
-        },
-        {
-          "date": "2026-11-07",
-          "mediamarkt": 1499,
-          "ceneo": 4118.99
-        },
-        {
-          "date": "2026-11-08",
-          "mediamarkt": 1499,
-          "ceneo": 4118.99
-        },
-        {
-          "date": "2026-11-09",
-          "mediamarkt": 1499,
-          "ceneo": 4118.99
-        },
-        {
-          "date": "2026-11-10",
-          "mediamarkt": 1499,
-          "ceneo": 4118.99
-        },
-        {
-          "date": "2026-11-11",
-          "mediamarkt": 1499,
-          "ceneo": 4118.99
-        },
-        {
-          "date": "2026-11-12",
-          "mediamarkt": 1499,
-          "ceneo": 4118.99
-        },
-        {
-          "date": "2026-11-13",
-          "mediamarkt": 1499,
-          "ceneo": 4118.99
-        },
-        {
-          "date": "2026-11-14",
-          "mediamarkt": 1499,
-          "ceneo": 4118.99
-        },
-        {
-          "date": "2026-11-15",
-          "mediamarkt": 1379,
-          "ceneo": 4118.99
-        },
-        {
-          "date": "2026-11-16",
-          "mediamarkt": 1379,
-          "ceneo": 4118.99
-        },
-        {
-          "date": "2026-11-17",
-          "mediamarkt": 1379,
-          "ceneo": 4118.99
-        },
-        {
-          "date": "2026-11-18",
-          "mediamarkt": 1379,
-          "ceneo": 4118.99
-        }
-      ]
-    },
-    {
-      "id": "inna-79",
-      "name": "Płyta indukcyjna HUSLOG 3500 W DualHeat, 2 pola grzewcze, panel dotykowy czarny",
-      "model": "",
-      "brand": "INNA",
-      "type": "induction",
-      "size": {
-        "widthCm": 60,
-        "rawWidth": 60,
-        "label": "60 cm (standard)",
-        "category": "60cm"
-      },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_180944251",
-      "mediamarktPrice": 309.99,
-      "ceneoPrice": null,
-      "ceneoCheckedAt": null,
-      "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
-        "previousPrice": 309.99,
-        "previousDate": "2026-11-18"
-      },
-      "rating": null,
-      "reviewCount": 0,
-      "valueScore": 0.0,
-      "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-huslog-3500-w-dualheat-2-pola-grzewcze-panel-dotykowy-czarny-180943986.html",
-        "ceneo": "",
-        "euro": "",
-        "komputronik": ""
-      },
-      "priceHistory": [
-        {
-          "date": "2026-11-18",
-          "mediamarkt": 309.99,
           "ceneo": null
         }
       ]
@@ -13144,13 +6149,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_185353430",
       "mediamarktPrice": 499,
       "ceneoPrice": 699,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "down",
-        "delta": -250,
-        "percent": -33.4,
-        "previousPrice": 749,
-        "previousDate": "2026-11-17"
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 499,
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -13331,6 +6336,7441 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 499,
           "ceneo": 699
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 499,
+          "ceneo": 699
+        }
+      ]
+    },
+    {
+      "id": "inna-mpm60im17",
+      "name": "Płyta indukcyjna MPM 60-IM-17/M Czarny",
+      "model": "MPM 60-IM-17",
+      "brand": "INNA",
+      "type": "induction",
+      "size": {
+        "widthCm": 60,
+        "rawWidth": 60,
+        "label": "60 cm (standard)",
+        "category": "60cm"
+      },
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_188882061",
+      "mediamarktPrice": 925,
+      "ceneoPrice": null,
+      "ceneoCheckedAt": "2026-11-19",
+      "priceChange": {
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 925,
+        "previousDate": "2026-11-18"
+      },
+      "rating": null,
+      "reviewCount": 0,
+      "valueScore": 0.0,
+      "links": {
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-mpm-60-im-17m-czarny-188881647.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-MPM 60-IM-17",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=MPM 60-IM-17",
+        "komputronik": "https://www.komputronik.pl/search?query=MPM 60-IM-17"
+      },
+      "priceHistory": [
+        {
+          "date": "2026-10-16",
+          "mediamarkt": 999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-17",
+          "mediamarkt": 999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-18",
+          "mediamarkt": 999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-19",
+          "mediamarkt": 999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-20",
+          "mediamarkt": 999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-21",
+          "mediamarkt": 999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-22",
+          "mediamarkt": 999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-23",
+          "mediamarkt": 999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-24",
+          "mediamarkt": 999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-25",
+          "mediamarkt": 999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-26",
+          "mediamarkt": 999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-27",
+          "mediamarkt": 999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-28",
+          "mediamarkt": 999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-29",
+          "mediamarkt": 999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-30",
+          "mediamarkt": 999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-31",
+          "mediamarkt": 999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-01",
+          "mediamarkt": 999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-02",
+          "mediamarkt": 999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-03",
+          "mediamarkt": 999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-04",
+          "mediamarkt": 999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-05",
+          "mediamarkt": 999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-06",
+          "mediamarkt": 999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-07",
+          "mediamarkt": 999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-08",
+          "mediamarkt": 999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-09",
+          "mediamarkt": 999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-10",
+          "mediamarkt": 999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-11",
+          "mediamarkt": 999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-12",
+          "mediamarkt": 999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-13",
+          "mediamarkt": 999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-14",
+          "mediamarkt": 884,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-15",
+          "mediamarkt": 884,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-16",
+          "mediamarkt": 884,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-17",
+          "mediamarkt": 894,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-18",
+          "mediamarkt": 925,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 925,
+          "ceneo": null
+        }
+      ]
+    },
+    {
+      "id": "beko-b300-3",
+      "name": "Płyta Indukcyjna BEKO b300 HII64200FMTW IndyFlex Booster Timer PowerManagement 59cm",
+      "model": "B300",
+      "brand": "BEKO",
+      "type": "induction",
+      "size": {
+        "widthCm": 60,
+        "rawWidth": 59,
+        "label": "60 cm (standard)",
+        "category": "60cm"
+      },
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_188395466",
+      "mediamarktPrice": 1329,
+      "ceneoPrice": null,
+      "ceneoCheckedAt": "2026-11-19",
+      "priceChange": {
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 1329,
+        "previousDate": "2026-11-18"
+      },
+      "rating": 4.25,
+      "reviewCount": 63,
+      "valueScore": 25.4,
+      "links": {
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-beko-hii64200fmtw-1432418.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-B300",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=B300",
+        "komputronik": "https://www.komputronik.pl/search?query=B300"
+      },
+      "priceHistory": [
+        {
+          "date": "2026-11-07",
+          "mediamarkt": 1299,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-08",
+          "mediamarkt": 1329,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-09",
+          "mediamarkt": 1299,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-10",
+          "mediamarkt": 1299,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-11",
+          "mediamarkt": 1329,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-12",
+          "mediamarkt": 1329,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-13",
+          "mediamarkt": 1329,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-14",
+          "mediamarkt": 1329,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-15",
+          "mediamarkt": 1329,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-16",
+          "mediamarkt": 1329,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-17",
+          "mediamarkt": 1329,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-18",
+          "mediamarkt": 1329,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1329,
+          "ceneo": null
+        }
+      ]
+    },
+    {
+      "id": "amica-pid6540phtuln",
+      "name": "Płyta indukcyjna AMICA PID6540PHTULN 3.0",
+      "model": "PID6540PHTULN",
+      "brand": "AMICA",
+      "type": "induction",
+      "size": {
+        "widthCm": 60,
+        "rawWidth": 60,
+        "label": "60 cm (standard)",
+        "category": "60cm"
+      },
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_108725534",
+      "mediamarktPrice": 1279,
+      "ceneoPrice": 1279,
+      "ceneoCheckedAt": "2026-11-19",
+      "priceChange": {
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 1279,
+        "previousDate": "2026-11-18"
+      },
+      "rating": 5.0,
+      "reviewCount": 2,
+      "valueScore": 5.5,
+      "links": {
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-amica-pid6540phtuln-30-1475604.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-PID6540PHTULN",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=PID6540PHTULN",
+        "komputronik": "https://www.komputronik.pl/search?query=PID6540PHTULN"
+      },
+      "priceHistory": [
+        {
+          "date": "2026-10-16",
+          "mediamarkt": 1279,
+          "ceneo": 1279
+        },
+        {
+          "date": "2026-10-17",
+          "mediamarkt": 1279,
+          "ceneo": 1279
+        },
+        {
+          "date": "2026-10-18",
+          "mediamarkt": 1279,
+          "ceneo": 1279
+        },
+        {
+          "date": "2026-10-19",
+          "mediamarkt": 1279,
+          "ceneo": 1279
+        },
+        {
+          "date": "2026-10-20",
+          "mediamarkt": 1279,
+          "ceneo": 1279
+        },
+        {
+          "date": "2026-10-21",
+          "mediamarkt": 1279,
+          "ceneo": 1279
+        },
+        {
+          "date": "2026-10-22",
+          "mediamarkt": 1279,
+          "ceneo": 1279
+        },
+        {
+          "date": "2026-10-23",
+          "mediamarkt": 1279,
+          "ceneo": 1279
+        },
+        {
+          "date": "2026-10-24",
+          "mediamarkt": 1279,
+          "ceneo": 1279
+        },
+        {
+          "date": "2026-10-25",
+          "mediamarkt": 1279,
+          "ceneo": 1279
+        },
+        {
+          "date": "2026-10-26",
+          "mediamarkt": 1279,
+          "ceneo": 1279
+        },
+        {
+          "date": "2026-10-27",
+          "mediamarkt": 1279,
+          "ceneo": 1279
+        },
+        {
+          "date": "2026-10-28",
+          "mediamarkt": 1279,
+          "ceneo": 1279
+        },
+        {
+          "date": "2026-10-29",
+          "mediamarkt": 1279,
+          "ceneo": 1279
+        },
+        {
+          "date": "2026-10-30",
+          "mediamarkt": 1279,
+          "ceneo": 1279
+        },
+        {
+          "date": "2026-10-31",
+          "mediamarkt": 1279,
+          "ceneo": 1279
+        },
+        {
+          "date": "2026-11-01",
+          "mediamarkt": 1279,
+          "ceneo": 1279
+        },
+        {
+          "date": "2026-11-02",
+          "mediamarkt": 1279,
+          "ceneo": 1279
+        },
+        {
+          "date": "2026-11-03",
+          "mediamarkt": 1279,
+          "ceneo": 1279
+        },
+        {
+          "date": "2026-11-04",
+          "mediamarkt": 1279,
+          "ceneo": 1279
+        },
+        {
+          "date": "2026-11-05",
+          "mediamarkt": 1279,
+          "ceneo": 1279
+        },
+        {
+          "date": "2026-11-06",
+          "mediamarkt": 1279,
+          "ceneo": 1279
+        },
+        {
+          "date": "2026-11-07",
+          "mediamarkt": 1279,
+          "ceneo": 1279
+        },
+        {
+          "date": "2026-11-08",
+          "mediamarkt": 1279,
+          "ceneo": 1279
+        },
+        {
+          "date": "2026-11-09",
+          "mediamarkt": 1279,
+          "ceneo": 1279
+        },
+        {
+          "date": "2026-11-10",
+          "mediamarkt": 1399,
+          "ceneo": 1279
+        },
+        {
+          "date": "2026-11-11",
+          "mediamarkt": 1279,
+          "ceneo": 1279
+        },
+        {
+          "date": "2026-11-12",
+          "mediamarkt": 1279,
+          "ceneo": 1279
+        },
+        {
+          "date": "2026-11-13",
+          "mediamarkt": 1279,
+          "ceneo": 1279
+        },
+        {
+          "date": "2026-11-14",
+          "mediamarkt": 1279,
+          "ceneo": 1279
+        },
+        {
+          "date": "2026-11-15",
+          "mediamarkt": 1279,
+          "ceneo": 1279
+        },
+        {
+          "date": "2026-11-16",
+          "mediamarkt": 1279,
+          "ceneo": 1279
+        },
+        {
+          "date": "2026-11-17",
+          "mediamarkt": 1279,
+          "ceneo": 1279
+        },
+        {
+          "date": "2026-11-18",
+          "mediamarkt": 1279,
+          "ceneo": 1279
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1279,
+          "ceneo": 1279
+        }
+      ]
+    },
+    {
+      "id": "inna-kbh36124",
+      "name": "Płyta indukcyjna KOENIC KBH 3612-4 Czarna",
+      "model": "KBH 3612-4",
+      "brand": "INNA",
+      "type": "induction",
+      "size": {
+        "widthCm": 60,
+        "rawWidth": 60,
+        "label": "60 cm (standard)",
+        "category": "60cm"
+      },
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_179411473",
+      "mediamarktPrice": 699,
+      "ceneoPrice": null,
+      "ceneoCheckedAt": "2026-11-19",
+      "priceChange": {
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 699,
+        "previousDate": "2026-11-18"
+      },
+      "rating": null,
+      "reviewCount": 0,
+      "valueScore": 0.0,
+      "links": {
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-koenic-kbh-3612-4-czarna-1502157.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-KBH 3612-4",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=KBH 3612-4",
+        "komputronik": "https://www.komputronik.pl/search?query=KBH 3612-4"
+      },
+      "priceHistory": [
+        {
+          "date": "2026-10-16",
+          "mediamarkt": 799,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-17",
+          "mediamarkt": 799,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-18",
+          "mediamarkt": 799,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-19",
+          "mediamarkt": 799,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-20",
+          "mediamarkt": 799,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-21",
+          "mediamarkt": 799,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-22",
+          "mediamarkt": 799,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-23",
+          "mediamarkt": 799,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-24",
+          "mediamarkt": 799,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-25",
+          "mediamarkt": 799,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-26",
+          "mediamarkt": 799,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-27",
+          "mediamarkt": 799,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-28",
+          "mediamarkt": 799,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-29",
+          "mediamarkt": 799,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-30",
+          "mediamarkt": 799,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-31",
+          "mediamarkt": 799,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-01",
+          "mediamarkt": 799,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-02",
+          "mediamarkt": 799,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-03",
+          "mediamarkt": 799,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-04",
+          "mediamarkt": 799,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-05",
+          "mediamarkt": 799,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-06",
+          "mediamarkt": 799,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-07",
+          "mediamarkt": 799,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-08",
+          "mediamarkt": 799,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-09",
+          "mediamarkt": 799,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-10",
+          "mediamarkt": 799,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-11",
+          "mediamarkt": 799,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-12",
+          "mediamarkt": 799,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-13",
+          "mediamarkt": 799,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-14",
+          "mediamarkt": 799,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-15",
+          "mediamarkt": 799,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-16",
+          "mediamarkt": 799,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-17",
+          "mediamarkt": 799,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-18",
+          "mediamarkt": 699,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 699,
+          "ceneo": null
+        }
+      ]
+    },
+    {
+      "id": "gorenje-gi6401wsc",
+      "name": "Płyta indukcyjna GORENJE GI6401WSC Biały",
+      "model": "GI6401WSC",
+      "brand": "GORENJE",
+      "type": "induction",
+      "size": {
+        "widthCm": 60,
+        "rawWidth": 60,
+        "label": "60 cm (standard)",
+        "category": "60cm"
+      },
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_158734346",
+      "mediamarktPrice": 1659,
+      "ceneoPrice": 1422.9,
+      "ceneoCheckedAt": "2026-11-19",
+      "priceChange": {
+        "trend": "up",
+        "delta": 52,
+        "percent": 3.2,
+        "previousPrice": 1607,
+        "previousDate": "2026-11-18"
+      },
+      "rating": null,
+      "reviewCount": 0,
+      "valueScore": 0.0,
+      "links": {
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-gorenje-gi6401wsc-bialy-1495605.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-GI6401WSC",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=GI6401WSC",
+        "komputronik": "https://www.komputronik.pl/search?query=GI6401WSC"
+      },
+      "priceHistory": [
+        {
+          "date": "2026-10-16",
+          "mediamarkt": 1549,
+          "ceneo": 1422.9
+        },
+        {
+          "date": "2026-10-17",
+          "mediamarkt": 1549,
+          "ceneo": 1422.9
+        },
+        {
+          "date": "2026-10-18",
+          "mediamarkt": 1699,
+          "ceneo": 1422.9
+        },
+        {
+          "date": "2026-10-19",
+          "mediamarkt": 1699,
+          "ceneo": 1422.9
+        },
+        {
+          "date": "2026-10-20",
+          "mediamarkt": 1699,
+          "ceneo": 1422.9
+        },
+        {
+          "date": "2026-10-21",
+          "mediamarkt": 1699,
+          "ceneo": 1422.9
+        },
+        {
+          "date": "2026-10-22",
+          "mediamarkt": 1699,
+          "ceneo": 1422.9
+        },
+        {
+          "date": "2026-10-23",
+          "mediamarkt": 1699,
+          "ceneo": 1422.9
+        },
+        {
+          "date": "2026-10-24",
+          "mediamarkt": 1699,
+          "ceneo": 1422.9
+        },
+        {
+          "date": "2026-10-25",
+          "mediamarkt": 1699,
+          "ceneo": 1422.9
+        },
+        {
+          "date": "2026-10-26",
+          "mediamarkt": 1699,
+          "ceneo": 1422.9
+        },
+        {
+          "date": "2026-10-27",
+          "mediamarkt": 1699,
+          "ceneo": 1422.9
+        },
+        {
+          "date": "2026-10-28",
+          "mediamarkt": 1699,
+          "ceneo": 1422.9
+        },
+        {
+          "date": "2026-10-29",
+          "mediamarkt": 1699,
+          "ceneo": 1422.9
+        },
+        {
+          "date": "2026-10-30",
+          "mediamarkt": 1699,
+          "ceneo": 1422.9
+        },
+        {
+          "date": "2026-10-31",
+          "mediamarkt": 1699,
+          "ceneo": 1422.9
+        },
+        {
+          "date": "2026-11-01",
+          "mediamarkt": 1539,
+          "ceneo": 1422.9
+        },
+        {
+          "date": "2026-11-02",
+          "mediamarkt": 1539,
+          "ceneo": 1422.9
+        },
+        {
+          "date": "2026-11-03",
+          "mediamarkt": 1539,
+          "ceneo": 1422.9
+        },
+        {
+          "date": "2026-11-04",
+          "mediamarkt": 1539,
+          "ceneo": 1422.9
+        },
+        {
+          "date": "2026-11-05",
+          "mediamarkt": 1539,
+          "ceneo": 1422.9
+        },
+        {
+          "date": "2026-11-06",
+          "mediamarkt": 1539,
+          "ceneo": 1422.9
+        },
+        {
+          "date": "2026-11-07",
+          "mediamarkt": 1539,
+          "ceneo": 1422.9
+        },
+        {
+          "date": "2026-11-08",
+          "mediamarkt": 1539,
+          "ceneo": 1422.9
+        },
+        {
+          "date": "2026-11-09",
+          "mediamarkt": 1539,
+          "ceneo": 1422.9
+        },
+        {
+          "date": "2026-11-10",
+          "mediamarkt": 1539,
+          "ceneo": 1422.9
+        },
+        {
+          "date": "2026-11-11",
+          "mediamarkt": 1699,
+          "ceneo": 1422.9
+        },
+        {
+          "date": "2026-11-12",
+          "mediamarkt": 1699,
+          "ceneo": 1422.9
+        },
+        {
+          "date": "2026-11-13",
+          "mediamarkt": 1699,
+          "ceneo": 1422.9
+        },
+        {
+          "date": "2026-11-14",
+          "mediamarkt": 1699,
+          "ceneo": 1422.9
+        },
+        {
+          "date": "2026-11-15",
+          "mediamarkt": 1659,
+          "ceneo": 1422.9
+        },
+        {
+          "date": "2026-11-16",
+          "mediamarkt": 1659,
+          "ceneo": 1422.9
+        },
+        {
+          "date": "2026-11-17",
+          "mediamarkt": 1607,
+          "ceneo": 1422.9
+        },
+        {
+          "date": "2026-11-18",
+          "mediamarkt": 1607,
+          "ceneo": 1422.9
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1659,
+          "ceneo": 1422.9
+        }
+      ]
+    },
+    {
+      "id": "amica-pim6541phtsun-2",
+      "name": "Płyta indukcyjna AMICA PIM6541PHTSUN 3.0",
+      "model": "PIM6541PHTSUN",
+      "brand": "AMICA",
+      "type": "induction",
+      "size": {
+        "widthCm": 60,
+        "rawWidth": 60,
+        "label": "60 cm (standard)",
+        "category": "60cm"
+      },
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_112643689",
+      "mediamarktPrice": 1249,
+      "ceneoPrice": null,
+      "ceneoCheckedAt": "2026-11-19",
+      "priceChange": {
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 1249,
+        "previousDate": "2026-11-18"
+      },
+      "rating": 4.62,
+      "reviewCount": 24,
+      "valueScore": 18.1,
+      "links": {
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-amica-pim6541phtsun-30-1475605.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-PIM6541PHTSUN",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=PIM6541PHTSUN",
+        "komputronik": "https://www.komputronik.pl/search?query=PIM6541PHTSUN"
+      },
+      "priceHistory": [
+        {
+          "date": "2026-10-18",
+          "mediamarkt": 1499,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-19",
+          "mediamarkt": 1499,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-20",
+          "mediamarkt": 1499,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-21",
+          "mediamarkt": 1499,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-22",
+          "mediamarkt": 1499,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-23",
+          "mediamarkt": 1499,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-24",
+          "mediamarkt": 1499,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-25",
+          "mediamarkt": 1499,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-26",
+          "mediamarkt": 1399,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-27",
+          "mediamarkt": 1399,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-28",
+          "mediamarkt": 1399,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-29",
+          "mediamarkt": 1399,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-30",
+          "mediamarkt": 1399,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-31",
+          "mediamarkt": 1399,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-01",
+          "mediamarkt": 1399,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-02",
+          "mediamarkt": 1399,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-03",
+          "mediamarkt": 1399,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-04",
+          "mediamarkt": 1399,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-05",
+          "mediamarkt": 1399,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-06",
+          "mediamarkt": 1399,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-07",
+          "mediamarkt": 1399,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-08",
+          "mediamarkt": 1399,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-09",
+          "mediamarkt": 1399,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-10",
+          "mediamarkt": 1399,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-11",
+          "mediamarkt": 1399,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-12",
+          "mediamarkt": 1399,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-13",
+          "mediamarkt": 1399,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-14",
+          "mediamarkt": 1399,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-15",
+          "mediamarkt": 1399,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-16",
+          "mediamarkt": 1399,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-17",
+          "mediamarkt": 1399,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-18",
+          "mediamarkt": 1249,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1249,
+          "ceneo": null
+        }
+      ]
+    },
+    {
+      "id": "beko-b300-4",
+      "name": "Płyta indukcyjna BEKO b300 HDI32400TO Booster Timer 28,8cm",
+      "model": "B300",
+      "brand": "BEKO",
+      "type": "induction",
+      "size": {
+        "widthCm": 60,
+        "rawWidth": 60,
+        "label": "60 cm (standard)",
+        "category": "60cm"
+      },
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_188394926",
+      "mediamarktPrice": 599,
+      "ceneoPrice": null,
+      "ceneoCheckedAt": "2026-11-19",
+      "priceChange": {
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 599,
+        "previousDate": "2026-11-18"
+      },
+      "rating": null,
+      "reviewCount": 0,
+      "valueScore": 0.0,
+      "links": {
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-beko-hdi32400to-czarny-1491892.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-B300",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=B300",
+        "komputronik": "https://www.komputronik.pl/search?query=B300"
+      },
+      "priceHistory": [
+        {
+          "date": "2026-11-07",
+          "mediamarkt": 629,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-08",
+          "mediamarkt": 629,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-09",
+          "mediamarkt": 629,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-10",
+          "mediamarkt": 629,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-11",
+          "mediamarkt": 629,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-12",
+          "mediamarkt": 629,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-13",
+          "mediamarkt": 629,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-14",
+          "mediamarkt": 629,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-15",
+          "mediamarkt": 629,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-16",
+          "mediamarkt": 629,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-17",
+          "mediamarkt": 599,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-18",
+          "mediamarkt": 599,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 599,
+          "ceneo": null
+        }
+      ]
+    },
+    {
+      "id": "bosch-pvs611bb6e",
+      "name": "Płyta indukcyjna do zabudowy BOSCH PVS611BB6E Serie 4 Czarny",
+      "model": "PVS611BB6E",
+      "brand": "BOSCH",
+      "type": "induction",
+      "size": {
+        "widthCm": 60,
+        "rawWidth": 60,
+        "label": "60 cm (standard)",
+        "category": "60cm"
+      },
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_175558073",
+      "mediamarktPrice": 1449,
+      "ceneoPrice": null,
+      "ceneoCheckedAt": "2026-11-19",
+      "priceChange": {
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 1449,
+        "previousDate": "2026-11-18"
+      },
+      "rating": 4.5,
+      "reviewCount": 10,
+      "valueScore": 9.8,
+      "links": {
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-do-zabudowy-bosch-pvs611bb6e-serie-4-czarny-1504662.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-PVS611BB6E",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=PVS611BB6E",
+        "komputronik": "https://www.komputronik.pl/search?query=PVS611BB6E"
+      },
+      "priceHistory": [
+        {
+          "date": "2026-11-13",
+          "mediamarkt": 1569,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-14",
+          "mediamarkt": 1569,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-15",
+          "mediamarkt": 1569,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-16",
+          "mediamarkt": 1449,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-17",
+          "mediamarkt": 1449,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-18",
+          "mediamarkt": 1449,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1449,
+          "ceneo": null
+        }
+      ]
+    },
+    {
+      "id": "whirlpool-wfs0377neixl",
+      "name": "Płyta indukcyjna WHIRLPOOL W Collection WFS0377NEIXL FlexiSide Chef Control 77cm iXelium",
+      "model": "WFS0377NEIXL",
+      "brand": "WHIRLPOOL",
+      "type": "induction",
+      "size": {
+        "widthCm": 80,
+        "rawWidth": 77,
+        "label": "80 cm",
+        "category": "80cm"
+      },
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_108813587",
+      "mediamarktPrice": 2099,
+      "ceneoPrice": null,
+      "ceneoCheckedAt": "2026-11-19",
+      "priceChange": {
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 2099,
+        "previousDate": "2026-11-18"
+      },
+      "rating": 4.52,
+      "reviewCount": 21,
+      "valueScore": 9.9,
+      "links": {
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-whirlpool-wfs0377neixl-1433757.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-WFS0377NEIXL",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=WFS0377NEIXL",
+        "komputronik": "https://www.komputronik.pl/search?query=WFS0377NEIXL"
+      },
+      "priceHistory": [
+        {
+          "date": "2026-10-16",
+          "mediamarkt": 2299,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-17",
+          "mediamarkt": 2299,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-18",
+          "mediamarkt": 2299,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-19",
+          "mediamarkt": 2299,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-20",
+          "mediamarkt": 2299,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-21",
+          "mediamarkt": 2299,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-22",
+          "mediamarkt": 2299,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-23",
+          "mediamarkt": 2299,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-24",
+          "mediamarkt": 2299,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-25",
+          "mediamarkt": 2299,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-26",
+          "mediamarkt": 2099,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-27",
+          "mediamarkt": 2099,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-28",
+          "mediamarkt": 2099,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-29",
+          "mediamarkt": 2099,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-30",
+          "mediamarkt": 2099,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-31",
+          "mediamarkt": 2099,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-01",
+          "mediamarkt": 2099,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-02",
+          "mediamarkt": 2099,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-03",
+          "mediamarkt": 2099,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-04",
+          "mediamarkt": 2099,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-05",
+          "mediamarkt": 2099,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-06",
+          "mediamarkt": 2099,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-07",
+          "mediamarkt": 2099,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-08",
+          "mediamarkt": 2099,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-09",
+          "mediamarkt": 2099,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-10",
+          "mediamarkt": 2099,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-11",
+          "mediamarkt": 2099,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-12",
+          "mediamarkt": 2099,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-13",
+          "mediamarkt": 2099,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-14",
+          "mediamarkt": 2099,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-15",
+          "mediamarkt": 2099,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-16",
+          "mediamarkt": 2099,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-17",
+          "mediamarkt": 2099,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-18",
+          "mediamarkt": 2099,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 2099,
+          "ceneo": null
+        }
+      ]
+    },
+    {
+      "id": "amica-pidh6140phtuln",
+      "name": "Płyta indukcyjna AMICA PIDH6140PHTULN 3.0",
+      "model": "PIDH6140PHTULN",
+      "brand": "AMICA",
+      "type": "induction",
+      "size": {
+        "widthCm": 60,
+        "rawWidth": 60,
+        "label": "60 cm (standard)",
+        "category": "60cm"
+      },
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_143571791",
+      "mediamarktPrice": 1599,
+      "ceneoPrice": null,
+      "ceneoCheckedAt": "2026-11-19",
+      "priceChange": {
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 1599,
+        "previousDate": "2026-11-18"
+      },
+      "rating": 5.0,
+      "reviewCount": 3,
+      "valueScore": 5.4,
+      "links": {
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-amica-pidh6140phtuln-30-1483827.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-PIDH6140PHTULN",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=PIDH6140PHTULN",
+        "komputronik": "https://www.komputronik.pl/search?query=PIDH6140PHTULN"
+      },
+      "priceHistory": [
+        {
+          "date": "2026-10-16",
+          "mediamarkt": 1669,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-17",
+          "mediamarkt": 1669,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-18",
+          "mediamarkt": 1799,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-19",
+          "mediamarkt": 1669,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-20",
+          "mediamarkt": 1669,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-21",
+          "mediamarkt": 1669,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-22",
+          "mediamarkt": 1669,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-23",
+          "mediamarkt": 1599,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-24",
+          "mediamarkt": 1599,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-25",
+          "mediamarkt": 1599,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-26",
+          "mediamarkt": 1599,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-27",
+          "mediamarkt": 1599,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-28",
+          "mediamarkt": 1599,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-29",
+          "mediamarkt": 1599,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-30",
+          "mediamarkt": 1599,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-31",
+          "mediamarkt": 1599,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-01",
+          "mediamarkt": 1599,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-02",
+          "mediamarkt": 1599,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-03",
+          "mediamarkt": 1599,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-04",
+          "mediamarkt": 1599,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-05",
+          "mediamarkt": 1599,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-06",
+          "mediamarkt": 1599,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-07",
+          "mediamarkt": 1599,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-08",
+          "mediamarkt": 1599,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-09",
+          "mediamarkt": 1599,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-10",
+          "mediamarkt": 1599,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-11",
+          "mediamarkt": 1599,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-12",
+          "mediamarkt": 1599,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-13",
+          "mediamarkt": 1599,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-14",
+          "mediamarkt": 1599,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-15",
+          "mediamarkt": 1599,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-16",
+          "mediamarkt": 1599,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-17",
+          "mediamarkt": 1599,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-18",
+          "mediamarkt": 1599,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1599,
+          "ceneo": null
+        }
+      ]
+    },
+    {
+      "id": "beko-hii64730uft",
+      "name": "Płyta indukcyjna BEKO HII64730UFT",
+      "model": "HII64730UFT",
+      "brand": "BEKO",
+      "type": "induction",
+      "size": {
+        "widthCm": 60,
+        "rawWidth": 60,
+        "label": "60 cm (standard)",
+        "category": "60cm"
+      },
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_133331457",
+      "mediamarktPrice": 1269,
+      "ceneoPrice": 1268.99,
+      "ceneoCheckedAt": "2026-11-19",
+      "priceChange": {
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 1269,
+        "previousDate": "2026-11-18"
+      },
+      "rating": 4.86,
+      "reviewCount": 7,
+      "valueScore": 10.1,
+      "links": {
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-beko-hii64730uft-1462251.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-HII64730UFT",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=HII64730UFT",
+        "komputronik": "https://www.komputronik.pl/search?query=HII64730UFT"
+      },
+      "priceHistory": [
+        {
+          "date": "2026-10-16",
+          "mediamarkt": 1269,
+          "ceneo": 1268.99
+        },
+        {
+          "date": "2026-10-17",
+          "mediamarkt": 1269,
+          "ceneo": 1268.99
+        },
+        {
+          "date": "2026-10-18",
+          "mediamarkt": 1299,
+          "ceneo": 1268.99
+        },
+        {
+          "date": "2026-10-19",
+          "mediamarkt": 1269,
+          "ceneo": 1268.99
+        },
+        {
+          "date": "2026-10-20",
+          "mediamarkt": 1269,
+          "ceneo": 1268.99
+        },
+        {
+          "date": "2026-10-21",
+          "mediamarkt": 1269,
+          "ceneo": 1268.99
+        },
+        {
+          "date": "2026-10-22",
+          "mediamarkt": 1269,
+          "ceneo": 1268.99
+        },
+        {
+          "date": "2026-10-23",
+          "mediamarkt": 1269,
+          "ceneo": 1268.99
+        },
+        {
+          "date": "2026-10-24",
+          "mediamarkt": 1269,
+          "ceneo": 1268.99
+        },
+        {
+          "date": "2026-10-25",
+          "mediamarkt": 1269,
+          "ceneo": 1268.99
+        },
+        {
+          "date": "2026-10-26",
+          "mediamarkt": 1269,
+          "ceneo": 1268.99
+        },
+        {
+          "date": "2026-10-27",
+          "mediamarkt": 1269,
+          "ceneo": 1268.99
+        },
+        {
+          "date": "2026-10-28",
+          "mediamarkt": 1269,
+          "ceneo": 1268.99
+        },
+        {
+          "date": "2026-10-29",
+          "mediamarkt": 1269,
+          "ceneo": 1268.99
+        },
+        {
+          "date": "2026-10-30",
+          "mediamarkt": 1269,
+          "ceneo": 1268.99
+        },
+        {
+          "date": "2026-10-31",
+          "mediamarkt": 1269,
+          "ceneo": 1268.99
+        },
+        {
+          "date": "2026-11-01",
+          "mediamarkt": 1269,
+          "ceneo": 1268.99
+        },
+        {
+          "date": "2026-11-02",
+          "mediamarkt": 1269,
+          "ceneo": 1268.99
+        },
+        {
+          "date": "2026-11-03",
+          "mediamarkt": 1269,
+          "ceneo": 1268.99
+        },
+        {
+          "date": "2026-11-04",
+          "mediamarkt": 1269,
+          "ceneo": 1268.99
+        },
+        {
+          "date": "2026-11-05",
+          "mediamarkt": 1269,
+          "ceneo": 1268.99
+        },
+        {
+          "date": "2026-11-06",
+          "mediamarkt": 1269,
+          "ceneo": 1268.99
+        },
+        {
+          "date": "2026-11-07",
+          "mediamarkt": 1269,
+          "ceneo": 1268.99
+        },
+        {
+          "date": "2026-11-08",
+          "mediamarkt": 1269,
+          "ceneo": 1268.99
+        },
+        {
+          "date": "2026-11-09",
+          "mediamarkt": 1269,
+          "ceneo": 1268.99
+        },
+        {
+          "date": "2026-11-10",
+          "mediamarkt": 1269,
+          "ceneo": 1268.99
+        },
+        {
+          "date": "2026-11-11",
+          "mediamarkt": 1269,
+          "ceneo": 1268.99
+        },
+        {
+          "date": "2026-11-12",
+          "mediamarkt": 1269,
+          "ceneo": 1268.99
+        },
+        {
+          "date": "2026-11-13",
+          "mediamarkt": 1269,
+          "ceneo": 1268.99
+        },
+        {
+          "date": "2026-11-14",
+          "mediamarkt": 1269,
+          "ceneo": 1268.99
+        },
+        {
+          "date": "2026-11-15",
+          "mediamarkt": 1269,
+          "ceneo": 1268.99
+        },
+        {
+          "date": "2026-11-16",
+          "mediamarkt": 1269,
+          "ceneo": 1268.99
+        },
+        {
+          "date": "2026-11-17",
+          "mediamarkt": 1269,
+          "ceneo": 1268.99
+        },
+        {
+          "date": "2026-11-18",
+          "mediamarkt": 1269,
+          "ceneo": 1268.99
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1269,
+          "ceneo": 1268.99
+        }
+      ]
+    },
+    {
+      "id": "siemens-ed651hsc1e",
+      "name": "Płyta indukcyjna do zabudowy SIEMENS ED651HSC1E Czarny",
+      "model": "ED651HSC1E",
+      "brand": "SIEMENS",
+      "type": "induction",
+      "size": {
+        "widthCm": 60,
+        "rawWidth": 60,
+        "label": "60 cm (standard)",
+        "category": "60cm"
+      },
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_159010284",
+      "mediamarktPrice": 1949,
+      "ceneoPrice": null,
+      "ceneoCheckedAt": "2026-11-19",
+      "priceChange": {
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 1949,
+        "previousDate": "2026-11-19"
+      },
+      "rating": 5.0,
+      "reviewCount": 25,
+      "valueScore": 12.8,
+      "links": {
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-do-zabudowy-siemens-ed651hsc1e-czarny-1496447.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-ED651HSC1E",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=ED651HSC1E",
+        "komputronik": "https://www.komputronik.pl/search?query=ED651HSC1E"
+      },
+      "priceHistory": [
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1949,
+          "ceneo": null
+        }
+      ]
+    },
+    {
+      "id": "siemens-ex801lvc1e",
+      "name": "Płyta indukcyjna SIEMENS EX801LVC1E",
+      "model": "EX801LVC1E",
+      "brand": "SIEMENS",
+      "type": "induction",
+      "size": {
+        "widthCm": 60,
+        "rawWidth": 60,
+        "label": "60 cm (standard)",
+        "category": "60cm"
+      },
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_133328766",
+      "mediamarktPrice": 3649,
+      "ceneoPrice": null,
+      "ceneoCheckedAt": "2026-11-19",
+      "priceChange": {
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 3649,
+        "previousDate": "2026-11-18"
+      },
+      "rating": 4.91,
+      "reviewCount": 64,
+      "valueScore": 10.8,
+      "links": {
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-siemens-ex801lvc1e-1349142.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-EX801LVC1E",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=EX801LVC1E",
+        "komputronik": "https://www.komputronik.pl/search?query=EX801LVC1E"
+      },
+      "priceHistory": [
+        {
+          "date": "2026-10-16",
+          "mediamarkt": 3649,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-17",
+          "mediamarkt": 3649,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-18",
+          "mediamarkt": 3649,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-19",
+          "mediamarkt": 3649,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-20",
+          "mediamarkt": 3649,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-21",
+          "mediamarkt": 3649,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-22",
+          "mediamarkt": 3649,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-23",
+          "mediamarkt": 3649,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-24",
+          "mediamarkt": 3649,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-25",
+          "mediamarkt": 3649,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-26",
+          "mediamarkt": 3649,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-27",
+          "mediamarkt": 3649,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-28",
+          "mediamarkt": 3649,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-29",
+          "mediamarkt": 3649,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-30",
+          "mediamarkt": 3649,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-31",
+          "mediamarkt": 3649,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-01",
+          "mediamarkt": 4099,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-02",
+          "mediamarkt": 3649,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-03",
+          "mediamarkt": 3649,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-04",
+          "mediamarkt": 3649,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-05",
+          "mediamarkt": 3649,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-06",
+          "mediamarkt": 3649,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-07",
+          "mediamarkt": 3649,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-08",
+          "mediamarkt": 3649,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-09",
+          "mediamarkt": 3649,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-10",
+          "mediamarkt": 3599,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-11",
+          "mediamarkt": 3599,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-12",
+          "mediamarkt": 3599,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-13",
+          "mediamarkt": 3599,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-14",
+          "mediamarkt": 3599,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-15",
+          "mediamarkt": 3599,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-16",
+          "mediamarkt": 3599,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-17",
+          "mediamarkt": 3599,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-18",
+          "mediamarkt": 3649,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 3649,
+          "ceneo": null
+        }
+      ]
+    },
+    {
+      "id": "samsung-nz64t3707c1",
+      "name": "Płyta indukcyjna SAMSUNG NZ64T3707C1/UR",
+      "model": "NZ64T3707C1",
+      "brand": "SAMSUNG",
+      "type": "induction",
+      "size": {
+        "widthCm": 60,
+        "rawWidth": 60,
+        "label": "60 cm (standard)",
+        "category": "60cm"
+      },
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_106623547",
+      "mediamarktPrice": 1399,
+      "ceneoPrice": 1499,
+      "ceneoCheckedAt": "2026-11-19",
+      "priceChange": {
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 1399,
+        "previousDate": "2026-11-18"
+      },
+      "rating": 5.0,
+      "reviewCount": 10,
+      "valueScore": 11.3,
+      "links": {
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-samsung-nz64t3707c1ur-1458073.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-NZ64T3707C1",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=NZ64T3707C1",
+        "komputronik": "https://www.komputronik.pl/search?query=NZ64T3707C1"
+      },
+      "priceHistory": [
+        {
+          "date": "2026-10-16",
+          "mediamarkt": 1499,
+          "ceneo": 1499
+        },
+        {
+          "date": "2026-10-17",
+          "mediamarkt": 1499,
+          "ceneo": 1499
+        },
+        {
+          "date": "2026-10-18",
+          "mediamarkt": 1499,
+          "ceneo": 1499
+        },
+        {
+          "date": "2026-10-19",
+          "mediamarkt": 1499,
+          "ceneo": 1499
+        },
+        {
+          "date": "2026-10-20",
+          "mediamarkt": 1499,
+          "ceneo": 1499
+        },
+        {
+          "date": "2026-10-21",
+          "mediamarkt": 1499,
+          "ceneo": 1499
+        },
+        {
+          "date": "2026-10-22",
+          "mediamarkt": 1499,
+          "ceneo": 1499
+        },
+        {
+          "date": "2026-10-23",
+          "mediamarkt": 1499,
+          "ceneo": 1499
+        },
+        {
+          "date": "2026-10-24",
+          "mediamarkt": 1499,
+          "ceneo": 1499
+        },
+        {
+          "date": "2026-10-25",
+          "mediamarkt": 1499,
+          "ceneo": 1499
+        },
+        {
+          "date": "2026-10-26",
+          "mediamarkt": 1399,
+          "ceneo": 1499
+        },
+        {
+          "date": "2026-10-27",
+          "mediamarkt": 1399,
+          "ceneo": 1499
+        },
+        {
+          "date": "2026-10-28",
+          "mediamarkt": 1399,
+          "ceneo": 1499
+        },
+        {
+          "date": "2026-10-29",
+          "mediamarkt": 1399,
+          "ceneo": 1499
+        },
+        {
+          "date": "2026-10-30",
+          "mediamarkt": 1399,
+          "ceneo": 1499
+        },
+        {
+          "date": "2026-10-31",
+          "mediamarkt": 1399,
+          "ceneo": 1499
+        },
+        {
+          "date": "2026-11-01",
+          "mediamarkt": 1399,
+          "ceneo": 1499
+        },
+        {
+          "date": "2026-11-02",
+          "mediamarkt": 1399,
+          "ceneo": 1499
+        },
+        {
+          "date": "2026-11-03",
+          "mediamarkt": 1399,
+          "ceneo": 1499
+        },
+        {
+          "date": "2026-11-04",
+          "mediamarkt": 1399,
+          "ceneo": 1499
+        },
+        {
+          "date": "2026-11-05",
+          "mediamarkt": 1399,
+          "ceneo": 1499
+        },
+        {
+          "date": "2026-11-06",
+          "mediamarkt": 1399,
+          "ceneo": 1499
+        },
+        {
+          "date": "2026-11-07",
+          "mediamarkt": 1399,
+          "ceneo": 1499
+        },
+        {
+          "date": "2026-11-08",
+          "mediamarkt": 1399,
+          "ceneo": 1499
+        },
+        {
+          "date": "2026-11-09",
+          "mediamarkt": 1399,
+          "ceneo": 1499
+        },
+        {
+          "date": "2026-11-10",
+          "mediamarkt": 1399,
+          "ceneo": 1499
+        },
+        {
+          "date": "2026-11-11",
+          "mediamarkt": 1399,
+          "ceneo": 1499
+        },
+        {
+          "date": "2026-11-12",
+          "mediamarkt": 1399,
+          "ceneo": 1499
+        },
+        {
+          "date": "2026-11-13",
+          "mediamarkt": 1399,
+          "ceneo": 1499
+        },
+        {
+          "date": "2026-11-14",
+          "mediamarkt": 1399,
+          "ceneo": 1499
+        },
+        {
+          "date": "2026-11-15",
+          "mediamarkt": 1399,
+          "ceneo": 1499
+        },
+        {
+          "date": "2026-11-16",
+          "mediamarkt": 1399,
+          "ceneo": 1499
+        },
+        {
+          "date": "2026-11-17",
+          "mediamarkt": 1399,
+          "ceneo": 1499
+        },
+        {
+          "date": "2026-11-18",
+          "mediamarkt": 1399,
+          "ceneo": 1499
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1399,
+          "ceneo": 1499
+        }
+      ]
+    },
+    {
+      "id": "whirlpool-wls5360bfw",
+      "name": "Płyta indukcyjna WHIRLPOOL WLS5360BFW FlexiCook 18 poziomów mocy 59cm Biały",
+      "model": "WLS5360BFW",
+      "brand": "WHIRLPOOL",
+      "type": "induction",
+      "size": {
+        "widthCm": 60,
+        "rawWidth": 59,
+        "label": "60 cm (standard)",
+        "category": "60cm"
+      },
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_159616030",
+      "mediamarktPrice": 1699,
+      "ceneoPrice": null,
+      "ceneoCheckedAt": "2026-11-19",
+      "priceChange": {
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 1699,
+        "previousDate": "2026-11-18"
+      },
+      "rating": 4.88,
+      "reviewCount": 136,
+      "valueScore": 33.5,
+      "links": {
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-whirlpool-wls5360bfw-1433760.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-WLS5360BFW",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=WLS5360BFW",
+        "komputronik": "https://www.komputronik.pl/search?query=WLS5360BFW"
+      },
+      "priceHistory": [
+        {
+          "date": "2026-10-16",
+          "mediamarkt": 1699,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-17",
+          "mediamarkt": 1699,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-18",
+          "mediamarkt": 1849,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-19",
+          "mediamarkt": 1699,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-20",
+          "mediamarkt": 1699,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-21",
+          "mediamarkt": 1699,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-22",
+          "mediamarkt": 1699,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-23",
+          "mediamarkt": 1699,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-24",
+          "mediamarkt": 1699,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-25",
+          "mediamarkt": 1699,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-26",
+          "mediamarkt": 1699,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-27",
+          "mediamarkt": 1699,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-28",
+          "mediamarkt": 1699,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-29",
+          "mediamarkt": 1699,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-30",
+          "mediamarkt": 1699,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-31",
+          "mediamarkt": 1699,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-01",
+          "mediamarkt": 1699,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-02",
+          "mediamarkt": 1699,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-03",
+          "mediamarkt": 1699,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-04",
+          "mediamarkt": 1699,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-05",
+          "mediamarkt": 1699,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-06",
+          "mediamarkt": 1699,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-07",
+          "mediamarkt": 1699,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-08",
+          "mediamarkt": 1699,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-09",
+          "mediamarkt": 1699,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-10",
+          "mediamarkt": 1699,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-11",
+          "mediamarkt": 1699,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-12",
+          "mediamarkt": 1699,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-13",
+          "mediamarkt": 1699,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-14",
+          "mediamarkt": 1699,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-15",
+          "mediamarkt": 1699,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-16",
+          "mediamarkt": 1699,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-17",
+          "mediamarkt": 1699,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-18",
+          "mediamarkt": 1699,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1699,
+          "ceneo": null
+        }
+      ]
+    },
+    {
+      "id": "siemens-eh631beb6e",
+      "name": "Płyta indukcyjna do zabudowy SIEMENS EH631BEB6E Czarny",
+      "model": "EH631BEB6E",
+      "brand": "SIEMENS",
+      "type": "induction",
+      "size": {
+        "widthCm": 60,
+        "rawWidth": 60,
+        "label": "60 cm (standard)",
+        "category": "60cm"
+      },
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_159011205",
+      "mediamarktPrice": 1519,
+      "ceneoPrice": 1567,
+      "ceneoCheckedAt": "2026-11-19",
+      "priceChange": {
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 1519,
+        "previousDate": "2026-11-18"
+      },
+      "rating": 5.0,
+      "reviewCount": 6,
+      "valueScore": 8.1,
+      "links": {
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-do-zabudowy-siemens-eh631beb6e-czarny-1496448.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-EH631BEB6E",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=EH631BEB6E",
+        "komputronik": "https://www.komputronik.pl/search?query=EH631BEB6E"
+      },
+      "priceHistory": [
+        {
+          "date": "2026-10-16",
+          "mediamarkt": 1569,
+          "ceneo": 1567
+        },
+        {
+          "date": "2026-10-17",
+          "mediamarkt": 1569,
+          "ceneo": 1567
+        },
+        {
+          "date": "2026-10-18",
+          "mediamarkt": 1569,
+          "ceneo": 1567
+        },
+        {
+          "date": "2026-10-19",
+          "mediamarkt": 1569,
+          "ceneo": 1567
+        },
+        {
+          "date": "2026-10-20",
+          "mediamarkt": 1569,
+          "ceneo": 1567
+        },
+        {
+          "date": "2026-10-21",
+          "mediamarkt": 1569,
+          "ceneo": 1567
+        },
+        {
+          "date": "2026-10-22",
+          "mediamarkt": 1569,
+          "ceneo": 1567
+        },
+        {
+          "date": "2026-10-23",
+          "mediamarkt": 1569,
+          "ceneo": 1567
+        },
+        {
+          "date": "2026-10-24",
+          "mediamarkt": 1569,
+          "ceneo": 1567
+        },
+        {
+          "date": "2026-10-25",
+          "mediamarkt": 1569,
+          "ceneo": 1567
+        },
+        {
+          "date": "2026-10-26",
+          "mediamarkt": 1569,
+          "ceneo": 1567
+        },
+        {
+          "date": "2026-10-27",
+          "mediamarkt": 1569,
+          "ceneo": 1567
+        },
+        {
+          "date": "2026-10-28",
+          "mediamarkt": 1569,
+          "ceneo": 1567
+        },
+        {
+          "date": "2026-10-29",
+          "mediamarkt": 1569,
+          "ceneo": 1567
+        },
+        {
+          "date": "2026-10-30",
+          "mediamarkt": 1569,
+          "ceneo": 1567
+        },
+        {
+          "date": "2026-10-31",
+          "mediamarkt": 1569,
+          "ceneo": 1567
+        },
+        {
+          "date": "2026-11-01",
+          "mediamarkt": 1569,
+          "ceneo": 1567
+        },
+        {
+          "date": "2026-11-02",
+          "mediamarkt": 1529,
+          "ceneo": 1567
+        },
+        {
+          "date": "2026-11-03",
+          "mediamarkt": 1529,
+          "ceneo": 1567
+        },
+        {
+          "date": "2026-11-04",
+          "mediamarkt": 1529,
+          "ceneo": 1567
+        },
+        {
+          "date": "2026-11-05",
+          "mediamarkt": 1529,
+          "ceneo": 1567
+        },
+        {
+          "date": "2026-11-06",
+          "mediamarkt": 1529,
+          "ceneo": 1567
+        },
+        {
+          "date": "2026-11-07",
+          "mediamarkt": 1529,
+          "ceneo": 1567
+        },
+        {
+          "date": "2026-11-08",
+          "mediamarkt": 1529,
+          "ceneo": 1567
+        },
+        {
+          "date": "2026-11-09",
+          "mediamarkt": 1529,
+          "ceneo": 1567
+        },
+        {
+          "date": "2026-11-10",
+          "mediamarkt": 1529,
+          "ceneo": 1567
+        },
+        {
+          "date": "2026-11-11",
+          "mediamarkt": 1549,
+          "ceneo": 1567
+        },
+        {
+          "date": "2026-11-12",
+          "mediamarkt": 1549,
+          "ceneo": 1567
+        },
+        {
+          "date": "2026-11-13",
+          "mediamarkt": 1549,
+          "ceneo": 1567
+        },
+        {
+          "date": "2026-11-14",
+          "mediamarkt": 1549,
+          "ceneo": 1567
+        },
+        {
+          "date": "2026-11-15",
+          "mediamarkt": 1549,
+          "ceneo": 1567
+        },
+        {
+          "date": "2026-11-16",
+          "mediamarkt": 1519,
+          "ceneo": 1567
+        },
+        {
+          "date": "2026-11-17",
+          "mediamarkt": 1519,
+          "ceneo": 1567
+        },
+        {
+          "date": "2026-11-18",
+          "mediamarkt": 1519,
+          "ceneo": 1567
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1519,
+          "ceneo": 1567
+        }
+      ]
+    },
+    {
+      "id": "beko-hii68811nt",
+      "name": "Płyta indukcyjna BEKO HII68811NT",
+      "model": "HII68811NT",
+      "brand": "BEKO",
+      "type": "induction",
+      "size": {
+        "widthCm": 60,
+        "rawWidth": 60,
+        "label": "60 cm (standard)",
+        "category": "60cm"
+      },
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_152660705",
+      "mediamarktPrice": 2399,
+      "ceneoPrice": 2297,
+      "ceneoCheckedAt": "2026-11-19",
+      "priceChange": {
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 2399,
+        "previousDate": "2026-11-18"
+      },
+      "rating": 4.3,
+      "reviewCount": 20,
+      "valueScore": 8.0,
+      "links": {
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-beko-hii68811nt-1434473.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-HII68811NT",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=HII68811NT",
+        "komputronik": "https://www.komputronik.pl/search?query=HII68811NT"
+      },
+      "priceHistory": [
+        {
+          "date": "2026-10-16",
+          "mediamarkt": 2299,
+          "ceneo": 2297
+        },
+        {
+          "date": "2026-10-17",
+          "mediamarkt": 2299,
+          "ceneo": 2297
+        },
+        {
+          "date": "2026-10-18",
+          "mediamarkt": 2299,
+          "ceneo": 2297
+        },
+        {
+          "date": "2026-10-19",
+          "mediamarkt": 2299,
+          "ceneo": 2297
+        },
+        {
+          "date": "2026-10-20",
+          "mediamarkt": 2299,
+          "ceneo": 2297
+        },
+        {
+          "date": "2026-10-21",
+          "mediamarkt": 2299,
+          "ceneo": 2297
+        },
+        {
+          "date": "2026-10-22",
+          "mediamarkt": 2299,
+          "ceneo": 2297
+        },
+        {
+          "date": "2026-10-23",
+          "mediamarkt": 2299,
+          "ceneo": 2297
+        },
+        {
+          "date": "2026-10-24",
+          "mediamarkt": 2299,
+          "ceneo": 2297
+        },
+        {
+          "date": "2026-10-25",
+          "mediamarkt": 2299,
+          "ceneo": 2297
+        },
+        {
+          "date": "2026-10-26",
+          "mediamarkt": 2299,
+          "ceneo": 2297
+        },
+        {
+          "date": "2026-10-27",
+          "mediamarkt": 2299,
+          "ceneo": 2297
+        },
+        {
+          "date": "2026-10-28",
+          "mediamarkt": 2299,
+          "ceneo": 2297
+        },
+        {
+          "date": "2026-10-29",
+          "mediamarkt": 2299,
+          "ceneo": 2297
+        },
+        {
+          "date": "2026-10-30",
+          "mediamarkt": 2299,
+          "ceneo": 2297
+        },
+        {
+          "date": "2026-10-31",
+          "mediamarkt": 2299,
+          "ceneo": 2297
+        },
+        {
+          "date": "2026-11-01",
+          "mediamarkt": 2399,
+          "ceneo": 2297
+        },
+        {
+          "date": "2026-11-02",
+          "mediamarkt": 2399,
+          "ceneo": 2297
+        },
+        {
+          "date": "2026-11-03",
+          "mediamarkt": 2399,
+          "ceneo": 2297
+        },
+        {
+          "date": "2026-11-04",
+          "mediamarkt": 2399,
+          "ceneo": 2297
+        },
+        {
+          "date": "2026-11-05",
+          "mediamarkt": 2399,
+          "ceneo": 2297
+        },
+        {
+          "date": "2026-11-06",
+          "mediamarkt": 2399,
+          "ceneo": 2297
+        },
+        {
+          "date": "2026-11-07",
+          "mediamarkt": 2399,
+          "ceneo": 2297
+        },
+        {
+          "date": "2026-11-08",
+          "mediamarkt": 2399,
+          "ceneo": 2297
+        },
+        {
+          "date": "2026-11-09",
+          "mediamarkt": 2399,
+          "ceneo": 2297
+        },
+        {
+          "date": "2026-11-10",
+          "mediamarkt": 2399,
+          "ceneo": 2297
+        },
+        {
+          "date": "2026-11-11",
+          "mediamarkt": 2399,
+          "ceneo": 2297
+        },
+        {
+          "date": "2026-11-12",
+          "mediamarkt": 2399,
+          "ceneo": 2297
+        },
+        {
+          "date": "2026-11-13",
+          "mediamarkt": 2399,
+          "ceneo": 2297
+        },
+        {
+          "date": "2026-11-14",
+          "mediamarkt": 2399,
+          "ceneo": 2297
+        },
+        {
+          "date": "2026-11-15",
+          "mediamarkt": 2399,
+          "ceneo": 2297
+        },
+        {
+          "date": "2026-11-16",
+          "mediamarkt": 2399,
+          "ceneo": 2297
+        },
+        {
+          "date": "2026-11-17",
+          "mediamarkt": 2399,
+          "ceneo": 2297
+        },
+        {
+          "date": "2026-11-18",
+          "mediamarkt": 2399,
+          "ceneo": 2297
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 2399,
+          "ceneo": 2297
+        }
+      ]
+    },
+    {
+      "id": "gorenje-gi6401bsce",
+      "name": "Płyta indukcyjna GORENJE GI6401BSCE Czarny",
+      "model": "GI6401BSCE",
+      "brand": "GORENJE",
+      "type": "induction",
+      "size": {
+        "widthCm": 60,
+        "rawWidth": 60,
+        "label": "60 cm (standard)",
+        "category": "60cm"
+      },
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_139806333",
+      "mediamarktPrice": 699,
+      "ceneoPrice": null,
+      "ceneoCheckedAt": "2026-11-19",
+      "priceChange": {
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 699,
+        "previousDate": "2026-11-18"
+      },
+      "rating": 4.33,
+      "reviewCount": 6,
+      "valueScore": 15.2,
+      "links": {
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-gorenje-gi6401bsce-1481336.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-GI6401BSCE",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=GI6401BSCE",
+        "komputronik": "https://www.komputronik.pl/search?query=GI6401BSCE"
+      },
+      "priceHistory": [
+        {
+          "date": "2026-11-08",
+          "mediamarkt": 999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-09",
+          "mediamarkt": 999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-10",
+          "mediamarkt": 999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-11",
+          "mediamarkt": 999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-12",
+          "mediamarkt": 999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-13",
+          "mediamarkt": 999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-14",
+          "mediamarkt": 999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-15",
+          "mediamarkt": 999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-16",
+          "mediamarkt": 999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-17",
+          "mediamarkt": 999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-18",
+          "mediamarkt": 699,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 699,
+          "ceneo": null
+        }
+      ]
+    },
+    {
+      "id": "inna-km8484",
+      "name": "Płyta indukcyjna do zabudowy MIELE KM 8484 FL Czarny",
+      "model": "KM 8484",
+      "brand": "INNA",
+      "type": "induction",
+      "size": {
+        "widthCm": 60,
+        "rawWidth": 60,
+        "label": "60 cm (standard)",
+        "category": "60cm"
+      },
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_180466243",
+      "mediamarktPrice": 7499,
+      "ceneoPrice": null,
+      "ceneoCheckedAt": "2026-11-19",
+      "priceChange": {
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 7499,
+        "previousDate": "2026-11-18"
+      },
+      "rating": null,
+      "reviewCount": 0,
+      "valueScore": 0.0,
+      "links": {
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-do-zabudowy-miele-km-8484-f-czarny-1506511.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-KM 8484",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=KM 8484",
+        "komputronik": "https://www.komputronik.pl/search?query=KM 8484"
+      },
+      "priceHistory": [
+        {
+          "date": "2026-11-16",
+          "mediamarkt": 7499,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-17",
+          "mediamarkt": 7499,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-18",
+          "mediamarkt": 7499,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 7499,
+          "ceneo": null
+        }
+      ]
+    },
+    {
+      "id": "teka-ibf66215",
+      "name": "Płyta indukcyjna do zabudowy TEKA IBF 66215 SSM BK Czarny",
+      "model": "IBF 66215",
+      "brand": "TEKA",
+      "type": "induction",
+      "size": {
+        "widthCm": 60,
+        "rawWidth": 60,
+        "label": "60 cm (standard)",
+        "category": "60cm"
+      },
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_181889674",
+      "mediamarktPrice": 1299,
+      "ceneoPrice": null,
+      "ceneoCheckedAt": "2026-11-19",
+      "priceChange": {
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 1299,
+        "previousDate": "2026-11-18"
+      },
+      "rating": null,
+      "reviewCount": 0,
+      "valueScore": 0.0,
+      "links": {
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-do-zabudowy-teka-ibf-66215-ssm-bk-czarny-1506815.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-IBF 66215",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=IBF 66215",
+        "komputronik": "https://www.komputronik.pl/search?query=IBF 66215"
+      },
+      "priceHistory": [
+        {
+          "date": "2026-11-17",
+          "mediamarkt": 1299,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-18",
+          "mediamarkt": 1299,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1299,
+          "ceneo": null
+        }
+      ]
+    },
+    {
+      "id": "bosch-pib375fb1e",
+      "name": "Płyta indukcyjna BOSCH PIB375FB1E Czarny",
+      "model": "PIB375FB1E",
+      "brand": "BOSCH",
+      "type": "induction",
+      "size": {
+        "widthCm": 60,
+        "rawWidth": 60,
+        "label": "60 cm (standard)",
+        "category": "60cm"
+      },
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_137552395",
+      "mediamarktPrice": 1758,
+      "ceneoPrice": null,
+      "ceneoCheckedAt": "2026-11-19",
+      "priceChange": {
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 1758,
+        "previousDate": "2026-11-18"
+      },
+      "rating": 4.94,
+      "reviewCount": 16,
+      "valueScore": 11.2,
+      "links": {
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_pyta-indukcyjna-bosch-pib375fb1e-czarny-86659698.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-PIB375FB1E",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=PIB375FB1E",
+        "komputronik": "https://www.komputronik.pl/search?query=PIB375FB1E"
+      },
+      "priceHistory": [
+        {
+          "date": "2026-11-11",
+          "mediamarkt": 1740,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-12",
+          "mediamarkt": 1740,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-13",
+          "mediamarkt": 1740,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-14",
+          "mediamarkt": 1740,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-15",
+          "mediamarkt": 1740,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-16",
+          "mediamarkt": 1740,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-17",
+          "mediamarkt": 1758,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-18",
+          "mediamarkt": 1758,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1758,
+          "ceneo": null
+        }
+      ]
+    },
+    {
+      "id": "whirlpool-wtx6014dcf",
+      "name": "Płyta indukcyjna WHIRLPOOL W Collection WTX6014DCF HeatControl 18 poziomów mocy 59cm",
+      "model": "WTX6014DCF",
+      "brand": "WHIRLPOOL",
+      "type": "induction",
+      "size": {
+        "widthCm": 60,
+        "rawWidth": 59,
+        "label": "60 cm (standard)",
+        "category": "60cm"
+      },
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_163060935",
+      "mediamarktPrice": 2499,
+      "ceneoPrice": 2499,
+      "ceneoCheckedAt": "2026-11-19",
+      "priceChange": {
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 2499,
+        "previousDate": "2026-11-18"
+      },
+      "rating": 5.0,
+      "reviewCount": 26,
+      "valueScore": 10.2,
+      "links": {
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-do-zabudowy-whirlpool-wtx6014dcf-czarny-1495648.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-WTX6014DCF",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=WTX6014DCF",
+        "komputronik": "https://www.komputronik.pl/search?query=WTX6014DCF"
+      },
+      "priceHistory": [
+        {
+          "date": "2026-10-16",
+          "mediamarkt": 2499,
+          "ceneo": 2499
+        },
+        {
+          "date": "2026-10-17",
+          "mediamarkt": 2499,
+          "ceneo": 2499
+        },
+        {
+          "date": "2026-10-18",
+          "mediamarkt": 2499,
+          "ceneo": 2499
+        },
+        {
+          "date": "2026-10-19",
+          "mediamarkt": 2499,
+          "ceneo": 2499
+        },
+        {
+          "date": "2026-10-20",
+          "mediamarkt": 2499,
+          "ceneo": 2499
+        },
+        {
+          "date": "2026-10-21",
+          "mediamarkt": 2499,
+          "ceneo": 2499
+        },
+        {
+          "date": "2026-10-22",
+          "mediamarkt": 2499,
+          "ceneo": 2499
+        },
+        {
+          "date": "2026-10-23",
+          "mediamarkt": 2499,
+          "ceneo": 2499
+        },
+        {
+          "date": "2026-10-24",
+          "mediamarkt": 2499,
+          "ceneo": 2499
+        },
+        {
+          "date": "2026-10-25",
+          "mediamarkt": 2499,
+          "ceneo": 2499
+        },
+        {
+          "date": "2026-10-26",
+          "mediamarkt": 2499,
+          "ceneo": 2499
+        },
+        {
+          "date": "2026-10-27",
+          "mediamarkt": 2499,
+          "ceneo": 2499
+        },
+        {
+          "date": "2026-10-28",
+          "mediamarkt": 2499,
+          "ceneo": 2499
+        },
+        {
+          "date": "2026-10-29",
+          "mediamarkt": 2499,
+          "ceneo": 2499
+        },
+        {
+          "date": "2026-10-30",
+          "mediamarkt": 2499,
+          "ceneo": 2499
+        },
+        {
+          "date": "2026-10-31",
+          "mediamarkt": 2499,
+          "ceneo": 2499
+        },
+        {
+          "date": "2026-11-01",
+          "mediamarkt": 2499,
+          "ceneo": 2499
+        },
+        {
+          "date": "2026-11-02",
+          "mediamarkt": 2499,
+          "ceneo": 2499
+        },
+        {
+          "date": "2026-11-03",
+          "mediamarkt": 2499,
+          "ceneo": 2499
+        },
+        {
+          "date": "2026-11-04",
+          "mediamarkt": 2499,
+          "ceneo": 2499
+        },
+        {
+          "date": "2026-11-05",
+          "mediamarkt": 2499,
+          "ceneo": 2499
+        },
+        {
+          "date": "2026-11-06",
+          "mediamarkt": 2499,
+          "ceneo": 2499
+        },
+        {
+          "date": "2026-11-07",
+          "mediamarkt": 2499,
+          "ceneo": 2499
+        },
+        {
+          "date": "2026-11-08",
+          "mediamarkt": 2499,
+          "ceneo": 2499
+        },
+        {
+          "date": "2026-11-09",
+          "mediamarkt": 2499,
+          "ceneo": 2499
+        },
+        {
+          "date": "2026-11-10",
+          "mediamarkt": 2449,
+          "ceneo": 2499
+        },
+        {
+          "date": "2026-11-11",
+          "mediamarkt": 2449,
+          "ceneo": 2499
+        },
+        {
+          "date": "2026-11-12",
+          "mediamarkt": 2449,
+          "ceneo": 2499
+        },
+        {
+          "date": "2026-11-13",
+          "mediamarkt": 2449,
+          "ceneo": 2499
+        },
+        {
+          "date": "2026-11-14",
+          "mediamarkt": 2449,
+          "ceneo": 2499
+        },
+        {
+          "date": "2026-11-15",
+          "mediamarkt": 2449,
+          "ceneo": 2499
+        },
+        {
+          "date": "2026-11-16",
+          "mediamarkt": 2449,
+          "ceneo": 2499
+        },
+        {
+          "date": "2026-11-17",
+          "mediamarkt": 2449,
+          "ceneo": 2499
+        },
+        {
+          "date": "2026-11-18",
+          "mediamarkt": 2499,
+          "ceneo": 2499
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 2499,
+          "ceneo": 2499
+        }
+      ]
+    },
+    {
+      "id": "samsung-nz64b7799gk",
+      "name": "Płyta indukcyjna SAMSUNG NZ64B7799GK/U2",
+      "model": "NZ64B7799GK",
+      "brand": "SAMSUNG",
+      "type": "induction",
+      "size": {
+        "widthCm": 60,
+        "rawWidth": 60,
+        "label": "60 cm (standard)",
+        "category": "60cm"
+      },
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_133331674",
+      "mediamarktPrice": 3899,
+      "ceneoPrice": 3367,
+      "ceneoCheckedAt": "2026-11-19",
+      "priceChange": {
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 3899,
+        "previousDate": "2026-11-18"
+      },
+      "rating": 4.86,
+      "reviewCount": 208,
+      "valueScore": 18.0,
+      "links": {
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-samsung-nz64b7799gku2-1468289.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-NZ64B7799GK",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=NZ64B7799GK",
+        "komputronik": "https://www.komputronik.pl/search?query=NZ64B7799GK"
+      },
+      "priceHistory": [
+        {
+          "date": "2026-10-16",
+          "mediamarkt": 3579,
+          "ceneo": 3367
+        },
+        {
+          "date": "2026-10-17",
+          "mediamarkt": 3579,
+          "ceneo": 3367
+        },
+        {
+          "date": "2026-10-18",
+          "mediamarkt": 3579,
+          "ceneo": 3367
+        },
+        {
+          "date": "2026-10-19",
+          "mediamarkt": 3579,
+          "ceneo": 3367
+        },
+        {
+          "date": "2026-10-20",
+          "mediamarkt": 3579,
+          "ceneo": 3367
+        },
+        {
+          "date": "2026-10-21",
+          "mediamarkt": 3579,
+          "ceneo": 3367
+        },
+        {
+          "date": "2026-10-22",
+          "mediamarkt": 3579,
+          "ceneo": 3367
+        },
+        {
+          "date": "2026-10-23",
+          "mediamarkt": 3579,
+          "ceneo": 3367
+        },
+        {
+          "date": "2026-10-24",
+          "mediamarkt": 3579,
+          "ceneo": 3367
+        },
+        {
+          "date": "2026-10-25",
+          "mediamarkt": 3579,
+          "ceneo": 3367
+        },
+        {
+          "date": "2026-10-26",
+          "mediamarkt": 3579,
+          "ceneo": 3367
+        },
+        {
+          "date": "2026-10-27",
+          "mediamarkt": 3579,
+          "ceneo": 3367
+        },
+        {
+          "date": "2026-10-28",
+          "mediamarkt": 3579,
+          "ceneo": 3367
+        },
+        {
+          "date": "2026-10-29",
+          "mediamarkt": 3579,
+          "ceneo": 3367
+        },
+        {
+          "date": "2026-10-30",
+          "mediamarkt": 3579,
+          "ceneo": 3367
+        },
+        {
+          "date": "2026-10-31",
+          "mediamarkt": 3579,
+          "ceneo": 3367
+        },
+        {
+          "date": "2026-11-01",
+          "mediamarkt": 3899,
+          "ceneo": 3367
+        },
+        {
+          "date": "2026-11-02",
+          "mediamarkt": 3899,
+          "ceneo": 3367
+        },
+        {
+          "date": "2026-11-03",
+          "mediamarkt": 3899,
+          "ceneo": 3367
+        },
+        {
+          "date": "2026-11-04",
+          "mediamarkt": 3899,
+          "ceneo": 3367
+        },
+        {
+          "date": "2026-11-05",
+          "mediamarkt": 3899,
+          "ceneo": 3367
+        },
+        {
+          "date": "2026-11-06",
+          "mediamarkt": 3899,
+          "ceneo": 3367
+        },
+        {
+          "date": "2026-11-07",
+          "mediamarkt": 3899,
+          "ceneo": 3367
+        },
+        {
+          "date": "2026-11-08",
+          "mediamarkt": 3899,
+          "ceneo": 3367
+        },
+        {
+          "date": "2026-11-09",
+          "mediamarkt": 3899,
+          "ceneo": 3367
+        },
+        {
+          "date": "2026-11-10",
+          "mediamarkt": 3899,
+          "ceneo": 3367
+        },
+        {
+          "date": "2026-11-11",
+          "mediamarkt": 3899,
+          "ceneo": 3367
+        },
+        {
+          "date": "2026-11-12",
+          "mediamarkt": 3899,
+          "ceneo": 3367
+        },
+        {
+          "date": "2026-11-13",
+          "mediamarkt": 3899,
+          "ceneo": 3367
+        },
+        {
+          "date": "2026-11-14",
+          "mediamarkt": 3899,
+          "ceneo": 3367
+        },
+        {
+          "date": "2026-11-15",
+          "mediamarkt": 3899,
+          "ceneo": 3367
+        },
+        {
+          "date": "2026-11-16",
+          "mediamarkt": 3899,
+          "ceneo": 3367
+        },
+        {
+          "date": "2026-11-17",
+          "mediamarkt": 3899,
+          "ceneo": 3367
+        },
+        {
+          "date": "2026-11-18",
+          "mediamarkt": 3899,
+          "ceneo": 3367
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 3899,
+          "ceneo": 3367
+        }
+      ]
+    },
+    {
+      "id": "whirlpool-wlb3360nebm",
+      "name": "Płyta indukcyjna WHIRLPOOL WLB3360NEBM MattProtect FlexiCook 59cm",
+      "model": "WLB3360NEBM",
+      "brand": "WHIRLPOOL",
+      "type": "induction",
+      "size": {
+        "widthCm": 60,
+        "rawWidth": 59,
+        "label": "60 cm (standard)",
+        "category": "60cm"
+      },
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_185558127",
+      "mediamarktPrice": 1899,
+      "ceneoPrice": null,
+      "ceneoCheckedAt": "2026-11-19",
+      "priceChange": {
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 1899,
+        "previousDate": "2026-11-18"
+      },
+      "rating": 5.0,
+      "reviewCount": 1,
+      "valueScore": 2.6,
+      "links": {
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-whirlpool-wl-b3360-nebm-flexicook-czarny-1506100.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-WLB3360NEBM",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=WLB3360NEBM",
+        "komputronik": "https://www.komputronik.pl/search?query=WLB3360NEBM"
+      },
+      "priceHistory": [
+        {
+          "date": "2026-11-18",
+          "mediamarkt": 1899,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1899,
+          "ceneo": null
+        }
+      ]
+    },
+    {
+      "id": "whirlpool-wfs9365bfixl",
+      "name": "Płyta indukcyjna WHIRLPOOL W Collection WFS9365BFIXL FlexiSide ChefControl 65cm iXelium",
+      "model": "WFS9365BFIXL",
+      "brand": "WHIRLPOOL",
+      "type": "induction",
+      "size": {
+        "widthCm": 60,
+        "rawWidth": 65,
+        "label": "60 cm (standard)",
+        "category": "60cm"
+      },
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_108813569",
+      "mediamarktPrice": 1899,
+      "ceneoPrice": null,
+      "ceneoCheckedAt": "2026-11-19",
+      "priceChange": {
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 1899,
+        "previousDate": "2026-11-18"
+      },
+      "rating": 5.0,
+      "reviewCount": 27,
+      "valueScore": 13.7,
+      "links": {
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-whirlpool-wf-s9365-bfixl-1425575.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-WFS9365BFIXL",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=WFS9365BFIXL",
+        "komputronik": "https://www.komputronik.pl/search?query=WFS9365BFIXL"
+      },
+      "priceHistory": [
+        {
+          "date": "2026-10-16",
+          "mediamarkt": 1899,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-17",
+          "mediamarkt": 1899,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-18",
+          "mediamarkt": 1899,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-19",
+          "mediamarkt": 1899,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-20",
+          "mediamarkt": 1899,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-21",
+          "mediamarkt": 1899,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-22",
+          "mediamarkt": 1899,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-23",
+          "mediamarkt": 1899,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-24",
+          "mediamarkt": 1899,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-25",
+          "mediamarkt": 1899,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-26",
+          "mediamarkt": 1899,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-27",
+          "mediamarkt": 1899,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-28",
+          "mediamarkt": 1899,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-29",
+          "mediamarkt": 1899,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-30",
+          "mediamarkt": 1899,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-31",
+          "mediamarkt": 1899,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-01",
+          "mediamarkt": 1899,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-02",
+          "mediamarkt": 1899,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-03",
+          "mediamarkt": 1899,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-04",
+          "mediamarkt": 1899,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-05",
+          "mediamarkt": 1899,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-06",
+          "mediamarkt": 1899,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-07",
+          "mediamarkt": 1899,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-08",
+          "mediamarkt": 1899,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-09",
+          "mediamarkt": 1899,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-10",
+          "mediamarkt": 1899,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-11",
+          "mediamarkt": 1899,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-12",
+          "mediamarkt": 1899,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-13",
+          "mediamarkt": 1899,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-14",
+          "mediamarkt": 1899,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-15",
+          "mediamarkt": 1899,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-16",
+          "mediamarkt": 1899,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-17",
+          "mediamarkt": 1899,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-18",
+          "mediamarkt": 1899,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1899,
+          "ceneo": null
+        }
+      ]
+    },
+    {
+      "id": "samsung-nz85c6058gk",
+      "name": "Płyta indukcyjna SAMSUNG NZ85C6058GK/U2",
+      "model": "NZ85C6058GK",
+      "brand": "SAMSUNG",
+      "type": "induction",
+      "size": {
+        "widthCm": 80,
+        "rawWidth": 80,
+        "label": "80 cm",
+        "category": "80cm"
+      },
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_141455069",
+      "mediamarktPrice": 3349,
+      "ceneoPrice": 3389,
+      "ceneoCheckedAt": "2026-11-19",
+      "priceChange": {
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 3349,
+        "previousDate": "2026-11-18"
+      },
+      "rating": 4.93,
+      "reviewCount": 86,
+      "valueScore": 13.7,
+      "links": {
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-samsung-nz85c6058gku2-1481971.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-NZ85C6058GK",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=NZ85C6058GK",
+        "komputronik": "https://www.komputronik.pl/search?query=NZ85C6058GK"
+      },
+      "priceHistory": [
+        {
+          "date": "2026-10-16",
+          "mediamarkt": 3899,
+          "ceneo": 3389
+        },
+        {
+          "date": "2026-10-17",
+          "mediamarkt": 3899,
+          "ceneo": 3389
+        },
+        {
+          "date": "2026-10-18",
+          "mediamarkt": 3899,
+          "ceneo": 3389
+        },
+        {
+          "date": "2026-10-19",
+          "mediamarkt": 3399,
+          "ceneo": 3389
+        },
+        {
+          "date": "2026-10-20",
+          "mediamarkt": 3899,
+          "ceneo": 3389
+        },
+        {
+          "date": "2026-10-21",
+          "mediamarkt": 3399,
+          "ceneo": 3389
+        },
+        {
+          "date": "2026-10-22",
+          "mediamarkt": 3899,
+          "ceneo": 3389
+        },
+        {
+          "date": "2026-10-23",
+          "mediamarkt": 3399,
+          "ceneo": 3389
+        },
+        {
+          "date": "2026-10-24",
+          "mediamarkt": 3899,
+          "ceneo": 3389
+        },
+        {
+          "date": "2026-10-25",
+          "mediamarkt": 3899,
+          "ceneo": 3389
+        },
+        {
+          "date": "2026-10-26",
+          "mediamarkt": 3399,
+          "ceneo": 3389
+        },
+        {
+          "date": "2026-10-27",
+          "mediamarkt": 3899,
+          "ceneo": 3389
+        },
+        {
+          "date": "2026-10-28",
+          "mediamarkt": 3399,
+          "ceneo": 3389
+        },
+        {
+          "date": "2026-10-29",
+          "mediamarkt": 3399,
+          "ceneo": 3389
+        },
+        {
+          "date": "2026-10-30",
+          "mediamarkt": 3399,
+          "ceneo": 3389
+        },
+        {
+          "date": "2026-10-31",
+          "mediamarkt": 3399,
+          "ceneo": 3389
+        },
+        {
+          "date": "2026-11-01",
+          "mediamarkt": 3899,
+          "ceneo": 3389
+        },
+        {
+          "date": "2026-11-02",
+          "mediamarkt": 3899,
+          "ceneo": 3389
+        },
+        {
+          "date": "2026-11-03",
+          "mediamarkt": 3399,
+          "ceneo": 3389
+        },
+        {
+          "date": "2026-11-04",
+          "mediamarkt": 3899,
+          "ceneo": 3389
+        },
+        {
+          "date": "2026-11-05",
+          "mediamarkt": 3399,
+          "ceneo": 3389
+        },
+        {
+          "date": "2026-11-06",
+          "mediamarkt": 3899,
+          "ceneo": 3389
+        },
+        {
+          "date": "2026-11-07",
+          "mediamarkt": 3899,
+          "ceneo": 3389
+        },
+        {
+          "date": "2026-11-08",
+          "mediamarkt": 3899,
+          "ceneo": 3389
+        },
+        {
+          "date": "2026-11-09",
+          "mediamarkt": 3399,
+          "ceneo": 3389
+        },
+        {
+          "date": "2026-11-10",
+          "mediamarkt": 3899,
+          "ceneo": 3389
+        },
+        {
+          "date": "2026-11-11",
+          "mediamarkt": 3899,
+          "ceneo": 3389
+        },
+        {
+          "date": "2026-11-12",
+          "mediamarkt": 3899,
+          "ceneo": 3389
+        },
+        {
+          "date": "2026-11-13",
+          "mediamarkt": 3349,
+          "ceneo": 3389
+        },
+        {
+          "date": "2026-11-14",
+          "mediamarkt": 3349,
+          "ceneo": 3389
+        },
+        {
+          "date": "2026-11-15",
+          "mediamarkt": 3349,
+          "ceneo": 3389
+        },
+        {
+          "date": "2026-11-16",
+          "mediamarkt": 3349,
+          "ceneo": 3389
+        },
+        {
+          "date": "2026-11-17",
+          "mediamarkt": 3349,
+          "ceneo": 3389
+        },
+        {
+          "date": "2026-11-18",
+          "mediamarkt": 3349,
+          "ceneo": 3389
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 3349,
+          "ceneo": 3389
+        }
+      ]
+    },
+    {
+      "id": "bosch-pvw81chb1e",
+      "name": "Płyta indukcyjna BOSCH Serie 6 PVW81CHB1E Czarny",
+      "model": "PVW81CHB1E",
+      "brand": "BOSCH",
+      "type": "induction",
+      "size": {
+        "widthCm": 60,
+        "rawWidth": 60,
+        "label": "60 cm (standard)",
+        "category": "60cm"
+      },
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_173634575",
+      "mediamarktPrice": 3999,
+      "ceneoPrice": null,
+      "ceneoCheckedAt": "2026-11-19",
+      "priceChange": {
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 3999,
+        "previousDate": "2026-11-18"
+      },
+      "rating": 5.0,
+      "reviewCount": 48,
+      "valueScore": 8.7,
+      "links": {
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyty-kuchenne-bosch-serie-6-pvw81chb1e-czarny-166088685.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-PVW81CHB1E",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=PVW81CHB1E",
+        "komputronik": "https://www.komputronik.pl/search?query=PVW81CHB1E"
+      },
+      "priceHistory": [
+        {
+          "date": "2026-10-16",
+          "mediamarkt": 3999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-17",
+          "mediamarkt": 3999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-18",
+          "mediamarkt": 3999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-19",
+          "mediamarkt": 3999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-20",
+          "mediamarkt": 3999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-21",
+          "mediamarkt": 3999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-22",
+          "mediamarkt": 3999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-23",
+          "mediamarkt": 3999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-24",
+          "mediamarkt": 3999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-25",
+          "mediamarkt": 3999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-26",
+          "mediamarkt": 3999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-27",
+          "mediamarkt": 3999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-28",
+          "mediamarkt": 3999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-29",
+          "mediamarkt": 3999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-30",
+          "mediamarkt": 3999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-31",
+          "mediamarkt": 3999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-01",
+          "mediamarkt": 3999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-02",
+          "mediamarkt": 3999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-03",
+          "mediamarkt": 3958,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-04",
+          "mediamarkt": 3958,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-05",
+          "mediamarkt": 3958,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-06",
+          "mediamarkt": 3958,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-07",
+          "mediamarkt": 3958,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-08",
+          "mediamarkt": 3958,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-09",
+          "mediamarkt": 3958,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-10",
+          "mediamarkt": 3958,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-11",
+          "mediamarkt": 3958,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-12",
+          "mediamarkt": 3958,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-13",
+          "mediamarkt": 3958,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-14",
+          "mediamarkt": 3958,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-15",
+          "mediamarkt": 3958,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-16",
+          "mediamarkt": 3958,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-17",
+          "mediamarkt": 3999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-18",
+          "mediamarkt": 3999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 3999,
+          "ceneo": null
+        }
+      ]
+    },
+    {
+      "id": "whirlpool-wlb6860ne",
+      "name": "Płyta indukcyjna WHIRLPOOL WLB6860NE/S Srebrny",
+      "model": "WLB6860NE",
+      "brand": "WHIRLPOOL",
+      "type": "induction",
+      "size": {
+        "widthCm": 60,
+        "rawWidth": 60,
+        "label": "60 cm (standard)",
+        "category": "60cm"
+      },
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_134272122",
+      "mediamarktPrice": 2399,
+      "ceneoPrice": null,
+      "ceneoCheckedAt": "2026-11-19",
+      "priceChange": {
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 2399,
+        "previousDate": "2026-11-18"
+      },
+      "rating": null,
+      "reviewCount": 0,
+      "valueScore": 0.0,
+      "links": {
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyty-kuchenne-whirlpool-wlb6860nes-srebrny-134272112.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-WLB6860NE",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=WLB6860NE",
+        "komputronik": "https://www.komputronik.pl/search?query=WLB6860NE"
+      },
+      "priceHistory": [
+        {
+          "date": "2026-10-16",
+          "mediamarkt": 2399,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-17",
+          "mediamarkt": 2399,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-18",
+          "mediamarkt": 2399,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-19",
+          "mediamarkt": 2399,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-20",
+          "mediamarkt": 2399,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-21",
+          "mediamarkt": 2399,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-22",
+          "mediamarkt": 1818,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-23",
+          "mediamarkt": 1708,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-24",
+          "mediamarkt": 1690,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-25",
+          "mediamarkt": 1690,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-26",
+          "mediamarkt": 1690,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-27",
+          "mediamarkt": 1690,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-28",
+          "mediamarkt": 1690,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-29",
+          "mediamarkt": 1690,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-30",
+          "mediamarkt": 1690,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-31",
+          "mediamarkt": 1690,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-01",
+          "mediamarkt": 1690,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-02",
+          "mediamarkt": 1690,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-03",
+          "mediamarkt": 1690,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-04",
+          "mediamarkt": 1690,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-05",
+          "mediamarkt": 2399,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-06",
+          "mediamarkt": 2399,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-07",
+          "mediamarkt": 2399,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-08",
+          "mediamarkt": 2399,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-09",
+          "mediamarkt": 2399,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-10",
+          "mediamarkt": 2399,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-11",
+          "mediamarkt": 2399,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-12",
+          "mediamarkt": 2399,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-13",
+          "mediamarkt": 2399,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-14",
+          "mediamarkt": 2399,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-15",
+          "mediamarkt": 2399,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-16",
+          "mediamarkt": 2399,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-17",
+          "mediamarkt": 2399,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-18",
+          "mediamarkt": 2399,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 2399,
+          "ceneo": null
+        }
+      ]
+    },
+    {
+      "id": "beko-hii64720suf2t",
+      "name": "Płyta indukcyjna BEKO HII64720SUF2T",
+      "model": "HII64720SUF2T",
+      "brand": "BEKO",
+      "type": "induction",
+      "size": {
+        "widthCm": 60,
+        "rawWidth": 60,
+        "label": "60 cm (standard)",
+        "category": "60cm"
+      },
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_133331842",
+      "mediamarktPrice": 1599,
+      "ceneoPrice": 1598.95,
+      "ceneoCheckedAt": "2026-11-19",
+      "priceChange": {
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 1599,
+        "previousDate": "2026-11-18"
+      },
+      "rating": 4.66,
+      "reviewCount": 38,
+      "valueScore": 18.0,
+      "links": {
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-beko-hii64720suf2t-1470949.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-HII64720SUF2T",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=HII64720SUF2T",
+        "komputronik": "https://www.komputronik.pl/search?query=HII64720SUF2T"
+      },
+      "priceHistory": [
+        {
+          "date": "2026-10-16",
+          "mediamarkt": 1599,
+          "ceneo": 1598.95
+        },
+        {
+          "date": "2026-10-17",
+          "mediamarkt": 1599,
+          "ceneo": 1598.95
+        },
+        {
+          "date": "2026-10-18",
+          "mediamarkt": 1599,
+          "ceneo": 1598.95
+        },
+        {
+          "date": "2026-10-19",
+          "mediamarkt": 1599,
+          "ceneo": 1598.95
+        },
+        {
+          "date": "2026-10-20",
+          "mediamarkt": 1599,
+          "ceneo": 1598.95
+        },
+        {
+          "date": "2026-10-21",
+          "mediamarkt": 1599,
+          "ceneo": 1598.95
+        },
+        {
+          "date": "2026-10-22",
+          "mediamarkt": 1599,
+          "ceneo": 1598.95
+        },
+        {
+          "date": "2026-10-23",
+          "mediamarkt": 1599,
+          "ceneo": 1598.95
+        },
+        {
+          "date": "2026-10-24",
+          "mediamarkt": 1599,
+          "ceneo": 1598.95
+        },
+        {
+          "date": "2026-10-25",
+          "mediamarkt": 1599,
+          "ceneo": 1598.95
+        },
+        {
+          "date": "2026-10-26",
+          "mediamarkt": 1599,
+          "ceneo": 1598.95
+        },
+        {
+          "date": "2026-10-27",
+          "mediamarkt": 1599,
+          "ceneo": 1598.95
+        },
+        {
+          "date": "2026-10-28",
+          "mediamarkt": 1599,
+          "ceneo": 1598.95
+        },
+        {
+          "date": "2026-10-29",
+          "mediamarkt": 1599,
+          "ceneo": 1598.95
+        },
+        {
+          "date": "2026-10-30",
+          "mediamarkt": 1599,
+          "ceneo": 1598.95
+        },
+        {
+          "date": "2026-10-31",
+          "mediamarkt": 1599,
+          "ceneo": 1598.95
+        },
+        {
+          "date": "2026-11-01",
+          "mediamarkt": 1599,
+          "ceneo": 1598.95
+        },
+        {
+          "date": "2026-11-02",
+          "mediamarkt": 1599,
+          "ceneo": 1598.95
+        },
+        {
+          "date": "2026-11-03",
+          "mediamarkt": 1599,
+          "ceneo": 1598.95
+        },
+        {
+          "date": "2026-11-04",
+          "mediamarkt": 1599,
+          "ceneo": 1598.95
+        },
+        {
+          "date": "2026-11-05",
+          "mediamarkt": 1599,
+          "ceneo": 1598.95
+        },
+        {
+          "date": "2026-11-06",
+          "mediamarkt": 1599,
+          "ceneo": 1598.95
+        },
+        {
+          "date": "2026-11-07",
+          "mediamarkt": 1599,
+          "ceneo": 1598.95
+        },
+        {
+          "date": "2026-11-08",
+          "mediamarkt": 1599,
+          "ceneo": 1598.95
+        },
+        {
+          "date": "2026-11-09",
+          "mediamarkt": 1599,
+          "ceneo": 1598.95
+        },
+        {
+          "date": "2026-11-10",
+          "mediamarkt": 1599,
+          "ceneo": 1598.95
+        },
+        {
+          "date": "2026-11-11",
+          "mediamarkt": 1599,
+          "ceneo": 1598.95
+        },
+        {
+          "date": "2026-11-12",
+          "mediamarkt": 1599,
+          "ceneo": 1598.95
+        },
+        {
+          "date": "2026-11-13",
+          "mediamarkt": 1599,
+          "ceneo": 1598.95
+        },
+        {
+          "date": "2026-11-14",
+          "mediamarkt": 1599,
+          "ceneo": 1598.95
+        },
+        {
+          "date": "2026-11-15",
+          "mediamarkt": 1599,
+          "ceneo": 1598.95
+        },
+        {
+          "date": "2026-11-16",
+          "mediamarkt": 1599,
+          "ceneo": 1598.95
+        },
+        {
+          "date": "2026-11-17",
+          "mediamarkt": 1599,
+          "ceneo": 1598.95
+        },
+        {
+          "date": "2026-11-18",
+          "mediamarkt": 1599,
+          "ceneo": 1598.95
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1599,
+          "ceneo": 1598.95
+        }
+      ]
+    },
+    {
+      "id": "samsung-nz84c5047gk",
+      "name": "Płyta indukcyjna SAMSUNG NZ84C5047GK/U2 Slim Fit",
+      "model": "NZ84C5047GK",
+      "brand": "SAMSUNG",
+      "type": "induction",
+      "size": {
+        "widthCm": 80,
+        "rawWidth": 80,
+        "label": "80 cm",
+        "category": "80cm"
+      },
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_110628871",
+      "mediamarktPrice": 2899,
+      "ceneoPrice": 2899,
+      "ceneoCheckedAt": "2026-11-19",
+      "priceChange": {
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 2899,
+        "previousDate": "2026-11-18"
+      },
+      "rating": 5.0,
+      "reviewCount": 21,
+      "valueScore": 7.9,
+      "links": {
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-samsung-nz84c5047gku2-slim-fit-1476621.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-NZ84C5047GK",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=NZ84C5047GK",
+        "komputronik": "https://www.komputronik.pl/search?query=NZ84C5047GK"
+      },
+      "priceHistory": [
+        {
+          "date": "2026-10-16",
+          "mediamarkt": 2899,
+          "ceneo": 2899
+        },
+        {
+          "date": "2026-10-17",
+          "mediamarkt": 2899,
+          "ceneo": 2899
+        },
+        {
+          "date": "2026-10-18",
+          "mediamarkt": 2899,
+          "ceneo": 2899
+        },
+        {
+          "date": "2026-10-19",
+          "mediamarkt": 2899,
+          "ceneo": 2899
+        },
+        {
+          "date": "2026-10-20",
+          "mediamarkt": 2899,
+          "ceneo": 2899
+        },
+        {
+          "date": "2026-10-21",
+          "mediamarkt": 2899,
+          "ceneo": 2899
+        },
+        {
+          "date": "2026-10-22",
+          "mediamarkt": 2899,
+          "ceneo": 2899
+        },
+        {
+          "date": "2026-10-23",
+          "mediamarkt": 2899,
+          "ceneo": 2899
+        },
+        {
+          "date": "2026-10-24",
+          "mediamarkt": 2899,
+          "ceneo": 2899
+        },
+        {
+          "date": "2026-10-25",
+          "mediamarkt": 2899,
+          "ceneo": 2899
+        },
+        {
+          "date": "2026-10-26",
+          "mediamarkt": 2899,
+          "ceneo": 2899
+        },
+        {
+          "date": "2026-10-27",
+          "mediamarkt": 2899,
+          "ceneo": 2899
+        },
+        {
+          "date": "2026-10-28",
+          "mediamarkt": 2899,
+          "ceneo": 2899
+        },
+        {
+          "date": "2026-10-29",
+          "mediamarkt": 2899,
+          "ceneo": 2899
+        },
+        {
+          "date": "2026-10-30",
+          "mediamarkt": 2899,
+          "ceneo": 2899
+        },
+        {
+          "date": "2026-10-31",
+          "mediamarkt": 2899,
+          "ceneo": 2899
+        },
+        {
+          "date": "2026-11-01",
+          "mediamarkt": 2899,
+          "ceneo": 2899
+        },
+        {
+          "date": "2026-11-02",
+          "mediamarkt": 2899,
+          "ceneo": 2899
+        },
+        {
+          "date": "2026-11-03",
+          "mediamarkt": 2899,
+          "ceneo": 2899
+        },
+        {
+          "date": "2026-11-04",
+          "mediamarkt": 2899,
+          "ceneo": 2899
+        },
+        {
+          "date": "2026-11-05",
+          "mediamarkt": 2899,
+          "ceneo": 2899
+        },
+        {
+          "date": "2026-11-06",
+          "mediamarkt": 2899,
+          "ceneo": 2899
+        },
+        {
+          "date": "2026-11-07",
+          "mediamarkt": 2899,
+          "ceneo": 2899
+        },
+        {
+          "date": "2026-11-08",
+          "mediamarkt": 2899,
+          "ceneo": 2899
+        },
+        {
+          "date": "2026-11-09",
+          "mediamarkt": 2899,
+          "ceneo": 2899
+        },
+        {
+          "date": "2026-11-10",
+          "mediamarkt": 2899,
+          "ceneo": 2899
+        },
+        {
+          "date": "2026-11-11",
+          "mediamarkt": 2899,
+          "ceneo": 2899
+        },
+        {
+          "date": "2026-11-12",
+          "mediamarkt": 2899,
+          "ceneo": 2899
+        },
+        {
+          "date": "2026-11-13",
+          "mediamarkt": 2899,
+          "ceneo": 2899
+        },
+        {
+          "date": "2026-11-14",
+          "mediamarkt": 2899,
+          "ceneo": 2899
+        },
+        {
+          "date": "2026-11-15",
+          "mediamarkt": 2899,
+          "ceneo": 2899
+        },
+        {
+          "date": "2026-11-16",
+          "mediamarkt": 2899,
+          "ceneo": 2899
+        },
+        {
+          "date": "2026-11-17",
+          "mediamarkt": 2899,
+          "ceneo": 2899
+        },
+        {
+          "date": "2026-11-18",
+          "mediamarkt": 2899,
+          "ceneo": 2899
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 2899,
+          "ceneo": 2899
+        }
+      ]
+    },
+    {
+      "id": "electrolux-300lib60420ck",
+      "name": "Płyta indukcyjna ELECTROLUX Serie 300LIB60420CK Czarny",
+      "model": "300LIB60420CK",
+      "brand": "ELECTROLUX",
+      "type": "induction",
+      "size": {
+        "widthCm": 60,
+        "rawWidth": 60,
+        "label": "60 cm (standard)",
+        "category": "60cm"
+      },
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_171516842",
+      "mediamarktPrice": 1095,
+      "ceneoPrice": null,
+      "ceneoCheckedAt": "2026-11-19",
+      "priceChange": {
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 1095,
+        "previousDate": "2026-11-18"
+      },
+      "rating": 5.0,
+      "reviewCount": 15,
+      "valueScore": 17.7,
+      "links": {
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyty-kuchenne-electrolux-serie-300-lib60420ck-czarny-134152814.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-300LIB60420CK",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=300LIB60420CK",
+        "komputronik": "https://www.komputronik.pl/search?query=300LIB60420CK"
+      },
+      "priceHistory": [
+        {
+          "date": "2026-10-16",
+          "mediamarkt": 1094,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-17",
+          "mediamarkt": 1094,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-18",
+          "mediamarkt": 1094,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-19",
+          "mediamarkt": 1094,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-20",
+          "mediamarkt": 1082,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-21",
+          "mediamarkt": 1082,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-22",
+          "mediamarkt": 1082,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-23",
+          "mediamarkt": 1082,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-24",
+          "mediamarkt": 1082,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-25",
+          "mediamarkt": 1082,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-26",
+          "mediamarkt": 1082,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-27",
+          "mediamarkt": 1082,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-28",
+          "mediamarkt": 1082,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-29",
+          "mediamarkt": 1082,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-30",
+          "mediamarkt": 1083,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-31",
+          "mediamarkt": 1083,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-01",
+          "mediamarkt": 1083,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-02",
+          "mediamarkt": 1083,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-03",
+          "mediamarkt": 1083,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-04",
+          "mediamarkt": 1083,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-05",
+          "mediamarkt": 1083,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-06",
+          "mediamarkt": 1095,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-07",
+          "mediamarkt": 1095,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-08",
+          "mediamarkt": 1095,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-09",
+          "mediamarkt": 1095,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-10",
+          "mediamarkt": 1083,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-11",
+          "mediamarkt": 1083,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-12",
+          "mediamarkt": 1083,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-13",
+          "mediamarkt": 1083,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-14",
+          "mediamarkt": 1083,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-15",
+          "mediamarkt": 1083,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-16",
+          "mediamarkt": 1083,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-17",
+          "mediamarkt": 1095,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-18",
+          "mediamarkt": 1095,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1095,
+          "ceneo": null
+        }
+      ]
+    },
+    {
+      "id": "inna-69",
+      "name": "Podwójna płyta indukcyjna MELISSA 3500 W 2 strefy 10 poziomów 16350030 Czarny",
+      "model": "",
+      "brand": "INNA",
+      "type": "induction",
+      "size": {
+        "widthCm": 60,
+        "rawWidth": 60,
+        "label": "60 cm (standard)",
+        "category": "60cm"
+      },
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_183432414",
+      "mediamarktPrice": 499,
+      "ceneoPrice": null,
+      "ceneoCheckedAt": null,
+      "priceChange": {
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 499,
+        "previousDate": "2026-11-19"
+      },
+      "rating": null,
+      "reviewCount": 0,
+      "valueScore": 0.0,
+      "links": {
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_podwojna-plyta-indukcyjna-melissa-3500-w-2-strefy-10-poziomow-16350030-czarny-183432328.html",
+        "ceneo": "",
+        "euro": "",
+        "komputronik": ""
+      },
+      "priceHistory": [
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 499,
+          "ceneo": null
+        }
+      ]
+    },
+    {
+      "id": "gorenje-gi6432bscwf",
+      "name": "Płyta indukcyjna do zabudowy GORENJE GI6432BSCWF Power Boost BridgeArea Czarny",
+      "model": "GI6432BSCWF",
+      "brand": "GORENJE",
+      "type": "induction",
+      "size": {
+        "widthCm": 60,
+        "rawWidth": 60,
+        "label": "60 cm (standard)",
+        "category": "60cm"
+      },
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_158835654",
+      "mediamarktPrice": 1899,
+      "ceneoPrice": 1479,
+      "ceneoCheckedAt": "2026-11-19",
+      "priceChange": {
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 1899,
+        "previousDate": "2026-11-18"
+      },
+      "rating": null,
+      "reviewCount": 0,
+      "valueScore": 0.0,
+      "links": {
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-do-zabudowy-gorenje-gi6432bscwf-czarny-1495609.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-GI6432BSCWF",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=GI6432BSCWF",
+        "komputronik": "https://www.komputronik.pl/search?query=GI6432BSCWF"
+      },
+      "priceHistory": [
+        {
+          "date": "2026-10-16",
+          "mediamarkt": 1899,
+          "ceneo": 1479
+        },
+        {
+          "date": "2026-10-17",
+          "mediamarkt": 1899,
+          "ceneo": 1479
+        },
+        {
+          "date": "2026-10-18",
+          "mediamarkt": 1899,
+          "ceneo": 1479
+        },
+        {
+          "date": "2026-10-19",
+          "mediamarkt": 1899,
+          "ceneo": 1479
+        },
+        {
+          "date": "2026-10-20",
+          "mediamarkt": 1899,
+          "ceneo": 1479
+        },
+        {
+          "date": "2026-10-21",
+          "mediamarkt": 1899,
+          "ceneo": 1479
+        },
+        {
+          "date": "2026-10-22",
+          "mediamarkt": 1899,
+          "ceneo": 1479
+        },
+        {
+          "date": "2026-10-23",
+          "mediamarkt": 1899,
+          "ceneo": 1479
+        },
+        {
+          "date": "2026-10-24",
+          "mediamarkt": 1899,
+          "ceneo": 1479
+        },
+        {
+          "date": "2026-10-25",
+          "mediamarkt": 1899,
+          "ceneo": 1479
+        },
+        {
+          "date": "2026-10-26",
+          "mediamarkt": 1899,
+          "ceneo": 1479
+        },
+        {
+          "date": "2026-10-27",
+          "mediamarkt": 1899,
+          "ceneo": 1479
+        },
+        {
+          "date": "2026-10-28",
+          "mediamarkt": 1899,
+          "ceneo": 1479
+        },
+        {
+          "date": "2026-10-29",
+          "mediamarkt": 1899,
+          "ceneo": 1479
+        },
+        {
+          "date": "2026-10-30",
+          "mediamarkt": 1899,
+          "ceneo": 1479
+        },
+        {
+          "date": "2026-10-31",
+          "mediamarkt": 1899,
+          "ceneo": 1479
+        },
+        {
+          "date": "2026-11-01",
+          "mediamarkt": 1899,
+          "ceneo": 1479
+        },
+        {
+          "date": "2026-11-02",
+          "mediamarkt": 1899,
+          "ceneo": 1479
+        },
+        {
+          "date": "2026-11-03",
+          "mediamarkt": 1899,
+          "ceneo": 1479
+        },
+        {
+          "date": "2026-11-04",
+          "mediamarkt": 1899,
+          "ceneo": 1479
+        },
+        {
+          "date": "2026-11-05",
+          "mediamarkt": 1899,
+          "ceneo": 1479
+        },
+        {
+          "date": "2026-11-06",
+          "mediamarkt": 1899,
+          "ceneo": 1479
+        },
+        {
+          "date": "2026-11-07",
+          "mediamarkt": 1899,
+          "ceneo": 1479
+        },
+        {
+          "date": "2026-11-08",
+          "mediamarkt": 1899,
+          "ceneo": 1479
+        },
+        {
+          "date": "2026-11-09",
+          "mediamarkt": 1899,
+          "ceneo": 1479
+        },
+        {
+          "date": "2026-11-10",
+          "mediamarkt": 1899,
+          "ceneo": 1479
+        },
+        {
+          "date": "2026-11-11",
+          "mediamarkt": 1899,
+          "ceneo": 1479
+        },
+        {
+          "date": "2026-11-12",
+          "mediamarkt": 1899,
+          "ceneo": 1479
+        },
+        {
+          "date": "2026-11-13",
+          "mediamarkt": 1899,
+          "ceneo": 1479
+        },
+        {
+          "date": "2026-11-14",
+          "mediamarkt": 1899,
+          "ceneo": 1479
+        },
+        {
+          "date": "2026-11-15",
+          "mediamarkt": 1899,
+          "ceneo": 1479
+        },
+        {
+          "date": "2026-11-16",
+          "mediamarkt": 1899,
+          "ceneo": 1479
+        },
+        {
+          "date": "2026-11-17",
+          "mediamarkt": 1899,
+          "ceneo": 1479
+        },
+        {
+          "date": "2026-11-18",
+          "mediamarkt": 1899,
+          "ceneo": 1479
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1899,
+          "ceneo": 1479
+        }
+      ]
+    },
+    {
+      "id": "whirlpool-s7560ne",
+      "name": "Płyta indukcyjna WHIRLPOOL WF S7560NE BM Czarny",
+      "model": "S7560NE",
+      "brand": "WHIRLPOOL",
+      "type": "induction",
+      "size": {
+        "widthCm": 75,
+        "rawWidth": 75,
+        "label": "70-75 cm",
+        "category": "75cm"
+      },
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_185603265",
+      "mediamarktPrice": 2099,
+      "ceneoPrice": 1739,
+      "ceneoCheckedAt": "2026-11-19",
+      "priceChange": {
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 2099,
+        "previousDate": "2026-11-18"
+      },
+      "rating": 5.0,
+      "reviewCount": 2,
+      "valueScore": 3.4,
+      "links": {
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-whirlpool-wf-s7560ne-bm-czarny-185603040.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-S7560NE",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=S7560NE",
+        "komputronik": "https://www.komputronik.pl/search?query=S7560NE"
+      },
+      "priceHistory": [
+        {
+          "date": "2026-10-16",
+          "mediamarkt": 2098,
+          "ceneo": 1739
+        },
+        {
+          "date": "2026-10-17",
+          "mediamarkt": 2098,
+          "ceneo": 1739
+        },
+        {
+          "date": "2026-10-18",
+          "mediamarkt": 2098,
+          "ceneo": 1739
+        },
+        {
+          "date": "2026-10-19",
+          "mediamarkt": 2098,
+          "ceneo": 1739
+        },
+        {
+          "date": "2026-10-20",
+          "mediamarkt": 2098,
+          "ceneo": 1739
+        },
+        {
+          "date": "2026-10-21",
+          "mediamarkt": 2098,
+          "ceneo": 1739
+        },
+        {
+          "date": "2026-10-22",
+          "mediamarkt": 2098,
+          "ceneo": 1739
+        },
+        {
+          "date": "2026-10-23",
+          "mediamarkt": 2098,
+          "ceneo": 1739
+        },
+        {
+          "date": "2026-10-24",
+          "mediamarkt": 1888,
+          "ceneo": 1739
+        },
+        {
+          "date": "2026-10-25",
+          "mediamarkt": 1888,
+          "ceneo": 1739
+        },
+        {
+          "date": "2026-10-26",
+          "mediamarkt": 1888,
+          "ceneo": 1739
+        },
+        {
+          "date": "2026-10-27",
+          "mediamarkt": 1888,
+          "ceneo": 1739
+        },
+        {
+          "date": "2026-10-28",
+          "mediamarkt": 1888,
+          "ceneo": 1739
+        },
+        {
+          "date": "2026-10-29",
+          "mediamarkt": 1888,
+          "ceneo": 1739
+        },
+        {
+          "date": "2026-10-30",
+          "mediamarkt": 1888,
+          "ceneo": 1739
+        },
+        {
+          "date": "2026-10-31",
+          "mediamarkt": 1888,
+          "ceneo": 1739
+        },
+        {
+          "date": "2026-11-01",
+          "mediamarkt": 1888,
+          "ceneo": 1739
+        },
+        {
+          "date": "2026-11-02",
+          "mediamarkt": 1888,
+          "ceneo": 1739
+        },
+        {
+          "date": "2026-11-03",
+          "mediamarkt": 1888,
+          "ceneo": 1739
+        },
+        {
+          "date": "2026-11-04",
+          "mediamarkt": 1888,
+          "ceneo": 1739
+        },
+        {
+          "date": "2026-11-05",
+          "mediamarkt": 1888,
+          "ceneo": 1739
+        },
+        {
+          "date": "2026-11-06",
+          "mediamarkt": 1908,
+          "ceneo": 1739
+        },
+        {
+          "date": "2026-11-07",
+          "mediamarkt": 2099,
+          "ceneo": 1739
+        },
+        {
+          "date": "2026-11-08",
+          "mediamarkt": 2099,
+          "ceneo": 1739
+        },
+        {
+          "date": "2026-11-09",
+          "mediamarkt": 2099,
+          "ceneo": 1739
+        },
+        {
+          "date": "2026-11-10",
+          "mediamarkt": 2099,
+          "ceneo": 1739
+        },
+        {
+          "date": "2026-11-11",
+          "mediamarkt": 2099,
+          "ceneo": 1739
+        },
+        {
+          "date": "2026-11-12",
+          "mediamarkt": 2099,
+          "ceneo": 1739
+        },
+        {
+          "date": "2026-11-13",
+          "mediamarkt": 2099,
+          "ceneo": 1739
+        },
+        {
+          "date": "2026-11-14",
+          "mediamarkt": 2099,
+          "ceneo": 1739
+        },
+        {
+          "date": "2026-11-15",
+          "mediamarkt": 2099,
+          "ceneo": 1739
+        },
+        {
+          "date": "2026-11-16",
+          "mediamarkt": 2099,
+          "ceneo": 1739
+        },
+        {
+          "date": "2026-11-17",
+          "mediamarkt": 2099,
+          "ceneo": 1739
+        },
+        {
+          "date": "2026-11-18",
+          "mediamarkt": 2099,
+          "ceneo": 1739
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 2099,
+          "ceneo": 1739
+        }
+      ]
+    },
+    {
+      "id": "bosch-6pie61rhb1e",
+      "name": "Płyta indukcyjna BOSCH Serie 6PIE61RHB1E Czarny",
+      "model": "6PIE61RHB1E",
+      "brand": "BOSCH",
+      "type": "induction",
+      "size": {
+        "widthCm": 60,
+        "rawWidth": 60,
+        "label": "60 cm (standard)",
+        "category": "60cm"
+      },
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_185605119",
+      "mediamarktPrice": 1999,
+      "ceneoPrice": null,
+      "ceneoCheckedAt": "2026-11-19",
+      "priceChange": {
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 1999,
+        "previousDate": "2026-11-18"
+      },
+      "rating": 5.0,
+      "reviewCount": 28,
+      "valueScore": 13.2,
+      "links": {
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-bosch-serie-6pie61rhb1e-czarny-185604544.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-6PIE61RHB1E",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=6PIE61RHB1E",
+        "komputronik": "https://www.komputronik.pl/search?query=6PIE61RHB1E"
+      },
+      "priceHistory": [
+        {
+          "date": "2026-11-11",
+          "mediamarkt": 1999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-12",
+          "mediamarkt": 1999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-13",
+          "mediamarkt": 1999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-14",
+          "mediamarkt": 1999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-15",
+          "mediamarkt": 1999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-16",
+          "mediamarkt": 1999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-17",
+          "mediamarkt": 1999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-18",
+          "mediamarkt": 1999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1999,
+          "ceneo": null
+        }
+      ]
+    },
+    {
+      "id": "samsung-nz85c6057fk",
+      "name": "Płyta indukcyjna SAMSUNG NZ85C6057FK/U2 Czarny",
+      "model": "NZ85C6057FK",
+      "brand": "SAMSUNG",
+      "type": "induction",
+      "size": {
+        "widthCm": 80,
+        "rawWidth": 80,
+        "label": "80 cm",
+        "category": "80cm"
+      },
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_185605339",
+      "mediamarktPrice": 3649,
+      "ceneoPrice": 3119,
+      "ceneoCheckedAt": "2026-11-19",
+      "priceChange": {
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 3649,
+        "previousDate": "2026-11-18"
+      },
+      "rating": 4.95,
+      "reviewCount": 274,
+      "valueScore": 22.5,
+      "links": {
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-samsung-nz85c6057fku2-czarny-185604427.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-NZ85C6057FK",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=NZ85C6057FK",
+        "komputronik": "https://www.komputronik.pl/search?query=NZ85C6057FK"
+      },
+      "priceHistory": [
+        {
+          "date": "2026-10-16",
+          "mediamarkt": 3649,
+          "ceneo": 3119
+        },
+        {
+          "date": "2026-10-17",
+          "mediamarkt": 3649,
+          "ceneo": 3119
+        },
+        {
+          "date": "2026-10-18",
+          "mediamarkt": 3649,
+          "ceneo": 3119
+        },
+        {
+          "date": "2026-10-19",
+          "mediamarkt": 3649,
+          "ceneo": 3119
+        },
+        {
+          "date": "2026-10-20",
+          "mediamarkt": 3649,
+          "ceneo": 3119
+        },
+        {
+          "date": "2026-10-21",
+          "mediamarkt": 3649,
+          "ceneo": 3119
+        },
+        {
+          "date": "2026-10-22",
+          "mediamarkt": 3649,
+          "ceneo": 3119
+        },
+        {
+          "date": "2026-10-23",
+          "mediamarkt": 3649,
+          "ceneo": 3119
+        },
+        {
+          "date": "2026-10-24",
+          "mediamarkt": 3649,
+          "ceneo": 3119
+        },
+        {
+          "date": "2026-10-25",
+          "mediamarkt": 3649,
+          "ceneo": 3119
+        },
+        {
+          "date": "2026-10-26",
+          "mediamarkt": 3649,
+          "ceneo": 3119
+        },
+        {
+          "date": "2026-10-27",
+          "mediamarkt": 3649,
+          "ceneo": 3119
+        },
+        {
+          "date": "2026-10-28",
+          "mediamarkt": 3649,
+          "ceneo": 3119
+        },
+        {
+          "date": "2026-10-29",
+          "mediamarkt": 3649,
+          "ceneo": 3119
+        },
+        {
+          "date": "2026-10-30",
+          "mediamarkt": 3649,
+          "ceneo": 3119
+        },
+        {
+          "date": "2026-10-31",
+          "mediamarkt": 3649,
+          "ceneo": 3119
+        },
+        {
+          "date": "2026-11-01",
+          "mediamarkt": 3649,
+          "ceneo": 3119
+        },
+        {
+          "date": "2026-11-02",
+          "mediamarkt": 3649,
+          "ceneo": 3119
+        },
+        {
+          "date": "2026-11-03",
+          "mediamarkt": 3649,
+          "ceneo": 3119
+        },
+        {
+          "date": "2026-11-04",
+          "mediamarkt": 3649,
+          "ceneo": 3119
+        },
+        {
+          "date": "2026-11-05",
+          "mediamarkt": 3649,
+          "ceneo": 3119
+        },
+        {
+          "date": "2026-11-06",
+          "mediamarkt": 3649,
+          "ceneo": 3119
+        },
+        {
+          "date": "2026-11-07",
+          "mediamarkt": 3649,
+          "ceneo": 3119
+        },
+        {
+          "date": "2026-11-08",
+          "mediamarkt": 3649,
+          "ceneo": 3119
+        },
+        {
+          "date": "2026-11-09",
+          "mediamarkt": 3649,
+          "ceneo": 3119
+        },
+        {
+          "date": "2026-11-10",
+          "mediamarkt": 3649,
+          "ceneo": 3119
+        },
+        {
+          "date": "2026-11-11",
+          "mediamarkt": 3649,
+          "ceneo": 3119
+        },
+        {
+          "date": "2026-11-12",
+          "mediamarkt": 3649,
+          "ceneo": 3119
+        },
+        {
+          "date": "2026-11-13",
+          "mediamarkt": 3649,
+          "ceneo": 3119
+        },
+        {
+          "date": "2026-11-14",
+          "mediamarkt": 3649,
+          "ceneo": 3119
+        },
+        {
+          "date": "2026-11-15",
+          "mediamarkt": 3649,
+          "ceneo": 3119
+        },
+        {
+          "date": "2026-11-16",
+          "mediamarkt": 3649,
+          "ceneo": 3119
+        },
+        {
+          "date": "2026-11-17",
+          "mediamarkt": 3649,
+          "ceneo": 3119
+        },
+        {
+          "date": "2026-11-18",
+          "mediamarkt": 3649,
+          "ceneo": 3119
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 3649,
+          "ceneo": 3119
+        }
+      ]
+    },
+    {
+      "id": "amica-pi6501",
+      "name": "Płyta indukcyjna AMICA PI6501 Czarny",
+      "model": "PI6501",
+      "brand": "AMICA",
+      "type": "induction",
+      "size": {
+        "widthCm": 60,
+        "rawWidth": 60,
+        "label": "60 cm (standard)",
+        "category": "60cm"
+      },
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_168618907",
+      "mediamarktPrice": 803,
+      "ceneoPrice": null,
+      "ceneoCheckedAt": "2026-11-19",
+      "priceChange": {
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 803,
+        "previousDate": "2026-11-18"
+      },
+      "rating": null,
+      "reviewCount": 0,
+      "valueScore": 0.0,
+      "links": {
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-amica-pi6501-czarny-167782256.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-PI6501",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=PI6501",
+        "komputronik": "https://www.komputronik.pl/search?query=PI6501"
+      },
+      "priceHistory": [
+        {
+          "date": "2026-10-16",
+          "mediamarkt": 999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-17",
+          "mediamarkt": 999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-18",
+          "mediamarkt": 999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-19",
+          "mediamarkt": 999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-20",
+          "mediamarkt": 999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-21",
+          "mediamarkt": 999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-22",
+          "mediamarkt": 999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-23",
+          "mediamarkt": 999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-24",
+          "mediamarkt": 999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-25",
+          "mediamarkt": 999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-26",
+          "mediamarkt": 999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-27",
+          "mediamarkt": 999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-28",
+          "mediamarkt": 999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-29",
+          "mediamarkt": 999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-30",
+          "mediamarkt": 930,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-31",
+          "mediamarkt": 930,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-01",
+          "mediamarkt": 930,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-02",
+          "mediamarkt": 930,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-03",
+          "mediamarkt": 894,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-04",
+          "mediamarkt": 865,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-05",
+          "mediamarkt": 874,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-06",
+          "mediamarkt": 884,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-07",
+          "mediamarkt": 884,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-08",
+          "mediamarkt": 884,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-09",
+          "mediamarkt": 884,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-10",
+          "mediamarkt": 874,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-11",
+          "mediamarkt": 874,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-12",
+          "mediamarkt": 795,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-13",
+          "mediamarkt": 795,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-14",
+          "mediamarkt": 795,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-15",
+          "mediamarkt": 795,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-16",
+          "mediamarkt": 795,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-17",
+          "mediamarkt": 803,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-18",
+          "mediamarkt": 803,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 803,
+          "ceneo": null
+        }
+      ]
+    },
+    {
+      "id": "bosch-6pvs631hc1e",
+      "name": "Płyty kuchenne BOSCH Serie 6PVS631HC1E Czarny",
+      "model": "6PVS631HC1E",
+      "brand": "BOSCH",
+      "type": "induction",
+      "size": {
+        "widthCm": 60,
+        "rawWidth": 60,
+        "label": "60 cm (standard)",
+        "category": "60cm"
+      },
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_144358877",
+      "mediamarktPrice": 2349,
+      "ceneoPrice": null,
+      "ceneoCheckedAt": "2026-11-19",
+      "priceChange": {
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 2349,
+        "previousDate": "2026-11-18"
+      },
+      "rating": 4.98,
+      "reviewCount": 90,
+      "valueScore": 20.1,
+      "links": {
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyty-kuchenne-bosch-serie-6-pvs631hc1e-czarny-144358870.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-6PVS631HC1E",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=6PVS631HC1E",
+        "komputronik": "https://www.komputronik.pl/search?query=6PVS631HC1E"
+      },
+      "priceHistory": [
+        {
+          "date": "2026-10-16",
+          "mediamarkt": 1808,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-17",
+          "mediamarkt": 1808,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-18",
+          "mediamarkt": 1808,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-19",
+          "mediamarkt": 1808,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-20",
+          "mediamarkt": 2349,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-21",
+          "mediamarkt": 2349,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-22",
+          "mediamarkt": 2349,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-23",
+          "mediamarkt": 2349,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-24",
+          "mediamarkt": 2349,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-25",
+          "mediamarkt": 2349,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-26",
+          "mediamarkt": 2349,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-27",
+          "mediamarkt": 2349,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-28",
+          "mediamarkt": 2349,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-29",
+          "mediamarkt": 2349,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-30",
+          "mediamarkt": 2349,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-31",
+          "mediamarkt": 2349,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-01",
+          "mediamarkt": 2349,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-02",
+          "mediamarkt": 2349,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-03",
+          "mediamarkt": 2349,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-04",
+          "mediamarkt": 2349,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-05",
+          "mediamarkt": 2349,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-06",
+          "mediamarkt": 2349,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-07",
+          "mediamarkt": 2349,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-08",
+          "mediamarkt": 2349,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-09",
+          "mediamarkt": 2349,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-10",
+          "mediamarkt": 2349,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-11",
+          "mediamarkt": 1808,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-12",
+          "mediamarkt": 1808,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-13",
+          "mediamarkt": 2349,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-14",
+          "mediamarkt": 2349,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-15",
+          "mediamarkt": 2349,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-16",
+          "mediamarkt": 2349,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-17",
+          "mediamarkt": 2349,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-18",
+          "mediamarkt": 2349,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 2349,
+          "ceneo": null
+        }
+      ]
+    },
+    {
+      "id": "electrolux-eiv644",
+      "name": "Płyta Indukcyjna ELECTROLUX EIV644 Czarny",
+      "model": "EIV644",
+      "brand": "ELECTROLUX",
+      "type": "induction",
+      "size": {
+        "widthCm": 60,
+        "rawWidth": 60,
+        "label": "60 cm (standard)",
+        "category": "60cm"
+      },
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_134361011",
+      "mediamarktPrice": 2460,
+      "ceneoPrice": null,
+      "ceneoCheckedAt": "2026-11-19",
+      "priceChange": {
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 2460,
+        "previousDate": "2026-11-18"
+      },
+      "rating": 4.91,
+      "reviewCount": 161,
+      "valueScore": 25.3,
+      "links": {
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_pyta-indukcyjna-electrolux-eiv644-czarny-134361007.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-EIV644",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=EIV644",
+        "komputronik": "https://www.komputronik.pl/search?query=EIV644"
+      },
+      "priceHistory": [
+        {
+          "date": "2026-10-16",
+          "mediamarkt": 2460,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-17",
+          "mediamarkt": 2460,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-18",
+          "mediamarkt": 2460,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-19",
+          "mediamarkt": 2460,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-20",
+          "mediamarkt": 2460,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-21",
+          "mediamarkt": 2460,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-22",
+          "mediamarkt": 2460,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-23",
+          "mediamarkt": 2460,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-24",
+          "mediamarkt": 2460,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-25",
+          "mediamarkt": 2460,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-26",
+          "mediamarkt": 2460,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-27",
+          "mediamarkt": 2460,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-28",
+          "mediamarkt": 2460,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-29",
+          "mediamarkt": 2460,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-30",
+          "mediamarkt": 2460,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-31",
+          "mediamarkt": 2460,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-01",
+          "mediamarkt": 2460,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-02",
+          "mediamarkt": 2460,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-03",
+          "mediamarkt": 2460,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-04",
+          "mediamarkt": 2460,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-05",
+          "mediamarkt": 2460,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-06",
+          "mediamarkt": 2460,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-07",
+          "mediamarkt": 2460,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-08",
+          "mediamarkt": 2460,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-09",
+          "mediamarkt": 2460,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-10",
+          "mediamarkt": 2460,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-11",
+          "mediamarkt": 2460,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-12",
+          "mediamarkt": 2460,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-13",
+          "mediamarkt": 2460,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-14",
+          "mediamarkt": 2460,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-15",
+          "mediamarkt": 2460,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-16",
+          "mediamarkt": 2460,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-17",
+          "mediamarkt": 2460,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-18",
+          "mediamarkt": 2460,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 2460,
+          "ceneo": null
+        }
+      ]
+    },
+    {
+      "id": "bosch-pxe601dc1e",
+      "name": "Płyta kuchenna BOSCH Serie 8 PXE601DC1E Czarny",
+      "model": "PXE601DC1E",
+      "brand": "BOSCH",
+      "type": "induction",
+      "size": {
+        "widthCm": 60,
+        "rawWidth": 60,
+        "label": "60 cm (standard)",
+        "category": "60cm"
+      },
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_187988509",
+      "mediamarktPrice": 3316,
+      "ceneoPrice": null,
+      "ceneoCheckedAt": "2026-11-19",
+      "priceChange": {
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 3316,
+        "previousDate": "2026-11-18"
+      },
+      "rating": 4.92,
+      "reviewCount": 88,
+      "valueScore": 13.9,
+      "links": {
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyty-kuchenne-bosch-serie-8-pxe601dc1e-czarny-134151997.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-PXE601DC1E",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=PXE601DC1E",
+        "komputronik": "https://www.komputronik.pl/search?query=PXE601DC1E"
+      },
+      "priceHistory": [
+        {
+          "date": "2026-10-16",
+          "mediamarkt": 3316,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-17",
+          "mediamarkt": 3316,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-18",
+          "mediamarkt": 3316,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-19",
+          "mediamarkt": 3316,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-20",
+          "mediamarkt": 3281,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-21",
+          "mediamarkt": 3281,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-22",
+          "mediamarkt": 3281,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-23",
+          "mediamarkt": 3281,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-24",
+          "mediamarkt": 3281,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-25",
+          "mediamarkt": 3281,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-26",
+          "mediamarkt": 3281,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-27",
+          "mediamarkt": 3281,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-28",
+          "mediamarkt": 3281,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-29",
+          "mediamarkt": 3281,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-30",
+          "mediamarkt": 3281,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-31",
+          "mediamarkt": 3281,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-01",
+          "mediamarkt": 3281,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-02",
+          "mediamarkt": 3281,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-03",
+          "mediamarkt": 3281,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-04",
+          "mediamarkt": 3281,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-05",
+          "mediamarkt": 3281,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-06",
+          "mediamarkt": 3316,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-07",
+          "mediamarkt": 3316,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-08",
+          "mediamarkt": 3316,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-09",
+          "mediamarkt": 3316,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-10",
+          "mediamarkt": 3281,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-11",
+          "mediamarkt": 3281,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-12",
+          "mediamarkt": 3281,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-13",
+          "mediamarkt": 3281,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-14",
+          "mediamarkt": 3281,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-15",
+          "mediamarkt": 3281,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-16",
+          "mediamarkt": 3281,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-17",
+          "mediamarkt": 3316,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-18",
+          "mediamarkt": 3316,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 3316,
+          "ceneo": null
+        }
+      ]
+    },
+    {
+      "id": "gorenje-gi6401bce",
+      "name": "Płyta indukcyjna GORENJE GI6401BCE Czarny",
+      "model": "GI6401BCE",
+      "brand": "GORENJE",
+      "type": "induction",
+      "size": {
+        "widthCm": 60,
+        "rawWidth": 60,
+        "label": "60 cm (standard)",
+        "category": "60cm"
+      },
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_187981087",
+      "mediamarktPrice": 1004,
+      "ceneoPrice": null,
+      "ceneoCheckedAt": "2026-11-19",
+      "priceChange": {
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 1004,
+        "previousDate": "2026-11-18"
+      },
+      "rating": 5.0,
+      "reviewCount": 3,
+      "valueScore": 8.6,
+      "links": {
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyty-kuchenne-gorenje-gi6401bce-czarny-156746484.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-GI6401BCE",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=GI6401BCE",
+        "komputronik": "https://www.komputronik.pl/search?query=GI6401BCE"
+      },
+      "priceHistory": [
+        {
+          "date": "2026-10-16",
+          "mediamarkt": 1004,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-17",
+          "mediamarkt": 1004,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-18",
+          "mediamarkt": 1004,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-19",
+          "mediamarkt": 1004,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-20",
+          "mediamarkt": 941,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-21",
+          "mediamarkt": 904,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-22",
+          "mediamarkt": 874,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-23",
+          "mediamarkt": 874,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-24",
+          "mediamarkt": 874,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-25",
+          "mediamarkt": 874,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-26",
+          "mediamarkt": 874,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-27",
+          "mediamarkt": 835,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-28",
+          "mediamarkt": 835,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-29",
+          "mediamarkt": 835,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-30",
+          "mediamarkt": 994,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-31",
+          "mediamarkt": 994,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-01",
+          "mediamarkt": 994,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-02",
+          "mediamarkt": 994,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-03",
+          "mediamarkt": 994,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-04",
+          "mediamarkt": 994,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-05",
+          "mediamarkt": 994,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-06",
+          "mediamarkt": 1004,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-07",
+          "mediamarkt": 1004,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-08",
+          "mediamarkt": 1004,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-09",
+          "mediamarkt": 1004,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-10",
+          "mediamarkt": 994,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-11",
+          "mediamarkt": 994,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-12",
+          "mediamarkt": 994,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-13",
+          "mediamarkt": 994,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-14",
+          "mediamarkt": 994,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-15",
+          "mediamarkt": 994,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-16",
+          "mediamarkt": 994,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-17",
+          "mediamarkt": 1004,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-18",
+          "mediamarkt": 1004,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1004,
+          "ceneo": null
+        }
+      ]
+    },
+    {
+      "id": "inna-phd450",
+      "name": "Płyta indukcyjna PHILCO PHD 450 E Czarny",
+      "model": "PHD 450",
+      "brand": "INNA",
+      "type": "induction",
+      "size": {
+        "widthCm": 60,
+        "rawWidth": 60,
+        "label": "60 cm (standard)",
+        "category": "60cm"
+      },
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_185979188",
+      "mediamarktPrice": 699,
+      "ceneoPrice": null,
+      "ceneoCheckedAt": "2026-11-19",
+      "priceChange": {
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 699,
+        "previousDate": "2026-11-18"
+      },
+      "rating": null,
+      "reviewCount": 0,
+      "valueScore": 0.0,
+      "links": {
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-philco-phd-450-e-czarny-185979059.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-PHD 450",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=PHD 450",
+        "komputronik": "https://www.komputronik.pl/search?query=PHD 450"
+      },
+      "priceHistory": [
+        {
+          "date": "2026-10-23",
+          "mediamarkt": 699,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-24",
+          "mediamarkt": 699,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-25",
+          "mediamarkt": 699,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-26",
+          "mediamarkt": 699,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-27",
+          "mediamarkt": 699,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-28",
+          "mediamarkt": 699,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-29",
+          "mediamarkt": 699,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-30",
+          "mediamarkt": 699,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-31",
+          "mediamarkt": 699,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-01",
+          "mediamarkt": 699,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-02",
+          "mediamarkt": 699,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-03",
+          "mediamarkt": 699,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-04",
+          "mediamarkt": 699,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-05",
+          "mediamarkt": 699,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-06",
+          "mediamarkt": 699,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-07",
+          "mediamarkt": 699,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-08",
+          "mediamarkt": 699,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-09",
+          "mediamarkt": 699,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-10",
+          "mediamarkt": 699,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-11",
+          "mediamarkt": 699,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-12",
+          "mediamarkt": 699,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-13",
+          "mediamarkt": 699,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-14",
+          "mediamarkt": 699,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-15",
+          "mediamarkt": 699,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-16",
+          "mediamarkt": 699,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-17",
+          "mediamarkt": 699,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-18",
+          "mediamarkt": 699,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 699,
+          "ceneo": null
+        }
+      ]
+    },
+    {
+      "id": "beko-bpro500",
+      "name": "Płyta indukcyjna BEKO bPRO500 HII64601AFT Pole XXL Hob to Hood IndyFlex 59cm",
+      "model": "BPRO500",
+      "brand": "BEKO",
+      "type": "induction",
+      "size": {
+        "widthCm": 60,
+        "rawWidth": 59,
+        "label": "60 cm (standard)",
+        "category": "60cm"
+      },
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_174742826",
+      "mediamarktPrice": 1379,
+      "ceneoPrice": 4118.99,
+      "ceneoCheckedAt": "2026-11-19",
+      "priceChange": {
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 1379,
+        "previousDate": "2026-11-18"
+      },
+      "rating": null,
+      "reviewCount": 0,
+      "valueScore": 0.0,
+      "links": {
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-beko-hii64601aft-czarny-1501678.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-BPRO500",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=BPRO500",
+        "komputronik": "https://www.komputronik.pl/search?query=BPRO500"
+      },
+      "priceHistory": [
+        {
+          "date": "2026-10-16",
+          "mediamarkt": 1449,
+          "ceneo": 4118.99
+        },
+        {
+          "date": "2026-10-17",
+          "mediamarkt": 1449,
+          "ceneo": 4118.99
+        },
+        {
+          "date": "2026-10-18",
+          "mediamarkt": 1449,
+          "ceneo": 4118.99
+        },
+        {
+          "date": "2026-10-19",
+          "mediamarkt": 1449,
+          "ceneo": 4118.99
+        },
+        {
+          "date": "2026-10-20",
+          "mediamarkt": 1449,
+          "ceneo": 4118.99
+        },
+        {
+          "date": "2026-10-21",
+          "mediamarkt": 1449,
+          "ceneo": 4118.99
+        },
+        {
+          "date": "2026-10-22",
+          "mediamarkt": 1449,
+          "ceneo": 4118.99
+        },
+        {
+          "date": "2026-10-23",
+          "mediamarkt": 1449,
+          "ceneo": 4118.99
+        },
+        {
+          "date": "2026-10-24",
+          "mediamarkt": 1449,
+          "ceneo": 4118.99
+        },
+        {
+          "date": "2026-10-25",
+          "mediamarkt": 1449,
+          "ceneo": 4118.99
+        },
+        {
+          "date": "2026-10-26",
+          "mediamarkt": 1449,
+          "ceneo": 4118.99
+        },
+        {
+          "date": "2026-10-27",
+          "mediamarkt": 1449,
+          "ceneo": 4118.99
+        },
+        {
+          "date": "2026-10-28",
+          "mediamarkt": 1449,
+          "ceneo": 4118.99
+        },
+        {
+          "date": "2026-10-29",
+          "mediamarkt": 1449,
+          "ceneo": 4118.99
+        },
+        {
+          "date": "2026-10-30",
+          "mediamarkt": 1449,
+          "ceneo": 4118.99
+        },
+        {
+          "date": "2026-10-31",
+          "mediamarkt": 1449,
+          "ceneo": 4118.99
+        },
+        {
+          "date": "2026-11-01",
+          "mediamarkt": 1499,
+          "ceneo": 4118.99
+        },
+        {
+          "date": "2026-11-02",
+          "mediamarkt": 1499,
+          "ceneo": 4118.99
+        },
+        {
+          "date": "2026-11-03",
+          "mediamarkt": 1499,
+          "ceneo": 4118.99
+        },
+        {
+          "date": "2026-11-04",
+          "mediamarkt": 1499,
+          "ceneo": 4118.99
+        },
+        {
+          "date": "2026-11-05",
+          "mediamarkt": 1499,
+          "ceneo": 4118.99
+        },
+        {
+          "date": "2026-11-06",
+          "mediamarkt": 1499,
+          "ceneo": 4118.99
+        },
+        {
+          "date": "2026-11-07",
+          "mediamarkt": 1499,
+          "ceneo": 4118.99
+        },
+        {
+          "date": "2026-11-08",
+          "mediamarkt": 1499,
+          "ceneo": 4118.99
+        },
+        {
+          "date": "2026-11-09",
+          "mediamarkt": 1499,
+          "ceneo": 4118.99
+        },
+        {
+          "date": "2026-11-10",
+          "mediamarkt": 1499,
+          "ceneo": 4118.99
+        },
+        {
+          "date": "2026-11-11",
+          "mediamarkt": 1499,
+          "ceneo": 4118.99
+        },
+        {
+          "date": "2026-11-12",
+          "mediamarkt": 1499,
+          "ceneo": 4118.99
+        },
+        {
+          "date": "2026-11-13",
+          "mediamarkt": 1499,
+          "ceneo": 4118.99
+        },
+        {
+          "date": "2026-11-14",
+          "mediamarkt": 1499,
+          "ceneo": 4118.99
+        },
+        {
+          "date": "2026-11-15",
+          "mediamarkt": 1379,
+          "ceneo": 4118.99
+        },
+        {
+          "date": "2026-11-16",
+          "mediamarkt": 1379,
+          "ceneo": 4118.99
+        },
+        {
+          "date": "2026-11-17",
+          "mediamarkt": 1379,
+          "ceneo": 4118.99
+        },
+        {
+          "date": "2026-11-18",
+          "mediamarkt": 1379,
+          "ceneo": 4118.99
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1379,
+          "ceneo": 4118.99
         }
       ]
     },
@@ -13349,16 +13789,16 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_106954329",
       "mediamarktPrice": 1449,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 1449,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": 4.75,
-      "reviewCount": 400,
+      "reviewCount": 401,
       "valueScore": 65.6,
       "links": {
         "mediamarkt": "https://mediamarkt.pl/pl/product/_plyty-kuchenne-samsung-nz64m3nm1bb-czarny-106954321.html",
@@ -13516,6 +13956,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1449,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1449,
+          "ceneo": null
         }
       ]
     },
@@ -13534,7 +13979,7 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_139233498",
       "mediamarktPrice": 389,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
@@ -13556,6 +14001,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 389,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 389,
+          "ceneo": null
         }
       ]
     },
@@ -13574,13 +14024,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_117909736",
       "mediamarktPrice": 899,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 899,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -13761,6 +14211,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 899,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 899,
+          "ceneo": null
         }
       ]
     },
@@ -13779,13 +14234,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_118250710",
       "mediamarktPrice": 824,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 824,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": 4.33,
       "reviewCount": 3,
@@ -13836,6 +14291,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 824,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 824,
+          "ceneo": null
         }
       ]
     },
@@ -13854,13 +14314,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_146304307",
       "mediamarktPrice": 803,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 803,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -13931,6 +14391,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 803,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 803,
+          "ceneo": null
         }
       ]
     },
@@ -13949,13 +14414,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_134151927",
       "mediamarktPrice": 1398,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 1398,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": 5.0,
       "reviewCount": 11,
@@ -14106,6 +14571,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1398,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1398,
+          "ceneo": null
         }
       ]
     },
@@ -14124,13 +14594,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_134152114",
       "mediamarktPrice": 2009,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 2009,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -14311,6 +14781,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 2009,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 2009,
+          "ceneo": null
         }
       ]
     },
@@ -14329,13 +14804,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_134152316",
       "mediamarktPrice": 934,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 934,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -14386,6 +14861,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 934,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 934,
+          "ceneo": null
         }
       ]
     },
@@ -14402,15 +14882,15 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_134152610",
-      "mediamarktPrice": 1452,
+      "mediamarktPrice": 1457,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
+        "trend": "up",
+        "delta": 5,
+        "percent": 0.3,
         "previousPrice": 1452,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": 5.0,
       "reviewCount": 11,
@@ -14431,6 +14911,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1452,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1457,
+          "ceneo": null
         }
       ]
     },
@@ -14449,13 +14934,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_139502557",
       "mediamarktPrice": 1399,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 1399,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": 4.09,
       "reviewCount": 11,
@@ -14636,6 +15121,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1399,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1399,
+          "ceneo": null
         }
       ]
     },
@@ -14654,13 +15144,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_138116296",
       "mediamarktPrice": 854,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 854,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -14796,6 +15286,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 854,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 854,
+          "ceneo": null
         }
       ]
     },
@@ -14814,13 +15309,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_106574293",
       "mediamarktPrice": 1607,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 1607,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": 4.33,
       "reviewCount": 12,
@@ -15001,6 +15496,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1607,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1607,
+          "ceneo": null
         }
       ]
     },
@@ -15017,15 +15517,15 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_134360878",
-      "mediamarktPrice": 1406,
+      "mediamarktPrice": 1396,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
+        "trend": "down",
+        "delta": -10,
+        "percent": -0.7,
         "previousPrice": 1406,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -15051,120 +15551,10 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1406,
           "ceneo": null
-        }
-      ]
-    },
-    {
-      "id": "gorenje-gtw641eb",
-      "name": "Płyty kuchenne GORENJE GTW641EB Czarny",
-      "model": "GTW641EB",
-      "brand": "GORENJE",
-      "type": "induction",
-      "size": {
-        "widthCm": 60,
-        "rawWidth": 60,
-        "label": "60 cm (standard)",
-        "category": "60cm"
-      },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_134360951",
-      "mediamarktPrice": 1027,
-      "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
-      "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
-        "previousPrice": 1027,
-        "previousDate": "2026-11-17"
-      },
-      "rating": null,
-      "reviewCount": 0,
-      "valueScore": 0.0,
-      "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyty-kuchenne-gorenje-gtw641eb-czarny-134360940.html",
-        "ceneo": "https://www.ceneo.pl/;szukaj-GTW641EB",
-        "euro": "https://www.euro.com.pl/search.bhtml?keyword=GTW641EB",
-        "komputronik": "https://www.komputronik.pl/search?query=GTW641EB"
-      },
-      "priceHistory": [
-        {
-          "date": "2026-11-03",
-          "mediamarkt": 1027,
-          "ceneo": null
         },
         {
-          "date": "2026-11-04",
-          "mediamarkt": 1027,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-05",
-          "mediamarkt": 1027,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-06",
-          "mediamarkt": 1027,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-07",
-          "mediamarkt": 1027,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-08",
-          "mediamarkt": 1027,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-09",
-          "mediamarkt": 1027,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-10",
-          "mediamarkt": 1027,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-11",
-          "mediamarkt": 1027,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-12",
-          "mediamarkt": 1027,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-13",
-          "mediamarkt": 1027,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-14",
-          "mediamarkt": 1027,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-15",
-          "mediamarkt": 1027,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-16",
-          "mediamarkt": 1027,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-17",
-          "mediamarkt": 1027,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-18",
-          "mediamarkt": 1027,
+          "date": "2026-11-19",
+          "mediamarkt": 1396,
           "ceneo": null
         }
       ]
@@ -15184,13 +15574,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_136586869",
       "mediamarktPrice": 874,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "down",
-        "delta": -33,
-        "percent": -3.6,
-        "previousPrice": 907,
-        "previousDate": "2026-11-17"
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 874,
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -15326,6 +15716,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 874,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 874,
+          "ceneo": null
         }
       ]
     },
@@ -15344,13 +15739,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_136586871",
       "mediamarktPrice": 1899,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 1899,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": 4.67,
       "reviewCount": 3,
@@ -15401,6 +15796,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1899,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1899,
+          "ceneo": null
         }
       ]
     },
@@ -15419,13 +15819,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_171506812",
       "mediamarktPrice": 1035,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 1035,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": 4.91,
       "reviewCount": 11,
@@ -15606,6 +16006,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1035,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1035,
+          "ceneo": null
         }
       ]
     },
@@ -15624,13 +16029,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_165163819",
       "mediamarktPrice": 1299,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 1299,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": 5.0,
       "reviewCount": 1,
@@ -15721,6 +16126,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1299,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1299,
+          "ceneo": null
         }
       ]
     },
@@ -15739,13 +16149,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_141469176",
       "mediamarktPrice": 1607,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 1607,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": 5.0,
       "reviewCount": 12,
@@ -15926,6 +16336,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1607,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1607,
+          "ceneo": null
         }
       ]
     },
@@ -15944,13 +16359,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_141852840",
       "mediamarktPrice": 5999,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 5999,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": 5.0,
       "reviewCount": 2,
@@ -16131,12 +16546,17 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 5999,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 5999,
+          "ceneo": null
         }
       ]
     },
     {
       "id": "whirlpool-wlb8160ne",
-      "name": "Płyta indukcyjna WHIRLPOOL WLB8160NE FlexiCook 59cm",
+      "name": "PRODUKT PO EKSPOZYCJI - Płyta indukcyjna WHIRLPOOL WLB8160NE FlexiCook 59cm",
       "model": "WLB8160NE",
       "brand": "WHIRLPOOL",
       "type": "induction",
@@ -16149,13 +16569,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_159615935",
       "mediamarktPrice": 1399,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 1399,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": 4.79,
       "reviewCount": 81,
@@ -16336,6 +16756,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1399,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1399,
+          "ceneo": null
         }
       ]
     },
@@ -16354,17 +16779,17 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_144140552",
       "mediamarktPrice": 2399,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 2399,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
-      "rating": 4.73,
-      "reviewCount": 15,
-      "valueScore": 7.6,
+      "rating": 4.75,
+      "reviewCount": 16,
+      "valueScore": 7.9,
       "links": {
         "mediamarkt": "https://mediamarkt.pl/pl/product/_plyty-kuchenne-bosch-serie-6-pvs63khc1e-czarny-144140548.html",
         "ceneo": "https://www.ceneo.pl/;szukaj-PVS63KHC1E",
@@ -16541,50 +16966,10 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 2399,
           "ceneo": null
-        }
-      ]
-    },
-    {
-      "id": "siemens-iq100",
-      "name": "Płyta indukcyjna SIEMENS iQ100 ED651HSC1E Czarny",
-      "model": "IQ100",
-      "brand": "SIEMENS",
-      "type": "induction",
-      "size": {
-        "widthCm": 60,
-        "rawWidth": 60,
-        "label": "60 cm (standard)",
-        "category": "60cm"
-      },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_144357551",
-      "mediamarktPrice": 2210,
-      "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
-      "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
-        "previousPrice": 2210,
-        "previousDate": "2026-11-17"
-      },
-      "rating": null,
-      "reviewCount": 0,
-      "valueScore": 0.0,
-      "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyty-kuchenne-siemens-iq100-ed651hsc1e-czarny-144357550.html",
-        "ceneo": "https://www.ceneo.pl/;szukaj-IQ100",
-        "euro": "https://www.euro.com.pl/search.bhtml?keyword=IQ100",
-        "komputronik": "https://www.komputronik.pl/search?query=IQ100"
-      },
-      "priceHistory": [
-        {
-          "date": "2026-11-17",
-          "mediamarkt": 2210,
-          "ceneo": null
         },
         {
-          "date": "2026-11-18",
-          "mediamarkt": 2210,
+          "date": "2026-11-19",
+          "mediamarkt": 2399,
           "ceneo": null
         }
       ]
@@ -16604,13 +16989,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_173865625",
       "mediamarktPrice": 5798,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 5798,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": 5.0,
       "reviewCount": 2,
@@ -16791,6 +17176,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 5798,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 5798,
+          "ceneo": null
         }
       ]
     },
@@ -16809,13 +17199,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_144523958",
       "mediamarktPrice": 1149,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 1149,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -16996,6 +17386,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1149,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1149,
+          "ceneo": null
         }
       ]
     },
@@ -17014,13 +17409,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_144588567",
       "mediamarktPrice": 1155,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 1155,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": 2.0,
       "reviewCount": 1,
@@ -17201,45 +17596,10 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1155,
           "ceneo": null
-        }
-      ]
-    },
-    {
-      "id": "inna-107",
-      "name": "Płyta indukcyjna ARIETE 1998/20 Czarny",
-      "model": "",
-      "brand": "INNA",
-      "type": "induction",
-      "size": {
-        "widthCm": 60,
-        "rawWidth": 60,
-        "label": "60 cm (standard)",
-        "category": "60cm"
-      },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_145000965",
-      "mediamarktPrice": 493.99,
-      "ceneoPrice": null,
-      "ceneoCheckedAt": null,
-      "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
-        "previousPrice": 493.99,
-        "previousDate": "2026-11-18"
-      },
-      "rating": 3.5,
-      "reviewCount": 2,
-      "valueScore": 10.0,
-      "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyty-kuchenne-ariete-199800-czarny-145000964.html",
-        "ceneo": "",
-        "euro": "",
-        "komputronik": ""
-      },
-      "priceHistory": [
+        },
         {
-          "date": "2026-11-18",
-          "mediamarkt": 493.99,
+          "date": "2026-11-19",
+          "mediamarkt": 1155,
           "ceneo": null
         }
       ]
@@ -17259,13 +17619,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_147215073",
       "mediamarktPrice": 1085,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 1085,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -17336,6 +17696,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1085,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1085,
+          "ceneo": null
         }
       ]
     },
@@ -17354,13 +17719,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_133331378",
       "mediamarktPrice": 1999,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 1999,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": 3.0,
       "reviewCount": 2,
@@ -17541,6 +17906,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1999,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1999,
+          "ceneo": null
         }
       ]
     },
@@ -17559,13 +17929,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_133331445",
       "mediamarktPrice": 2199,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 2199,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -17746,6 +18116,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 2199,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 2199,
+          "ceneo": null
         }
       ]
     },
@@ -17764,13 +18139,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_106623557",
       "mediamarktPrice": 1399,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 1399,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": 4.88,
       "reviewCount": 8,
@@ -17906,6 +18281,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1399,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1399,
+          "ceneo": null
         }
       ]
     },
@@ -17924,13 +18304,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_153515542",
       "mediamarktPrice": 1899,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 1899,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": 5.0,
       "reviewCount": 6,
@@ -18111,6 +18491,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1899,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1899,
+          "ceneo": null
         }
       ]
     },
@@ -18129,13 +18514,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_106655853",
       "mediamarktPrice": 1399,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 1399,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -18316,14 +18701,19 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1399,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1399,
+          "ceneo": null
         }
       ]
     },
     {
-      "id": "gorenje-gi6401bsce",
-      "name": "Płyta indukcyjna GORENJE GI6401BSCE Czarny",
-      "model": "GI6401BSCE",
-      "brand": "GORENJE",
+      "id": "amica-pim6540phtun",
+      "name": "Płyta indukcyjna AMICA PIM6540PHTUN 3.0",
+      "model": "PIM6540PHTUN",
+      "brand": "AMICA",
       "type": "induction",
       "size": {
         "widthCm": 60,
@@ -18331,80 +18721,200 @@ window.PRODUCTS_DATA = {
         "label": "60 cm (standard)",
         "category": "60cm"
       },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_139806333",
-      "mediamarktPrice": 699,
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_143948140",
+      "mediamarktPrice": 1299,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "down",
-        "delta": -300,
-        "percent": -30.0,
-        "previousPrice": 999,
-        "previousDate": "2026-11-17"
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 1299,
+        "previousDate": "2026-11-18"
       },
-      "rating": 4.33,
-      "reviewCount": 6,
-      "valueScore": 15.2,
+      "rating": 4.5,
+      "reviewCount": 2,
+      "valueScore": 4.9,
       "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-gorenje-gi6401bsce-1481336.html",
-        "ceneo": "https://www.ceneo.pl/;szukaj-GI6401BSCE",
-        "euro": "https://www.euro.com.pl/search.bhtml?keyword=GI6401BSCE",
-        "komputronik": "https://www.komputronik.pl/search?query=GI6401BSCE"
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-amica-pim6540phtun-30-studio-1483825.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-PIM6540PHTUN",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=PIM6540PHTUN",
+        "komputronik": "https://www.komputronik.pl/search?query=PIM6540PHTUN"
       },
       "priceHistory": [
         {
+          "date": "2026-10-16",
+          "mediamarkt": 1299,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-17",
+          "mediamarkt": 1299,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-18",
+          "mediamarkt": 1299,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-19",
+          "mediamarkt": 1299,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-20",
+          "mediamarkt": 1299,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-21",
+          "mediamarkt": 1299,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-22",
+          "mediamarkt": 1299,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-23",
+          "mediamarkt": 1299,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-24",
+          "mediamarkt": 1299,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-25",
+          "mediamarkt": 1299,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-26",
+          "mediamarkt": 1299,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-27",
+          "mediamarkt": 1299,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-28",
+          "mediamarkt": 1299,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-29",
+          "mediamarkt": 1299,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-30",
+          "mediamarkt": 1299,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-31",
+          "mediamarkt": 1299,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-01",
+          "mediamarkt": 1299,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-02",
+          "mediamarkt": 1299,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-03",
+          "mediamarkt": 1299,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-04",
+          "mediamarkt": 1299,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-05",
+          "mediamarkt": 1299,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-06",
+          "mediamarkt": 1299,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-07",
+          "mediamarkt": 1299,
+          "ceneo": null
+        },
+        {
           "date": "2026-11-08",
-          "mediamarkt": 999,
+          "mediamarkt": 1299,
           "ceneo": null
         },
         {
           "date": "2026-11-09",
-          "mediamarkt": 999,
+          "mediamarkt": 1299,
           "ceneo": null
         },
         {
           "date": "2026-11-10",
-          "mediamarkt": 999,
+          "mediamarkt": 1299,
           "ceneo": null
         },
         {
           "date": "2026-11-11",
-          "mediamarkt": 999,
+          "mediamarkt": 1299,
           "ceneo": null
         },
         {
           "date": "2026-11-12",
-          "mediamarkt": 999,
+          "mediamarkt": 1299,
           "ceneo": null
         },
         {
           "date": "2026-11-13",
-          "mediamarkt": 999,
+          "mediamarkt": 1299,
           "ceneo": null
         },
         {
           "date": "2026-11-14",
-          "mediamarkt": 999,
+          "mediamarkt": 1299,
           "ceneo": null
         },
         {
           "date": "2026-11-15",
-          "mediamarkt": 999,
+          "mediamarkt": 1299,
           "ceneo": null
         },
         {
           "date": "2026-11-16",
-          "mediamarkt": 999,
+          "mediamarkt": 1299,
           "ceneo": null
         },
         {
           "date": "2026-11-17",
-          "mediamarkt": 999,
+          "mediamarkt": 1299,
           "ceneo": null
         },
         {
           "date": "2026-11-18",
-          "mediamarkt": 699,
+          "mediamarkt": 1299,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1299,
           "ceneo": null
         }
       ]
@@ -18424,17 +18934,17 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_144074051",
       "mediamarktPrice": 2999,
       "ceneoPrice": 2700,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 2999,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": 4.9,
-      "reviewCount": 59,
-      "valueScore": 12.6,
+      "reviewCount": 62,
+      "valueScore": 12.9,
       "links": {
         "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-samsung-nz64b5067yhu2-bespoke-slimfit-dual-flex-zone-bialy-1484262.html",
         "ceneo": "https://www.ceneo.pl/;szukaj-NZ64B5067YH",
@@ -18611,6 +19121,281 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 2999,
           "ceneo": 2700
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 2999,
+          "ceneo": 2700
+        }
+      ]
+    },
+    {
+      "id": "gorenje-gi6421syw",
+      "name": "Płyta indukcyjna GORENJE GI6421SYW Bialy",
+      "model": "GI6421SYW",
+      "brand": "GORENJE",
+      "type": "induction",
+      "size": {
+        "widthCm": 60,
+        "rawWidth": 60,
+        "label": "60 cm (standard)",
+        "category": "60cm"
+      },
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_158877041",
+      "mediamarktPrice": 1749,
+      "ceneoPrice": null,
+      "ceneoCheckedAt": "2026-11-19",
+      "priceChange": {
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 1749,
+        "previousDate": "2026-11-18"
+      },
+      "rating": null,
+      "reviewCount": 0,
+      "valueScore": 0.0,
+      "links": {
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-gorenje-gi6421syw-bialy-1495608.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-GI6421SYW",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=GI6421SYW",
+        "komputronik": "https://www.komputronik.pl/search?query=GI6421SYW"
+      },
+      "priceHistory": [
+        {
+          "date": "2026-11-15",
+          "mediamarkt": 1859,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-16",
+          "mediamarkt": 1749,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-17",
+          "mediamarkt": 1749,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-18",
+          "mediamarkt": 1749,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1749,
+          "ceneo": null
+        }
+      ]
+    },
+    {
+      "id": "gorenje-gi8432bscwf",
+      "name": "Płyta indukcyjna do zabudowy GORENJE GI8432BSCWF Czarny",
+      "model": "GI8432BSCWF",
+      "brand": "GORENJE",
+      "type": "induction",
+      "size": {
+        "widthCm": 60,
+        "rawWidth": 60,
+        "label": "60 cm (standard)",
+        "category": "60cm"
+      },
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_158881698",
+      "mediamarktPrice": 1499,
+      "ceneoPrice": null,
+      "ceneoCheckedAt": "2026-11-19",
+      "priceChange": {
+        "trend": "down",
+        "delta": -691,
+        "percent": -31.6,
+        "previousPrice": 2190,
+        "previousDate": "2026-11-18"
+      },
+      "rating": 4.0,
+      "reviewCount": 1,
+      "valueScore": 2.7,
+      "links": {
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-do-zabudowy-gorenje-gi8432bscwf-czarny-1495610.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-GI8432BSCWF",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=GI8432BSCWF",
+        "komputronik": "https://www.komputronik.pl/search?query=GI8432BSCWF"
+      },
+      "priceHistory": [
+        {
+          "date": "2026-10-16",
+          "mediamarkt": 2349,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-17",
+          "mediamarkt": 2349,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-18",
+          "mediamarkt": 2349,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-19",
+          "mediamarkt": 2349,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-20",
+          "mediamarkt": 2349,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-21",
+          "mediamarkt": 2349,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-22",
+          "mediamarkt": 1749,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-23",
+          "mediamarkt": 1749,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-24",
+          "mediamarkt": 1749,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-25",
+          "mediamarkt": 1749,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-26",
+          "mediamarkt": 1499,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-27",
+          "mediamarkt": 2167,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-28",
+          "mediamarkt": 2167,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-29",
+          "mediamarkt": 2167,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-30",
+          "mediamarkt": 2167,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-31",
+          "mediamarkt": 2167,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-01",
+          "mediamarkt": 2167,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-02",
+          "mediamarkt": 2167,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-03",
+          "mediamarkt": 2167,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-04",
+          "mediamarkt": 2167,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-05",
+          "mediamarkt": 2167,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-06",
+          "mediamarkt": 2190,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-07",
+          "mediamarkt": 2190,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-08",
+          "mediamarkt": 2190,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-09",
+          "mediamarkt": 2190,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-10",
+          "mediamarkt": 2167,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-11",
+          "mediamarkt": 2167,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-12",
+          "mediamarkt": 2167,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-13",
+          "mediamarkt": 2167,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-14",
+          "mediamarkt": 2167,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-15",
+          "mediamarkt": 2167,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-16",
+          "mediamarkt": 2167,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-17",
+          "mediamarkt": 2190,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-18",
+          "mediamarkt": 2190,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1499,
+          "ceneo": null
         }
       ]
     },
@@ -18629,13 +19414,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_161901722",
       "mediamarktPrice": 1909,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "down",
-        "delta": -363.29,
-        "percent": -16.0,
-        "previousPrice": 2272.29,
-        "previousDate": "2026-11-17"
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 1909,
+        "previousDate": "2026-11-18"
       },
       "rating": 4.97,
       "reviewCount": 34,
@@ -18816,6 +19601,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1909,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1909,
+          "ceneo": null
         }
       ]
     },
@@ -18834,13 +19624,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_177580922",
       "mediamarktPrice": 1299,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 1299,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -18956,6 +19746,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1299,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1299,
+          "ceneo": null
         }
       ]
     },
@@ -18974,13 +19769,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_177730964",
       "mediamarktPrice": 1699,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 1699,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -19096,6 +19891,56 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1699,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1699,
+          "ceneo": null
+        }
+      ]
+    },
+    {
+      "id": "teka-ibc64110",
+      "name": "Płyta indukcyjna TEKA IBC 64110 SSM BK 60cm Czarny",
+      "model": "IBC 64110",
+      "brand": "TEKA",
+      "type": "induction",
+      "size": {
+        "widthCm": 60,
+        "rawWidth": 60,
+        "label": "60 cm (standard)",
+        "category": "60cm"
+      },
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_182094467",
+      "mediamarktPrice": 949,
+      "ceneoPrice": null,
+      "ceneoCheckedAt": "2026-11-19",
+      "priceChange": {
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 949,
+        "previousDate": "2026-11-18"
+      },
+      "rating": null,
+      "reviewCount": 0,
+      "valueScore": 0.0,
+      "links": {
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-teka-ibc-64110-ssm-bk-60cm-czarny-1506804.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-IBC 64110",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=IBC 64110",
+        "komputronik": "https://www.komputronik.pl/search?query=IBC 64110"
+      },
+      "priceHistory": [
+        {
+          "date": "2026-11-18",
+          "mediamarkt": 949,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 949,
+          "ceneo": null
         }
       ]
     },
@@ -19114,13 +19959,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_150962795",
       "mediamarktPrice": 1999,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 1999,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": 5.0,
       "reviewCount": 4,
@@ -19301,6 +20146,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1999,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1999,
+          "ceneo": null
         }
       ]
     },
@@ -19319,13 +20169,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_153914398",
       "mediamarktPrice": 2299,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 2299,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": 5.0,
       "reviewCount": 24,
@@ -19506,6 +20356,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 2299,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 2299,
+          "ceneo": null
         }
       ]
     },
@@ -19524,13 +20379,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_156658165",
       "mediamarktPrice": 1344,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 1344,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -19711,6 +20566,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1344,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1344,
+          "ceneo": null
         }
       ]
     },
@@ -19729,13 +20589,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_156705123",
       "mediamarktPrice": 1749,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 1749,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -19826,6 +20686,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1749,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1749,
+          "ceneo": null
         }
       ]
     },
@@ -19844,13 +20709,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_156745967",
       "mediamarktPrice": 1699,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 1699,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -19941,346 +20806,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1699,
           "ceneo": null
-        }
-      ]
-    },
-    {
-      "id": "gorenje-gi6421bc",
-      "name": "Płyty kuchenne GORENJE GI6421BC Czarny",
-      "model": "GI6421BC",
-      "brand": "GORENJE",
-      "type": "induction",
-      "size": {
-        "widthCm": 60,
-        "rawWidth": 60,
-        "label": "60 cm (standard)",
-        "category": "60cm"
-      },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_156746144",
-      "mediamarktPrice": 1499,
-      "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
-      "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
-        "previousPrice": 1499,
-        "previousDate": "2026-11-17"
-      },
-      "rating": null,
-      "reviewCount": 0,
-      "valueScore": 0.0,
-      "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyty-kuchenne-gorenje-gi6421bc-czarny-156746138.html",
-        "ceneo": "https://www.ceneo.pl/;szukaj-GI6421BC",
-        "euro": "https://www.euro.com.pl/search.bhtml?keyword=GI6421BC",
-        "komputronik": "https://www.komputronik.pl/search?query=GI6421BC"
-      },
-      "priceHistory": [
-        {
-          "date": "2026-10-30",
-          "mediamarkt": 1499,
-          "ceneo": null
         },
         {
-          "date": "2026-10-31",
-          "mediamarkt": 1499,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-01",
-          "mediamarkt": 1499,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-02",
-          "mediamarkt": 1499,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-03",
-          "mediamarkt": 1499,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-04",
-          "mediamarkt": 1499,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-05",
-          "mediamarkt": 1499,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-06",
-          "mediamarkt": 1499,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-07",
-          "mediamarkt": 1499,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-08",
-          "mediamarkt": 1499,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-09",
-          "mediamarkt": 1499,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-10",
-          "mediamarkt": 1499,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-11",
-          "mediamarkt": 1499,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-12",
-          "mediamarkt": 1499,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-13",
-          "mediamarkt": 1499,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-14",
-          "mediamarkt": 1499,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-15",
-          "mediamarkt": 1499,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-16",
-          "mediamarkt": 1499,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-17",
-          "mediamarkt": 1499,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-18",
-          "mediamarkt": 1499,
-          "ceneo": null
-        }
-      ]
-    },
-    {
-      "id": "gorenje-gi6401wsc",
-      "name": "Płyty kuchenne GORENJE GI6401WSC Biały",
-      "model": "GI6401WSC",
-      "brand": "GORENJE",
-      "type": "induction",
-      "size": {
-        "widthCm": 60,
-        "rawWidth": 60,
-        "label": "60 cm (standard)",
-        "category": "60cm"
-      },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_156746715",
-      "mediamarktPrice": 1607,
-      "ceneoPrice": 1422.9,
-      "ceneoCheckedAt": "2026-11-18",
-      "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
-        "previousPrice": 1607,
-        "previousDate": "2026-11-17"
-      },
-      "rating": null,
-      "reviewCount": 0,
-      "valueScore": 0.0,
-      "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyty-kuchenne-gorenje-gi6401wsc-bialy-156746713.html",
-        "ceneo": "https://www.ceneo.pl/;szukaj-GI6401WSC",
-        "euro": "https://www.euro.com.pl/search.bhtml?keyword=GI6401WSC",
-        "komputronik": "https://www.komputronik.pl/search?query=GI6401WSC"
-      },
-      "priceHistory": [
-        {
-          "date": "2026-10-16",
-          "mediamarkt": 1549,
-          "ceneo": 1422.9
-        },
-        {
-          "date": "2026-10-17",
-          "mediamarkt": 1549,
-          "ceneo": 1422.9
-        },
-        {
-          "date": "2026-10-18",
+          "date": "2026-11-19",
           "mediamarkt": 1699,
-          "ceneo": 1422.9
-        },
-        {
-          "date": "2026-10-19",
-          "mediamarkt": 1699,
-          "ceneo": 1422.9
-        },
-        {
-          "date": "2026-10-20",
-          "mediamarkt": 1699,
-          "ceneo": 1422.9
-        },
-        {
-          "date": "2026-10-21",
-          "mediamarkt": 1699,
-          "ceneo": 1422.9
-        },
-        {
-          "date": "2026-10-22",
-          "mediamarkt": 1699,
-          "ceneo": 1422.9
-        },
-        {
-          "date": "2026-10-23",
-          "mediamarkt": 1699,
-          "ceneo": 1422.9
-        },
-        {
-          "date": "2026-10-24",
-          "mediamarkt": 1699,
-          "ceneo": 1422.9
-        },
-        {
-          "date": "2026-10-25",
-          "mediamarkt": 1699,
-          "ceneo": 1422.9
-        },
-        {
-          "date": "2026-10-26",
-          "mediamarkt": 1699,
-          "ceneo": 1422.9
-        },
-        {
-          "date": "2026-10-27",
-          "mediamarkt": 1699,
-          "ceneo": 1422.9
-        },
-        {
-          "date": "2026-10-28",
-          "mediamarkt": 1699,
-          "ceneo": 1422.9
-        },
-        {
-          "date": "2026-10-29",
-          "mediamarkt": 1699,
-          "ceneo": 1422.9
-        },
-        {
-          "date": "2026-10-30",
-          "mediamarkt": 1699,
-          "ceneo": 1422.9
-        },
-        {
-          "date": "2026-10-31",
-          "mediamarkt": 1699,
-          "ceneo": 1422.9
-        },
-        {
-          "date": "2026-11-01",
-          "mediamarkt": 1539,
-          "ceneo": 1422.9
-        },
-        {
-          "date": "2026-11-02",
-          "mediamarkt": 1539,
-          "ceneo": 1422.9
-        },
-        {
-          "date": "2026-11-03",
-          "mediamarkt": 1539,
-          "ceneo": 1422.9
-        },
-        {
-          "date": "2026-11-04",
-          "mediamarkt": 1539,
-          "ceneo": 1422.9
-        },
-        {
-          "date": "2026-11-05",
-          "mediamarkt": 1539,
-          "ceneo": 1422.9
-        },
-        {
-          "date": "2026-11-06",
-          "mediamarkt": 1539,
-          "ceneo": 1422.9
-        },
-        {
-          "date": "2026-11-07",
-          "mediamarkt": 1539,
-          "ceneo": 1422.9
-        },
-        {
-          "date": "2026-11-08",
-          "mediamarkt": 1539,
-          "ceneo": 1422.9
-        },
-        {
-          "date": "2026-11-09",
-          "mediamarkt": 1539,
-          "ceneo": 1422.9
-        },
-        {
-          "date": "2026-11-10",
-          "mediamarkt": 1539,
-          "ceneo": 1422.9
-        },
-        {
-          "date": "2026-11-11",
-          "mediamarkt": 1699,
-          "ceneo": 1422.9
-        },
-        {
-          "date": "2026-11-12",
-          "mediamarkt": 1699,
-          "ceneo": 1422.9
-        },
-        {
-          "date": "2026-11-13",
-          "mediamarkt": 1699,
-          "ceneo": 1422.9
-        },
-        {
-          "date": "2026-11-14",
-          "mediamarkt": 1699,
-          "ceneo": 1422.9
-        },
-        {
-          "date": "2026-11-15",
-          "mediamarkt": 1659,
-          "ceneo": 1422.9
-        },
-        {
-          "date": "2026-11-16",
-          "mediamarkt": 1659,
-          "ceneo": 1422.9
-        },
-        {
-          "date": "2026-11-17",
-          "mediamarkt": 1607,
-          "ceneo": 1422.9
-        },
-        {
-          "date": "2026-11-18",
-          "mediamarkt": 1607,
-          "ceneo": 1422.9
+          "ceneo": null
         }
       ]
     },
@@ -20299,13 +20829,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_158963939",
       "mediamarktPrice": 1599,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 1599,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": 4.8,
       "reviewCount": 76,
@@ -20396,6 +20926,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1599,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1599,
+          "ceneo": null
         }
       ]
     },
@@ -20414,13 +20949,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_158964270",
       "mediamarktPrice": 1249,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 1249,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -20511,6 +21046,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1249,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1249,
+          "ceneo": null
         }
       ]
     },
@@ -20529,13 +21069,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_158964339",
       "mediamarktPrice": 1399,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 1399,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -20626,6 +21166,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1399,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1399,
+          "ceneo": null
         }
       ]
     },
@@ -20644,13 +21189,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_158969970",
       "mediamarktPrice": 3449,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 3449,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -20741,6 +21286,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 3449,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 3449,
+          "ceneo": null
         }
       ]
     },
@@ -20759,13 +21309,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_168619379",
       "mediamarktPrice": 773,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 773,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -20836,6 +21386,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 773,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 773,
+          "ceneo": null
         }
       ]
     },
@@ -20854,13 +21409,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_162643087",
       "mediamarktPrice": 849,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 849,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -21041,6 +21596,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 849,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 849,
+          "ceneo": null
         }
       ]
     },
@@ -21059,13 +21619,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_187981574",
       "mediamarktPrice": 1299,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 1299,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": 5.0,
       "reviewCount": 1,
@@ -21096,210 +21656,10 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1299,
           "ceneo": null
-        }
-      ]
-    },
-    {
-      "id": "gorenje-gi8432bscwf",
-      "name": "Płyta indukcyjna GORENJE GI8432BSCWF Czarny",
-      "model": "GI8432BSCWF",
-      "brand": "GORENJE",
-      "type": "induction",
-      "size": {
-        "widthCm": 60,
-        "rawWidth": 60,
-        "label": "60 cm (standard)",
-        "category": "60cm"
-      },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_187980957",
-      "mediamarktPrice": 2190,
-      "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
-      "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
-        "previousPrice": 2190,
-        "previousDate": "2026-11-17"
-      },
-      "rating": 4.0,
-      "reviewCount": 1,
-      "valueScore": 1.8,
-      "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyty-kuchenne-gorenje-gi8432bscwf-czarny-162643239.html",
-        "ceneo": "https://www.ceneo.pl/;szukaj-GI8432BSCWF",
-        "euro": "https://www.euro.com.pl/search.bhtml?keyword=GI8432BSCWF",
-        "komputronik": "https://www.komputronik.pl/search?query=GI8432BSCWF"
-      },
-      "priceHistory": [
-        {
-          "date": "2026-10-16",
-          "mediamarkt": 2349,
-          "ceneo": null
         },
         {
-          "date": "2026-10-17",
-          "mediamarkt": 2349,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-18",
-          "mediamarkt": 2349,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-19",
-          "mediamarkt": 2349,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-20",
-          "mediamarkt": 2349,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-21",
-          "mediamarkt": 2349,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-22",
-          "mediamarkt": 1749,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-23",
-          "mediamarkt": 1749,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-24",
-          "mediamarkt": 1749,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-25",
-          "mediamarkt": 1749,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-26",
-          "mediamarkt": 1499,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-27",
-          "mediamarkt": 2167,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-28",
-          "mediamarkt": 2167,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-29",
-          "mediamarkt": 2167,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-30",
-          "mediamarkt": 2167,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-31",
-          "mediamarkt": 2167,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-01",
-          "mediamarkt": 2167,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-02",
-          "mediamarkt": 2167,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-03",
-          "mediamarkt": 2167,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-04",
-          "mediamarkt": 2167,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-05",
-          "mediamarkt": 2167,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-06",
-          "mediamarkt": 2190,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-07",
-          "mediamarkt": 2190,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-08",
-          "mediamarkt": 2190,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-09",
-          "mediamarkt": 2190,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-10",
-          "mediamarkt": 2167,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-11",
-          "mediamarkt": 2167,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-12",
-          "mediamarkt": 2167,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-13",
-          "mediamarkt": 2167,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-14",
-          "mediamarkt": 2167,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-15",
-          "mediamarkt": 2167,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-16",
-          "mediamarkt": 2167,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-17",
-          "mediamarkt": 2190,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-18",
-          "mediamarkt": 2190,
+          "date": "2026-11-19",
+          "mediamarkt": 1299,
           "ceneo": null
         }
       ]
@@ -21319,13 +21679,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_162643217",
       "mediamarktPrice": 1299,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 1299,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -21506,6 +21866,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1299,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1299,
+          "ceneo": null
         }
       ]
     },
@@ -21524,13 +21889,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_166585741",
       "mediamarktPrice": 899,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 899,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -21711,6 +22076,51 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 899,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 899,
+          "ceneo": null
+        }
+      ]
+    },
+    {
+      "id": "inna-pia6802",
+      "name": "Płyta indukcyjna AKPO PIA 6802 Biały",
+      "model": "PIA 6802",
+      "brand": "INNA",
+      "type": "induction",
+      "size": {
+        "widthCm": 60,
+        "rawWidth": 60,
+        "label": "60 cm (standard)",
+        "category": "60cm"
+      },
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_187990776",
+      "mediamarktPrice": 1306,
+      "ceneoPrice": null,
+      "ceneoCheckedAt": "2026-11-19",
+      "priceChange": {
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 1306,
+        "previousDate": "2026-11-19"
+      },
+      "rating": null,
+      "reviewCount": 0,
+      "valueScore": 0.0,
+      "links": {
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-akpo-pia-6802-bialy-167782185.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-PIA 6802",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=PIA 6802",
+        "komputronik": "https://www.komputronik.pl/search?query=PIA 6802"
+      },
+      "priceHistory": [
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1306,
+          "ceneo": null
         }
       ]
     },
@@ -21729,13 +22139,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_168704487",
       "mediamarktPrice": 1687,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "down",
-        "delta": -181,
-        "percent": -9.7,
-        "previousPrice": 1868,
-        "previousDate": "2026-11-17"
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 1687,
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -21916,6 +22326,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1687,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1687,
+          "ceneo": null
         }
       ]
     },
@@ -21934,13 +22349,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_168725276",
       "mediamarktPrice": 1199,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 1199,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -22081,6 +22496,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1199,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1199,
+          "ceneo": null
         }
       ]
     },
@@ -22099,13 +22519,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_168725291",
       "mediamarktPrice": 1649,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 1649,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -22286,6 +22706,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1649,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1649,
+          "ceneo": null
         }
       ]
     },
@@ -22304,13 +22729,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_168725309",
       "mediamarktPrice": 1849,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 1849,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -22351,6 +22776,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1849,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1849,
+          "ceneo": null
         }
       ]
     },
@@ -22369,13 +22799,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_168725959",
       "mediamarktPrice": 859,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "down",
-        "delta": -35,
-        "percent": -3.9,
-        "previousPrice": 894,
-        "previousDate": "2026-11-17"
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 859,
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -22516,6 +22946,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 859,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 859,
+          "ceneo": null
         }
       ]
     },
@@ -22534,13 +22969,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_168725973",
       "mediamarktPrice": 1436,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 1436,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -22721,6 +23156,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1436,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1436,
+          "ceneo": null
         }
       ]
     },
@@ -22739,13 +23179,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_168726054",
       "mediamarktPrice": 1239,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 1239,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -22926,6 +23366,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1239,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1239,
+          "ceneo": null
         }
       ]
     },
@@ -22944,13 +23389,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_170586204",
       "mediamarktPrice": 674,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 674,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -23131,6 +23576,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 674,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 674,
+          "ceneo": null
         }
       ]
     },
@@ -23149,13 +23599,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_174771065",
       "mediamarktPrice": 2099,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 2099,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -23336,6 +23786,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 2099,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 2099,
+          "ceneo": null
         }
       ]
     },
@@ -23354,13 +23809,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_175236267",
       "mediamarktPrice": 1349,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 1349,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -23541,6 +23996,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1349,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1349,
+          "ceneo": null
         }
       ]
     },
@@ -23559,13 +24019,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_175246161",
       "mediamarktPrice": 1299,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 1299,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -23746,6 +24206,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1299,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1299,
+          "ceneo": null
         }
       ]
     },
@@ -23764,13 +24229,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_175246041",
       "mediamarktPrice": 799,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 799,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -23951,6 +24416,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 799,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 799,
+          "ceneo": null
         }
       ]
     },
@@ -23969,13 +24439,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_178274997",
       "mediamarktPrice": 779,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 779,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -24156,6 +24626,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 779,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 779,
+          "ceneo": null
         }
       ]
     },
@@ -24174,13 +24649,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_178274978",
       "mediamarktPrice": 849,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 849,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -24361,6 +24836,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 849,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 849,
+          "ceneo": null
         }
       ]
     },
@@ -24379,13 +24859,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_178455279",
       "mediamarktPrice": 2381,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 2381,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -24406,6 +24886,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 2381,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 2381,
+          "ceneo": null
         }
       ]
     },
@@ -24424,13 +24909,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_178455286",
       "mediamarktPrice": 2512,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 2512,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -24611,6 +25096,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 2512,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 2512,
+          "ceneo": null
         }
       ]
     },
@@ -24629,13 +25119,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_178455245",
       "mediamarktPrice": 2199,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 2199,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -24816,6 +25306,51 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 2199,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 2199,
+          "ceneo": null
+        }
+      ]
+    },
+    {
+      "id": "inna-151",
+      "name": "Płyta indukcyjna HUSLOG 3500 W DualHeat, 2 pola grzewcze, panel dotykowy czarny",
+      "model": "",
+      "brand": "INNA",
+      "type": "induction",
+      "size": {
+        "widthCm": 60,
+        "rawWidth": 60,
+        "label": "60 cm (standard)",
+        "category": "60cm"
+      },
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_180944251",
+      "mediamarktPrice": 309.99,
+      "ceneoPrice": null,
+      "ceneoCheckedAt": null,
+      "priceChange": {
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 309.99,
+        "previousDate": "2026-11-19"
+      },
+      "rating": null,
+      "reviewCount": 0,
+      "valueScore": 0.0,
+      "links": {
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-huslog-3500-w-dualheat-2-pola-grzewcze-panel-dotykowy-czarny-180943986.html",
+        "ceneo": "",
+        "euro": "",
+        "komputronik": ""
+      },
+      "priceHistory": [
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 309.99,
+          "ceneo": null
         }
       ]
     },
@@ -24834,13 +25369,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_182348763",
       "mediamarktPrice": 1799,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 1799,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -25021,6 +25556,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1799,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1799,
+          "ceneo": null
         }
       ]
     },
@@ -25039,13 +25579,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_182348847",
       "mediamarktPrice": 1649,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 1649,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -25226,6 +25766,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1649,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1649,
+          "ceneo": null
         }
       ]
     },
@@ -25244,13 +25789,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_182349571",
       "mediamarktPrice": 449,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 449,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -25326,6 +25871,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 449,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 449,
+          "ceneo": null
         }
       ]
     },
@@ -25344,13 +25894,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_182347976",
       "mediamarktPrice": 2299,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 2299,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -25486,6 +26036,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 2299,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 2299,
+          "ceneo": null
         }
       ]
     },
@@ -25504,13 +26059,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_182348767",
       "mediamarktPrice": 3299,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 3299,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -25651,6 +26206,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 3299,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 3299,
+          "ceneo": null
         }
       ]
     },
@@ -25669,13 +26229,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_182348072",
       "mediamarktPrice": 2599,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 2599,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -25856,6 +26416,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 2599,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 2599,
+          "ceneo": null
         }
       ]
     },
@@ -25874,13 +26439,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_182348855",
       "mediamarktPrice": 3499,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 3499,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -26061,6 +26626,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 3499,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 3499,
+          "ceneo": null
         }
       ]
     },
@@ -26079,13 +26649,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_182475244",
       "mediamarktPrice": 1299,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 1299,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -26266,6 +26836,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1299,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1299,
+          "ceneo": null
         }
       ]
     },
@@ -26284,13 +26859,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_182475189",
       "mediamarktPrice": 649,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 649,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -26471,6 +27046,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 649,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 649,
+          "ceneo": null
         }
       ]
     },
@@ -26489,13 +27069,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_182475088",
       "mediamarktPrice": 1899,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 1899,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -26676,6 +27256,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1899,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1899,
+          "ceneo": null
         }
       ]
     },
@@ -26694,13 +27279,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_182475106",
       "mediamarktPrice": 1399,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 1399,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -26751,6 +27336,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1399,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1399,
+          "ceneo": null
         }
       ]
     },
@@ -26769,13 +27359,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_182475037",
       "mediamarktPrice": 949,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 949,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -26956,6 +27546,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 949,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 949,
+          "ceneo": null
         }
       ]
     },
@@ -26974,13 +27569,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_182475124",
       "mediamarktPrice": 1099,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 1099,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -27161,6 +27756,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1099,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1099,
+          "ceneo": null
         }
       ]
     },
@@ -27179,13 +27779,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_182475141",
       "mediamarktPrice": 2399,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 2399,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -27366,6 +27966,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 2399,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 2399,
+          "ceneo": null
         }
       ]
     },
@@ -27384,13 +27989,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_182696598",
       "mediamarktPrice": 2399,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 2399,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -27571,6 +28176,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 2399,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 2399,
+          "ceneo": null
         }
       ]
     },
@@ -27589,13 +28199,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_182696715",
       "mediamarktPrice": 2299,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 2299,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -27776,6 +28386,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 2299,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 2299,
+          "ceneo": null
         }
       ]
     },
@@ -27794,13 +28409,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_182807360",
       "mediamarktPrice": 999,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 999,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -27836,6 +28451,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 999,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 999,
+          "ceneo": null
         }
       ]
     },
@@ -27854,13 +28474,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_182807489",
       "mediamarktPrice": 449,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 449,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -28041,210 +28661,10 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 449,
           "ceneo": null
-        }
-      ]
-    },
-    {
-      "id": "inna-prf02106",
-      "name": "Płyta indukcyjna ELICA PRF02106 Czarny",
-      "model": "PRF02106",
-      "brand": "INNA",
-      "type": "induction",
-      "size": {
-        "widthCm": 60,
-        "rawWidth": 60,
-        "label": "60 cm (standard)",
-        "category": "60cm"
-      },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_184634856",
-      "mediamarktPrice": 2049,
-      "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
-      "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
-        "previousPrice": 2049,
-        "previousDate": "2026-11-17"
-      },
-      "rating": null,
-      "reviewCount": 0,
-      "valueScore": 0.0,
-      "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-elica-prf02106-czarny-184634700.html",
-        "ceneo": "https://www.ceneo.pl/;szukaj-PRF02106",
-        "euro": "https://www.euro.com.pl/search.bhtml?keyword=PRF02106",
-        "komputronik": "https://www.komputronik.pl/search?query=PRF02106"
-      },
-      "priceHistory": [
-        {
-          "date": "2026-10-16",
-          "mediamarkt": 2049,
-          "ceneo": null
         },
         {
-          "date": "2026-10-17",
-          "mediamarkt": 2049,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-18",
-          "mediamarkt": 2049,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-19",
-          "mediamarkt": 2049,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-20",
-          "mediamarkt": 2049,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-21",
-          "mediamarkt": 2049,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-22",
-          "mediamarkt": 2049,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-23",
-          "mediamarkt": 2049,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-24",
-          "mediamarkt": 2049,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-25",
-          "mediamarkt": 2049,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-26",
-          "mediamarkt": 2049,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-27",
-          "mediamarkt": 2049,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-28",
-          "mediamarkt": 2049,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-29",
-          "mediamarkt": 2049,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-30",
-          "mediamarkt": 2049,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-31",
-          "mediamarkt": 2049,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-01",
-          "mediamarkt": 2049,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-02",
-          "mediamarkt": 2049,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-03",
-          "mediamarkt": 2049,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-04",
-          "mediamarkt": 2049,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-05",
-          "mediamarkt": 2049,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-06",
-          "mediamarkt": 2049,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-07",
-          "mediamarkt": 2049,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-08",
-          "mediamarkt": 2049,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-09",
-          "mediamarkt": 2049,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-10",
-          "mediamarkt": 2049,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-11",
-          "mediamarkt": 2049,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-12",
-          "mediamarkt": 2049,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-13",
-          "mediamarkt": 2049,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-14",
-          "mediamarkt": 2049,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-15",
-          "mediamarkt": 2049,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-16",
-          "mediamarkt": 2049,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-17",
-          "mediamarkt": 2049,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-18",
-          "mediamarkt": 2049,
+          "date": "2026-11-19",
+          "mediamarkt": 449,
           "ceneo": null
         }
       ]
@@ -28264,13 +28684,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_187980428",
       "mediamarktPrice": 2914,
       "ceneoPrice": 2390,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 2914,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": 4.55,
       "reviewCount": 38,
@@ -28451,6 +28871,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 2914,
           "ceneo": 2390
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 2914,
+          "ceneo": 2390
         }
       ]
     },
@@ -28469,13 +28894,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_185605931",
       "mediamarktPrice": 1999,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 1999,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -28656,6 +29081,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1999,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1999,
+          "ceneo": null
         }
       ]
     },
@@ -28674,13 +29104,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_185605497",
       "mediamarktPrice": 1799,
       "ceneoPrice": 1479,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 1799,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -28861,6 +29291,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1799,
           "ceneo": 1479
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1799,
+          "ceneo": 1479
         }
       ]
     },
@@ -28879,13 +29314,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_185979307",
       "mediamarktPrice": 829,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 829,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -29031,6 +29466,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 829,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 829,
+          "ceneo": null
         }
       ]
     },
@@ -29049,13 +29489,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_185979212",
       "mediamarktPrice": 949,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "down",
-        "delta": -150,
-        "percent": -13.6,
-        "previousPrice": 1099,
-        "previousDate": "2026-11-17"
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 949,
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -29201,6 +29641,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 949,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 949,
+          "ceneo": null
         }
       ]
     },
@@ -29219,13 +29664,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_185979071",
       "mediamarktPrice": 1099,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "down",
-        "delta": -100,
-        "percent": -8.3,
-        "previousPrice": 1199,
-        "previousDate": "2026-11-17"
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 1099,
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -29371,6 +29816,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1099,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1099,
+          "ceneo": null
         }
       ]
     },
@@ -29389,13 +29839,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_185979255",
       "mediamarktPrice": 399,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 399,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -29541,6 +29991,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 399,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 399,
+          "ceneo": null
         }
       ]
     },
@@ -29559,13 +30014,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_185979137",
       "mediamarktPrice": 679,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 679,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -29711,6 +30166,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 679,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 679,
+          "ceneo": null
         }
       ]
     },
@@ -29729,13 +30189,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_185979115",
       "mediamarktPrice": 899,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 899,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -29881,6 +30341,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 899,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 899,
+          "ceneo": null
         }
       ]
     },
@@ -29899,13 +30364,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_186070548",
       "mediamarktPrice": 979,
       "ceneoPrice": 949,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 979,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -30086,6 +30551,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 979,
           "ceneo": 949
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 979,
+          "ceneo": 949
         }
       ]
     },
@@ -30104,13 +30574,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_179181482",
       "mediamarktPrice": 205,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 205,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": 3.0,
       "reviewCount": 2,
@@ -30206,6 +30676,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 205,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 205,
+          "ceneo": null
         }
       ]
     },
@@ -30224,13 +30699,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_173091531",
       "mediamarktPrice": 309,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 309,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": 3.0,
       "reviewCount": 2,
@@ -30326,6 +30801,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 309,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 309,
+          "ceneo": null
         }
       ]
     },
@@ -30344,13 +30824,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_92680394",
       "mediamarktPrice": 3179,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 3179,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": 5.0,
       "reviewCount": 1,
@@ -30531,6 +31011,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 3179,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 3179,
+          "ceneo": null
         }
       ]
     },
@@ -30549,13 +31034,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_94570775",
       "mediamarktPrice": 1489,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "down",
-        "delta": -56,
-        "percent": -3.6,
-        "previousPrice": 1545,
-        "previousDate": "2026-11-17"
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 1489,
+        "previousDate": "2026-11-18"
       },
       "rating": 3.75,
       "reviewCount": 4,
@@ -30576,210 +31061,10 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1489,
           "ceneo": null
-        }
-      ]
-    },
-    {
-      "id": "beko-hii85780uft",
-      "name": "Płyta indukcyjna BEKO HII85780UFT",
-      "model": "HII85780UFT",
-      "brand": "BEKO",
-      "type": "induction",
-      "size": {
-        "widthCm": 60,
-        "rawWidth": 60,
-        "label": "60 cm (standard)",
-        "category": "60cm"
-      },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_141486009",
-      "mediamarktPrice": 1899,
-      "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
-      "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
-        "previousPrice": 1899,
-        "previousDate": "2026-11-17"
-      },
-      "rating": null,
-      "reviewCount": 0,
-      "valueScore": 0.0,
-      "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-beko-hii-85780-uft-1481878.html",
-        "ceneo": "https://www.ceneo.pl/;szukaj-HII85780UFT",
-        "euro": "https://www.euro.com.pl/search.bhtml?keyword=HII85780UFT",
-        "komputronik": "https://www.komputronik.pl/search?query=HII85780UFT"
-      },
-      "priceHistory": [
-        {
-          "date": "2026-10-16",
-          "mediamarkt": 1999,
-          "ceneo": null
         },
         {
-          "date": "2026-10-17",
-          "mediamarkt": 1999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-18",
-          "mediamarkt": 1999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-19",
-          "mediamarkt": 1999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-20",
-          "mediamarkt": 1999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-21",
-          "mediamarkt": 1999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-22",
-          "mediamarkt": 1999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-23",
-          "mediamarkt": 1999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-24",
-          "mediamarkt": 1999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-25",
-          "mediamarkt": 1999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-26",
-          "mediamarkt": 1999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-27",
-          "mediamarkt": 1999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-28",
-          "mediamarkt": 1999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-29",
-          "mediamarkt": 1999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-30",
-          "mediamarkt": 1999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-31",
-          "mediamarkt": 1999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-01",
-          "mediamarkt": 1999,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-02",
-          "mediamarkt": 1899,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-03",
-          "mediamarkt": 1899,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-04",
-          "mediamarkt": 1899,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-05",
-          "mediamarkt": 1899,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-06",
-          "mediamarkt": 1899,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-07",
-          "mediamarkt": 1899,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-08",
-          "mediamarkt": 1899,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-09",
-          "mediamarkt": 1899,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-10",
-          "mediamarkt": 1899,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-11",
-          "mediamarkt": 1899,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-12",
-          "mediamarkt": 2219,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-13",
-          "mediamarkt": 2179,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-14",
-          "mediamarkt": 2179,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-15",
-          "mediamarkt": 2179,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-16",
-          "mediamarkt": 1899,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-17",
-          "mediamarkt": 1899,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-18",
-          "mediamarkt": 1899,
+          "date": "2026-11-19",
+          "mediamarkt": 1489,
           "ceneo": null
         }
       ]
@@ -30799,13 +31084,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_170428604",
       "mediamarktPrice": 899,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 899,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -30986,6 +31271,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 899,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 899,
+          "ceneo": null
         }
       ]
     },
@@ -31004,13 +31294,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_181907009",
       "mediamarktPrice": 3199,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 3199,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -31056,6 +31346,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 3199,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 3199,
+          "ceneo": null
         }
       ]
     },
@@ -31074,13 +31369,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_180044887",
       "mediamarktPrice": 2359,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "up",
-        "delta": 60,
-        "percent": 2.6,
-        "previousPrice": 2299,
-        "previousDate": "2026-11-17"
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 2359,
+        "previousDate": "2026-11-18"
       },
       "rating": 5.0,
       "reviewCount": 31,
@@ -31261,6 +31556,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 2359,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 2359,
+          "ceneo": null
         }
       ]
     },
@@ -31279,13 +31579,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_166339789",
       "mediamarktPrice": 2549,
       "ceneoPrice": 1942.22,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 2549,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": 4.95,
       "reviewCount": 258,
@@ -31466,6 +31766,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 2549,
           "ceneo": 1942.22
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 2549,
+          "ceneo": 1942.22
         }
       ]
     },
@@ -31484,13 +31789,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_180466888",
       "mediamarktPrice": 5999,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 5999,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -31521,6 +31826,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 5999,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 5999,
+          "ceneo": null
         }
       ]
     },
@@ -31539,17 +31849,17 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_163416690",
       "mediamarktPrice": 3799,
       "ceneoPrice": 3299,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 3799,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
-      "rating": 4.86,
-      "reviewCount": 37,
-      "valueScore": 7.8,
+      "rating": 4.87,
+      "reviewCount": 38,
+      "valueScore": 7.9,
       "links": {
         "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-do-zabudowy-bosch-pxy875dc1e-czarny-1496445.html",
         "ceneo": "https://www.ceneo.pl/;szukaj-PXY875DC1E",
@@ -31726,6 +32036,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 3799,
           "ceneo": 3299
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 3799,
+          "ceneo": 3299
         }
       ]
     },
@@ -31744,13 +32059,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_133331685",
       "mediamarktPrice": 2299,
       "ceneoPrice": 1859.99,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 2299,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": 4.86,
       "reviewCount": 759,
@@ -31931,6 +32246,221 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 2299,
           "ceneo": 1859.99
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 2299,
+          "ceneo": 1859.99
+        }
+      ]
+    },
+    {
+      "id": "beko-hii85780uft",
+      "name": "Płyta indukcyjna BEKO HII85780UFT",
+      "model": "HII85780UFT",
+      "brand": "BEKO",
+      "type": "induction",
+      "size": {
+        "widthCm": 60,
+        "rawWidth": 60,
+        "label": "60 cm (standard)",
+        "category": "60cm"
+      },
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_141486009",
+      "mediamarktPrice": 1899,
+      "ceneoPrice": null,
+      "ceneoCheckedAt": "2026-11-19",
+      "priceChange": {
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 1899,
+        "previousDate": "2026-11-18"
+      },
+      "rating": null,
+      "reviewCount": 0,
+      "valueScore": 0.0,
+      "links": {
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-beko-hii-85780-uft-1481878.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-HII85780UFT",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=HII85780UFT",
+        "komputronik": "https://www.komputronik.pl/search?query=HII85780UFT"
+      },
+      "priceHistory": [
+        {
+          "date": "2026-10-16",
+          "mediamarkt": 1999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-17",
+          "mediamarkt": 1999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-18",
+          "mediamarkt": 1999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-19",
+          "mediamarkt": 1999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-20",
+          "mediamarkt": 1999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-21",
+          "mediamarkt": 1999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-22",
+          "mediamarkt": 1999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-23",
+          "mediamarkt": 1999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-24",
+          "mediamarkt": 1999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-25",
+          "mediamarkt": 1999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-26",
+          "mediamarkt": 1999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-27",
+          "mediamarkt": 1999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-28",
+          "mediamarkt": 1999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-29",
+          "mediamarkt": 1999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-30",
+          "mediamarkt": 1999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-10-31",
+          "mediamarkt": 1999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-01",
+          "mediamarkt": 1999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-02",
+          "mediamarkt": 1899,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-03",
+          "mediamarkt": 1899,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-04",
+          "mediamarkt": 1899,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-05",
+          "mediamarkt": 1899,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-06",
+          "mediamarkt": 1899,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-07",
+          "mediamarkt": 1899,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-08",
+          "mediamarkt": 1899,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-09",
+          "mediamarkt": 1899,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-10",
+          "mediamarkt": 1899,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-11",
+          "mediamarkt": 1899,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-12",
+          "mediamarkt": 2219,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-13",
+          "mediamarkt": 2179,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-14",
+          "mediamarkt": 2179,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-15",
+          "mediamarkt": 2179,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-16",
+          "mediamarkt": 1899,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-17",
+          "mediamarkt": 1899,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-18",
+          "mediamarkt": 1899,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1899,
+          "ceneo": null
         }
       ]
     },
@@ -31947,15 +32477,15 @@ window.PRODUCTS_DATA = {
         "category": "80cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_187987784",
-      "mediamarktPrice": 2393.11,
+      "mediamarktPrice": 2397.29,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "down",
-        "delta": -2.99,
-        "percent": -0.1,
-        "previousPrice": 2396.1,
-        "previousDate": "2026-11-17"
+        "trend": "up",
+        "delta": 4.18,
+        "percent": 0.2,
+        "previousPrice": 2393.11,
+        "previousDate": "2026-11-18"
       },
       "rating": 5.0,
       "reviewCount": 5,
@@ -32101,6 +32631,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 2393.11,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 2397.29,
+          "ceneo": null
         }
       ]
     },
@@ -32119,13 +32654,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_186888957",
       "mediamarktPrice": 949,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 949,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -32231,6 +32766,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 949,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 949,
+          "ceneo": null
         }
       ]
     },
@@ -32249,13 +32789,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_133331848",
       "mediamarktPrice": 1799,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 1799,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": 4.88,
       "reviewCount": 8,
@@ -32436,6 +32976,51 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1799,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1799,
+          "ceneo": null
+        }
+      ]
+    },
+    {
+      "id": "bosch-puj631bb5e",
+      "name": "Płyty kuchenne BOSCH Serie 4 PUJ631BB5E Czarny",
+      "model": "PUJ631BB5E",
+      "brand": "BOSCH",
+      "type": "induction",
+      "size": {
+        "widthCm": 60,
+        "rawWidth": 60,
+        "label": "60 cm (standard)",
+        "category": "60cm"
+      },
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_101633141",
+      "mediamarktPrice": 1954,
+      "ceneoPrice": null,
+      "ceneoCheckedAt": "2026-11-19",
+      "priceChange": {
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 1954,
+        "previousDate": "2026-11-19"
+      },
+      "rating": 4.61,
+      "reviewCount": 104,
+      "valueScore": 24.1,
+      "links": {
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyty-kuchenne-bosch-serie-4-puj631bb5e-czarny-101633134.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-PUJ631BB5E",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=PUJ631BB5E",
+        "komputronik": "https://www.komputronik.pl/search?query=PUJ631BB5E"
+      },
+      "priceHistory": [
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1954,
+          "ceneo": null
         }
       ]
     },
@@ -32452,19 +33037,19 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_104128667",
-      "mediamarktPrice": 1204,
+      "mediamarktPrice": 1197,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "up",
-        "delta": 8,
-        "percent": 0.7,
-        "previousPrice": 1196,
-        "previousDate": "2026-11-17"
+        "trend": "down",
+        "delta": -7,
+        "percent": -0.6,
+        "previousPrice": 1204,
+        "previousDate": "2026-11-18"
       },
       "rating": 4.36,
       "reviewCount": 36,
-      "valueScore": 21.7,
+      "valueScore": 21.9,
       "links": {
         "mediamarkt": "https://mediamarkt.pl/pl/product/_plyty-kuchenne-bosch-serie-4-pkk631bb8e-czarny-104128663.html",
         "ceneo": "https://www.ceneo.pl/;szukaj-PKK631BB8E",
@@ -32491,6 +33076,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1204,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1197,
+          "ceneo": null
         }
       ]
     },
@@ -32507,19 +33097,19 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_106568085",
-      "mediamarktPrice": 1842,
+      "mediamarktPrice": 1853,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "down",
-        "delta": -26,
-        "percent": -1.4,
-        "previousPrice": 1868,
-        "previousDate": "2026-11-17"
+        "trend": "up",
+        "delta": 11,
+        "percent": 0.6,
+        "previousPrice": 1842,
+        "previousDate": "2026-11-18"
       },
       "rating": 4.45,
       "reviewCount": 99,
-      "valueScore": 24.0,
+      "valueScore": 23.9,
       "links": {
         "mediamarkt": "https://mediamarkt.pl/pl/product/_plyty-kuchenne-siemens-et645hn17e-czarny-106568081.html",
         "ceneo": "https://www.ceneo.pl/;szukaj-ET645HN17E",
@@ -32535,6 +33125,11 @@ window.PRODUCTS_DATA = {
         {
           "date": "2026-11-18",
           "mediamarkt": 1842,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1853,
           "ceneo": null
         }
       ]
@@ -32552,15 +33147,15 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_106954198",
-      "mediamarktPrice": 1755,
+      "mediamarktPrice": 1754,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "down",
-        "delta": -15,
-        "percent": -0.8,
-        "previousPrice": 1770,
-        "previousDate": "2026-11-17"
+        "delta": -1,
+        "percent": -0.1,
+        "previousPrice": 1755,
+        "previousDate": "2026-11-18"
       },
       "rating": 2.5,
       "reviewCount": 2,
@@ -32581,6 +33176,51 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1755,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1754,
+          "ceneo": null
+        }
+      ]
+    },
+    {
+      "id": "beko-hic64503",
+      "name": "Płyta kuchenna BEKO HIC 64503 TX Czarny",
+      "model": "HIC 64503",
+      "brand": "BEKO",
+      "type": "induction",
+      "size": {
+        "widthCm": 60,
+        "rawWidth": 60,
+        "label": "60 cm (standard)",
+        "category": "60cm"
+      },
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_106954220",
+      "mediamarktPrice": 2065,
+      "ceneoPrice": null,
+      "ceneoCheckedAt": "2026-11-19",
+      "priceChange": {
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 2065,
+        "previousDate": "2026-11-19"
+      },
+      "rating": 5.0,
+      "reviewCount": 1,
+      "valueScore": 2.4,
+      "links": {
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyty-kuchenne-beko-hic-64503-tx-czarny-106954218.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-HIC 64503",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=HIC 64503",
+        "komputronik": "https://www.komputronik.pl/search?query=HIC 64503"
+      },
+      "priceHistory": [
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 2065,
+          "ceneo": null
         }
       ]
     },
@@ -32599,13 +33239,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_107508459",
       "mediamarktPrice": 2012,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 2012,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": 2.33,
       "reviewCount": 3,
@@ -32711,6 +33351,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 2012,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 2012,
+          "ceneo": null
         }
       ]
     },
@@ -32727,15 +33372,15 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_134152403",
-      "mediamarktPrice": 1230.31,
+      "mediamarktPrice": 1232.46,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "down",
-        "delta": -1.54,
-        "percent": -0.1,
-        "previousPrice": 1231.85,
-        "previousDate": "2026-11-17"
+        "trend": "up",
+        "delta": 2.15,
+        "percent": 0.2,
+        "previousPrice": 1230.31,
+        "previousDate": "2026-11-18"
       },
       "rating": 4.93,
       "reviewCount": 15,
@@ -32916,45 +33561,10 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1230.31,
           "ceneo": null
-        }
-      ]
-    },
-    {
-      "id": "inna-ci642c",
-      "name": "Płyta indukcyjna CANDY Idea CI642C/E1 Czarny",
-      "model": "CI642C",
-      "brand": "INNA",
-      "type": "induction",
-      "size": {
-        "widthCm": 60,
-        "rawWidth": 60,
-        "label": "60 cm (standard)",
-        "category": "60cm"
-      },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_134152583",
-      "mediamarktPrice": 1025.3,
-      "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
-      "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
-        "previousPrice": 1025.3,
-        "previousDate": "2026-11-18"
-      },
-      "rating": 4.2,
-      "reviewCount": 5,
-      "valueScore": 9.2,
-      "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-candy-idea-ci642ce1-czarny-134152575.html",
-        "ceneo": "https://www.ceneo.pl/;szukaj-CI642C",
-        "euro": "https://www.euro.com.pl/search.bhtml?keyword=CI642C",
-        "komputronik": "https://www.komputronik.pl/search?query=CI642C"
-      },
-      "priceHistory": [
+        },
         {
-          "date": "2026-11-18",
-          "mediamarkt": 1025.3,
+          "date": "2026-11-19",
+          "mediamarkt": 1232.46,
           "ceneo": null
         }
       ]
@@ -32972,15 +33582,15 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_134152597",
-      "mediamarktPrice": 2013,
+      "mediamarktPrice": 1994,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "down",
-        "delta": -110,
-        "percent": -5.2,
-        "previousPrice": 2123,
-        "previousDate": "2026-11-17"
+        "delta": -19,
+        "percent": -0.9,
+        "previousPrice": 2013,
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -33071,11 +33681,16 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 2013,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1994,
+          "ceneo": null
         }
       ]
     },
     {
-      "id": "inna-204",
+      "id": "inna-203",
       "name": "Płyty kuchenne ELICA NikolaTesla FIT Czarny",
       "model": "",
       "brand": "INNA",
@@ -33087,15 +33702,15 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_134152846",
-      "mediamarktPrice": 5731,
+      "mediamarktPrice": 6219,
       "ceneoPrice": null,
       "ceneoCheckedAt": null,
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
-        "previousPrice": 5731,
-        "previousDate": "2026-11-18"
+        "previousPrice": 6219,
+        "previousDate": "2026-11-19"
       },
       "rating": null,
       "reviewCount": 0,
@@ -33108,213 +33723,8 @@ window.PRODUCTS_DATA = {
       },
       "priceHistory": [
         {
-          "date": "2026-11-18",
-          "mediamarkt": 5731,
-          "ceneo": null
-        }
-      ]
-    },
-    {
-      "id": "inna-ib65b60",
-      "name": "Płyta indukcyjna INDESIT IB 65B60 NE Czarny",
-      "model": "IB 65B60",
-      "brand": "INNA",
-      "type": "induction",
-      "size": {
-        "widthCm": 60,
-        "rawWidth": 60,
-        "label": "60 cm (standard)",
-        "category": "60cm"
-      },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_134272277",
-      "mediamarktPrice": 1379.35,
-      "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
-      "priceChange": {
-        "trend": "up",
-        "delta": 41.35,
-        "percent": 3.1,
-        "previousPrice": 1338,
-        "previousDate": "2026-11-17"
-      },
-      "rating": 4.33,
-      "reviewCount": 3,
-      "valueScore": 5.4,
-      "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyty-kuchenne-indesit-ib-65b60-ne-czarny-134272275.html",
-        "ceneo": "https://www.ceneo.pl/;szukaj-IB 65B60",
-        "euro": "https://www.euro.com.pl/search.bhtml?keyword=IB 65B60",
-        "komputronik": "https://www.komputronik.pl/search?query=IB 65B60"
-      },
-      "priceHistory": [
-        {
-          "date": "2026-10-16",
-          "mediamarkt": 1348,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-17",
-          "mediamarkt": 1348,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-18",
-          "mediamarkt": 1353,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-19",
-          "mediamarkt": 1347,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-20",
-          "mediamarkt": 1198.85,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-21",
-          "mediamarkt": 1292,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-22",
-          "mediamarkt": 1326,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-23",
-          "mediamarkt": 1327,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-24",
-          "mediamarkt": 1326,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-25",
-          "mediamarkt": 1328,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-26",
-          "mediamarkt": 1339,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-27",
-          "mediamarkt": 1332,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-28",
-          "mediamarkt": 1330,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-29",
-          "mediamarkt": 1209.36,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-30",
-          "mediamarkt": 1303,
-          "ceneo": null
-        },
-        {
-          "date": "2026-10-31",
-          "mediamarkt": 1317,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-01",
-          "mediamarkt": 1207.47,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-02",
-          "mediamarkt": 1297,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-03",
-          "mediamarkt": 1330,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-04",
-          "mediamarkt": 1325,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-05",
-          "mediamarkt": 1350,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-06",
-          "mediamarkt": 1332,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-07",
-          "mediamarkt": 1330,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-08",
-          "mediamarkt": 1331,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-09",
-          "mediamarkt": 1329,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-10",
-          "mediamarkt": 1205.08,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-11",
-          "mediamarkt": 1330,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-12",
-          "mediamarkt": 1336,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-13",
-          "mediamarkt": 1346,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-14",
-          "mediamarkt": 1336,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-15",
-          "mediamarkt": 1211.29,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-16",
-          "mediamarkt": 1335,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-17",
-          "mediamarkt": 1338,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-18",
-          "mediamarkt": 1379.35,
+          "date": "2026-11-19",
+          "mediamarkt": 6219,
           "ceneo": null
         }
       ]
@@ -33332,19 +33742,19 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_134979992",
-      "mediamarktPrice": 1022,
+      "mediamarktPrice": 1004,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "up",
-        "delta": 30,
-        "percent": 3.0,
-        "previousPrice": 992,
-        "previousDate": "2026-11-17"
+        "trend": "down",
+        "delta": -18,
+        "percent": -1.8,
+        "previousPrice": 1022,
+        "previousDate": "2026-11-18"
       },
       "rating": 4.0,
       "reviewCount": 4,
-      "valueScore": 7.8,
+      "valueScore": 8.0,
       "links": {
         "mediamarkt": "https://mediamarkt.pl/pl/product/_plyty-kuchenne-candy-timeless-ch63ct-czarny-134979988.html",
         "ceneo": "https://www.ceneo.pl/;szukaj-CH63CT",
@@ -33391,6 +33801,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1022,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1004,
+          "ceneo": null
         }
       ]
     },
@@ -33407,19 +33822,19 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_135023675",
-      "mediamarktPrice": 1329.14,
+      "mediamarktPrice": 1215,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
+        "trend": "down",
+        "delta": -114.14,
+        "percent": -8.6,
         "previousPrice": 1329.14,
         "previousDate": "2026-11-18"
       },
       "rating": 4.29,
       "reviewCount": 7,
-      "valueScore": 8.5,
+      "valueScore": 9.3,
       "links": {
         "mediamarkt": "https://mediamarkt.pl/pl/product/_plyty-kuchenne-hotpoint-hq-5660s-ne-czarny-135023673.html",
         "ceneo": "https://www.ceneo.pl/;szukaj-HQ 5660S",
@@ -33430,6 +33845,51 @@ window.PRODUCTS_DATA = {
         {
           "date": "2026-11-18",
           "mediamarkt": 1329.14,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1215,
+          "ceneo": null
+        }
+      ]
+    },
+    {
+      "id": "bosch-puc611bb5e",
+      "name": "Płyty kuchenne BOSCH Serie 4 PUC611BB5E Czarny",
+      "model": "PUC611BB5E",
+      "brand": "BOSCH",
+      "type": "induction",
+      "size": {
+        "widthCm": 60,
+        "rawWidth": 60,
+        "label": "60 cm (standard)",
+        "category": "60cm"
+      },
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_135943375",
+      "mediamarktPrice": 1499,
+      "ceneoPrice": null,
+      "ceneoCheckedAt": "2026-11-19",
+      "priceChange": {
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 1499,
+        "previousDate": "2026-11-19"
+      },
+      "rating": 4.67,
+      "reviewCount": 9,
+      "valueScore": 9.3,
+      "links": {
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyty-kuchenne-bosch-serie-4-puc611bb5e-czarny-135943368.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-PUC611BB5E",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=PUC611BB5E",
+        "komputronik": "https://www.komputronik.pl/search?query=PUC611BB5E"
+      },
+      "priceHistory": [
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1499,
           "ceneo": null
         }
       ]
@@ -33447,19 +33907,19 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_136008929",
-      "mediamarktPrice": 2058,
+      "mediamarktPrice": 2023,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
+        "trend": "down",
+        "delta": -35,
+        "percent": -1.7,
         "previousPrice": 2058,
         "previousDate": "2026-11-18"
       },
       "rating": 4.96,
       "reviewCount": 26,
-      "valueScore": 12.3,
+      "valueScore": 12.5,
       "links": {
         "mediamarkt": "https://mediamarkt.pl/pl/product/_plyty-kuchenne-siemens-iq500-ee611bpb5e-czarny-136008923.html",
         "ceneo": "https://www.ceneo.pl/;szukaj-IQ500",
@@ -33470,6 +33930,11 @@ window.PRODUCTS_DATA = {
         {
           "date": "2026-11-18",
           "mediamarkt": 2058,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 2023,
           "ceneo": null
         }
       ]
@@ -33487,15 +33952,15 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_170460098",
-      "mediamarktPrice": 2341,
+      "mediamarktPrice": 2326,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
+        "trend": "down",
+        "delta": -15,
+        "percent": -0.6,
         "previousPrice": 2341,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -33546,6 +34011,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 2341,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 2326,
+          "ceneo": null
         }
       ]
     },
@@ -33564,13 +34034,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_139504404",
       "mediamarktPrice": 3226,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 3226,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": 4.84,
       "reviewCount": 38,
@@ -33621,6 +34091,51 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 3226,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 3226,
+          "ceneo": null
+        }
+      ]
+    },
+    {
+      "id": "siemens-et675fnp1e",
+      "name": "Płyty kuchenne SIEMENS ET675FNP1E Czarny, Stal nierdzewna",
+      "model": "ET675FNP1E",
+      "brand": "SIEMENS",
+      "type": "induction",
+      "size": {
+        "widthCm": 60,
+        "rawWidth": 60,
+        "label": "60 cm (standard)",
+        "category": "60cm"
+      },
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_173090734",
+      "mediamarktPrice": 2446,
+      "ceneoPrice": null,
+      "ceneoCheckedAt": "2026-11-19",
+      "priceChange": {
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 2446,
+        "previousDate": "2026-11-19"
+      },
+      "rating": 4.56,
+      "reviewCount": 9,
+      "valueScore": 5.6,
+      "links": {
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyty-kuchenne-siemens-et675fnp1e-czarny-stal-nierdzewna-136166027.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-ET675FNP1E",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=ET675FNP1E",
+        "komputronik": "https://www.komputronik.pl/search?query=ET675FNP1E"
+      },
+      "priceHistory": [
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 2446,
+          "ceneo": null
         }
       ]
     },
@@ -33637,15 +34152,15 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_136588767",
-      "mediamarktPrice": 1209,
+      "mediamarktPrice": 1211,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "down",
-        "delta": -20,
-        "percent": -1.6,
-        "previousPrice": 1229,
-        "previousDate": "2026-11-17"
+        "trend": "up",
+        "delta": 2,
+        "percent": 0.2,
+        "previousPrice": 1209,
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -33826,6 +34341,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1209,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1211,
+          "ceneo": null
         }
       ]
     },
@@ -33842,19 +34362,19 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_177672671",
-      "mediamarktPrice": 6214.85,
+      "mediamarktPrice": 6225.72,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "down",
-        "delta": -7.77,
-        "percent": -0.1,
-        "previousPrice": 6222.62,
-        "previousDate": "2026-11-17"
+        "trend": "up",
+        "delta": 10.87,
+        "percent": 0.2,
+        "previousPrice": 6214.85,
+        "previousDate": "2026-11-18"
       },
       "rating": 4.85,
       "reviewCount": 27,
-      "valueScore": 4.1,
+      "valueScore": 4.0,
       "links": {
         "mediamarkt": "https://mediamarkt.pl/pl/product/_pyta-indukcyjna-bosch-pxv975dc1e-czarny-136590629.html",
         "ceneo": "https://www.ceneo.pl/;szukaj-PXV975DC1E",
@@ -33870,6 +34390,11 @@ window.PRODUCTS_DATA = {
         {
           "date": "2026-11-18",
           "mediamarkt": 6214.85,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 6225.72,
           "ceneo": null
         }
       ]
@@ -33887,15 +34412,15 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_137191903",
-      "mediamarktPrice": 1808,
+      "mediamarktPrice": 1794,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
+        "trend": "down",
+        "delta": -14,
+        "percent": -0.8,
         "previousPrice": 1808,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -33946,6 +34471,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1808,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1794,
+          "ceneo": null
         }
       ]
     },
@@ -33962,19 +34492,19 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_137191915",
-      "mediamarktPrice": 1289,
+      "mediamarktPrice": 1263,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "up",
-        "delta": 38,
-        "percent": 3.0,
-        "previousPrice": 1251,
-        "previousDate": "2026-11-17"
+        "trend": "down",
+        "delta": -26,
+        "percent": -2.0,
+        "previousPrice": 1289,
+        "previousDate": "2026-11-18"
       },
       "rating": 5.0,
       "reviewCount": 1,
-      "valueScore": 3.9,
+      "valueScore": 4.0,
       "links": {
         "mediamarkt": "https://mediamarkt.pl/pl/product/_plyty-kuchenne-candy-idea-ci642cbb1-czarny-137191914.html",
         "ceneo": "https://www.ceneo.pl/;szukaj-CI642CBB",
@@ -34021,6 +34551,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1289,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1263,
+          "ceneo": null
         }
       ]
     },
@@ -34037,15 +34572,15 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_139504417",
-      "mediamarktPrice": 2838.68,
+      "mediamarktPrice": 2843.65,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "down",
-        "delta": -3.55,
-        "percent": -0.1,
-        "previousPrice": 2842.23,
-        "previousDate": "2026-11-17"
+        "trend": "up",
+        "delta": 4.97,
+        "percent": 0.2,
+        "previousPrice": 2838.68,
+        "previousDate": "2026-11-18"
       },
       "rating": 4.84,
       "reviewCount": 88,
@@ -34226,6 +34761,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 2838.68,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 2843.65,
+          "ceneo": null
         }
       ]
     },
@@ -34242,15 +34782,15 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_137211768",
-      "mediamarktPrice": 1862.14,
+      "mediamarktPrice": 1865.4,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "down",
-        "delta": -3.3,
-        "percent": -0.2,
-        "previousPrice": 1865.44,
-        "previousDate": "2026-11-17"
+        "trend": "up",
+        "delta": 3.26,
+        "percent": 0.2,
+        "previousPrice": 1862.14,
+        "previousDate": "2026-11-18"
       },
       "rating": 4.75,
       "reviewCount": 4,
@@ -34411,6 +34951,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1862.14,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1865.4,
+          "ceneo": null
         }
       ]
     },
@@ -34427,19 +34972,19 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_157528739",
-      "mediamarktPrice": 1911,
+      "mediamarktPrice": 1929,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
+        "trend": "up",
+        "delta": 18,
+        "percent": 0.9,
         "previousPrice": 1911,
         "previousDate": "2026-11-18"
       },
       "rating": 4.55,
       "reviewCount": 40,
-      "valueScore": 15.1,
+      "valueScore": 14.9,
       "links": {
         "mediamarkt": "https://mediamarkt.pl/pl/product/_plyty-kuchenne-whirlpool-wl-b4060-cpne-czarny-137212256.html",
         "ceneo": "https://www.ceneo.pl/;szukaj-B4060",
@@ -34450,6 +34995,11 @@ window.PRODUCTS_DATA = {
         {
           "date": "2026-11-18",
           "mediamarkt": 1911,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1929,
           "ceneo": null
         }
       ]
@@ -34467,15 +35017,15 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_137212538",
-      "mediamarktPrice": 2303.18,
+      "mediamarktPrice": 2597,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "down",
-        "delta": -293.82,
-        "percent": -11.3,
-        "previousPrice": 2597,
-        "previousDate": "2026-11-17"
+        "trend": "up",
+        "delta": 293.82,
+        "percent": 12.8,
+        "previousPrice": 2303.18,
+        "previousDate": "2026-11-18"
       },
       "rating": 1.0,
       "reviewCount": 1,
@@ -34556,6 +35106,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 2303.18,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 2597,
+          "ceneo": null
         }
       ]
     },
@@ -34572,15 +35127,15 @@ window.PRODUCTS_DATA = {
         "category": "80cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_162170238",
-      "mediamarktPrice": 3752.91,
+      "mediamarktPrice": 3759.47,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "down",
-        "delta": -6.64,
-        "percent": -0.2,
-        "previousPrice": 3759.55,
-        "previousDate": "2026-11-17"
+        "trend": "up",
+        "delta": 6.56,
+        "percent": 0.2,
+        "previousPrice": 3752.91,
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -34726,6 +35281,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 3752.91,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 3759.47,
+          "ceneo": null
         }
       ]
     },
@@ -34742,19 +35302,19 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_187977457",
-      "mediamarktPrice": 3638,
+      "mediamarktPrice": 3558,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "up",
-        "delta": 78,
-        "percent": 2.2,
-        "previousPrice": 3560,
-        "previousDate": "2026-11-17"
+        "trend": "down",
+        "delta": -80,
+        "percent": -2.2,
+        "previousPrice": 3638,
+        "previousDate": "2026-11-18"
       },
       "rating": 5.0,
       "reviewCount": 2,
-      "valueScore": 1.9,
+      "valueScore": 2.0,
       "links": {
         "mediamarkt": "https://mediamarkt.pl/pl/product/_plyty-kuchenne-bosch-serie-6-pvs64rhb1e-czarny-139944659.html",
         "ceneo": "https://www.ceneo.pl/;szukaj-PVS64RHB1E",
@@ -34801,6 +35361,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 3638,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 3558,
+          "ceneo": null
         }
       ]
     },
@@ -34817,15 +35382,15 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_144446622",
-      "mediamarktPrice": 1922.21,
+      "mediamarktPrice": 1925.57,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "down",
-        "delta": -2.4,
-        "percent": -0.1,
-        "previousPrice": 1924.61,
-        "previousDate": "2026-11-17"
+        "trend": "up",
+        "delta": 3.36,
+        "percent": 0.2,
+        "previousPrice": 1922.21,
+        "previousDate": "2026-11-18"
       },
       "rating": 5.0,
       "reviewCount": 1,
@@ -34876,6 +35441,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1922.21,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1925.57,
+          "ceneo": null
         }
       ]
     },
@@ -34892,15 +35462,15 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_163896895",
-      "mediamarktPrice": 3986.68,
+      "mediamarktPrice": 3993.65,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "down",
-        "delta": -4.98,
-        "percent": -0.1,
-        "previousPrice": 3991.66,
-        "previousDate": "2026-11-17"
+        "trend": "up",
+        "delta": 6.97,
+        "percent": 0.2,
+        "previousPrice": 3986.68,
+        "previousDate": "2026-11-18"
       },
       "rating": 4.25,
       "reviewCount": 4,
@@ -34946,6 +35516,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 3986.68,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 3993.65,
+          "ceneo": null
         }
       ]
     },
@@ -34962,15 +35537,15 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_140363449",
-      "mediamarktPrice": 3480,
+      "mediamarktPrice": 3456,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "up",
-        "delta": 28,
-        "percent": 0.8,
-        "previousPrice": 3452,
-        "previousDate": "2026-11-17"
+        "trend": "down",
+        "delta": -24,
+        "percent": -0.7,
+        "previousPrice": 3480,
+        "previousDate": "2026-11-18"
       },
       "rating": 4.9,
       "reviewCount": 10,
@@ -35021,6 +35596,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 3480,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 3456,
+          "ceneo": null
         }
       ]
     },
@@ -35037,15 +35617,15 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_140528632",
-      "mediamarktPrice": 3211,
+      "mediamarktPrice": 3255,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "up",
-        "delta": 8,
-        "percent": 0.2,
-        "previousPrice": 3203,
-        "previousDate": "2026-11-17"
+        "delta": 44,
+        "percent": 1.4,
+        "previousPrice": 3211,
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -35176,6 +35756,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 3211,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 3255,
+          "ceneo": null
         }
       ]
     },
@@ -35192,15 +35777,15 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_141469177",
-      "mediamarktPrice": 2588.96,
+      "mediamarktPrice": 2593.49,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "down",
-        "delta": -4.59,
-        "percent": -0.2,
-        "previousPrice": 2593.55,
-        "previousDate": "2026-11-17"
+        "trend": "up",
+        "delta": 4.53,
+        "percent": 0.2,
+        "previousPrice": 2588.96,
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -35346,6 +35931,51 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 2588.96,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 2593.49,
+          "ceneo": null
+        }
+      ]
+    },
+    {
+      "id": "siemens-iq300",
+      "name": "Płyty kuchenne SIEMENS iQ300 EH645BFB6E Czarny, Stal nierdzewna",
+      "model": "IQ300",
+      "brand": "SIEMENS",
+      "type": "induction",
+      "size": {
+        "widthCm": 60,
+        "rawWidth": 60,
+        "label": "60 cm (standard)",
+        "category": "60cm"
+      },
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_170742040",
+      "mediamarktPrice": 3069,
+      "ceneoPrice": null,
+      "ceneoCheckedAt": "2026-11-19",
+      "priceChange": {
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 3069,
+        "previousDate": "2026-11-19"
+      },
+      "rating": 4.5,
+      "reviewCount": 2,
+      "valueScore": 2.1,
+      "links": {
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyty-kuchenne-siemens-iq300-eh645bfb6e-czarny-stal-nierdzewna-141726500.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-IQ300",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=IQ300",
+        "komputronik": "https://www.komputronik.pl/search?query=IQ300"
+      },
+      "priceHistory": [
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 3069,
+          "ceneo": null
         }
       ]
     },
@@ -35362,15 +35992,15 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_141919239",
-      "mediamarktPrice": 4564.25,
+      "mediamarktPrice": 4572.23,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "down",
-        "delta": -5.7,
-        "percent": -0.1,
-        "previousPrice": 4569.95,
-        "previousDate": "2026-11-17"
+        "trend": "up",
+        "delta": 7.98,
+        "percent": 0.2,
+        "previousPrice": 4564.25,
+        "previousDate": "2026-11-18"
       },
       "rating": 4.0,
       "reviewCount": 1,
@@ -35516,6 +36146,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 4564.25,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 4572.23,
+          "ceneo": null
         }
       ]
     },
@@ -35532,19 +36167,19 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_142048251",
-      "mediamarktPrice": 183,
+      "mediamarktPrice": 181,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "up",
-        "delta": 1,
-        "percent": 0.5,
-        "previousPrice": 182,
-        "previousDate": "2026-11-17"
+        "trend": "down",
+        "delta": -2,
+        "percent": -1.1,
+        "previousPrice": 183,
+        "previousDate": "2026-11-18"
       },
       "rating": 5.0,
       "reviewCount": 1,
-      "valueScore": 27.3,
+      "valueScore": 27.6,
       "links": {
         "mediamarkt": "https://mediamarkt.pl/pl/product/_plyty-kuchenne-orbegozo-pce-4050-srebrny-142048250.html",
         "ceneo": "https://www.ceneo.pl/;szukaj-PCE 4050",
@@ -35601,11 +36236,16 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 183,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 181,
+          "ceneo": null
         }
       ]
     },
     {
-      "id": "inna-228",
+      "id": "inna-229",
       "name": "Płyty kuchenne CECOTEC Full Magma Double Czarny",
       "model": "",
       "brand": "INNA",
@@ -35617,15 +36257,15 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_166216100",
-      "mediamarktPrice": 689.08,
+      "mediamarktPrice": 690.29,
       "ceneoPrice": null,
       "ceneoCheckedAt": null,
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
-        "previousPrice": 689.08,
-        "previousDate": "2026-11-18"
+        "previousPrice": 690.29,
+        "previousDate": "2026-11-19"
       },
       "rating": 4.0,
       "reviewCount": 1,
@@ -35638,8 +36278,8 @@ window.PRODUCTS_DATA = {
       },
       "priceHistory": [
         {
-          "date": "2026-11-18",
-          "mediamarkt": 689.08,
+          "date": "2026-11-19",
+          "mediamarkt": 690.29,
           "ceneo": null
         }
       ]
@@ -35657,15 +36297,15 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_150554623",
-      "mediamarktPrice": 1756.88,
+      "mediamarktPrice": 1759.95,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "down",
-        "delta": -2.19,
-        "percent": -0.1,
-        "previousPrice": 1759.07,
-        "previousDate": "2026-11-17"
+        "trend": "up",
+        "delta": 3.07,
+        "percent": 0.2,
+        "previousPrice": 1756.88,
+        "previousDate": "2026-11-18"
       },
       "rating": 4.84,
       "reviewCount": 31,
@@ -35696,6 +36336,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1756.88,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1759.95,
+          "ceneo": null
         }
       ]
     },
@@ -35712,15 +36357,15 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_150554547",
-      "mediamarktPrice": 1874.08,
+      "mediamarktPrice": 1877.35,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "down",
-        "delta": -2.34,
-        "percent": -0.1,
-        "previousPrice": 1876.42,
-        "previousDate": "2026-11-17"
+        "trend": "up",
+        "delta": 3.27,
+        "percent": 0.2,
+        "previousPrice": 1874.08,
+        "previousDate": "2026-11-18"
       },
       "rating": 4.68,
       "reviewCount": 22,
@@ -35751,6 +36396,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1874.08,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1877.35,
+          "ceneo": null
         }
       ]
     },
@@ -35767,19 +36417,19 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_150554669",
-      "mediamarktPrice": 3799.46,
+      "mediamarktPrice": 3806.1,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "down",
-        "delta": -4.74,
-        "percent": -0.1,
-        "previousPrice": 3804.2,
-        "previousDate": "2026-11-17"
+        "trend": "up",
+        "delta": 6.64,
+        "percent": 0.2,
+        "previousPrice": 3799.46,
+        "previousDate": "2026-11-18"
       },
       "rating": 4.44,
       "reviewCount": 18,
-      "valueScore": 5.0,
+      "valueScore": 4.9,
       "links": {
         "mediamarkt": "https://mediamarkt.pl/pl/product/_plyty-kuchenne-aeg-hdb95623nb-czarny-144357458.html",
         "ceneo": "https://www.ceneo.pl/;szukaj-HDB95623NB",
@@ -35901,6 +36551,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 3799.46,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 3806.1,
+          "ceneo": null
         }
       ]
     },
@@ -35917,15 +36572,15 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_150890780",
-      "mediamarktPrice": 1603.48,
+      "mediamarktPrice": 1606.28,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "down",
-        "delta": -2.0,
-        "percent": -0.1,
-        "previousPrice": 1605.48,
-        "previousDate": "2026-11-17"
+        "trend": "up",
+        "delta": 2.8,
+        "percent": 0.2,
+        "previousPrice": 1603.48,
+        "previousDate": "2026-11-18"
       },
       "rating": 4.13,
       "reviewCount": 15,
@@ -36011,6 +36666,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1603.48,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1606.28,
+          "ceneo": null
         }
       ]
     },
@@ -36027,15 +36687,15 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_171795253",
-      "mediamarktPrice": 2243.46,
+      "mediamarktPrice": 2247.38,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "down",
-        "delta": -3.97,
-        "percent": -0.2,
-        "previousPrice": 2247.43,
-        "previousDate": "2026-11-17"
+        "trend": "up",
+        "delta": 3.92,
+        "percent": 0.2,
+        "previousPrice": 2243.46,
+        "previousDate": "2026-11-18"
       },
       "rating": 4.76,
       "reviewCount": 21,
@@ -36181,6 +36841,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 2243.46,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 2247.38,
+          "ceneo": null
         }
       ]
     },
@@ -36197,15 +36862,15 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_150554845",
-      "mediamarktPrice": 1486.73,
+      "mediamarktPrice": 1489.33,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "down",
-        "delta": -1.85,
-        "percent": -0.1,
-        "previousPrice": 1488.58,
-        "previousDate": "2026-11-17"
+        "trend": "up",
+        "delta": 2.6,
+        "percent": 0.2,
+        "previousPrice": 1486.73,
+        "previousDate": "2026-11-18"
       },
       "rating": 4.0,
       "reviewCount": 2,
@@ -36351,6 +37016,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1486.73,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1489.33,
+          "ceneo": null
         }
       ]
     },
@@ -36367,15 +37037,15 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_170872912",
-      "mediamarktPrice": 1195,
+      "mediamarktPrice": 1213,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "down",
-        "delta": -60,
-        "percent": -4.8,
-        "previousPrice": 1255,
-        "previousDate": "2026-11-17"
+        "trend": "up",
+        "delta": 18,
+        "percent": 1.5,
+        "previousPrice": 1195,
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -36426,6 +37096,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1195,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1213,
+          "ceneo": null
         }
       ]
     },
@@ -36442,15 +37117,15 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_144358488",
-      "mediamarktPrice": 3920,
+      "mediamarktPrice": 3824,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "up",
-        "delta": 22,
-        "percent": 0.6,
-        "previousPrice": 3898,
-        "previousDate": "2026-11-17"
+        "trend": "down",
+        "delta": -96,
+        "percent": -2.4,
+        "previousPrice": 3920,
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -36501,6 +37176,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 3920,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 3824,
+          "ceneo": null
         }
       ]
     },
@@ -36517,15 +37197,15 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_150554876",
-      "mediamarktPrice": 2398.48,
+      "mediamarktPrice": 2402.68,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "down",
-        "delta": -3.0,
-        "percent": -0.1,
-        "previousPrice": 2401.48,
-        "previousDate": "2026-11-17"
+        "trend": "up",
+        "delta": 4.2,
+        "percent": 0.2,
+        "previousPrice": 2398.48,
+        "previousDate": "2026-11-18"
       },
       "rating": 4.53,
       "reviewCount": 19,
@@ -36701,6 +37381,51 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 2398.48,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 2402.68,
+          "ceneo": null
+        }
+      ]
+    },
+    {
+      "id": "whirlpool-b4877",
+      "name": "Płyty kuchenne WHIRLPOOL WB B4877 NE Czarny",
+      "model": "B4877",
+      "brand": "WHIRLPOOL",
+      "type": "induction",
+      "size": {
+        "widthCm": 60,
+        "rawWidth": 60,
+        "label": "60 cm (standard)",
+        "category": "60cm"
+      },
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_150557213",
+      "mediamarktPrice": 2220.47,
+      "ceneoPrice": null,
+      "ceneoCheckedAt": "2026-11-19",
+      "priceChange": {
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 2220.47,
+        "previousDate": "2026-11-19"
+      },
+      "rating": 4.0,
+      "reviewCount": 11,
+      "valueScore": 6.0,
+      "links": {
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyty-kuchenne-whirlpool-wb-b4877-ne-czarny-144358687.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-B4877",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=B4877",
+        "komputronik": "https://www.komputronik.pl/search?query=B4877"
+      },
+      "priceHistory": [
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 2220.47,
+          "ceneo": null
         }
       ]
     },
@@ -36717,19 +37442,19 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_150557236",
-      "mediamarktPrice": 1569.35,
+      "mediamarktPrice": 1572.09,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "down",
-        "delta": -1.96,
-        "percent": -0.1,
-        "previousPrice": 1571.31,
-        "previousDate": "2026-11-17"
+        "trend": "up",
+        "delta": 2.74,
+        "percent": 0.2,
+        "previousPrice": 1569.35,
+        "previousDate": "2026-11-18"
       },
       "rating": 4.77,
       "reviewCount": 22,
-      "valueScore": 14.3,
+      "valueScore": 14.2,
       "links": {
         "mediamarkt": "https://mediamarkt.pl/pl/product/_plyty-kuchenne-electrolux-cil63443-czarny-144358778.html",
         "ceneo": "https://www.ceneo.pl/;szukaj-CIL63443",
@@ -36886,6 +37611,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1569.35,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1572.09,
+          "ceneo": null
         }
       ]
     },
@@ -36902,19 +37632,19 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_187977199",
-      "mediamarktPrice": 3411.23,
+      "mediamarktPrice": 2989.02,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "down",
-        "delta": -4.26,
-        "percent": -0.1,
-        "previousPrice": 3415.49,
-        "previousDate": "2026-11-17"
+        "delta": -422.21,
+        "percent": -12.4,
+        "previousPrice": 3411.23,
+        "previousDate": "2026-11-18"
       },
       "rating": 4.0,
       "reviewCount": 1,
-      "valueScore": 1.2,
+      "valueScore": 1.3,
       "links": {
         "mediamarkt": "https://mediamarkt.pl/pl/product/_plyty-kuchenne-bosch-serie-6-piv831hb1e-czarny-144359088.html",
         "ceneo": "https://www.ceneo.pl/;szukaj-PIV831HB1E",
@@ -37056,45 +37786,10 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 3411.23,
           "ceneo": null
-        }
-      ]
-    },
-    {
-      "id": "haier-hafrsj64mc",
-      "name": "Płyta Indukcyjna HAIER HAFRSJ64MC Czarny",
-      "model": "HAFRSJ64MC",
-      "brand": "HAIER",
-      "type": "induction",
-      "size": {
-        "widthCm": 60,
-        "rawWidth": 60,
-        "label": "60 cm (standard)",
-        "category": "60cm"
-      },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_173840238",
-      "mediamarktPrice": 1702.75,
-      "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
-      "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
-        "previousPrice": 1702.75,
-        "previousDate": "2026-11-18"
-      },
-      "rating": 4.83,
-      "reviewCount": 6,
-      "valueScore": 6.9,
-      "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_pyta-indukcyjna-haier-hafrsj64mc-czarny-144359452.html",
-        "ceneo": "https://www.ceneo.pl/;szukaj-HAFRSJ64MC",
-        "euro": "https://www.euro.com.pl/search.bhtml?keyword=HAFRSJ64MC",
-        "komputronik": "https://www.komputronik.pl/search?query=HAFRSJ64MC"
-      },
-      "priceHistory": [
+        },
         {
-          "date": "2026-11-18",
-          "mediamarkt": 1702.75,
+          "date": "2026-11-19",
+          "mediamarkt": 2989.02,
           "ceneo": null
         }
       ]
@@ -37112,15 +37807,15 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_171793856",
-      "mediamarktPrice": 2216.46,
+      "mediamarktPrice": 2220.33,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "down",
-        "delta": -2.77,
-        "percent": -0.1,
-        "previousPrice": 2219.23,
-        "previousDate": "2026-11-17"
+        "trend": "up",
+        "delta": 3.87,
+        "percent": 0.2,
+        "previousPrice": 2216.46,
+        "previousDate": "2026-11-18"
       },
       "rating": 5.0,
       "reviewCount": 3,
@@ -37301,6 +37996,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 2216.46,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 2220.33,
+          "ceneo": null
         }
       ]
     },
@@ -37317,15 +38017,15 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_150557234",
-      "mediamarktPrice": 1982.9,
+      "mediamarktPrice": 1986.37,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "down",
-        "delta": -2.48,
-        "percent": -0.1,
-        "previousPrice": 1985.38,
-        "previousDate": "2026-11-17"
+        "trend": "up",
+        "delta": 3.47,
+        "percent": 0.2,
+        "previousPrice": 1982.9,
+        "previousDate": "2026-11-18"
       },
       "rating": 4.4,
       "reviewCount": 5,
@@ -37471,6 +38171,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1982.9,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1986.37,
+          "ceneo": null
         }
       ]
     },
@@ -37487,15 +38192,15 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_150557225",
-      "mediamarktPrice": 1889.18,
+      "mediamarktPrice": 1892.48,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "down",
-        "delta": -2.36,
-        "percent": -0.1,
-        "previousPrice": 1891.54,
-        "previousDate": "2026-11-17"
+        "trend": "up",
+        "delta": 3.3,
+        "percent": 0.2,
+        "previousPrice": 1889.18,
+        "previousDate": "2026-11-18"
       },
       "rating": 1.0,
       "reviewCount": 1,
@@ -37641,6 +38346,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1889.18,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1892.48,
+          "ceneo": null
         }
       ]
     },
@@ -37657,15 +38367,15 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_150557230",
-      "mediamarktPrice": 2114.94,
+      "mediamarktPrice": 2118.64,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "down",
-        "delta": -2.64,
-        "percent": -0.1,
-        "previousPrice": 2117.58,
-        "previousDate": "2026-11-17"
+        "trend": "up",
+        "delta": 3.7,
+        "percent": 0.2,
+        "previousPrice": 2114.94,
+        "previousDate": "2026-11-18"
       },
       "rating": 4.0,
       "reviewCount": 10,
@@ -37811,6 +38521,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 2114.94,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 2118.64,
+          "ceneo": null
         }
       ]
     },
@@ -37827,15 +38542,15 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_150557214",
-      "mediamarktPrice": 1564.9,
+      "mediamarktPrice": 1567.64,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "down",
-        "delta": -1.95,
-        "percent": -0.1,
-        "previousPrice": 1566.85,
-        "previousDate": "2026-11-17"
+        "trend": "up",
+        "delta": 2.74,
+        "percent": 0.2,
+        "previousPrice": 1564.9,
+        "previousDate": "2026-11-18"
       },
       "rating": 5.0,
       "reviewCount": 1,
@@ -38016,6 +38731,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1564.9,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1567.64,
+          "ceneo": null
         }
       ]
     },
@@ -38032,19 +38752,19 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_150555142",
-      "mediamarktPrice": 1626.56,
+      "mediamarktPrice": 1756,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "down",
-        "delta": -120.44,
-        "percent": -6.9,
-        "previousPrice": 1747,
-        "previousDate": "2026-11-17"
+        "trend": "up",
+        "delta": 129.44,
+        "percent": 8.0,
+        "previousPrice": 1626.56,
+        "previousDate": "2026-11-18"
       },
       "rating": 4.71,
       "reviewCount": 7,
-      "valueScore": 7.7,
+      "valueScore": 7.1,
       "links": {
         "mediamarkt": "https://mediamarkt.pl/pl/product/_plyty-kuchenne-indesit-ib-21b77-ne-czarny-144524923.html",
         "ceneo": "https://www.ceneo.pl/;szukaj-IB 21B77",
@@ -38076,6 +38796,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1626.56,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1756,
+          "ceneo": null
         }
       ]
     },
@@ -38092,19 +38817,19 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_150554874",
-      "mediamarktPrice": 1065.55,
+      "mediamarktPrice": 1173,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "down",
-        "delta": -102.45,
-        "percent": -8.8,
-        "previousPrice": 1168,
-        "previousDate": "2026-11-17"
+        "trend": "up",
+        "delta": 107.45,
+        "percent": 10.1,
+        "previousPrice": 1065.55,
+        "previousDate": "2026-11-18"
       },
       "rating": 5.0,
       "reviewCount": 1,
-      "valueScore": 4.7,
+      "valueScore": 4.3,
       "links": {
         "mediamarkt": "https://mediamarkt.pl/pl/product/_plyty-kuchenne-de-longhi-yli-60-czarny-144524942.html",
         "ceneo": "https://www.ceneo.pl/;szukaj-YLI 60",
@@ -38146,6 +38871,51 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1065.55,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1173,
+          "ceneo": null
+        }
+      ]
+    },
+    {
+      "id": "inna-249",
+      "name": "Płyta indukcyjna ARIETE 1998/20 Czarny",
+      "model": "",
+      "brand": "INNA",
+      "type": "induction",
+      "size": {
+        "widthCm": 60,
+        "rawWidth": 60,
+        "label": "60 cm (standard)",
+        "category": "60cm"
+      },
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_145000965",
+      "mediamarktPrice": 598.56,
+      "ceneoPrice": null,
+      "ceneoCheckedAt": null,
+      "priceChange": {
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 598.56,
+        "previousDate": "2026-11-19"
+      },
+      "rating": 3.5,
+      "reviewCount": 2,
+      "valueScore": 8.3,
+      "links": {
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyty-kuchenne-ariete-199800-czarny-145000964.html",
+        "ceneo": "",
+        "euro": "",
+        "komputronik": ""
+      },
+      "priceHistory": [
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 598.56,
+          "ceneo": null
         }
       ]
     },
@@ -38162,15 +38932,15 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_145096217",
-      "mediamarktPrice": 1013,
+      "mediamarktPrice": 1006,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "down",
-        "delta": -59,
-        "percent": -5.5,
-        "previousPrice": 1072,
-        "previousDate": "2026-11-17"
+        "delta": -7,
+        "percent": -0.7,
+        "previousPrice": 1013,
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -38221,6 +38991,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1013,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1006,
+          "ceneo": null
         }
       ]
     },
@@ -38237,19 +39012,19 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_187983746",
-      "mediamarktPrice": 2981.91,
+      "mediamarktPrice": 2987.12,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "down",
-        "delta": -3.72,
-        "percent": -0.1,
-        "previousPrice": 2985.63,
-        "previousDate": "2026-11-17"
+        "trend": "up",
+        "delta": 5.21,
+        "percent": 0.2,
+        "previousPrice": 2981.91,
+        "previousDate": "2026-11-18"
       },
       "rating": 4.97,
-      "reviewCount": 36,
-      "valueScore": 10.0,
+      "reviewCount": 37,
+      "valueScore": 10.1,
       "links": {
         "mediamarkt": "https://mediamarkt.pl/pl/product/_plyty-kuchenne-bosch-serie-6-pvs631hb1e-czarny-145499232.html",
         "ceneo": "https://www.ceneo.pl/;szukaj-6PVS631HB1E",
@@ -38336,6 +39111,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 2981.91,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 2987.12,
+          "ceneo": null
         }
       ]
     },
@@ -38352,15 +39132,15 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_157279047",
-      "mediamarktPrice": 5168.5,
+      "mediamarktPrice": 5177.54,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "down",
-        "delta": -6.46,
-        "percent": -0.1,
-        "previousPrice": 5174.96,
-        "previousDate": "2026-11-17"
+        "trend": "up",
+        "delta": 9.04,
+        "percent": 0.2,
+        "previousPrice": 5168.5,
+        "previousDate": "2026-11-18"
       },
       "rating": 5.0,
       "reviewCount": 1,
@@ -38506,6 +39286,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 5168.5,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 5177.54,
+          "ceneo": null
         }
       ]
     },
@@ -38522,15 +39307,15 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_150893515",
-      "mediamarktPrice": 919.24,
+      "mediamarktPrice": 920.85,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "down",
-        "delta": -1.15,
-        "percent": -0.1,
-        "previousPrice": 920.39,
-        "previousDate": "2026-11-17"
+        "trend": "up",
+        "delta": 1.61,
+        "percent": 0.2,
+        "previousPrice": 919.24,
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -38676,6 +39461,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 919.24,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 920.85,
+          "ceneo": null
         }
       ]
     },
@@ -38692,15 +39482,15 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_171786648",
-      "mediamarktPrice": 1126.95,
+      "mediamarktPrice": 1278,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "down",
-        "delta": -122.05,
-        "percent": -9.8,
-        "previousPrice": 1249,
-        "previousDate": "2026-11-17"
+        "trend": "up",
+        "delta": 151.05,
+        "percent": 13.4,
+        "previousPrice": 1126.95,
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -38721,45 +39511,10 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1126.95,
           "ceneo": null
-        }
-      ]
-    },
-    {
-      "id": "inna-ch64xb",
-      "name": "Płyty kuchenne CANDY Timeless CH64XB Czarny",
-      "model": "CH64XB",
-      "brand": "INNA",
-      "type": "induction",
-      "size": {
-        "widthCm": 60,
-        "rawWidth": 60,
-        "label": "60 cm (standard)",
-        "category": "60cm"
-      },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_150554683",
-      "mediamarktPrice": 1326.59,
-      "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
-      "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
-        "previousPrice": 1326.59,
-        "previousDate": "2026-11-18"
-      },
-      "rating": null,
-      "reviewCount": 0,
-      "valueScore": 0.0,
-      "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyty-kuchenne-candy-timeless-ch64xb-czarny-145501814.html",
-        "ceneo": "https://www.ceneo.pl/;szukaj-CH64XB",
-        "euro": "https://www.euro.com.pl/search.bhtml?keyword=CH64XB",
-        "komputronik": "https://www.komputronik.pl/search?query=CH64XB"
-      },
-      "priceHistory": [
+        },
         {
-          "date": "2026-11-18",
-          "mediamarkt": 1326.59,
+          "date": "2026-11-19",
+          "mediamarkt": 1278,
           "ceneo": null
         }
       ]
@@ -38779,13 +39534,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_133331397",
       "mediamarktPrice": 3999,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 3999,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": 5.0,
       "reviewCount": 2,
@@ -38966,6 +39721,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 3999,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 3999,
+          "ceneo": null
         }
       ]
     },
@@ -38982,15 +39742,15 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_151804156",
-      "mediamarktPrice": 1526.63,
+      "mediamarktPrice": 1529.3,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "down",
-        "delta": -2.7,
-        "percent": -0.2,
-        "previousPrice": 1529.33,
-        "previousDate": "2026-11-17"
+        "trend": "up",
+        "delta": 2.67,
+        "percent": 0.2,
+        "previousPrice": 1526.63,
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -39171,6 +39931,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1526.63,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1529.3,
+          "ceneo": null
         }
       ]
     },
@@ -39189,13 +39954,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_133331692",
       "mediamarktPrice": 2349,
       "ceneoPrice": 1888.88,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 2349,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": 4.98,
       "reviewCount": 130,
@@ -39376,6 +40141,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 2349,
           "ceneo": 1888.88
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 2349,
+          "ceneo": 1888.88
         }
       ]
     },
@@ -39392,15 +40162,15 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_146950175",
-      "mediamarktPrice": 777,
+      "mediamarktPrice": 762,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
+        "trend": "down",
+        "delta": -15,
+        "percent": -1.9,
         "previousPrice": 777,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -39441,6 +40211,51 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 777,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 762,
+          "ceneo": null
+        }
+      ]
+    },
+    {
+      "id": "inna-scp3701bk",
+      "name": "Płyta indukcyjna SENCOR SCP 3701BK Czarny",
+      "model": "SCP 3701BK",
+      "brand": "INNA",
+      "type": "induction",
+      "size": {
+        "widthCm": 60,
+        "rawWidth": 60,
+        "label": "60 cm (standard)",
+        "category": "60cm"
+      },
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_146950200",
+      "mediamarktPrice": 389,
+      "ceneoPrice": null,
+      "ceneoCheckedAt": "2026-11-19",
+      "priceChange": {
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 389,
+        "previousDate": "2026-11-19"
+      },
+      "rating": null,
+      "reviewCount": 0,
+      "valueScore": 0.0,
+      "links": {
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyty-kuchenne-sencor-scp-3701bk-czarny-146950197.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-SCP 3701BK",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=SCP 3701BK",
+        "komputronik": "https://www.komputronik.pl/search?query=SCP 3701BK"
+      },
+      "priceHistory": [
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 389,
+          "ceneo": null
         }
       ]
     },
@@ -39457,15 +40272,15 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_150893416",
-      "mediamarktPrice": 1439.12,
+      "mediamarktPrice": 1441.63,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "down",
-        "delta": -1.79,
-        "percent": -0.1,
-        "previousPrice": 1440.91,
-        "previousDate": "2026-11-17"
+        "trend": "up",
+        "delta": 2.51,
+        "percent": 0.2,
+        "previousPrice": 1439.12,
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -39646,6 +40461,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1439.12,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1441.63,
+          "ceneo": null
         }
       ]
     },
@@ -39662,15 +40482,15 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_147342996",
-      "mediamarktPrice": 1645.98,
+      "mediamarktPrice": 1648.86,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "down",
-        "delta": -2.92,
-        "percent": -0.2,
-        "previousPrice": 1648.9,
-        "previousDate": "2026-11-17"
+        "trend": "up",
+        "delta": 2.88,
+        "percent": 0.2,
+        "previousPrice": 1645.98,
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -39761,6 +40581,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1645.98,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1648.86,
+          "ceneo": null
         }
       ]
     },
@@ -39777,15 +40602,15 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_147778446",
-      "mediamarktPrice": 2174.05,
+      "mediamarktPrice": 2177.85,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "down",
-        "delta": -2.71,
-        "percent": -0.1,
-        "previousPrice": 2176.76,
-        "previousDate": "2026-11-17"
+        "trend": "up",
+        "delta": 3.8,
+        "percent": 0.2,
+        "previousPrice": 2174.05,
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -39881,6 +40706,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 2174.05,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 2177.85,
+          "ceneo": null
         }
       ]
     },
@@ -39899,13 +40729,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_134676105",
       "mediamarktPrice": 5999,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 5999,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": 3.0,
       "reviewCount": 2,
@@ -40086,6 +40916,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 5999,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 5999,
+          "ceneo": null
         }
       ]
     },
@@ -40104,13 +40939,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_143646325",
       "mediamarktPrice": 1599,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 1599,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -40291,6 +41126,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1599,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1599,
+          "ceneo": null
         }
       ]
     },
@@ -40307,15 +41147,15 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_148414205",
-      "mediamarktPrice": 1643.91,
+      "mediamarktPrice": 1646.79,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "down",
-        "delta": -2.05,
-        "percent": -0.1,
-        "previousPrice": 1645.96,
-        "previousDate": "2026-11-17"
+        "trend": "up",
+        "delta": 2.88,
+        "percent": 0.2,
+        "previousPrice": 1643.91,
+        "previousDate": "2026-11-18"
       },
       "rating": 5.0,
       "reviewCount": 37,
@@ -40496,6 +41336,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1643.91,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1646.79,
+          "ceneo": null
         }
       ]
     },
@@ -40512,15 +41357,15 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_171794325",
-      "mediamarktPrice": 1725.48,
+      "mediamarktPrice": 1728.49,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "down",
-        "delta": -2.15,
-        "percent": -0.1,
-        "previousPrice": 1727.63,
-        "previousDate": "2026-11-17"
+        "trend": "up",
+        "delta": 3.01,
+        "percent": 0.2,
+        "previousPrice": 1725.48,
+        "previousDate": "2026-11-18"
       },
       "rating": 4.25,
       "reviewCount": 12,
@@ -40666,6 +41511,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1725.48,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1728.49,
+          "ceneo": null
         }
       ]
     },
@@ -40682,15 +41532,15 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_148506763",
-      "mediamarktPrice": 1005.43,
+      "mediamarktPrice": 1007.19,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "down",
-        "delta": -1.79,
-        "percent": -0.2,
-        "previousPrice": 1007.22,
-        "previousDate": "2026-11-17"
+        "trend": "up",
+        "delta": 1.76,
+        "percent": 0.2,
+        "previousPrice": 1005.43,
+        "previousDate": "2026-11-18"
       },
       "rating": 5.0,
       "reviewCount": 1,
@@ -40871,6 +41721,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1005.43,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1007.19,
+          "ceneo": null
         }
       ]
     },
@@ -40887,13 +41742,13 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_148506760",
-      "mediamarktPrice": 1101,
+      "mediamarktPrice": 1078,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
+        "trend": "down",
+        "delta": -23,
+        "percent": -2.1,
         "previousPrice": 1101,
         "previousDate": "2026-11-18"
       },
@@ -40911,6 +41766,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1101,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1078,
+          "ceneo": null
         }
       ]
     },
@@ -40927,15 +41787,15 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_173091627",
-      "mediamarktPrice": 1489,
+      "mediamarktPrice": 1513,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "down",
-        "delta": -57,
-        "percent": -3.7,
-        "previousPrice": 1546,
-        "previousDate": "2026-11-17"
+        "trend": "up",
+        "delta": 24,
+        "percent": 1.6,
+        "previousPrice": 1489,
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -41026,6 +41886,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1489,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1513,
+          "ceneo": null
         }
       ]
     },
@@ -41042,15 +41907,15 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_148506785",
-      "mediamarktPrice": 3641.04,
+      "mediamarktPrice": 4884.59,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "down",
-        "delta": -4.55,
-        "percent": -0.1,
-        "previousPrice": 3645.59,
-        "previousDate": "2026-11-17"
+        "trend": "up",
+        "delta": 1243.55,
+        "percent": 34.2,
+        "previousPrice": 3641.04,
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -41196,6 +42061,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 3641.04,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 4884.59,
+          "ceneo": null
         }
       ]
     },
@@ -41212,15 +42082,15 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_148506799",
-      "mediamarktPrice": 1748.25,
+      "mediamarktPrice": 1751.3,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "down",
-        "delta": -3.09,
-        "percent": -0.2,
-        "previousPrice": 1751.34,
-        "previousDate": "2026-11-17"
+        "trend": "up",
+        "delta": 3.05,
+        "percent": 0.2,
+        "previousPrice": 1748.25,
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -41401,6 +42271,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1748.25,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1751.3,
+          "ceneo": null
         }
       ]
     },
@@ -41417,15 +42292,15 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_148510594",
-      "mediamarktPrice": 1707.86,
+      "mediamarktPrice": 1710.85,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "down",
-        "delta": -3.03,
-        "percent": -0.2,
-        "previousPrice": 1710.89,
-        "previousDate": "2026-11-17"
+        "trend": "up",
+        "delta": 2.99,
+        "percent": 0.2,
+        "previousPrice": 1707.86,
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -41606,6 +42481,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1707.86,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1710.85,
+          "ceneo": null
         }
       ]
     },
@@ -41622,15 +42502,15 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_177672662",
-      "mediamarktPrice": 1082.55,
+      "mediamarktPrice": 1084.45,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "down",
-        "delta": -1.92,
-        "percent": -0.2,
-        "previousPrice": 1084.47,
-        "previousDate": "2026-11-17"
+        "trend": "up",
+        "delta": 1.9,
+        "percent": 0.2,
+        "previousPrice": 1082.55,
+        "previousDate": "2026-11-18"
       },
       "rating": 1.0,
       "reviewCount": 1,
@@ -41766,6 +42646,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1082.55,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1084.45,
+          "ceneo": null
         }
       ]
     },
@@ -41784,13 +42669,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_151107793",
       "mediamarktPrice": 2569,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "up",
-        "delta": 220,
-        "percent": 9.4,
-        "previousPrice": 2349,
-        "previousDate": "2026-11-17"
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 2569,
+        "previousDate": "2026-11-18"
       },
       "rating": 3.0,
       "reviewCount": 2,
@@ -41971,11 +42856,16 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 2569,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 2569,
+          "ceneo": null
         }
       ]
     },
     {
-      "id": "inna-273",
+      "id": "inna-275",
       "name": "Indukcyjna do zabudowy ELICA ELICA Primis 603 BL Czarny",
       "model": "",
       "brand": "INNA",
@@ -41991,10 +42881,10 @@ window.PRODUCTS_DATA = {
       "ceneoPrice": null,
       "ceneoCheckedAt": null,
       "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
-        "previousPrice": 1349,
+        "trend": "down",
+        "delta": -650,
+        "percent": -32.5,
+        "previousPrice": 1999,
         "previousDate": "2026-11-18"
       },
       "rating": null,
@@ -42009,13 +42899,18 @@ window.PRODUCTS_DATA = {
       "priceHistory": [
         {
           "date": "2026-11-18",
+          "mediamarkt": 1999,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
           "mediamarkt": 1349,
           "ceneo": null
         }
       ]
     },
     {
-      "id": "inna-274",
+      "id": "inna-276",
       "name": "Płyta indukcyjna do zabudowy ELICA Primis 604 BL Czarny",
       "model": "",
       "brand": "INNA",
@@ -42035,7 +42930,7 @@ window.PRODUCTS_DATA = {
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 1649,
-        "previousDate": "2026-11-18"
+        "previousDate": "2026-11-19"
       },
       "rating": null,
       "reviewCount": 0,
@@ -42048,14 +42943,14 @@ window.PRODUCTS_DATA = {
       },
       "priceHistory": [
         {
-          "date": "2026-11-18",
+          "date": "2026-11-19",
           "mediamarkt": 1649,
           "ceneo": null
         }
       ]
     },
     {
-      "id": "inna-275",
+      "id": "inna-277",
       "name": "Płyta indukcyjna do zabudowy ELICA ELICA Primis 604 Plus BL Czarny",
       "model": "",
       "brand": "INNA",
@@ -42075,7 +42970,7 @@ window.PRODUCTS_DATA = {
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 1999,
-        "previousDate": "2026-11-18"
+        "previousDate": "2026-11-19"
       },
       "rating": null,
       "reviewCount": 0,
@@ -42088,7 +42983,7 @@ window.PRODUCTS_DATA = {
       },
       "priceHistory": [
         {
-          "date": "2026-11-18",
+          "date": "2026-11-19",
           "mediamarkt": 1999,
           "ceneo": null
         }
@@ -42109,13 +43004,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_154744095",
       "mediamarktPrice": 1699,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 1699,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -42296,6 +43191,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1699,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1699,
+          "ceneo": null
         }
       ]
     },
@@ -42314,13 +43214,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_160529622",
       "mediamarktPrice": 1399,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 1399,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -42351,6 +43251,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1399,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1399,
+          "ceneo": null
         }
       ]
     },
@@ -42369,13 +43274,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_160529278",
       "mediamarktPrice": 1299,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 1299,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": 4.0,
       "reviewCount": 5,
@@ -42406,6 +43311,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1299,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1299,
+          "ceneo": null
         }
       ]
     },
@@ -42424,13 +43334,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_158813023",
       "mediamarktPrice": 1099,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 1099,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -42461,60 +43371,10 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1099,
           "ceneo": null
-        }
-      ]
-    },
-    {
-      "id": "gorenje-gi6421syw",
-      "name": "Płyta indukcyjna GORENJE GI6421SYW Bialy",
-      "model": "GI6421SYW",
-      "brand": "GORENJE",
-      "type": "induction",
-      "size": {
-        "widthCm": 60,
-        "rawWidth": 60,
-        "label": "60 cm (standard)",
-        "category": "60cm"
-      },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_158877041",
-      "mediamarktPrice": 1749,
-      "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
-      "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
-        "previousPrice": 1749,
-        "previousDate": "2026-11-17"
-      },
-      "rating": null,
-      "reviewCount": 0,
-      "valueScore": 0.0,
-      "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-gorenje-gi6421syw-bialy-1495608.html",
-        "ceneo": "https://www.ceneo.pl/;szukaj-GI6421SYW",
-        "euro": "https://www.euro.com.pl/search.bhtml?keyword=GI6421SYW",
-        "komputronik": "https://www.komputronik.pl/search?query=GI6421SYW"
-      },
-      "priceHistory": [
-        {
-          "date": "2026-11-15",
-          "mediamarkt": 1859,
-          "ceneo": null
         },
         {
-          "date": "2026-11-16",
-          "mediamarkt": 1749,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-17",
-          "mediamarkt": 1749,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-18",
-          "mediamarkt": 1749,
+          "date": "2026-11-19",
+          "mediamarkt": 1099,
           "ceneo": null
         }
       ]
@@ -42532,15 +43392,15 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_150059304",
-      "mediamarktPrice": 1007.86,
+      "mediamarktPrice": 1009.62,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "down",
-        "delta": -1.78,
-        "percent": -0.2,
-        "previousPrice": 1009.64,
-        "previousDate": "2026-11-17"
+        "trend": "up",
+        "delta": 1.76,
+        "percent": 0.2,
+        "previousPrice": 1007.86,
+        "previousDate": "2026-11-18"
       },
       "rating": 4.5,
       "reviewCount": 2,
@@ -42571,6 +43431,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1007.86,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1009.62,
+          "ceneo": null
         }
       ]
     },
@@ -42589,13 +43454,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_179077946",
       "mediamarktPrice": 1649,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 1649,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -42626,6 +43491,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1649,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1649,
+          "ceneo": null
         }
       ]
     },
@@ -42644,13 +43514,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_175982301",
       "mediamarktPrice": 2249,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "up",
-        "delta": 50,
-        "percent": 2.3,
-        "previousPrice": 2199,
-        "previousDate": "2026-11-17"
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 2249,
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -42681,6 +43551,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 2249,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 2249,
+          "ceneo": null
         }
       ]
     },
@@ -42699,13 +43574,13 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_175676791",
       "mediamarktPrice": 2299,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
         "percent": 0.0,
         "previousPrice": 2299,
-        "previousDate": "2026-11-17"
+        "previousDate": "2026-11-18"
       },
       "rating": 5.0,
       "reviewCount": 1,
@@ -42736,6 +43611,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 2299,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 2299,
+          "ceneo": null
         }
       ]
     },
@@ -42752,15 +43632,15 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_150511361",
-      "mediamarktPrice": 1380.5,
+      "mediamarktPrice": 1382.91,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "down",
-        "delta": -98.51,
-        "percent": -6.7,
-        "previousPrice": 1479.01,
-        "previousDate": "2026-11-17"
+        "trend": "up",
+        "delta": 2.41,
+        "percent": 0.2,
+        "previousPrice": 1380.5,
+        "previousDate": "2026-11-18"
       },
       "rating": 2.27,
       "reviewCount": 15,
@@ -42791,45 +43671,10 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1380.5,
           "ceneo": null
-        }
-      ]
-    },
-    {
-      "id": "inna-si1b2642d",
-      "name": "Płyty kuchenne SMEG Universal SI1B2642D Czarny",
-      "model": "SI1B2642D",
-      "brand": "INNA",
-      "type": "induction",
-      "size": {
-        "widthCm": 60,
-        "rawWidth": 60,
-        "label": "60 cm (standard)",
-        "category": "60cm"
-      },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_150523490",
-      "mediamarktPrice": 1833,
-      "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
-      "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
-        "previousPrice": 1833,
-        "previousDate": "2026-11-18"
-      },
-      "rating": null,
-      "reviewCount": 0,
-      "valueScore": 0.0,
-      "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyty-kuchenne-smeg-universal-si1b2642d-czarny-150523488.html",
-        "ceneo": "https://www.ceneo.pl/;szukaj-SI1B2642D",
-        "euro": "https://www.euro.com.pl/search.bhtml?keyword=SI1B2642D",
-        "komputronik": "https://www.komputronik.pl/search?query=SI1B2642D"
-      },
-      "priceHistory": [
+        },
         {
-          "date": "2026-11-18",
-          "mediamarkt": 1833,
+          "date": "2026-11-19",
+          "mediamarkt": 1382.91,
           "ceneo": null
         }
       ]
@@ -42847,15 +43692,15 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_150525523",
-      "mediamarktPrice": 1224.68,
+      "mediamarktPrice": 1226.82,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "down",
-        "delta": -1.53,
-        "percent": -0.1,
-        "previousPrice": 1226.21,
-        "previousDate": "2026-11-17"
+        "trend": "up",
+        "delta": 2.14,
+        "percent": 0.2,
+        "previousPrice": 1224.68,
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -42886,6 +43731,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1224.68,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1226.82,
+          "ceneo": null
         }
       ]
     },
@@ -42902,15 +43752,15 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_150532059",
-      "mediamarktPrice": 1296.07,
+      "mediamarktPrice": 1298.33,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "down",
-        "delta": -1.62,
-        "percent": -0.1,
-        "previousPrice": 1297.69,
-        "previousDate": "2026-11-17"
+        "trend": "up",
+        "delta": 2.26,
+        "percent": 0.2,
+        "previousPrice": 1296.07,
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -42936,55 +43786,10 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1296.07,
           "ceneo": null
-        }
-      ]
-    },
-    {
-      "id": "inna-cetps64mcwftt",
-      "name": "Płyty kuchenne CANDY CETPS64MCWFTT/1 Czarny",
-      "model": "CETPS64MCWFTT",
-      "brand": "INNA",
-      "type": "induction",
-      "size": {
-        "widthCm": 60,
-        "rawWidth": 60,
-        "label": "60 cm (standard)",
-        "category": "60cm"
-      },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_150537546",
-      "mediamarktPrice": 1701,
-      "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
-      "priceChange": {
-        "trend": "down",
-        "delta": -60,
-        "percent": -3.4,
-        "previousPrice": 1761,
-        "previousDate": "2026-11-17"
-      },
-      "rating": 5.0,
-      "reviewCount": 2,
-      "valueScore": 4.2,
-      "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyty-kuchenne-candy-cetps64mcwftt1-czarny-150537539.html",
-        "ceneo": "https://www.ceneo.pl/;szukaj-CETPS64MCWFTT",
-        "euro": "https://www.euro.com.pl/search.bhtml?keyword=CETPS64MCWFTT",
-        "komputronik": "https://www.komputronik.pl/search?query=CETPS64MCWFTT"
-      },
-      "priceHistory": [
-        {
-          "date": "2026-11-16",
-          "mediamarkt": 1732,
-          "ceneo": null
         },
         {
-          "date": "2026-11-17",
-          "mediamarkt": 1761,
-          "ceneo": null
-        },
-        {
-          "date": "2026-11-18",
-          "mediamarkt": 1701,
+          "date": "2026-11-19",
+          "mediamarkt": 1298.33,
           "ceneo": null
         }
       ]
@@ -43002,15 +43807,15 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_150540260",
-      "mediamarktPrice": 1248.59,
+      "mediamarktPrice": 1250.77,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "up",
-        "delta": 145.1,
-        "percent": 13.1,
-        "previousPrice": 1103.49,
-        "previousDate": "2026-11-17"
+        "delta": 2.18,
+        "percent": 0.2,
+        "previousPrice": 1248.59,
+        "previousDate": "2026-11-18"
       },
       "rating": null,
       "reviewCount": 0,
@@ -43036,6 +43841,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1248.59,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1250.77,
+          "ceneo": null
         }
       ]
     },
@@ -43052,13 +43862,13 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_150626895",
-      "mediamarktPrice": 1879.84,
+      "mediamarktPrice": 1883.13,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
+        "trend": "up",
+        "delta": 3.29,
+        "percent": 0.2,
         "previousPrice": 1879.84,
         "previousDate": "2026-11-18"
       },
@@ -43075,6 +43885,11 @@ window.PRODUCTS_DATA = {
         {
           "date": "2026-11-18",
           "mediamarkt": 1879.84,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1883.13,
           "ceneo": null
         }
       ]
@@ -43094,7 +43909,7 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_180329992",
       "mediamarktPrice": 2999,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
@@ -43116,6 +43931,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 2999,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 2999,
+          "ceneo": null
         }
       ]
     },
@@ -43134,7 +43954,7 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_180259106",
       "mediamarktPrice": 4699,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
@@ -43156,6 +43976,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 4699,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 4699,
+          "ceneo": null
         }
       ]
     },
@@ -43174,7 +43999,7 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_180467436",
       "mediamarktPrice": 5199,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
@@ -43196,6 +44021,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 5199,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 5199,
+          "ceneo": null
         }
       ]
     },
@@ -43214,7 +44044,7 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_180468467",
       "mediamarktPrice": 4999,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
@@ -43236,6 +44066,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 4999,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 4999,
+          "ceneo": null
         }
       ]
     },
@@ -43254,7 +44089,7 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_181907564",
       "mediamarktPrice": 1039,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
@@ -43276,45 +44111,10 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1039,
           "ceneo": null
-        }
-      ]
-    },
-    {
-      "id": "teka-ibc64110",
-      "name": "Płyta indukcyjna TEKA IBC 64110 SSM BK 60cm Czarny",
-      "model": "IBC 64110",
-      "brand": "TEKA",
-      "type": "induction",
-      "size": {
-        "widthCm": 60,
-        "rawWidth": 60,
-        "label": "60 cm (standard)",
-        "category": "60cm"
-      },
-      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_182094467",
-      "mediamarktPrice": 949,
-      "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
-      "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
-        "previousPrice": 949,
-        "previousDate": "2026-11-18"
-      },
-      "rating": null,
-      "reviewCount": 0,
-      "valueScore": 0.0,
-      "links": {
-        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyta-indukcyjna-teka-ibc-64110-ssm-bk-60cm-czarny-1506804.html",
-        "ceneo": "https://www.ceneo.pl/;szukaj-IBC 64110",
-        "euro": "https://www.euro.com.pl/search.bhtml?keyword=IBC 64110",
-        "komputronik": "https://www.komputronik.pl/search?query=IBC 64110"
-      },
-      "priceHistory": [
+        },
         {
-          "date": "2026-11-18",
-          "mediamarkt": 949,
+          "date": "2026-11-19",
+          "mediamarkt": 1039,
           "ceneo": null
         }
       ]
@@ -43334,7 +44134,7 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_185933858",
       "mediamarktPrice": 2049,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
@@ -43356,6 +44156,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 2049,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 2049,
+          "ceneo": null
         }
       ]
     },
@@ -43374,7 +44179,7 @@ window.PRODUCTS_DATA = {
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_184830616",
       "mediamarktPrice": 1499,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
         "trend": "stable",
         "delta": 0,
@@ -43396,6 +44201,11 @@ window.PRODUCTS_DATA = {
           "date": "2026-11-18",
           "mediamarkt": 1499,
           "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1499,
+          "ceneo": null
         }
       ]
     },
@@ -43412,19 +44222,19 @@ window.PRODUCTS_DATA = {
         "category": "60cm"
       },
       "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_150864419",
-      "mediamarktPrice": 1815,
+      "mediamarktPrice": 1867,
       "ceneoPrice": null,
-      "ceneoCheckedAt": "2026-11-18",
+      "ceneoCheckedAt": "2026-11-19",
       "priceChange": {
-        "trend": "stable",
-        "delta": 0,
-        "percent": 0.0,
+        "trend": "up",
+        "delta": 52,
+        "percent": 2.9,
         "previousPrice": 1815,
         "previousDate": "2026-11-18"
       },
       "rating": 4.0,
       "reviewCount": 10,
-      "valueScore": 7.0,
+      "valueScore": 6.8,
       "links": {
         "mediamarkt": "https://mediamarkt.pl/pl/product/_plyty-kuchenne-hisense-hi6352bsce-czarny-150864415.html",
         "ceneo": "https://www.ceneo.pl/;szukaj-HI6352BSCE",
@@ -43435,6 +44245,91 @@ window.PRODUCTS_DATA = {
         {
           "date": "2026-11-18",
           "mediamarkt": 1815,
+          "ceneo": null
+        },
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 1867,
+          "ceneo": null
+        }
+      ]
+    },
+    {
+      "id": "amica-kmi776",
+      "name": "Płyty kuchenne AMICA KMI 776 660 C Czarny",
+      "model": "KMI 776",
+      "brand": "AMICA",
+      "type": "induction",
+      "size": {
+        "widthCm": 60,
+        "rawWidth": 60,
+        "label": "60 cm (standard)",
+        "category": "60cm"
+      },
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_150961292",
+      "mediamarktPrice": 2269,
+      "ceneoPrice": null,
+      "ceneoCheckedAt": "2026-11-19",
+      "priceChange": {
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 2269,
+        "previousDate": "2026-11-19"
+      },
+      "rating": null,
+      "reviewCount": 0,
+      "valueScore": 0.0,
+      "links": {
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyty-kuchenne-amica-kmi-776-660-c-czarny-150961287.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-KMI 776",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=KMI 776",
+        "komputronik": "https://www.komputronik.pl/search?query=KMI 776"
+      },
+      "priceHistory": [
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 2269,
+          "ceneo": null
+        }
+      ]
+    },
+    {
+      "id": "electrolux-eit81443",
+      "name": "Płyty kuchenne ELECTROLUX EIT81443 Czarny",
+      "model": "EIT81443",
+      "brand": "ELECTROLUX",
+      "type": "induction",
+      "size": {
+        "widthCm": 80,
+        "rawWidth": 80,
+        "label": "80 cm",
+        "category": "80cm"
+      },
+      "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_150961299",
+      "mediamarktPrice": 2195.67,
+      "ceneoPrice": null,
+      "ceneoCheckedAt": "2026-11-19",
+      "priceChange": {
+        "trend": "stable",
+        "delta": 0,
+        "percent": 0.0,
+        "previousPrice": 2195.67,
+        "previousDate": "2026-11-19"
+      },
+      "rating": null,
+      "reviewCount": 0,
+      "valueScore": 0.0,
+      "links": {
+        "mediamarkt": "https://mediamarkt.pl/pl/product/_plyty-kuchenne-electrolux-eit81443-czarny-150961296.html",
+        "ceneo": "https://www.ceneo.pl/;szukaj-EIT81443",
+        "euro": "https://www.euro.com.pl/search.bhtml?keyword=EIT81443",
+        "komputronik": "https://www.komputronik.pl/search?query=EIT81443"
+      },
+      "priceHistory": [
+        {
+          "date": "2026-11-19",
+          "mediamarkt": 2195.67,
           "ceneo": null
         }
       ]
